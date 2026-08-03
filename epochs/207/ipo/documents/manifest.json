@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYYHH",
+      "archivePath": "26-qusino-5be0c203c9.txt",
+      "bidCount": 676,
+      "contractIndex": 26,
+      "epoch": 207,
+      "fileName": "26_qusino.txt",
+      "lastError": null,
+      "name": "QUSINO",
+      "sha256": "5be0c203c9c9cf5bff87dc7439e0705e181262d200469a86049b88e3608a77d7",
+      "sizeBytes": 49162,
+      "sourceUrl": "https://auctions.qubic.tools/files/26_qusino.txt",
+      "status": "saved",
+      "uniqueBidderCount": 57
+    }
+  ],
+  "epoch": 207,
+  "generatedAt": "2026-08-03T23:53:51Z"
+}
