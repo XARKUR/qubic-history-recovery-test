@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHQEE",
+      "archivePath": "20-qrwa-22af83d548.txt",
+      "bidCount": 676,
+      "contractIndex": 20,
+      "epoch": 196,
+      "fileName": "20_qrwa.txt",
+      "lastError": null,
+      "name": "QRWA",
+      "sha256": "22af83d5484b5a23e82aa4d948ef8b31c3762b31de10421f2d2823fb94beb24f",
+      "sizeBytes": 49374,
+      "sourceUrl": "https://auctions.qubic.tools/files/20_qrwa.txt",
+      "status": "saved",
+      "uniqueBidderCount": 73
+    }
+  ],
+  "epoch": 196,
+  "generatedAt": "2026-08-04T02:05:03Z"
+}
