@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": "0-privatebin-0518cab201.html",
+      "canonicalUrl": "https://privatebin.net/",
+      "contentType": "text/html; charset=UTF-8",
+      "expectedSha256": "0518cab20182d0b3bec72e703335b4ff0bbbe68283898e79300970404cd9859b",
+      "owner": null,
+      "path": null,
+      "proposalIndex": 0,
+      "ref": null,
+      "repo": null,
+      "sha256": "0518cab20182d0b3bec72e703335b4ff0bbbe68283898e79300970404cd9859b",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "PrivateBin"
+    }
+  ],
+  "epoch": 211,
+  "generatedAt": "2026-08-04T00:19:14Z"
+}
