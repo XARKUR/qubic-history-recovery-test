@@ -1,0 +1,68 @@
+{
+  "epoch": 221,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "8ed4ae5719c17913ff6180eedea2ca5c8049ab7dc35f8d1b7f394b291087da90",
+      "sizeBytes": 512,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "223236fe8ac79a5543c67d47c418b7b983f32d32f7eee3768acbdb225ff668c3",
+      "sizeBytes": 428169,
+      "status": "ok"
+    },
+    "proposals/documents/36-proposal-cb0d0da319.md": {
+      "sha256": "cb0d0da319e2aa83e4f3a50f74c00542541becd8793d6e5d971a1c659e7a94f5",
+      "sizeBytes": 70479,
+      "status": "ok"
+    },
+    "proposals/documents/37-qip-upgrade-proposal-1d967a7d86.md": {
+      "sha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "sizeBytes": 4881,
+      "status": "ok"
+    },
+    "proposals/documents/57-fund-qubic-core-development-0061edeb0a.md": {
+      "sha256": "0061edeb0a4fb619812e8fc118e0a93aa42df679eef89b3194abcacf002f4aed",
+      "sizeBytes": 14253,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "e9c7c9ab731ea368993b8f9299223f0c3081e2f9347ff229ccb8e24b2748fbcd",
+      "sizeBytes": 2197,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "86c514ac8c118e8ee438a6965eebbe813703237742f24f5ef7c434a75e0bbc2b",
+      "sizeBytes": 4373,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "be6db5c5d8f686b322acb96c22b9e528005a439ba098de6631c1e6bea9966444",
+      "sizeBytes": 652654,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "8e7abfc02a556797525b606e6b8de4f13e030badbb243d85c49e4a781272bd6c",
+      "sizeBytes": 66269,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:53:17Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

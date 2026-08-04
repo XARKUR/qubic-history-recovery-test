@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-28-QIP-Upgrade.md",
+      "documentKey": "2312bb567e169a97a88e6aaa836cadc46a60821327f5c82090d73e347d4a4d5f",
+      "epoch": 221,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "03ce4880-abb4-485c-9769-cfd05f55157e",
+      "proposalIndex": 37,
+      "published": "2026-07-11T15:57:41.49",
+      "sha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QIP Upgrade Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/cd1d5d1/Establish the Qubic Community Marketing Board.md",
+      "documentKey": "be32d58e12adbf006c86c0c058f79c70047e7e89c4091ae9a65f150079ea3104",
+      "epoch": 221,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "fdcc9771-9a04-4e43-87e9-d2a217ee3c25",
+      "proposalIndex": 36,
+      "published": "2026-07-11T12:17:00.59",
+      "sha256": "cb0d0da319e2aa83e4f3a50f74c00542541becd8793d6e5d971a1c659e7a94f5",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/qct/blob/9ea86107b8346737fae5c20c579776a68b8ac8c4/funding/2026-07-01-Q3-proposal.md",
+      "documentKey": "2f98f1a9a41543e05a0decc7d9e8555c56119b4470d459b528d83be81c0fd558",
+      "epoch": 221,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5adc4590-0a61-4923-be16-e811717c132c",
+      "proposalIndex": 57,
+      "published": "2026-07-09T12:01:18.193",
+      "sha256": "0061edeb0a4fb619812e8fc118e0a93aa42df679eef89b3194abcacf002f4aed",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Fund Qubic Core Development"
+    }
+  ],
+  "epoch": 221,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 221,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 30.05,
+          "title": "No",
+          "votes": 198
+        },
+        {
+          "percentage": 69.95,
+          "title": "Yes",
+          "votes": 461
+        }
+      ],
+      "proposalId": "03ce4880-abb4-485c-9769-cfd05f55157e",
+      "proposalIndex": 37,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XLEKSUBKLSUCYBSNSYGWSEYYLJNDZCREXOEAXXBYHFSYFWTRGWALHWZDKQSG",
+      "published": "2026-07-11T15:57:41.49",
+      "status": 3,
+      "title": "QIP Upgrade Proposal",
+      "totalVotes": 659,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-28-QIP-Upgrade.md"
+    },
+    {
+      "epoch": 221,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 58.51,
+          "title": "No",
+          "votes": 378
+        },
+        {
+          "percentage": 41.49,
+          "title": "Yes",
+          "votes": 268
+        }
+      ],
+      "proposalId": "fdcc9771-9a04-4e43-87e9-d2a217ee3c25",
+      "proposalIndex": 36,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "SKMETUPWGBYHNCQBTZWQBRXNAZKAIIFVCNMOBZMSREIENXVNDFPBGILGRGPL",
+      "published": "2026-07-11T12:17:00.59",
+      "status": 6,
+      "title": "Proposal",
+      "totalVotes": 646,
+      "url": "https://github.com/QubicFrance/Proposals/blob/cd1d5d1/Establish the Qubic Community Marketing Board.md"
+    },
+    {
+      "epoch": 221,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 17.93,
+          "title": "No Transfer",
+          "votes": 116
+        },
+        {
+          "percentage": 82.07,
+          "title": "Yes, send 671,000,000,000 $QUBIC",
+          "votes": 531
+        }
+      ],
+      "proposalId": "5adc4590-0a61-4923-be16-e811717c132c",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-07-09T12:01:18.193",
+      "status": 3,
+      "title": "Fund Qubic Core Development",
+      "totalVotes": 647,
+      "url": "https://github.com/qubic/qct/blob/9ea86107b8346737fae5c20c579776a68b8ac8c4/funding/2026-07-01-Q3-proposal.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:38Z"
+}
