@@ -1,0 +1,68 @@
+{
+  "epoch": 177,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sizeBytes": 2,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "c67fc0b37882a278a8559bf6a11fa300b44bb04322034c5023fcae3c0fab8183",
+      "sizeBytes": 78,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "ffd16d845caef9c3a394234c9a2c6ebd3ea1b10734a32217681cf593aa3257c6",
+      "sizeBytes": 528,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "e7cfee74eb206f420582307758c49720c3939b5a3cac025f2838a377320caba6",
+      "sizeBytes": 671548,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "c99c6437ab20fa5cd5f79be546d0506cdc5f23237fef37fa4434bb2ff47bd426",
+      "sizeBytes": 6133,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "103b5ac9f5e9fdd3743fe60f637310a412db8c78a6d938c085d58fe0b61f41d2",
+      "sizeBytes": 849009,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:13:29Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
