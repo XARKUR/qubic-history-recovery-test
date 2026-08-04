@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "documentKey": "4148c658a96749b3daeea9fcc35c4caab98d900ea6a9730c68b6d9e87b025f89",
+      "epoch": 222,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "f1a7a70c-2627-4811-a667-a4b285427c17",
+      "proposalIndex": 70,
+      "published": "2026-07-19T13:39:50.763",
+      "sha256": "d1b587f9d6040c87fb8b04e42a0dedf17778773d810c83cfa06173b2480d4719",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible"
+    },
+    {
+      "canonicalUrl": "https://github.com/jgvks/Community-Management-CCF-Proposal/blob/7d7019a/Community-Management-CCF-Proposal-for-August-and-September.md",
+      "documentKey": "e00424408f362e5085b45b372d3b5de6cb6f5ded18128afce3fd9739b3ab76f4",
+      "epoch": 222,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "897f45a2-5811-499f-8f1b-9bd6411a11c5",
+      "proposalIndex": 69,
+      "published": "2026-07-18T22:03:46.22",
+      "sha256": "eeae26f025a4b6031e5b6956da32681a036604578f51dfda3ca1ca5bfaeba1e2",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for August \\u0026 September"
+    }
+  ],
+  "epoch": 222,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 222,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 25,580,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "f1a7a70c-2627-4811-a667-a4b285427c17",
+      "proposalIndex": 70,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GSBQNPHPOLVFYCZHRIBQWLBYVAMDJBXWLCJLRBVFODWBORNWOQDTRKIDVNFL",
+      "published": "2026-07-19T13:39:50.763",
+      "status": 4,
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible",
+      "totalVotes": 0,
+      "url": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md"
+    },
+    {
+      "epoch": 222,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 28.39,
+          "title": "No Transfer",
+          "votes": 153
+        },
+        {
+          "percentage": 71.61,
+          "title": "Yes, send 47,420,000,000 $QUBIC",
+          "votes": 386
+        }
+      ],
+      "proposalId": "897f45a2-5811-499f-8f1b-9bd6411a11c5",
+      "proposalIndex": 69,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MCHVXMCWUUTAODPOXFTAMUJXBJPBQHTCPCMECJHLEBMNLLSEOSVUDWZGZYPJ",
+      "published": "2026-07-18T22:03:46.22",
+      "status": 3,
+      "title": "Community Management CCF Proposal for August \\u0026 September",
+      "totalVotes": 539,
+      "url": "https://github.com/jgvks/Community-Management-CCF-Proposal/blob/7d7019a/Community-Management-CCF-Proposal-for-August-and-September.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:39Z"
+}
