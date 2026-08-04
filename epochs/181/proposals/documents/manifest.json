@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "46-qubic-france-crypto-xr-2026-minimal-requirement-a039df40c3.md",
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/main/CryptoXR 2026 x Qubic France %3B minimum requirement.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "a039df40c3f751dc44291c70f8e2a3a8a038c3d3411b5731a43bdf41a8a8ac04",
+      "owner": "QubicFrance",
+      "path": "CryptoXR 2026 x Qubic France ; minimum requirement.md",
+      "proposalIndex": 46,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": "a039df40c3f751dc44291c70f8e2a3a8a038c3d3411b5731a43bdf41a8a8ac04",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic France : Crypto XR 2026 Minimal Requirement"
+    },
+    {
+      "archivePath": "44-25-10-01-qubic-marketing-proposal-team-25-10-01-qubic-marketing-proposal-team-md-e2c8e42286.md",
+      "canonicalUrl": "https://github.com/retrodrive1/25.10.01_qubic_marketing_proposal_team/blob/8e50c504182b5d5c52362a6260ef07a287c6fd3d/25.10.01_qubic_marketing_proposal_team.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e2c8e4228601327c58f0238c086c3c86b79f0498c14b3ad36c2057f1af940a37",
+      "owner": "retrodrive1",
+      "path": "25.10.01_qubic_marketing_proposal_team.md",
+      "proposalIndex": 44,
+      "ref": "8e50c504182b5d5c52362a6260ef07a287c6fd3d",
+      "repo": "25.10.01_qubic_marketing_proposal_team",
+      "sha256": "e2c8e4228601327c58f0238c086c3c86b79f0498c14b3ad36c2057f1af940a37",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "25.10.01_qubic_marketing_proposal_team/25.10.01_qubic_marketing_proposal_team.md at 8e50c504182b5d5c"
+    }
+  ],
+  "epoch": 181,
+  "generatedAt": "2026-08-04T02:03:41Z"
+}
