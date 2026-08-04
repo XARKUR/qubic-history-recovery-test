@@ -1,0 +1,171 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/7bcdba3e7529ce3b30974fcaf02c6e3bc9d44a70/June2026-Reimbursement.md",
+      "documentKey": "4e0dabf84735aa5c97130de4b8092d26276005685e5436a6951ca6abf3c3af55",
+      "epoch": 217,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "0a4c6546-9783-41ed-a19a-eeb34e299ef8",
+      "proposalIndex": 57,
+      "published": "2026-06-14T09:37:14.98",
+      "sha256": "f52b24f10cc50d7b7aa44fee10837918346d7a64870bdff7bcb95da70ea7ab23",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "🌐 QUBIC MARKETING REIMBURSEMENT PROPOSAL"
+    },
+    {
+      "canonicalUrl": "https://github.com/profitphil/Proposal-Qraffle-Smart-Contract-Revisions/blob/main/README.md",
+      "documentKey": "84d81d6e139bc01a1f6ed5c43bbd09e4a31ae0885b319d8370f3ce8a41e4ea6d",
+      "epoch": 217,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "cc9fdb94-620e-4aba-9703-957a73848bbd",
+      "proposalIndex": 1,
+      "published": "2026-06-14T08:05:52.597",
+      "sha256": "05cb33e06f9a33af65a8546012f4e49975fbaa3e637716085fe527521210bdc0",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal-Qraffle-Smart-Contract-Revisions# Proposal: Qraffle Smart Contract Revisions"
+    },
+    {
+      "canonicalUrl": "https://github.com/idk123-a/QCAP-proposals-/blob/main/QVAULT_QBOND_reserve.md",
+      "documentKey": "81c3736f81d6bc749fb2feb72418cbf1488a068ef762acec780532d6aa41ffd0",
+      "epoch": 217,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "e6f65f1b-ae31-404e-8f1e-6b22e0362996",
+      "proposalIndex": 34,
+      "published": "2026-06-14T06:23:29.99",
+      "sha256": "41a923e2f6f2f9a5c850c7a3367146fcb5baea0c76ef34078cd7858044f39bce",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Temporary Burn Replenishment for QVAULT and QBOND"
+    },
+    {
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal-Project_Gateway-Fiat-On-Ramp-Merchant-Payment-Integration/blob/355637f/CCF_Proposal_Project_Gateway.md",
+      "documentKey": "99a1bd49657fc4a5d4db13b56dd04fc58e35de0f61098b53490e663803f35cb2",
+      "epoch": 217,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "8f6b54cd-5926-4077-b099-814e2245f03d",
+      "proposalIndex": 67,
+      "published": "2026-06-11T13:01:10.5",
+      "sha256": "0fa1b65bc2c85caa248e0f3b45653c0fabcab90c40da70882cb82f72a6d54ed1",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "1. CCF Proposal"
+    }
+  ],
+  "epoch": 217,
+  "proposalCount": 4,
+  "proposals": [
+    {
+      "epoch": 217,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 42.27,
+          "title": "No Transfer",
+          "votes": 257
+        },
+        {
+          "percentage": 57.73,
+          "title": "Yes, send 34,173,809,524 $QUBIC",
+          "votes": 351
+        }
+      ],
+      "proposalId": "0a4c6546-9783-41ed-a19a-eeb34e299ef8",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-14T09:37:14.98",
+      "status": 3,
+      "title": "🌐 QUBIC MARKETING REIMBURSEMENT PROPOSAL",
+      "totalVotes": 608,
+      "url": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/7bcdba3e7529ce3b30974fcaf02c6e3bc9d44a70/June2026-Reimbursement.md"
+    },
+    {
+      "epoch": 217,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.66,
+          "title": "No",
+          "votes": 4
+        },
+        {
+          "percentage": 99.34,
+          "title": "Yes",
+          "votes": 601
+        }
+      ],
+      "proposalId": "cc9fdb94-620e-4aba-9703-957a73848bbd",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-14T08:05:52.597",
+      "status": 3,
+      "title": "Proposal-Qraffle-Smart-Contract-Revisions# Proposal: Qraffle Smart Contract Revisions",
+      "totalVotes": 605,
+      "url": "https://github.com/profitphil/Proposal-Qraffle-Smart-Contract-Revisions/blob/main/README.md"
+    },
+    {
+      "epoch": 217,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 40.47,
+          "title": "No",
+          "votes": 242
+        },
+        {
+          "percentage": 59.53,
+          "title": "Yes",
+          "votes": 356
+        }
+      ],
+      "proposalId": "e6f65f1b-ae31-404e-8f1e-6b22e0362996",
+      "proposalIndex": 34,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XBQZNLYSKEKIJBWMGIJKYDOEFSYANTTGESNAZADTADOQELTYCCCOTZSFOCXL",
+      "published": "2026-06-14T06:23:29.99",
+      "status": 3,
+      "title": "Proposal: Temporary Burn Replenishment for QVAULT and QBOND",
+      "totalVotes": 598,
+      "url": "https://github.com/idk123-a/QCAP-proposals-/blob/main/QVAULT_QBOND_reserve.md"
+    },
+    {
+      "epoch": 217,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 51.58,
+          "title": "No Transfer",
+          "votes": 293
+        },
+        {
+          "percentage": 48.42,
+          "title": "Yes, send 66,600,000,000 $QUBIC",
+          "votes": 275
+        }
+      ],
+      "proposalId": "8f6b54cd-5926-4077-b099-814e2245f03d",
+      "proposalIndex": 67,
+      "proposalType": "Transfer",
+      "proposerIdentity": "KGLUEQQRUOVFJCVIVNUXHPOXEOZBIWJPNHOQLCGOCANUYMXXCUBCGOUFNDXM",
+      "published": "2026-06-11T13:01:10.5",
+      "status": 6,
+      "title": "1. CCF Proposal",
+      "totalVotes": 568,
+      "url": "https://github.com/kimz-Q/CCF-Proposal-Project_Gateway-Fiat-On-Ramp-Merchant-Payment-Integration/blob/355637f/CCF_Proposal_Project_Gateway.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:30Z"
+}
