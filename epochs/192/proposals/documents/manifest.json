@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/MrRoseQubic/Proposal-to-run-incubation-for-6mo-Jan-Jun-/blob/4c386ba/Proposal to run Grants & Incubation Program.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "MrRoseQubic",
+      "path": "Proposal to run Grants & Incubation Program.md",
+      "proposalIndex": 56,
+      "ref": "4c386ba",
+      "repo": "Proposal-to-run-incubation-for-6mo-Jan-Jun-",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Proposal to run Incubation Program for 6mo (Jan-Jun)"
+    },
+    {
+      "archivePath": "55-ccf-proposal-ambassador-program-season-5-revised-d484aed263.md",
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/35d9faf/CCF_Proposal_Ambassador_Program_S5_Revised.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "d484aed2631af13819ea1985be69c54600c936d1269b451819d929d7444d2c29",
+      "owner": "kimz-Q",
+      "path": "CCF_Proposal_Ambassador_Program_S5_Revised.md",
+      "proposalIndex": 55,
+      "ref": "35d9faf",
+      "repo": "CCF-Proposal_Qubic_Ambassador-Program",
+      "sha256": "d484aed2631af13819ea1985be69c54600c936d1269b451819d929d7444d2c29",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program Season 5 (Revised)"
+    }
+  ],
+  "epoch": 192,
+  "generatedAt": "2026-08-04T01:31:46Z"
+}

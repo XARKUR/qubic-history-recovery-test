@@ -1,0 +1,53 @@
+{
+  "epoch": 192,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "392d4598d7c1cd9f9f37da0224067b4342020915c557af4cf57397cdd2a53d78",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "cf513cf16527a5a67e55320f6dd3be333da160140a81c29f1202fb70784296f4",
+      "sizeBytes": 308660,
+      "status": "ok"
+    },
+    "proposals/documents/55-ccf-proposal-ambassador-program-season-5-revised-d484aed263.md": {
+      "sha256": "d484aed2631af13819ea1985be69c54600c936d1269b451819d929d7444d2c29",
+      "sizeBytes": 8764,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "0bf3dbb514a94a5386e4d217351257a220038864421d53efb506adfac5dd1aa7",
+      "sizeBytes": 1543,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "7d8efd4506b91385ee9837b143b0f52f60eeed048ffd76dd0d6e5ed2c47a34aa",
+      "sizeBytes": 3351,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "54cf853b85aeecc031e8fff61a2defe9bb1b017be5208eb64b9100627f820c7d",
+      "sizeBytes": 408634,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "912ea8f8eae98fcfbd41768032f816121bc93179b9c4bc33425316a5f970ca6c",
+      "sizeBytes": 66773,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:31:46Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
