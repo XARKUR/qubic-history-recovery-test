@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/a9b43ca82ce7275ec0651e3b4ef8dfec622d2667/ComputorDonations/2026-05-27-Adjust-SupplyWatch-Burn-Halving.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "ComputorDonations/2026-05-27-Adjust-SupplyWatch-Burn-Halving.md",
+      "proposalIndex": 1,
+      "ref": "a9b43ca82ce7275ec0651e3b4ef8dfec622d2667",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Reallocate 77.5% of Weekly Emissions to the SupplyWatcher (Burn) starting from Epoch 227"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/MZoxx/proposal/blob/ggwp-clean/SmartContracts/2026-05-28-GGWP.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "MZoxx",
+      "path": "SmartContracts/2026-05-28-GGWP.md",
+      "proposalIndex": 32,
+      "ref": "ggwp-clean",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Smart Contract - GGWP (WolfPack)"
+    }
+  ],
+  "epoch": 215,
+  "generatedAt": "2026-08-04T00:19:36Z"
+}
