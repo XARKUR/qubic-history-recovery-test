@@ -1,0 +1,371 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/ac6eabbfcf1520a070a1df11f8fb9d4b7689acc7/Top 5 T1 Exchange listing proposal.md",
+      "documentKey": "ee24ae850a2fd3dfbc4f0eeecd2954efe89064782daab1c8ef6967e15daae754",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "72e4cae0-414f-434c-8d19-b31f11fb1dc2",
+      "proposalIndex": 1,
+      "published": "2025-08-16T20:03:46.397",
+      "sha256": "0ca0b1ee04947b5fcdb626222f508bcd08ad6a800cbc8487784a7e16c1c7546a",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Exchange Spot Listing Proposal for Top-5 Tier 1 Exchange"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/24cbc9f4a869f06b05910684bc164cdb763b4d5c/Top 10 Exchange listing proposal.md",
+      "documentKey": "f51d1dc2c12447d933564669c15d4e33888f3049df52107d9ebf81e77b8e1d35",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "eb21efa2-0198-4275-acef-11738b980ff4",
+      "proposalIndex": 39,
+      "published": "2025-08-16T19:57:04.91",
+      "sha256": "dc3c8c7500d5e731cfdfb1d721c8cd9585c2c7b543d5bcf9b197ee9d29eb2d5d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Exchange Spot Listing Proposal for Top-10 Exchange"
+    },
+    {
+      "canonicalUrl": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md",
+      "documentKey": "d2f09c84bfce999bf5b63e99a4c5fc52815c112b28d656047af76b3d1103ff56",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "6f271276-0938-46f1-8c75-5d729b12c32a",
+      "proposalIndex": 26,
+      "published": "2025-08-16T15:32:25.867",
+      "sha256": "f3878238a1733554080c4180500a42492a90e4ba41bf2a9f684e8b4b53ae7376",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QXMR Staking Smart Contract Proposal (Revised)"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/0dcc8645aa203c63466be5b0637ca8a9f7b37c25/US availability for one of the exchanges Qubic is already listed.md",
+      "documentKey": "ea4dd5cd497e05b9bbbcb852b8088b5f7b3ceeafc70278c882585af724442668",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3e78fe04-023d-4cc2-9dc7-4ff0840c26d6",
+      "proposalIndex": 32,
+      "published": "2025-08-15T15:07:34.017",
+      "sha256": "cfa66a606940eff6f96b09b528ba71744d4941da4ead332caea96ced7e2aa754",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Exchange Spot Listing Proposal in the US for an Exchange Where We Already Have Presence"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/ac6eabbfcf1520a070a1df11f8fb9d4b7689acc7/Top 5 T1 Exchange listing proposal.md",
+      "documentKey": "ee24ae850a2fd3dfbc4f0eeecd2954efe89064782daab1c8ef6967e15daae754",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "c2c8b10a-796a-47d9-afd5-eeb37e991d4b",
+      "proposalIndex": 32,
+      "published": "2025-08-15T15:04:25.47",
+      "sha256": "0ca0b1ee04947b5fcdb626222f508bcd08ad6a800cbc8487784a7e16c1c7546a",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Exchange Spot Listing Proposal for Top-5 Tier 1 Exchange"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/24cbc9f4a869f06b05910684bc164cdb763b4d5c/Top 10 Exchange listing proposal.md",
+      "documentKey": "f51d1dc2c12447d933564669c15d4e33888f3049df52107d9ebf81e77b8e1d35",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3365b350-1207-4108-b294-c6cd590cd8da",
+      "proposalIndex": 32,
+      "published": "2025-08-15T14:59:44.997",
+      "sha256": "dc3c8c7500d5e731cfdfb1d721c8cd9585c2c7b543d5bcf9b197ee9d29eb2d5d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Exchange Spot Listing Proposal for Top-10 Exchange"
+    },
+    {
+      "canonicalUrl": "https://github.com/CryptoEscape/Qubic-60-min-Documentary-and-25-Videos-Proposal/blob/d1be29e2426ee261f1a573425be4f4e341defd33/Qubic_Proposal.md",
+      "documentKey": "6cdbb27a799265accee940b960b6f394b2ae8a17cb83e39ab2accda380b4ab3b",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "c83bdd51-6fd4-4f4e-bb4d-b04fee530bd4",
+      "proposalIndex": 34,
+      "published": "2025-08-15T06:28:14.17",
+      "sha256": "8569c5db6871f4807e0d4be08ff19d5f40d0bcea67ca65246b53452d07150fe8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Video Media Campaign Proposal (The Great Crypto Escape)"
+    },
+    {
+      "canonicalUrl": "https://github.com/kriptolojik/Qubic-LightSec-Bitcoin-plus-plus-Eth-st/blob/e54b93a4ec439bad141bbe300df54a590e32d002/Qubic_Lightsec_Bitcoin_ETHIstanbul.md",
+      "documentKey": "0dcb2f03a7f527835d583e49f6a691b2f4ff889a44e55f3e5dd6991cd8c2f1ff",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1cd72547-f37f-466c-bf86-41e96df072ba",
+      "proposalIndex": 37,
+      "published": "2025-08-14T22:29:23.073",
+      "sha256": "354f384f3cdf7f6821e0727d264bd0a2a0e77c0cc5c72c51f6ce7d7d0ec56dc8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic-LightSec-Bitcoin-plus-plus-Eth-st/Qubic_Lightsec_Bitcoin_ETHIstanbul.md at e54b93a4ec439bad141"
+    },
+    {
+      "canonicalUrl": "https://github.com/LFG-Qubic/Proposals/blob/main/proposal-1-ccf-compensation-august-2025/README.md",
+      "documentKey": "2b42cd4e5bb9bb7916c4363e2525f6863fd47b226191e11842ae422eefc65ca2",
+      "epoch": 174,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d67ce67a-5aeb-4b1e-915f-016ff004b138",
+      "proposalIndex": 33,
+      "published": "2025-08-13T14:57:22.827",
+      "sha256": "8387eb6d7cf33b1aa506a0af390dde4d9134f36d78965df8dc4ef701f1a500c2",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal for LFG-Crew-Compensation"
+    }
+  ],
+  "epoch": 174,
+  "proposalCount": 9,
+  "proposals": [
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 22.33,
+          "title": "No Transfer",
+          "votes": 144
+        },
+        {
+          "percentage": 77.67,
+          "title": "Yes, send 123’330’000’000 $QUBIC",
+          "votes": 501
+        }
+      ],
+      "proposalId": "72e4cae0-414f-434c-8d19-b31f11fb1dc2",
+      "proposalIndex": 1,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ACWNEGHPRAEPCFXNDEZDRQXLOPSCYDIFBUPRUIULSEZWHDHBFUMOLDVGNAZA",
+      "published": "2025-08-16T20:03:46.397",
+      "status": 3,
+      "title": "Qubic Exchange Spot Listing Proposal for Top-5 Tier 1 Exchange",
+      "totalVotes": 645,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/ac6eabbfcf1520a070a1df11f8fb9d4b7689acc7/Top 5 T1 Exchange listing proposal.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 28.34,
+          "title": "No Transfer",
+          "votes": 176
+        },
+        {
+          "percentage": 71.66,
+          "title": "Yes, send 110’000’000’000 $QUBIC",
+          "votes": 445
+        }
+      ],
+      "proposalId": "eb21efa2-0198-4275-acef-11738b980ff4",
+      "proposalIndex": 39,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SKMETUPWGBYHNCQBTZWQBRXNAZKAIIFVCNMOBZMSREIENXVNDFPBGILGRGPL",
+      "published": "2025-08-16T19:57:04.91",
+      "status": 3,
+      "title": "Qubic Exchange Spot Listing Proposal for Top-10 Exchange",
+      "totalVotes": 621,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/24cbc9f4a869f06b05910684bc164cdb763b4d5c/Top 10 Exchange listing proposal.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 65.02,
+          "title": "No Transfer",
+          "votes": 355
+        },
+        {
+          "percentage": 34.98,
+          "title": "Yes, send 6’000’000’000 $QUBIC",
+          "votes": 191
+        }
+      ],
+      "proposalId": "6f271276-0938-46f1-8c75-5d729b12c32a",
+      "proposalIndex": 26,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA",
+      "published": "2025-08-16T15:32:25.867",
+      "status": 6,
+      "title": "QXMR Staking Smart Contract Proposal (Revised)",
+      "totalVotes": 546,
+      "url": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 29.23,
+          "title": "No Transfer",
+          "votes": 185
+        },
+        {
+          "percentage": 70.77,
+          "title": "Yes, send 33’330’000’000 $QUBIC",
+          "votes": 448
+        }
+      ],
+      "proposalId": "3e78fe04-023d-4cc2-9dc7-4ff0840c26d6",
+      "proposalIndex": 32,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ALBCDFMLQFAPKEITHURAIXVBBNSDBRKQWDIOYVGHWFKRPJJYBRWOARAGHSLB",
+      "published": "2025-08-15T15:07:34.017",
+      "status": 3,
+      "title": "Qubic Exchange Spot Listing Proposal in the US for an Exchange Where We Already Have Presence",
+      "totalVotes": 633,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/0dcc8645aa203c63466be5b0637ca8a9f7b37c25/US availability for one of the exchanges Qubic is already listed.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 123’330’000’000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "c2c8b10a-796a-47d9-afd5-eeb37e991d4b",
+      "proposalIndex": 32,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ALBCDFMLQFAPKEITHURAIXVBBNSDBRKQWDIOYVGHWFKRPJJYBRWOARAGHSLB",
+      "published": "2025-08-15T15:04:25.47",
+      "status": 5,
+      "title": "Qubic Exchange Spot Listing Proposal for Top-5 Tier 1 Exchange",
+      "totalVotes": 0,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/ac6eabbfcf1520a070a1df11f8fb9d4b7689acc7/Top 5 T1 Exchange listing proposal.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 110’000’000’000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "3365b350-1207-4108-b294-c6cd590cd8da",
+      "proposalIndex": 32,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ALBCDFMLQFAPKEITHURAIXVBBNSDBRKQWDIOYVGHWFKRPJJYBRWOARAGHSLB",
+      "published": "2025-08-15T14:59:44.997",
+      "status": 5,
+      "title": "Qubic Exchange Spot Listing Proposal for Top-10 Exchange",
+      "totalVotes": 0,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/24cbc9f4a869f06b05910684bc164cdb763b4d5c/Top 10 Exchange listing proposal.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 17.64,
+          "title": "No Transfer",
+          "votes": 103
+        },
+        {
+          "percentage": 82.36,
+          "title": "Yes, send 2’000’000’000 $QUBIC",
+          "votes": 481
+        }
+      ],
+      "proposalId": "c83bdd51-6fd4-4f4e-bb4d-b04fee530bd4",
+      "proposalIndex": 34,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GYTCYNOZNWBHACYZYCZVVNRSLNRDBCNXPXDLQMVYDBPSDACHCYAVOCKAGACM",
+      "published": "2025-08-15T06:28:14.17",
+      "status": 3,
+      "title": "Qubic Video Media Campaign Proposal (The Great Crypto Escape)",
+      "totalVotes": 584,
+      "url": "https://github.com/CryptoEscape/Qubic-60-min-Documentary-and-25-Videos-Proposal/blob/d1be29e2426ee261f1a573425be4f4e341defd33/Qubic_Proposal.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 73.49,
+          "title": "No Transfer",
+          "votes": 449
+        },
+        {
+          "percentage": 26.51,
+          "title": "Yes, send 1’920’000’000 $QUBIC",
+          "votes": 162
+        }
+      ],
+      "proposalId": "1cd72547-f37f-466c-bf86-41e96df072ba",
+      "proposalIndex": 37,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SVIZJFCFZHPLQCXHVNBACXEJGGVBPDDVAZFEEWGRUGYYZWRTGCCZEZMDPNSI",
+      "published": "2025-08-14T22:29:23.073",
+      "status": 6,
+      "title": "Qubic-LightSec-Bitcoin-plus-plus-Eth-st/Qubic_Lightsec_Bitcoin_ETHIstanbul.md at e54b93a4ec439bad141",
+      "totalVotes": 611,
+      "url": "https://github.com/kriptolojik/Qubic-LightSec-Bitcoin-plus-plus-Eth-st/blob/e54b93a4ec439bad141bbe300df54a590e32d002/Qubic_Lightsec_Bitcoin_ETHIstanbul.md"
+    },
+    {
+      "epoch": 174,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 66.02,
+          "title": "No Transfer",
+          "votes": 410
+        },
+        {
+          "percentage": 33.98,
+          "title": "Yes, send 60’000’000’000 $QUBIC",
+          "votes": 211
+        }
+      ],
+      "proposalId": "d67ce67a-5aeb-4b1e-915f-016ff004b138",
+      "proposalIndex": 33,
+      "proposalType": "Transfer",
+      "proposerIdentity": "LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO",
+      "published": "2025-08-13T14:57:22.827",
+      "status": 6,
+      "title": "CCF Proposal for LFG-Crew-Compensation",
+      "totalVotes": 621,
+      "url": "https://github.com/LFG-Qubic/Proposals/blob/main/proposal-1-ccf-compensation-august-2025/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:17Z"
+}
