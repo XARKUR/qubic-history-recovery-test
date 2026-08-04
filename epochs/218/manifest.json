@@ -1,0 +1,63 @@
+{
+  "epoch": 218,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "956bbc09c80057a9b9f695ff551452de1b4a4b7578057d8f2eec19a00d9d9e75",
+      "sizeBytes": 509,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "bffa3cdf37391b64b5d1cfc193b44a2a61ad1b936981099d907539d30fa234f6",
+      "sizeBytes": 297735,
+      "status": "ok"
+    },
+    "proposals/documents/1-proposal-upgrade-qbay-smart-contract-burn-collection-creation-cfb-fees-b07b84a302.md": {
+      "sha256": "b07b84a302d83a04cc27f50492c453a8bd46e001798a260b2003c42ed30d7309",
+      "sizeBytes": 4992,
+      "status": "ok"
+    },
+    "proposals/documents/54-qubic-community-delegation-machina-raise-summit-2026-015d065f9c.md": {
+      "sha256": "015d065f9c64e14cbe4054f1eaa60bf8ec999dc3e7254f3feb067adbf085dde4",
+      "sizeBytes": 7575,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "9f24e4909d2714d4a509d1f577c131686dae5e0112265584098e6b52c0f3f525",
+      "sizeBytes": 1682,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "c470201f6fc6576042eb9cdf6c50926ad2d3149d79a74ab2adfbcbeafa8c556e",
+      "sizeBytes": 3190,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "61f8968dd4aaabcc75efcabf4b8edd018e5a6585bfa75d4ab0df6652f374db26",
+      "sizeBytes": 373730,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "5bbd72df0f81fab0d7ebc6ca82aa78244ee279a4aa9cd66b67f258fcf0fc9189",
+      "sizeBytes": 62261,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:53:00Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
