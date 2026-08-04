@@ -1,0 +1,73 @@
+{
+  "epoch": 170,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "439bb0b65adb76352114d9cbad06934ea45b4a8cb64ef5405d235f99f7ad8bdb",
+      "sizeBytes": 70409,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "8005a035d17ca771c4398ed2d328e7423ec0ef0b47ab211ae7b2eb6209f9230a",
+      "sizeBytes": 393,
+      "status": "ok"
+    },
+    "ipo/documents/13-qswap-bceffecb3e.txt": {
+      "sha256": "bceffecb3ea22aec6895bfb571569900e4aa4b30a0f5bcc9b7c82636360d70f9",
+      "sizeBytes": 49417,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "b14ab991d0b98e70cf360e462eda9776ad734c56ab834cc9383117a2d416493b",
+      "sizeBytes": 609,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "c2f6c728f8fcfbb6b75c481065812291b21b8d43bad8ca4e56cdb93fb35b019c",
+      "sizeBytes": 808704,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "c9f2ef068b23f829ed03383af43de979c0bccfdad162b01f2b1eb4314c0b970a",
+      "sizeBytes": 8911,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "01f9c90a2f4b5ae19572f6a9784884e2841af4b1ec0e615b5454d2f393b818d1",
+      "sizeBytes": 1046519,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:12:40Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "NAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAML",
+      "archivePath": "13-qswap-bceffecb3e.txt",
+      "bidCount": 676,
+      "contractIndex": 13,
+      "epoch": 170,
+      "fileName": "13_qswap.txt",
+      "lastError": null,
+      "name": "QSwap",
+      "sha256": "bceffecb3ea22aec6895bfb571569900e4aa4b30a0f5bcc9b7c82636360d70f9",
+      "sizeBytes": 49417,
+      "sourceUrl": "https://auctions.qubic.tools/files/13_qswap.txt",
+      "status": "saved",
+      "uniqueBidderCount": 99
+    }
+  ],
+  "epoch": 170,
+  "generatedAt": "2026-08-04T00:12:40Z"
+}
