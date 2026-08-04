@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/TakaYuPP/Proposal-Optimize-Qswap-smart-contract",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": null,
+      "path": null,
+      "proposalIndex": 5,
+      "ref": null,
+      "repo": null,
+      "sha256": null,
+      "sourceType": "html_page",
+      "status": "blocked",
+      "title": "Proposal: Optimze Qswap Smart Contract"
+    }
+  ],
+  "epoch": 214,
+  "generatedAt": "2026-08-04T00:19:31Z"
+}
