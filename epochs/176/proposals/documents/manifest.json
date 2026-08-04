@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/a10eb42/CCF Proposal - Ambassador Program SO4  .md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "Qubic-Core-Services",
+      "path": "CCF Proposal - Ambassador Program SO4  .md",
+      "proposalIndex": 13,
+      "ref": "a10eb42",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal - Ambassador Program SO4"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/sergimima/qubic-proposal/blob/2a4a0a9/2025-08-19-VottunBridge.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "sergimima",
+      "path": "2025-08-19-VottunBridge.md",
+      "proposalIndex": 16,
+      "ref": "2a4a0a9",
+      "repo": "qubic-proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to include QBridge Smart Contract"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/kriptolojik/Qubic-Bogazici-University-Summit/blob/95ac9d15faf8a7af94ebe00ab117ce4092199776/Qubic_2025_Bogazici_Summit.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "kriptolojik",
+      "path": "Qubic_2025_Bogazici_Summit.md",
+      "proposalIndex": 37,
+      "ref": "95ac9d15faf8a7af94ebe00ab117ce4092199776",
+      "repo": "Qubic-Bogazici-University-Summit",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Qubic-Bogazici-University-Summit/Qubic_2025_Bogazici_Summit.md at 95ac9d15faf8a7af94ebe00ab117ce4092"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/6b20093/CCF Proposal Token2049 Singapore.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "Qubic-Core-Services",
+      "path": "CCF Proposal Token2049 Singapore.md",
+      "proposalIndex": 1,
+      "ref": "6b20093",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF proposal TOKEN2049"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/REVO-CAT/Q-Stream-Proposal/blob/main/proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "REVO-CAT",
+      "path": "proposal.md",
+      "proposalIndex": 40,
+      "ref": "main",
+      "repo": "Q-Stream-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Q-Stream Proposal"
+    }
+  ],
+  "epoch": 176,
+  "generatedAt": "2026-08-04T00:13:23Z"
+}
