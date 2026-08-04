@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/8ccfdce/Community-Management-CCF-Proposal-June-July.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community-Management-CCF-Proposal-June-July.md",
+      "proposalIndex": 13,
+      "ref": "8ccfdce",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "社区管理 CCF 提案"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/retrodrive1/qubic-ccf-marketing-proposal/blob/1d7058f2881e4af1a20e8b155c341d2aaa2e28a9/Qubic Socials Content and Coordination Proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "retrodrive1",
+      "path": "Qubic Socials Content and Coordination Proposal.md",
+      "proposalIndex": 17,
+      "ref": "1d7058f2881e4af1a20e8b155c341d2aaa2e28a9",
+      "repo": "qubic-ccf-marketing-proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal – Marketing Revival"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/687b6fc/Community-Management-CCF-Proposal-June-July.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community-Management-CCF-Proposal-June-July.md",
+      "proposalIndex": 13,
+      "ref": "687b6fc",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/4c1251a8d8916ac9c3a0e330bdd04dc4925aac9f/GeneralComputorProposals/2025-06-11-strategic-qubic-monero-quorum-decision.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "GeneralComputorProposals/2025-06-11-strategic-qubic-monero-quorum-decision.md",
+      "proposalIndex": 5,
+      "ref": "4c1251a8d8916ac9c3a0e330bdd04dc4925aac9f",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Strategic Qubic - Monero Quorum Decision"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/MatthewDarnell/RubicProposal/blob/f1e1de790d0529b1c1ca65cb1e179351ea44e39d/Rubic钱包提案.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "MatthewDarnell",
+      "path": "Rubic钱包提案.md",
+      "proposalIndex": 18,
+      "ref": "f1e1de790d0529b1c1ca65cb1e179351ea44e39d",
+      "repo": "RubicProposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "提案：已交付 Rubic 项目的资金申请"
+    }
+  ],
+  "epoch": 165,
+  "generatedAt": "2026-08-04T00:12:11Z"
+}
