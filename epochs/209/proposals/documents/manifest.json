@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-09-QTRY-V2.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2026-04-09-QTRY-V2.md",
+      "proposalIndex": 30,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal for Quottery v2 update"
+    }
+  ],
+  "epoch": 209,
+  "generatedAt": "2026-08-04T00:19:03Z"
+}
