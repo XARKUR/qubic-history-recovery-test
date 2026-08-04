@@ -1,0 +1,28 @@
+{
+  "epoch": 199,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "561c9533f8e372a3d9ae7f78101307b22370839aa34fd740190cc5b239344ce0",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "5ef2fdba61d4a910b84b0d65118e47cc562f2a53ffaec3a8da70c510712217c4",
+      "sizeBytes": 56441,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:32:23Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
