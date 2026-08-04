@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/Kairos-Tek/t3chfest-2026/blob/main/README.md",
+      "documentKey": "6ca1ade5850fe601cbb6782888ceab1857d9ec5046ede8920d41a825a3e568a8",
+      "epoch": 178,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ec4fa8c7-f5ce-4b12-a9a5-d2312b82b673",
+      "proposalIndex": 42,
+      "published": "2025-09-12T18:47:39.15",
+      "sha256": "bfec1aac631eb35808748f02a440c3f3b8832cbda646bdc0e9bfa78ea663c98c",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal: T3chFest 2026 Qubic Developer Outreach"
+    }
+  ],
+  "epoch": 178,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 178,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 57.83,
+          "title": "No Transfer",
+          "votes": 362
+        },
+        {
+          "percentage": 42.17,
+          "title": "Yes, send 2,200,000,000 $QUBIC",
+          "votes": 264
+        }
+      ],
+      "proposalId": "ec4fa8c7-f5ce-4b12-a9a5-d2312b82b673",
+      "proposalIndex": 42,
+      "proposalType": "Transfer",
+      "proposerIdentity": "FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB",
+      "published": "2025-09-12T18:47:39.15",
+      "status": 6,
+      "title": "CCF Proposal: T3chFest 2026 Qubic Developer Outreach",
+      "totalVotes": 626,
+      "url": "https://github.com/Kairos-Tek/t3chfest-2026/blob/main/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:24Z"
+}
