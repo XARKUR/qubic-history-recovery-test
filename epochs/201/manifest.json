@@ -1,0 +1,63 @@
+{
+  "epoch": 201,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sizeBytes": 2,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "6ce4e38c175404a299897ef2e2b82e4fb150e26dfdf2b30eea405976d2774c25",
+      "sizeBytes": 78,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "2fa85b362699dd51a7f19f20eabcedd6ab92bcebb5218b8e2ee13c4f6b799834",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "5fceab717bc9705e77269011a6bc47c21ba5ede7e54e816ed096b9f75d170181",
+      "sizeBytes": 202,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "5cb0ad2aae5b21cc504b0ef23a3dea0b546bf6af942558cc463bfe9adbc2a646",
+      "sizeBytes": 34,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "f133e44fe207db6c4842821b276d34e5a309e462593ff09bae564b5279083b25",
+      "sizeBytes": 66067,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:15:43Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
