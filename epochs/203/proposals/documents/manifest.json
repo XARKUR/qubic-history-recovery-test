@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": "24-proposal-upgrade-sc-qvault-to-version-2-0-4a614a050a.md",
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/9be8718ba005b2941b0792258e13c763a1d8e2eb/SmartContracts/2026-03-07-Upgrade-QVault.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "4a614a050ac2cb74d63b0dfb15474cba9f540a58d31710928da270e5cd92b5a8",
+      "owner": "KavataK",
+      "path": "SmartContracts/2026-03-07-Upgrade-QVault.md",
+      "proposalIndex": 24,
+      "ref": "9be8718ba005b2941b0792258e13c763a1d8e2eb",
+      "repo": "proposal",
+      "sha256": "4a614a050ac2cb74d63b0dfb15474cba9f540a58d31710928da270e5cd92b5a8",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade SC QVault to Version 2.0"
+    }
+  ],
+  "epoch": 203,
+  "generatedAt": "2026-08-04T00:51:34Z"
+}
