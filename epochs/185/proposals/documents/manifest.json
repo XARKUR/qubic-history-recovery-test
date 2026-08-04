@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/69056146c6e811648cf4ba55031b3db6c7b9139b/SmartContracts/2025-09-13-RandomLotteryV2.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "N-010",
+      "path": "SmartContracts/2025-09-13-RandomLotteryV2.md",
+      "proposalIndex": 20,
+      "ref": "69056146c6e811648cf4ba55031b3db6c7b9139b",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "RL-02: Flexible Ticketing \\u0026 Epoch Configuration"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/main/2025-10-CCF-Computor-Restriction.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "jtskxx",
+      "path": "2025-10-CCF-Computor-Restriction.md",
+      "proposalIndex": 19,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Restrict CCF Proposal Creation to Computors Only"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/qct/blob/060ef618e8434cd3772d663a461a85e14e7a706d/funding/2025-10-Q4-proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "funding/2025-10-Q4-proposal.md",
+      "proposalIndex": 38,
+      "ref": "060ef618e8434cd3772d663a461a85e14e7a706d",
+      "repo": "qct",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to Fund the Development of the Qubic Core"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/soundtick/Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick/blob/92d7b2937f0f840c290168cb07588c66d6f8b82b/Send_Mai_Proposal_Formatted.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "soundtick",
+      "path": "Send_Mai_Proposal_Formatted.md",
+      "proposalIndex": 49,
+      "ref": "92d7b2937f0f840c290168cb07588c66d6f8b82b",
+      "repo": "Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Requesting CCF funds for QUBICs participation \\u0026 Title Sponsorship in Indias Crypto Event by Sou"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/TheLawyerOfTransparency/General-Quorum-Proposal/blob/3f67b4bae1ae69dfac373fceff9576ae78509cdb/Talentnodes Questions.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "TheLawyerOfTransparency",
+      "path": "Talentnodes Questions.md",
+      "proposalIndex": 50,
+      "ref": "3f67b4bae1ae69dfac373fceff9576ae78509cdb",
+      "repo": "General-Quorum-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "General Quorum Proposal"
+    }
+  ],
+  "epoch": 185,
+  "generatedAt": "2026-08-04T00:14:13Z"
+}
