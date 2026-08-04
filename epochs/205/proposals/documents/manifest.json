@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": "65-ccf-proposal-hong-kong-web3-festival-2026-and-preliminary-study-on-qubic-computi-1b334dd841.md",
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "owner": "zhangxingyuan-nj",
+      "path": "CCF-proposal-HK-Web3-Festival-2026.md",
+      "proposalIndex": 65,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in"
+    },
+    {
+      "archivePath": "24-proposal-to-include-qsurv-smart-contract-decentralized-ai-verified-survey-platfo-2ea8f6bc4a.md",
+      "canonicalUrl": "https://github.com/IanLaFlair/proposal/blob/2e0c612/SmartContracts/2026-03-20-QSurv.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "2ea8f6bc4a0eb26d5ab275ebc00583d2fb6a53ee9cfb0e4df89c8341bdbd7ad7",
+      "owner": "IanLaFlair",
+      "path": "SmartContracts/2026-03-20-QSurv.md",
+      "proposalIndex": 24,
+      "ref": "2e0c612",
+      "repo": "proposal",
+      "sha256": "2ea8f6bc4a0eb26d5ab275ebc00583d2fb6a53ee9cfb0e4df89c8341bdbd7ad7",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QSurv Smart Contract – Decentralized AI-Verified Survey Platform"
+    },
+    {
+      "archivePath": "64-qubic-science-neuraxon-icmlt-2026-e3aec2dd8f.md",
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/beb3be3/QubicScienceICMLT2026.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e3aec2dd8f1f9fc33e2a5d7e43be3c180d0f9198fb4ad4ff18cf216b1a699b88",
+      "owner": "qubicsci",
+      "path": "QubicScienceICMLT2026.md",
+      "proposalIndex": 64,
+      "ref": "beb3be3",
+      "repo": "Proposals",
+      "sha256": "e3aec2dd8f1f9fc33e2a5d7e43be3c180d0f9198fb4ad4ff18cf216b1a699b88",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC SCIENCE NEURAXON - ICMLT 2026"
+    }
+  ],
+  "epoch": 205,
+  "generatedAt": "2026-08-04T01:32:56Z"
+}
