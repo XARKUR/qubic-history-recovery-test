@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/nineisten/qubicICOportal/blob/f6d09a05761f04af3556816c628fae66482889cb/README.md",
+      "documentKey": "8df015ea3ed64e1a7573b6259edb161d16f6eff97e367ea62f7302ab45f925a2",
+      "epoch": 187,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "108db5b0-3a85-4c5c-8cc1-6173446df567",
+      "proposalIndex": 21,
+      "published": "2025-11-15T23:15:25.71",
+      "sha256": "224ff69b4d271042085fed3b148efd6404701397671aacbbb69941eea8da469c",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "qubicICOportal/README.md at f6d09a05761f04af3556816c628fae66482889cb · nineisten/qubicICOportal · Gi"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/498863d15638febe752cdfdf8a9d4b696ebbfe35/Ecosystem Services proposal - AI transition phase.md",
+      "documentKey": "e49680f6bc24996d6a33d00d85a709c19908051e5589fe8570355514f1eb3cbe",
+      "epoch": 187,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "31a26d51-8338-46d8-a232-a849e1dfdad3",
+      "proposalIndex": 45,
+      "published": "2025-11-14T19:13:23.587",
+      "sha256": "49500e541c08e10c7d0918a97eaa3b49e2b30ec5c4f9094cd4d515940acb3783",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Ecosystem Services Proposal – AI Transition Phase"
+    }
+  ],
+  "epoch": 187,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 187,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 43.77,
+          "title": "No",
+          "votes": 281
+        },
+        {
+          "percentage": 56.23,
+          "title": "Yes",
+          "votes": 361
+        }
+      ],
+      "proposalId": "108db5b0-3a85-4c5c-8cc1-6173446df567",
+      "proposalIndex": 21,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "UBWLRBPPDIUFADLVGBMDMXSOZKVCNOVBLTQHAZTERAUCTEOKYRNCMOPBACPK",
+      "published": "2025-11-15T23:15:25.71",
+      "status": 3,
+      "title": "qubicICOportal/README.md at f6d09a05761f04af3556816c628fae66482889cb · nineisten/qubicICOportal · Gi",
+      "totalVotes": 642,
+      "url": "https://github.com/nineisten/qubicICOportal/blob/f6d09a05761f04af3556816c628fae66482889cb/README.md"
+    },
+    {
+      "epoch": 187,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 29.8,
+          "title": "No Transfer",
+          "votes": 191
+        },
+        {
+          "percentage": 70.2,
+          "title": "Yes, send 78,431,372,549 $QUBIC",
+          "votes": 450
+        }
+      ],
+      "proposalId": "31a26d51-8338-46d8-a232-a849e1dfdad3",
+      "proposalIndex": 45,
+      "proposalType": "Transfer",
+      "proposerIdentity": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+      "published": "2025-11-14T19:13:23.587",
+      "status": 3,
+      "title": "Ecosystem Services Proposal – AI Transition Phase",
+      "totalVotes": 641,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/498863d15638febe752cdfdf8a9d4b696ebbfe35/Ecosystem Services proposal - AI transition phase.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:37Z"
+}

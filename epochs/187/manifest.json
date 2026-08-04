@@ -1,0 +1,53 @@
+{
+  "epoch": 187,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "71ae13c071a078df499178283cf704695a83d53c97068b7db7fb92d8472e464f",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "504aa448cf8617ab704a51cf07fc65fd1bf90632b2afadb8f6f92cf9656ef98e",
+      "sizeBytes": 356058,
+      "status": "ok"
+    },
+    "proposals/documents/21-qubicicoportal-readme-md-at-f6d09a05761f04af3556816c628fae66482889cb-nineisten-q-224ff69b4d.md": {
+      "sha256": "224ff69b4d271042085fed3b148efd6404701397671aacbbb69941eea8da469c",
+      "sizeBytes": 22593,
+      "status": "ok"
+    },
+    "proposals/documents/45-ecosystem-services-proposal-ai-transition-phase-49500e541c.md": {
+      "sha256": "49500e541c08e10c7d0918a97eaa3b49e2b30ec5c4f9094cd4d515940acb3783",
+      "sizeBytes": 8664,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "cb859b7026b0e7f44f2bf8ac316cb874de64311027174063edae43a2dd9f39b7",
+      "sizeBytes": 1798,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "dd73836aad5c9f71f3fcf8abce0b0448fbefd4004bd560064b15248d5a3da66a",
+      "sizeBytes": 3323,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "84cce0a376571021954b0806db2713915025a46e65fa338bcf7cbe3cc2926346",
+      "sizeBytes": 429269,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:31:17Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
