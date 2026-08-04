@@ -1,0 +1,68 @@
+{
+  "epoch": 173,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sizeBytes": 2,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "7a0b50532f7e4a359489b38b44cc655aad0931fa05ed2a3ea97ac6e0aae93b68",
+      "sizeBytes": 78,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "3f512a684454e6a67f522638f9c9278ed8d2023a2c0c4c6e1a8a21e03ea3cad4",
+      "sizeBytes": 519,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "7d9fb053d50755aba7dd4f594dbbf0c38d97c2b0a3deca11320f509cbe338c81",
+      "sizeBytes": 1245988,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "1a9011198fb4dfb82a88f68b6b3283868a9c23d2c4710ac9c4dbb0e418118fad",
+      "sizeBytes": 12418,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "4019a247f04d03e2fa61c70ae44cd1f64b70557c459af5c9126700d42581555b",
+      "sizeBytes": 1585699,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:13:05Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
