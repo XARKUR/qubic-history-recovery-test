@@ -1,0 +1,83 @@
+{
+  "epoch": 172,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "297ac6777891aca4c7f34e898b18e44c885c8fe5b6365bdb0cddf1f51a480daf",
+      "sizeBytes": 21294,
+      "status": "ok"
+    },
+    "proposals/documents/29-community-contributors-ccf-proposal-46c7aa82e9.md": {
+      "sha256": "46c7aa82e95faaf722f4e94dc5d3ee44683846cb611e695e54e78800a7d9b42e",
+      "sizeBytes": 1261,
+      "status": "ok"
+    },
+    "proposals/documents/30-community-marketing-contributors-ccf-proposal-8b899d4824.md": {
+      "sha256": "8b899d4824c647e05d13d71cf9ab82bcd1c5b99a37c26c7ee7e855937e701c52",
+      "sizeBytes": 1353,
+      "status": "ok"
+    },
+    "proposals/documents/31-community-tech-contributors-ccf-proposal-37de4a5a36.md": {
+      "sha256": "37de4a5a36165395e1e5aac4ca186b86cf0af31c2c2d1ba0f4e77c6f853d1f91",
+      "sizeBytes": 1238,
+      "status": "ok"
+    },
+    "proposals/documents/32-ccf-proposal-qubic-marketing-ccf-funding-proposal-e8e7be465c.md": {
+      "sha256": "e8e7be465c2dedc7cef12ab3add9848741d891a37153e624555c4c40262f96c4",
+      "sizeBytes": 39513,
+      "status": "ok"
+    },
+    "proposals/documents/33-ccf-proposal-for-lfg-crew-compensation-8387eb6d7c.md": {
+      "sha256": "8387eb6d7cf33b1aa506a0af390dde4d9134f36d78965df8dc4ef701f1a500c2",
+      "sizeBytes": 11596,
+      "status": "ok"
+    },
+    "proposals/documents/34-qubic-educational-media-campaign-7698846bd0.md": {
+      "sha256": "7698846bd059e55f1911a6f86fa1675d9eacb074fdd707c1d48b896a0f6b8590",
+      "sizeBytes": 7566,
+      "status": "ok"
+    },
+    "proposals/documents/35-proposal-hard-times-soft-wallets-a-modest-proposal-for-the-broken-few-a5b78f6d28.md": {
+      "sha256": "a5b78f6d28ee00acfdba291ca74ba2dbadf70b8bb481a5415f58954439fd4c88",
+      "sizeBytes": 2698,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "40b5d6aec939ce7a4222c370d4e5a577769134c4b807e9531fa5d38ee9a5b538",
+      "sizeBytes": 5822,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "0e9363fe809c7dbf12181b3645837276413b80b14cec6853ab07e3a375cd6f23",
+      "sizeBytes": 10876,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "108612aad40ef63c5c33952b601d5068947e760375357a11773f09069e637543",
+      "sizeBytes": 39611,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "01ed89fd460351e35ad2470399ac1ef4bd550fc97e44475a45ce14d41a1a13af",
+      "sizeBytes": 550,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:02:44Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

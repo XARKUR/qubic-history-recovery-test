@@ -1,0 +1,1214 @@
+{
+  "epoch": 172,
+  "result": [
+    {
+      "ballots": [
+        {
+          "computorId": "GVXFNMEKQRWUGEKIZUVPVLWEGFNAYVAIRKCCFROGXDPZVNLMYSXLNMQEALJN",
+          "vote": 0,
+          "voteTick": 30870250
+        },
+        {
+          "computorId": "MKHTOJBMFUOVCFRLTRTJUDKJPMCBTPERIVNUDYDWEARXNKYKZJNTFPWBVZOK",
+          "vote": 0,
+          "voteTick": 30870250
+        },
+        {
+          "computorId": "OZSSSBXYWDQVBEEQFRATNSIJGEQDIXURGMGIPPDUSGDEWIXBANVOTWPBCPXD",
+          "vote": 0,
+          "voteTick": 30870250
+        },
+        {
+          "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+          "vote": 0,
+          "voteTick": 30870250
+        },
+        {
+          "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "THYLJXISGWDDJFVLIFMZCNNAGDYCVIPTKUIKHNADLGHIVQHIIKFCLHNGCQQG",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+          "vote": 0,
+          "voteTick": 30870247
+        },
+        {
+          "computorId": "CEFCATHBHJWNLCCOEPPARMZROEFBXUQWSQTLDUXIBBOCWKQGNLTZDECBVWYF",
+          "vote": 0,
+          "voteTick": 30870198
+        },
+        {
+          "computorId": "KGXYNTIJGTJHYETUBLFOIXMGMPHDMVDWYESPEJTILFKEREQIXVWIHUZCVHNK",
+          "vote": 0,
+          "voteTick": 30870198
+        },
+        {
+          "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+          "vote": 0,
+          "voteTick": 30870194
+        },
+        {
+          "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+          "vote": 0,
+          "voteTick": 30870194
+        },
+        {
+          "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+          "vote": 0,
+          "voteTick": 30870194
+        },
+        {
+          "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+          "vote": 0,
+          "voteTick": 30870194
+        },
+        {
+          "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+          "vote": 0,
+          "voteTick": 30870147
+        },
+        {
+          "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+          "vote": 0,
+          "voteTick": 30870147
+        },
+        {
+          "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+          "vote": 0,
+          "voteTick": 30870147
+        },
+        {
+          "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+          "vote": 0,
+          "voteTick": 30870147
+        },
+        {
+          "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+          "vote": 0,
+          "voteTick": 30870147
+        },
+        {
+          "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+          "vote": 0,
+          "voteTick": 30870146
+        },
+        {
+          "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+          "vote": 0,
+          "voteTick": 30870143
+        },
+        {
+          "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+          "vote": 0,
+          "voteTick": 30870143
+        },
+        {
+          "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+          "vote": 0,
+          "voteTick": 30870143
+        },
+        {
+          "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+          "vote": 0,
+          "voteTick": 30870143
+        },
+        {
+          "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+          "vote": 0,
+          "voteTick": 30870143
+        }
+      ],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": true,
+      "isSubscription": false,
+      "latestVoteTick": 30870250,
+      "mostVotes": 36,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 36
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 1,000,000,000 $QUBIC",
+          "numberOfVotes": 0,
+          "value": "1000000000"
+        }
+      ],
+      "proposalId": "fd0745fe-4b18-4783-b752-9dbb6634edce",
+      "proposalIndex": 35,
+      "proposalTick": 30860236,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "MTQFDAXGPAEAEGPYAICCZDQKECBDYSPPYTJGPJKCTASIDYZJJPWWRNKEOHMF",
+      "published": "2025-08-04T17:17:41.827",
+      "publishedTick": 30860236,
+      "reportCreated": "2025-09-06T17:02:41.064254Z",
+      "resultSummary": {
+        "0": [
+          {
+            "computorId": "GVXFNMEKQRWUGEKIZUVPVLWEGFNAYVAIRKCCFROGXDPZVNLMYSXLNMQEALJN",
+            "vote": 0,
+            "voteTick": 30870250
+          },
+          {
+            "computorId": "MKHTOJBMFUOVCFRLTRTJUDKJPMCBTPERIVNUDYDWEARXNKYKZJNTFPWBVZOK",
+            "vote": 0,
+            "voteTick": 30870250
+          },
+          {
+            "computorId": "OZSSSBXYWDQVBEEQFRATNSIJGEQDIXURGMGIPPDUSGDEWIXBANVOTWPBCPXD",
+            "vote": 0,
+            "voteTick": 30870250
+          },
+          {
+            "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+            "vote": 0,
+            "voteTick": 30870250
+          },
+          {
+            "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "THYLJXISGWDDJFVLIFMZCNNAGDYCVIPTKUIKHNADLGHIVQHIIKFCLHNGCQQG",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+            "vote": 0,
+            "voteTick": 30870247
+          },
+          {
+            "computorId": "CEFCATHBHJWNLCCOEPPARMZROEFBXUQWSQTLDUXIBBOCWKQGNLTZDECBVWYF",
+            "vote": 0,
+            "voteTick": 30870198
+          },
+          {
+            "computorId": "KGXYNTIJGTJHYETUBLFOIXMGMPHDMVDWYESPEJTILFKEREQIXVWIHUZCVHNK",
+            "vote": 0,
+            "voteTick": 30870198
+          },
+          {
+            "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+            "vote": 0,
+            "voteTick": 30870194
+          },
+          {
+            "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+            "vote": 0,
+            "voteTick": 30870194
+          },
+          {
+            "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+            "vote": 0,
+            "voteTick": 30870194
+          },
+          {
+            "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+            "vote": 0,
+            "voteTick": 30870194
+          },
+          {
+            "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+            "vote": 0,
+            "voteTick": 30870147
+          },
+          {
+            "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+            "vote": 0,
+            "voteTick": 30870147
+          },
+          {
+            "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+            "vote": 0,
+            "voteTick": 30870147
+          },
+          {
+            "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+            "vote": 0,
+            "voteTick": 30870147
+          },
+          {
+            "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+            "vote": 0,
+            "voteTick": 30870147
+          },
+          {
+            "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+            "vote": 0,
+            "voteTick": 30870146
+          },
+          {
+            "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+            "vote": 0,
+            "voteTick": 30870143
+          },
+          {
+            "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+            "vote": 0,
+            "voteTick": 30870143
+          },
+          {
+            "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+            "vote": 0,
+            "voteTick": 30870143
+          },
+          {
+            "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+            "vote": 0,
+            "voteTick": 30870143
+          },
+          {
+            "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+            "vote": 0,
+            "voteTick": 30870143
+          }
+        ]
+      },
+      "status": 4,
+      "sumOption0": 36,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30860236,
+      "title": "Proposal: Hard Times, Soft Wallets – A Modest Proposal for the Broken Few",
+      "totalVotes": 36,
+      "transferDestinationIdentity": "MTQFDAXGPAEAEGPYAICCZDQKECBDYSPPYTJGPJKCTASIDYZJJPWWRNKEOHMF",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/5some/CCF-Funding-proposal-Hard-Times-Soft-Wallets-A-Modest-Proposal-for-the-Broken-Few/blob/bc360e618e46e57f7bd0fea86501067fead0c3f1/hard_times_soft_wallets_proposal.md"
+    },
+    {
+      "ballots": [
+        {
+          "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+          "vote": 1,
+          "voteTick": 30870524
+        },
+        {
+          "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+          "vote": 1,
+          "voteTick": 30870296
+        },
+        {
+          "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+          "vote": 1,
+          "voteTick": 30870295
+        },
+        {
+          "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+          "vote": 1,
+          "voteTick": 30870294
+        },
+        {
+          "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+          "vote": 1,
+          "voteTick": 30870294
+        },
+        {
+          "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+          "vote": 1,
+          "voteTick": 30870294
+        },
+        {
+          "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+          "vote": 1,
+          "voteTick": 30870294
+        }
+      ],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": true,
+      "isSubscription": false,
+      "latestVoteTick": 30870524,
+      "mostVotes": 19,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 305
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 4,500,000,000 $QUBIC",
+          "numberOfVotes": 19,
+          "value": "4500000000"
+        }
+      ],
+      "proposalId": "1108a91d-f1f9-473d-bd86-3d6761548ee5",
+      "proposalIndex": 34,
+      "proposalTick": 30849302,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "GYTCYNOZNWBHACYZYCZVVNRSLNRDBCNXPXDLQMVYDBPSDACHCYAVOCKAGACM",
+      "published": "2025-08-04T09:49:43.28",
+      "publishedTick": 30849302,
+      "reportCreated": "2025-09-06T17:02:41.0643612Z",
+      "resultSummary": {
+        "1": [
+          {
+            "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+            "vote": 1,
+            "voteTick": 30870524
+          },
+          {
+            "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+            "vote": 1,
+            "voteTick": 30870296
+          },
+          {
+            "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+            "vote": 1,
+            "voteTick": 30870295
+          },
+          {
+            "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+            "vote": 1,
+            "voteTick": 30870294
+          },
+          {
+            "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+            "vote": 1,
+            "voteTick": 30870294
+          },
+          {
+            "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+            "vote": 1,
+            "voteTick": 30870294
+          },
+          {
+            "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+            "vote": 1,
+            "voteTick": 30870294
+          }
+        ]
+      },
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 19,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30849302,
+      "title": "Qubic Educational Media Campaign",
+      "totalVotes": 324,
+      "transferDestinationIdentity": "GYTCYNOZNWBHACYZYCZVVNRSLNRDBCNXPXDLQMVYDBPSDACHCYAVOCKAGACM",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/CryptoEscape/Qubic_Media_Proposal/blob/main/GreatCryptoEscapeQubic_Educational_Media_Proposal (1).md"
+    },
+    {
+      "ballots": [
+        {
+          "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+          "vote": 0,
+          "voteTick": 30870571
+        },
+        {
+          "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+          "vote": 0,
+          "voteTick": 30870570
+        },
+        {
+          "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+          "vote": 0,
+          "voteTick": 30870569
+        },
+        {
+          "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+          "vote": 0,
+          "voteTick": 30870569
+        }
+      ],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": true,
+      "isSubscription": false,
+      "latestVoteTick": 30870571,
+      "mostVotes": 29,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 333
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 175,000,000,000 $QUBIC",
+          "numberOfVotes": 1,
+          "value": "175000000000"
+        }
+      ],
+      "proposalId": "5391b8aa-ed91-476e-9e56-a2a150e520a0",
+      "proposalIndex": 33,
+      "proposalTick": 30801034,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO",
+      "published": "2025-08-02T20:26:45.327",
+      "publishedTick": 30801034,
+      "reportCreated": "2025-09-06T17:02:41.0649769Z",
+      "resultSummary": {
+        "0": [
+          {
+            "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+            "vote": 0,
+            "voteTick": 30870571
+          },
+          {
+            "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+            "vote": 0,
+            "voteTick": 30870570
+          },
+          {
+            "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+            "vote": 0,
+            "voteTick": 30870569
+          },
+          {
+            "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+            "vote": 0,
+            "voteTick": 30870569
+          }
+        ]
+      },
+      "status": 4,
+      "sumOption0": 29,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30801034,
+      "title": "CCF Proposal for LFG-Crew-Compensation",
+      "totalVotes": 334,
+      "transferDestinationIdentity": "LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/LFG-Qubic/Proposals/blob/main/proposal-1-ccf-compensation-august-2025/README.md"
+    },
+    {
+      "ballots": [],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": false,
+      "isSubscription": false,
+      "latestVoteTick": 0,
+      "mostVotes": 0,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 303
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 9,700,000,000 $QUBIC",
+          "numberOfVotes": 1,
+          "value": "9700000000"
+        }
+      ],
+      "proposalId": "9bd0f9e6-c7d6-4b02-a271-6ce4a904c1da",
+      "proposalIndex": 32,
+      "proposalTick": 30800753,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "ALBCDFMLQFAPKEITHURAIXVBBNSDBRKQWDIOYVGHWFKRPJJYBRWOARAGHSLB",
+      "published": "2025-08-02T20:15:49.947",
+      "publishedTick": 30800753,
+      "reportCreated": "2025-09-06T17:02:41.17866Z",
+      "resultSummary": {},
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30800753,
+      "title": "CCF Proposal - Qubic Marketing: CCF Funding Proposal",
+      "totalVotes": 304,
+      "transferDestinationIdentity": "PUFZSFKIPJCUOACGETEMFHBVCALAZJSSQFIDYTMHZBZQDRAJXHXIKPVFRBZE",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/kriptolojik/Qubic-ODTU-Blockchain/blob/e51a34229e807d9b181f56851880b3e2a385befd/CCF Proposal - Qubic Marketing%3A CCF Funding Proposal.md"
+    },
+    {
+      "ballots": [],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": false,
+      "isSubscription": false,
+      "latestVoteTick": 0,
+      "mostVotes": 0,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 10
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 6,450,000,000 $QUBIC",
+          "numberOfVotes": 295,
+          "value": "6450000000"
+        }
+      ],
+      "proposalId": "ff7cee48-3566-42aa-9fe3-e916ae8752c4",
+      "proposalIndex": 31,
+      "proposalTick": 30798243,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "SRMKRNVHHQZAYAEKIAVSMGSRNMUCUECOFKREOBTZTETMWVWSQAQALBNFGUZH",
+      "published": "2025-08-02T18:37:52.86",
+      "publishedTick": 30798243,
+      "reportCreated": "2025-09-06T17:02:41.9724815Z",
+      "resultSummary": {},
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30798243,
+      "title": "Community Tech Contributors CCF Proposal",
+      "totalVotes": 305,
+      "transferDestinationIdentity": "COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Tech.md"
+    },
+    {
+      "ballots": [],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": false,
+      "isSubscription": false,
+      "latestVoteTick": 0,
+      "mostVotes": 0,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 45
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 9,800,000,000 $QUBIC",
+          "numberOfVotes": 260,
+          "value": "9800000000"
+        }
+      ],
+      "proposalId": "d253e187-1890-4fb6-9378-779a3183a928",
+      "proposalIndex": 30,
+      "proposalTick": 30798241,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "HYMJQNLEYIMGWDPCEBAGWDVXDGTBRCANBNUKTLGXJGCIHLZKWNAEPIRGGNMF",
+      "published": "2025-08-02T18:37:48.117",
+      "publishedTick": 30798241,
+      "reportCreated": "2025-09-06T17:02:43.7014108Z",
+      "resultSummary": {},
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30798241,
+      "title": "Community Marketing Contributors CCF Proposal",
+      "totalVotes": 305,
+      "transferDestinationIdentity": "COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Marketing.md"
+    },
+    {
+      "ballots": [],
+      "computorIndex": 0,
+      "contractIndex": 8,
+      "contractName": "Computor Controlled Fund",
+      "epoch": 172,
+      "hasVotes": false,
+      "isSubscription": false,
+      "latestVoteTick": 0,
+      "mostVotes": 0,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No Transfer",
+          "numberOfVotes": 93
+        },
+        {
+          "index": 1,
+          "label": "Yes, send 5,250,000,000 $QUBIC",
+          "numberOfVotes": 54,
+          "value": "5250000000"
+        }
+      ],
+      "proposalId": "b8385851-997e-42c8-872e-88bd8fff4976",
+      "proposalIndex": 29,
+      "proposalTick": 30798238,
+      "proposalType": "Transfer",
+      "proposalTypeNumber": 256,
+      "proposerIdentity": "WPJXSLZLWXDOWBQYJCCLXLCOYFJAMEOFBPTRQZRHMERSNHORWRVGNYZDMLRD",
+      "published": "2025-08-02T18:37:41.507",
+      "publishedTick": 30798238,
+      "reportCreated": "2025-09-06T17:02:44.403092Z",
+      "resultSummary": {},
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 30798238,
+      "title": "Community Contributors CCF Proposal",
+      "totalVotes": 147,
+      "transferDestinationIdentity": "COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI",
+      "transferType": "Absolute",
+      "transferUnit": 1,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Community.md"
+    }
+  ]
+}

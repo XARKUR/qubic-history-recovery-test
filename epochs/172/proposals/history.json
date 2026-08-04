@@ -1,0 +1,291 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/5some/CCF-Funding-proposal-Hard-Times-Soft-Wallets-A-Modest-Proposal-for-the-Broken-Few/blob/bc360e618e46e57f7bd0fea86501067fead0c3f1/hard_times_soft_wallets_proposal.md",
+      "documentKey": "58855e7dcc85d80d1941a9c9e559462457727005417ee0793421ff01d170e38f",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "fd0745fe-4b18-4783-b752-9dbb6634edce",
+      "proposalIndex": 35,
+      "published": "2025-08-04T17:17:41.827",
+      "sha256": "a5b78f6d28ee00acfdba291ca74ba2dbadf70b8bb481a5415f58954439fd4c88",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Hard Times, Soft Wallets – A Modest Proposal for the Broken Few"
+    },
+    {
+      "canonicalUrl": "https://github.com/CryptoEscape/Qubic_Media_Proposal/blob/main/GreatCryptoEscapeQubic_Educational_Media_Proposal (1).md",
+      "documentKey": "3dc8eccd4d136dd6b20ce8b79864a0f024e0b0dba951cf4c31b8531446298e90",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1108a91d-f1f9-473d-bd86-3d6761548ee5",
+      "proposalIndex": 34,
+      "published": "2025-08-04T09:49:43.28",
+      "sha256": "7698846bd059e55f1911a6f86fa1675d9eacb074fdd707c1d48b896a0f6b8590",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Educational Media Campaign"
+    },
+    {
+      "canonicalUrl": "https://github.com/LFG-Qubic/Proposals/blob/main/proposal-1-ccf-compensation-august-2025/README.md",
+      "documentKey": "2b42cd4e5bb9bb7916c4363e2525f6863fd47b226191e11842ae422eefc65ca2",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5391b8aa-ed91-476e-9e56-a2a150e520a0",
+      "proposalIndex": 33,
+      "published": "2025-08-02T20:26:45.327",
+      "sha256": "8387eb6d7cf33b1aa506a0af390dde4d9134f36d78965df8dc4ef701f1a500c2",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal for LFG-Crew-Compensation"
+    },
+    {
+      "canonicalUrl": "https://github.com/kriptolojik/Qubic-ODTU-Blockchain/blob/e51a34229e807d9b181f56851880b3e2a385befd/CCF Proposal - Qubic Marketing%3A CCF Funding Proposal.md",
+      "documentKey": "9b0e5c83ef374e29b2534831b432a901686aea826cdcdad08586daccae1a3724",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "9bd0f9e6-c7d6-4b02-a271-6ce4a904c1da",
+      "proposalIndex": 32,
+      "published": "2025-08-02T20:15:49.947",
+      "sha256": "e8e7be465c2dedc7cef12ab3add9848741d891a37153e624555c4c40262f96c4",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Qubic Marketing: CCF Funding Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Tech.md",
+      "documentKey": "c66322c97e5a74abc2209daeabdf127ff5eccd258d462ef3fca1c9f64136dcb1",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ff7cee48-3566-42aa-9fe3-e916ae8752c4",
+      "proposalIndex": 31,
+      "published": "2025-08-02T18:37:52.86",
+      "sha256": "37de4a5a36165395e1e5aac4ca186b86cf0af31c2c2d1ba0f4e77c6f853d1f91",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Tech Contributors CCF Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Marketing.md",
+      "documentKey": "c7fdb68f522155283b4a77fad6c6377e40c4a5a165770d6529751fca3017e789",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d253e187-1890-4fb6-9378-779a3183a928",
+      "proposalIndex": 30,
+      "published": "2025-08-02T18:37:48.117",
+      "sha256": "8b899d4824c647e05d13d71cf9ab82bcd1c5b99a37c26c7ee7e855937e701c52",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Marketing Contributors CCF Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Community.md",
+      "documentKey": "86668852def67dbfdc85f43cb36ab87a96472dc825ce678eddd08fa5f7080d0a",
+      "epoch": 172,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b8385851-997e-42c8-872e-88bd8fff4976",
+      "proposalIndex": 29,
+      "published": "2025-08-02T18:37:41.507",
+      "sha256": "46c7aa82e95faaf722f4e94dc5d3ee44683846cb611e695e54e78800a7d9b42e",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Contributors CCF Proposal"
+    }
+  ],
+  "epoch": 172,
+  "proposalCount": 7,
+  "proposals": [
+    {
+      "epoch": 172,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 100.0,
+          "title": "No Transfer",
+          "votes": 36
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 1,000,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "fd0745fe-4b18-4783-b752-9dbb6634edce",
+      "proposalIndex": 35,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MTQFDAXGPAEAEGPYAICCZDQKECBDYSPPYTJGPJKCTASIDYZJJPWWRNKEOHMF",
+      "published": "2025-08-04T17:17:41.827",
+      "status": 4,
+      "title": "Proposal: Hard Times, Soft Wallets – A Modest Proposal for the Broken Few",
+      "totalVotes": 36,
+      "url": "https://github.com/5some/CCF-Funding-proposal-Hard-Times-Soft-Wallets-A-Modest-Proposal-for-the-Broken-Few/blob/bc360e618e46e57f7bd0fea86501067fead0c3f1/hard_times_soft_wallets_proposal.md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 94.14,
+          "title": "No Transfer",
+          "votes": 305
+        },
+        {
+          "percentage": 5.86,
+          "title": "Yes, send 4,500,000,000 $QUBIC",
+          "votes": 19
+        }
+      ],
+      "proposalId": "1108a91d-f1f9-473d-bd86-3d6761548ee5",
+      "proposalIndex": 34,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GYTCYNOZNWBHACYZYCZVVNRSLNRDBCNXPXDLQMVYDBPSDACHCYAVOCKAGACM",
+      "published": "2025-08-04T09:49:43.28",
+      "status": 4,
+      "title": "Qubic Educational Media Campaign",
+      "totalVotes": 324,
+      "url": "https://github.com/CryptoEscape/Qubic_Media_Proposal/blob/main/GreatCryptoEscapeQubic_Educational_Media_Proposal (1).md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 99.7,
+          "title": "No Transfer",
+          "votes": 333
+        },
+        {
+          "percentage": 0.3,
+          "title": "Yes, send 175,000,000,000 $QUBIC",
+          "votes": 1
+        }
+      ],
+      "proposalId": "5391b8aa-ed91-476e-9e56-a2a150e520a0",
+      "proposalIndex": 33,
+      "proposalType": "Transfer",
+      "proposerIdentity": "LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO",
+      "published": "2025-08-02T20:26:45.327",
+      "status": 4,
+      "title": "CCF Proposal for LFG-Crew-Compensation",
+      "totalVotes": 334,
+      "url": "https://github.com/LFG-Qubic/Proposals/blob/main/proposal-1-ccf-compensation-august-2025/README.md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 99.67,
+          "title": "No Transfer",
+          "votes": 303
+        },
+        {
+          "percentage": 0.33,
+          "title": "Yes, send 9,700,000,000 $QUBIC",
+          "votes": 1
+        }
+      ],
+      "proposalId": "9bd0f9e6-c7d6-4b02-a271-6ce4a904c1da",
+      "proposalIndex": 32,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ALBCDFMLQFAPKEITHURAIXVBBNSDBRKQWDIOYVGHWFKRPJJYBRWOARAGHSLB",
+      "published": "2025-08-02T20:15:49.947",
+      "status": 4,
+      "title": "CCF Proposal - Qubic Marketing: CCF Funding Proposal",
+      "totalVotes": 304,
+      "url": "https://github.com/kriptolojik/Qubic-ODTU-Blockchain/blob/e51a34229e807d9b181f56851880b3e2a385befd/CCF Proposal - Qubic Marketing%3A CCF Funding Proposal.md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 3.28,
+          "title": "No Transfer",
+          "votes": 10
+        },
+        {
+          "percentage": 96.72,
+          "title": "Yes, send 6,450,000,000 $QUBIC",
+          "votes": 295
+        }
+      ],
+      "proposalId": "ff7cee48-3566-42aa-9fe3-e916ae8752c4",
+      "proposalIndex": 31,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SRMKRNVHHQZAYAEKIAVSMGSRNMUCUECOFKREOBTZTETMWVWSQAQALBNFGUZH",
+      "published": "2025-08-02T18:37:52.86",
+      "status": 4,
+      "title": "Community Tech Contributors CCF Proposal",
+      "totalVotes": 305,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Tech.md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 14.75,
+          "title": "No Transfer",
+          "votes": 45
+        },
+        {
+          "percentage": 85.25,
+          "title": "Yes, send 9,800,000,000 $QUBIC",
+          "votes": 260
+        }
+      ],
+      "proposalId": "d253e187-1890-4fb6-9378-779a3183a928",
+      "proposalIndex": 30,
+      "proposalType": "Transfer",
+      "proposerIdentity": "HYMJQNLEYIMGWDPCEBAGWDVXDGTBRCANBNUKTLGXJGCIHLZKWNAEPIRGGNMF",
+      "published": "2025-08-02T18:37:48.117",
+      "status": 4,
+      "title": "Community Marketing Contributors CCF Proposal",
+      "totalVotes": 305,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Marketing.md"
+    },
+    {
+      "epoch": 172,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 63.27,
+          "title": "No Transfer",
+          "votes": 93
+        },
+        {
+          "percentage": 36.73,
+          "title": "Yes, send 5,250,000,000 $QUBIC",
+          "votes": 54
+        }
+      ],
+      "proposalId": "b8385851-997e-42c8-872e-88bd8fff4976",
+      "proposalIndex": 29,
+      "proposalType": "Transfer",
+      "proposerIdentity": "WPJXSLZLWXDOWBQYJCCLXLCOYFJAMEOFBPTRQZRHMERSNHORWRVGNYZDMLRD",
+      "published": "2025-08-02T18:37:41.507",
+      "status": 4,
+      "title": "Community Contributors CCF Proposal",
+      "totalVotes": 147,
+      "url": "https://github.com/31clip/Proposal-Community-Contribution/blob/1ca24c785429ef6f9887f44275cf8ced075af9c6/Community.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:07Z"
+}
