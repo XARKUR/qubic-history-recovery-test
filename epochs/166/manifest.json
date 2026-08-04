@@ -1,0 +1,48 @@
+{
+  "epoch": 166,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "a4054d509a8986b92640230e91dcc03c9cf3be1eeffdd4a01cff5d17ffa14b79",
+      "sizeBytes": 156134,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "ad83252a9416c7d37029cc928fd2b5048eb35385eb4dd45208e368ad4c986380",
+      "sizeBytes": 747,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "cd47e7f31669a94ee4163a2f2d2393e24ff3e64b75d144607958b8aabc79abde",
+      "sizeBytes": 1898,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "d98980fca4d1744bf790f44a06ca0322e0a08bc0e1458d8c02d7ad1e830c4916",
+      "sizeBytes": 173453,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "233da3bb17bd42db4ed5dcdadc3fda81bdd14788a9fbd7e3db3ff60d2b56dc32",
+      "sizeBytes": 553,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:02:09Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
