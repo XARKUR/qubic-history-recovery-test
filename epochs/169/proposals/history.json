@@ -1,0 +1,171 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/blob/main/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md",
+      "documentKey": "abc73c0df01a2d2f8b5506aa4c0b279375ba6383c34aebf5a501a7680f17aa09",
+      "epoch": 169,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "efb15a70-0174-4ae7-9644-c07f4bd53a3c",
+      "proposalIndex": 22,
+      "published": "2025-07-14T11:28:13.577",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md a"
+    },
+    {
+      "canonicalUrl": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md",
+      "documentKey": "9c133724204c96cb7ca8dc197b60f41f7e96b34261c4e91cf922a227fbc7a091",
+      "epoch": 169,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "29ebc5a5-de7f-4dda-8960-87c86434bc65",
+      "proposalIndex": 20,
+      "published": "2025-07-11T22:51:01.45",
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp (REDUCED COST)"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/4c2bf93d8eeaebcfdc7b5723a01149b559a52ac5/SmartContracts/2025-07-11-QSwap.md",
+      "documentKey": "38fe9a205d0760c9e24fa0c0d61a56df8c94c7705cde2f59fcbec4ee56a33d0b",
+      "epoch": 169,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "0a0374fc-a5a0-4c47-b78c-69d293425743",
+      "proposalIndex": 15,
+      "published": "2025-07-11T22:43:37.987",
+      "sha256": "af0b893bbed6e1f3b2d03d11894a9db83f4e2bee8420441f4e60c77aae8737cc",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QSwap Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/Pickle-Pixel/Qubic-Alert-System-QAS/blob/83f7efb88a48f64ab495678fd0b2dce1833ddae4/CCF-Funding-Requests/2025-07-02-Qubic-Alert-System-QDAS.md",
+      "documentKey": "29dc197d640a80e71e3e70bff4355523ee807eda494d8fface0ed7b7ea21664d",
+      "epoch": 169,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "701790c3-38ad-4429-839d-8485ebaa0051",
+      "proposalIndex": 21,
+      "published": "2025-07-11T17:01:28.37",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Proposal: Qubic Alert System (QAS)"
+    }
+  ],
+  "epoch": 169,
+  "proposalCount": 4,
+  "proposals": [
+    {
+      "epoch": 169,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 15,200,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "efb15a70-0174-4ae7-9644-c07f4bd53a3c",
+      "proposalIndex": 22,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MVUCJYICVTZUXAISLYEYBPNVOQWANSLOKNKZVHSAQFJIVALBLOSEBVDHUARK",
+      "published": "2025-07-14T11:28:13.577",
+      "status": 4,
+      "title": "CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md a",
+      "totalVotes": 0,
+      "url": "https://github.com/OfficialRBweb3/CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/blob/main/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md"
+    },
+    {
+      "epoch": 169,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 72.85,
+          "title": "No Transfer",
+          "votes": 448
+        },
+        {
+          "percentage": 27.15,
+          "title": "Yes, send 1,000,000,000 $QUBIC",
+          "votes": 167
+        }
+      ],
+      "proposalId": "29ebc5a5-de7f-4dda-8960-87c86434bc65",
+      "proposalIndex": 20,
+      "proposalType": "Transfer",
+      "proposerIdentity": "HJOMRWLFMFOPHAVXXZOXNGCSNTPABQKSYQTRTFSCGCPLLYQWGGRTCISAXHQA",
+      "published": "2025-07-11T22:51:01.45",
+      "status": 6,
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp (REDUCED COST)",
+      "totalVotes": 615,
+      "url": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md"
+    },
+    {
+      "epoch": 169,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 26.94,
+          "title": "No",
+          "votes": 167
+        },
+        {
+          "percentage": 73.06,
+          "title": "Yes",
+          "votes": 453
+        }
+      ],
+      "proposalId": "0a0374fc-a5a0-4c47-b78c-69d293425743",
+      "proposalIndex": 15,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-07-11T22:43:37.987",
+      "status": 3,
+      "title": "Proposal to include QSwap Smart Contract",
+      "totalVotes": 620,
+      "url": "https://github.com/qubic/proposal/blob/4c2bf93d8eeaebcfdc7b5723a01149b559a52ac5/SmartContracts/2025-07-11-QSwap.md"
+    },
+    {
+      "epoch": 169,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 74.43,
+          "title": "No Transfer",
+          "votes": 460
+        },
+        {
+          "percentage": 25.57,
+          "title": "Yes, send 18,600,000,000 $QUBIC",
+          "votes": 158
+        }
+      ],
+      "proposalId": "701790c3-38ad-4429-839d-8485ebaa0051",
+      "proposalIndex": 21,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MODMHIDMLHWBGHKQZYDIRMICOVRAAXCLXWJVEMTSQDIFAIEZKLBQXIGDNZJN",
+      "published": "2025-07-11T17:01:28.37",
+      "status": 6,
+      "title": "Proposal: Qubic Alert System (QAS)",
+      "totalVotes": 618,
+      "url": "https://github.com/Pickle-Pixel/Qubic-Alert-System-QAS/blob/83f7efb88a48f64ab495678fd0b2dce1833ddae4/CCF-Funding-Requests/2025-07-02-Qubic-Alert-System-QDAS.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:42:55Z"
+}

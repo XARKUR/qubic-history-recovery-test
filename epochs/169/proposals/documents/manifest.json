@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/Pickle-Pixel/Qubic-Alert-System-QAS/blob/83f7efb88a48f64ab495678fd0b2dce1833ddae4/CCF-Funding-Requests/2025-07-02-Qubic-Alert-System-QDAS.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "Pickle-Pixel",
+      "path": "CCF-Funding-Requests/2025-07-02-Qubic-Alert-System-QDAS.md",
+      "proposalIndex": 21,
+      "ref": "83f7efb88a48f64ab495678fd0b2dce1833ddae4",
+      "repo": "Qubic-Alert-System-QAS",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Proposal: Qubic Alert System (QAS)"
+    },
+    {
+      "archivePath": "15-proposal-to-include-qswap-smart-contract-af0b893bbe.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/4c2bf93d8eeaebcfdc7b5723a01149b559a52ac5/SmartContracts/2025-07-11-QSwap.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "af0b893bbed6e1f3b2d03d11894a9db83f4e2bee8420441f4e60c77aae8737cc",
+      "owner": "qubic",
+      "path": "SmartContracts/2025-07-11-QSwap.md",
+      "proposalIndex": 15,
+      "ref": "4c2bf93d8eeaebcfdc7b5723a01149b559a52ac5",
+      "repo": "proposal",
+      "sha256": "af0b893bbed6e1f3b2d03d11894a9db83f4e2bee8420441f4e60c77aae8737cc",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QSwap Smart Contract"
+    },
+    {
+      "archivePath": "20-satoshi-s-cat-matilda-website-revamp-reduced-cost-555429e06f.md",
+      "canonicalUrl": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "owner": "lolKovuh",
+      "path": "matilda_website_proposal.md",
+      "proposalIndex": 20,
+      "ref": "main",
+      "repo": "matilda-website-funding-request",
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp (REDUCED COST)"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/blob/main/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "OfficialRBweb3",
+      "path": "CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md",
+      "proposalIndex": 22,
+      "ref": "main",
+      "repo": "CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "CCF-Proposal-Qubic-x-Ryan-Babel-Partnership-/CCF Proposal_ Qubic x Ryan Babel (Partnership 2.0).md a"
+    }
+  ],
+  "epoch": 169,
+  "generatedAt": "2026-08-04T00:48:23Z"
+}
