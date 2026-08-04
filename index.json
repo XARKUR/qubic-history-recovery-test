@@ -1,6 +1,12 @@
 {
   "archives": [
     {
+      "epoch": 212,
+      "generatedAt": "2026-08-04T01:33:34Z",
+      "path": "epochs/212/manifest.json",
+      "status": "partial_final"
+    },
+    {
       "epoch": 211,
       "generatedAt": "2026-08-04T01:33:30Z",
       "path": "epochs/211/manifest.json",
@@ -448,5 +454,5 @@
   "branch": "recovery-latest-qearn-20260804",
   "repository": "XARKUR/qubic-history-recovery-test",
   "schemaVersion": "qubic-history-v2",
-  "updatedAt": "2026-08-04T01:33:30Z"
+  "updatedAt": "2026-08-04T01:33:34Z"
 }

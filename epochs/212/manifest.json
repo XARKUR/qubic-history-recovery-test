@@ -1,0 +1,58 @@
+{
+  "epoch": 212,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "1927a1c0b4e1047cbd61374fdad241a1b1debcfc5e6d6ba5f3ca5c9d86dacf15",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "3003ec9b08289967fc13040ca15392f7f3325ee25f9860a8fde7e74c0ac639c9",
+      "sizeBytes": 234780,
+      "status": "ok"
+    },
+    "proposals/documents/0-privatebin-0518cab201.html": {
+      "sha256": "0518cab20182d0b3bec72e703335b4ff0bbbe68283898e79300970404cd9859b",
+      "sizeBytes": 30603,
+      "status": "ok"
+    },
+    "proposals/documents/1-qip-upgrade-proposal-c38c3a6fda.md": {
+      "sha256": "c38c3a6fdadad3248e9503336730d388d42b08f50253b63620d09e4c9fb0d272",
+      "sizeBytes": 2858,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "6873a6425e0073fe106b5877d3c1d59bd2aeb71a1bcddf16d11e35d22a87f9dc",
+      "sizeBytes": 1317,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "4f2464fc7d83cc502013d5050ce977b40b9b593004484fcda289c1fda28ed5e6",
+      "sizeBytes": 2788,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "45bf086438c06ebcc09c1c2eb591c05e389a6408d2e586c1cf0f79cc38e586f8",
+      "sizeBytes": 365683,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "f377c67fb8bd3e19d958823726ffbd21409b8b0a5e908bdb97274bc56816d3a6",
+      "sizeBytes": 61519,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:33:34Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
