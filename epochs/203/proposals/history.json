@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/9be8718ba005b2941b0792258e13c763a1d8e2eb/SmartContracts/2026-03-07-Upgrade-QVault.md",
+      "documentKey": "e0ff0dec70773e16ebe2041b692acf88b424cd4be78ef4a91d7623655135c2df",
+      "epoch": 203,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3d3d95fb-54f7-4bfa-8d53-b05c7afe0bc9",
+      "proposalIndex": 24,
+      "published": "2026-03-07T21:24:08.247",
+      "sha256": "4a614a050ac2cb74d63b0dfb15474cba9f540a58d31710928da270e5cd92b5a8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade SC QVault to Version 2.0"
+    }
+  ],
+  "epoch": 203,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 203,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 5.8,
+          "title": "No",
+          "votes": 32
+        },
+        {
+          "percentage": 94.2,
+          "title": "Yes",
+          "votes": 520
+        }
+      ],
+      "proposalId": "3d3d95fb-54f7-4bfa-8d53-b05c7afe0bc9",
+      "proposalIndex": 24,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "CCNCYCDWBXFSTAKYJHRMEMWDBOTBBNHWWJDBKZJIPBACFDUZFSUKYJIBTSKN",
+      "published": "2026-03-07T21:24:08.247",
+      "status": 3,
+      "title": "Proposal: Upgrade SC QVault to Version 2.0",
+      "totalVotes": 552,
+      "url": "https://github.com/KavataK/proposal/blob/9be8718ba005b2941b0792258e13c763a1d8e2eb/SmartContracts/2026-03-07-Upgrade-QVault.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:59Z"
+}
