@@ -1,0 +1,83 @@
+{
+  "epoch": 206,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "3c8f5da1b68b6c6dcd2895440c9d5554203f646fd0d6ccb2945a3b67cfa64751",
+      "sizeBytes": 521,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "340966bc09fb8c520b3133be012f85af0e178763da78de4136425870a636e62d",
+      "sizeBytes": 920770,
+      "status": "ok"
+    },
+    "proposals/documents/1-proposal-to-include-qusino-smart-contract-c18c0f30e4.md": {
+      "sha256": "c18c0f30e4d1aa303878277f589062b4c2cdee96d58902e48ef1069c642302a7",
+      "sizeBytes": 42066,
+      "status": "ok"
+    },
+    "proposals/documents/25-andrewx-qubic-strategic-board-member-79210edfc9.md": {
+      "sha256": "79210edfc9d1cafe9a33b4b043be615fc31a1000e34c323401abb2c4b4377541",
+      "sizeBytes": 2282,
+      "status": "ok"
+    },
+    "proposals/documents/26-cade-qubic-strategic-board-member-c84a02aa6a.md": {
+      "sha256": "c84a02aa6a46c88c3c07fa5320268ce5e93e4ae4a444d070021a5c7a86e11c13",
+      "sizeBytes": 724,
+      "status": "ok"
+    },
+    "proposals/documents/27-pomm3sgab3l-qubic-strategic-board-member-b3be266151.md": {
+      "sha256": "b3be2661517459ecdc8da465ced6fd17ae3458254b8c4457bae68b9687c0e128",
+      "sizeBytes": 1507,
+      "status": "ok"
+    },
+    "proposals/documents/28-zgirt-qubic-strategic-board-member-1920fb8ce1.md": {
+      "sha256": "1920fb8ce15d1c62f962651c9bebfb8c992f8bd065e95062bb009ee6a4fd3d9e",
+      "sizeBytes": 735,
+      "status": "ok"
+    },
+    "proposals/documents/57-qubic-marketing-ccf-funding-proposal-602ff55643.md": {
+      "sha256": "602ff55643b20e8de48d07e460293333dc59d5837335bd259f0ea5d79712450a",
+      "sizeBytes": 6976,
+      "status": "ok"
+    },
+    "proposals/documents/65-attend-hong-kong-web3-festival-2026-and-qubic-computing-power-leasing-market-res-1b334dd841.md": {
+      "sha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "sizeBytes": 15489,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "e555687915725de21e544989b997ee7edf468a4cb330c014765bedcb03673418",
+      "sizeBytes": 5610,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "885912fb0a6fde65a7fc38764672de96a1e0cb6aaaa8b58b7b6a3cf78214c94f",
+      "sizeBytes": 10527,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "b83a9ff09a9f22cbc62a68f6d753e67b1a01bc1fab180d2860c3eaca7e46e648",
+      "sizeBytes": 1242522,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "944a13d5fbc04500ad1ec9f5d4d31154789b9a0afd5aa183435dff4377e36cdc",
+      "sizeBytes": 72479,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:33:02Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
