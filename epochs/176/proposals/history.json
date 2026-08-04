@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/6b20093/CCF Proposal Token2049 Singapore.md",
+      "documentKey": "a9cf278b63cfb92dbfb7d9ce9c7c1821a6a1495d011860b29942a72c415ac6a7",
+      "epoch": 176,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "7f8faa83-c6e3-42ee-a40c-041cf0de20d4",
+      "proposalIndex": 1,
+      "published": "2025-08-30T07:40:33.88",
+      "sha256": "95618eec498c2b17f28b8cb4dfe9f9e30718ea91388d408d0369b89d824138c3",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal TOKEN2049"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/a10eb42/CCF Proposal - Ambassador Program SO4  .md",
+      "documentKey": "02862c98a889592161bc074e6828392a1d2964221273a1ff06c4b1e5189ae50f",
+      "epoch": 176,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d2e78fc4-e83e-486e-a00d-328ecb07531c",
+      "proposalIndex": 13,
+      "published": "2025-08-30T07:40:24.7",
+      "sha256": "1835207830b37cd81c97bda5bd6047df74eebbb6c3a4d1ff12be4bb3a95153b6",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program SO4"
+    },
+    {
+      "canonicalUrl": "https://github.com/kriptolojik/Qubic-Bogazici-University-Summit/blob/95ac9d15faf8a7af94ebe00ab117ce4092199776/Qubic_2025_Bogazici_Summit.md",
+      "documentKey": "7c419dbe3d3e9df52c73d0e1fbe7bcaa90ac76f35c1a419bd5a90f8d4b28d93c",
+      "epoch": 176,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "507ad762-a3d0-488a-acbb-a2873a83cd22",
+      "proposalIndex": 37,
+      "published": "2025-08-30T00:16:41.5",
+      "sha256": "0389a7de7c636219188c86f0b10baeaf66e1047f327c3f69186c09904ad8b86f",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic-Bogazici-University-Summit/Qubic_2025_Bogazici_Summit.md at 95ac9d15faf8a7af94ebe00ab117ce4092"
+    },
+    {
+      "canonicalUrl": "https://github.com/REVO-CAT/Q-Stream-Proposal/blob/main/proposal.md",
+      "documentKey": "be892f5dce6dfdf67d78d8210573b9f9e6b1ae64ed0e6c05a0cf06f155936d24",
+      "epoch": 176,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "2498c880-f444-4802-8035-a7459d073b85",
+      "proposalIndex": 40,
+      "published": "2025-08-29T12:49:36.81",
+      "sha256": "32e41900e8922fd3cdf654ca125d7441f6dd700d8650dbacdcac98bd1aa82b2f",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Q-Stream Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/sergimima/qubic-proposal/blob/2a4a0a9/2025-08-19-VottunBridge.md",
+      "documentKey": "2105b45577bab736f40ce1bc7bba6c29b8825923319d1500cb071bc3353ea97d",
+      "epoch": 176,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1b46ed48-705d-45ad-8ef0-b48765b71e84",
+      "proposalIndex": 16,
+      "published": "2025-08-28T10:24:14.12",
+      "sha256": "fc4a192e041eee283578672e8e4a561f696d494931899ce89f319391b7fa3e1d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QBridge Smart Contract"
+    }
+  ],
+  "epoch": 176,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 176,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 57.34,
+          "title": "No Transfer",
+          "votes": 367
+        },
+        {
+          "percentage": 42.66,
+          "title": "Yes, send 32’600’000’000 $QUBIC",
+          "votes": 273
+        }
+      ],
+      "proposalId": "7f8faa83-c6e3-42ee-a40c-041cf0de20d4",
+      "proposalIndex": 1,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ACWNEGHPRAEPCFXNDEZDRQXLOPSCYDIFBUPRUIULSEZWHDHBFUMOLDVGNAZA",
+      "published": "2025-08-30T07:40:33.88",
+      "status": 6,
+      "title": "CCF proposal TOKEN2049",
+      "totalVotes": 640,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/6b20093/CCF Proposal Token2049 Singapore.md"
+    },
+    {
+      "epoch": 176,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 60.96,
+          "title": "No Transfer",
+          "votes": 392
+        },
+        {
+          "percentage": 39.04,
+          "title": "Yes, send 41’300’000’000 $QUBIC",
+          "votes": 251
+        }
+      ],
+      "proposalId": "d2e78fc4-e83e-486e-a00d-328ecb07531c",
+      "proposalIndex": 13,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-08-30T07:40:24.7",
+      "status": 6,
+      "title": "CCF Proposal - Ambassador Program SO4",
+      "totalVotes": 643,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/a10eb42/CCF Proposal - Ambassador Program SO4  .md"
+    },
+    {
+      "epoch": 176,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 77.24,
+          "title": "No Transfer",
+          "votes": 492
+        },
+        {
+          "percentage": 22.76,
+          "title": "Yes, send 6’500’000’000 $QUBIC",
+          "votes": 145
+        }
+      ],
+      "proposalId": "507ad762-a3d0-488a-acbb-a2873a83cd22",
+      "proposalIndex": 37,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SVIZJFCFZHPLQCXHVNBACXEJGGVBPDDVAZFEEWGRUGYYZWRTGCCZEZMDPNSI",
+      "published": "2025-08-30T00:16:41.5",
+      "status": 6,
+      "title": "Qubic-Bogazici-University-Summit/Qubic_2025_Bogazici_Summit.md at 95ac9d15faf8a7af94ebe00ab117ce4092",
+      "totalVotes": 637,
+      "url": "https://github.com/kriptolojik/Qubic-Bogazici-University-Summit/blob/95ac9d15faf8a7af94ebe00ab117ce4092199776/Qubic_2025_Bogazici_Summit.md"
+    },
+    {
+      "epoch": 176,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 35.87,
+          "title": "No Transfer",
+          "votes": 231
+        },
+        {
+          "percentage": 64.13,
+          "title": "Yes, send 4’500’000’000 $QUBIC",
+          "votes": 413
+        }
+      ],
+      "proposalId": "2498c880-f444-4802-8035-a7459d073b85",
+      "proposalIndex": 40,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UODDDKOYGJMVRFWXZVUWYETLSYTAAXPFQDPNCBKRJHAXHPEWPZUDZMOFJWCI",
+      "published": "2025-08-29T12:49:36.81",
+      "status": 3,
+      "title": "Q-Stream Proposal",
+      "totalVotes": 644,
+      "url": "https://github.com/REVO-CAT/Q-Stream-Proposal/blob/main/proposal.md"
+    },
+    {
+      "epoch": 176,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 57.03,
+          "title": "No",
+          "votes": 369
+        },
+        {
+          "percentage": 42.97,
+          "title": "Yes",
+          "votes": 278
+        }
+      ],
+      "proposalId": "1b46ed48-705d-45ad-8ef0-b48765b71e84",
+      "proposalIndex": 16,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "VVKJPLTDVLUSLFADVASZNCHZUULBXBMCNFVXJMZELELZUUGBRSAQPKVFQGRO",
+      "published": "2025-08-28T10:24:14.12",
+      "status": 6,
+      "title": "Proposal to include QBridge Smart Contract",
+      "totalVotes": 647,
+      "url": "https://github.com/sergimima/qubic-proposal/blob/2a4a0a9/2025-08-19-VottunBridge.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:21Z"
+}
