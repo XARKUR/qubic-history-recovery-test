@@ -1,0 +1,93 @@
+{
+  "epoch": 217,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "720bb553f491750f1e569ff7fe4860048a2f2be2c5316c58af3dd8037208063e",
+      "sizeBytes": 70368,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "06d4ce2de4d8ee93b5168fc957dbdba327873aa033f49e4d9691dab11657ec9f",
+      "sizeBytes": 390,
+      "status": "ok"
+    },
+    "ipo/documents/28-ggwp-bd521b0d99.txt": {
+      "sha256": "bd521b0d995c00abb19e87557a569699df448e7d1df7a9cb10050325b900d0dc",
+      "sizeBytes": 49351,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "9e122c677841cd3b7d0fb072582f198c8435265797be61e08eb3e7ecc663ee49",
+      "sizeBytes": 605,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "76938fa76e28f5b3018f9a4f56f4e9a93f76333d88c8e2e980465efe1f971d81",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "6d134abe918770efd0180648a2e77329c4d5ba5f96d73aa0ca2f2604a8dc1819",
+      "sizeBytes": 598945,
+      "status": "ok"
+    },
+    "proposals/documents/1-proposal-qraffle-smart-contract-revisions-proposal-qraffle-smart-contract-revisi-05cb33e06f.md": {
+      "sha256": "05cb33e06f9a33af65a8546012f4e49975fbaa3e637716085fe527521210bdc0",
+      "sizeBytes": 2293,
+      "status": "ok"
+    },
+    "proposals/documents/34-proposal-temporary-burn-replenishment-for-qvault-and-qbond-41a923e2f6.md": {
+      "sha256": "41a923e2f6f2f9a5c850c7a3367146fcb5baea0c76ef34078cd7858044f39bce",
+      "sizeBytes": 4810,
+      "status": "ok"
+    },
+    "proposals/documents/57-qubic-marketing-reimbursement-proposal-f52b24f10c.md": {
+      "sha256": "f52b24f10cc50d7b7aa44fee10837918346d7a64870bdff7bcb95da70ea7ab23",
+      "sizeBytes": 5575,
+      "status": "ok"
+    },
+    "proposals/documents/67-1-ccf-proposal-0fa1b65bc2.md": {
+      "sha256": "0fa1b65bc2c85caa248e0f3b45653c0fabcab90c40da70882cb82f72a6d54ed1",
+      "sizeBytes": 27253,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "bb9e511b7728a81e64624f6fd3b116aa94064543a0466e37783a9b3b6e4e2b3e",
+      "sizeBytes": 3226,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "9d795fb51d581533c30f0e39a914916a044e6929c737d886b332f91d3ab4e8e2",
+      "sizeBytes": 6113,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "6b0955b1ea477e4f86e387be0dec65a4601f466fe751e6038a81b3770ec59536",
+      "sizeBytes": 796247,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "561b75c7ef3c07b59506641d41d66f66193137ea4eb6a9226c060f88ddb0d52f",
+      "sizeBytes": 550,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "3603ee9ad80dc911fd2552c9512e8c193dcea0bcab1b1af1312402bb3fb23692",
+      "sizeBytes": 58966,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:07:09Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
