@@ -1,0 +1,68 @@
+{
+  "epoch": 213,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "d0e56758504298cf09e93b07e74bd3ba60e29260d5215c1d40742d09a796abe1",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "c4aff65937fc513fc3a769e905c1e2bee8b2aa3133ff06fbac9abb9b72bbbf7a",
+      "sizeBytes": 403584,
+      "status": "ok"
+    },
+    "proposals/documents/22-proposal-optimize-qvault-smart-contract-dbdddd154d.html": {
+      "sha256": "dbdddd154d512119514389f3ab63ba29687300330f9c21e5ef8861b156b2c825",
+      "sizeBytes": 275058,
+      "status": "ok"
+    },
+    "proposals/documents/31-proposal-upgrade-qraffle-smart-contract-5e34ceb1ba.html": {
+      "sha256": "5e34ceb1ba9615d008182ff442cffbfeceff379b4b86de982c94e3171d579182",
+      "sizeBytes": 270070,
+      "status": "ok"
+    },
+    "proposals/documents/57-extension-of-protection-for-the-qswap-contract-against-procedure-spamming-08a54d8e10.md": {
+      "sha256": "08a54d8e104893462603428db4a97847d396c3904c3ab0a6e9a241e629cc4d30",
+      "sizeBytes": 2041,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "b295115acd138373179ca9fe1b7bb18a0d0a7260a1b40ad6f7abbed6dc262eda",
+      "sizeBytes": 2193,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "13602f1e8a8c9ef7a3d84d86524de0b7618446e21ee85825a3020b1c8cadfdb7",
+      "sizeBytes": 4473,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "63357c8083f4aef46fe5dad8f53e6db82931a8e129b2e09ef6adb4f46a50747a",
+      "sizeBytes": 537165,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "47c5466364c50d75012973671924d164ced6d183415e3b1d3b2b3fd94a6e655a",
+      "sizeBytes": 548,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "4441387bf1bc22c1cdf1d09671b08c069f2a2143f4be02a9f70544b5a65ace13",
+      "sizeBytes": 53158,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:06:44Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

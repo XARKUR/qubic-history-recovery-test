@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/profitphil/Proposal-upgrade-Qraffle-smart-contract",
+      "documentKey": "88b87cc413147bb0e735f695ed423e0cd930264ea8f08fb270262f8938cefbf9",
+      "epoch": 213,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5fd37979-0e7a-4916-aa1a-2a2e90b9cf44",
+      "proposalIndex": 31,
+      "published": "2026-05-16T20:28:54.073",
+      "sha256": "5e34ceb1ba9615d008182ff442cffbfeceff379b4b86de982c94e3171d579182",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "Proposal: Upgrade Qraffle Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/metafisicista/Proposal-Optimize-QVAULT-Smart-Contract/tree/main",
+      "documentKey": "a53143ea9e08d84e8f6e64c82d9dd64d8ed138868af4016e0c48f975635090ef",
+      "epoch": 213,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "f8e3421f-8834-4696-976b-da400f6d9740",
+      "proposalIndex": 22,
+      "published": "2026-05-16T11:23:01.2",
+      "sha256": "dbdddd154d512119514389f3ab63ba29687300330f9c21e5ef8861b156b2c825",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "Proposal-Optimize-QVAULT-Smart-Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/javathon/Proposals/blob/d323fff406cdf0b760d341b378b5d88f5eff34e7/qswap-hardening.md",
+      "documentKey": "485a6e07b3033a14bb679e55a22ca5aa46fdc2ba84c2613311556933fa94abf2",
+      "epoch": 213,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "65cab540-ff89-4085-812d-37f061e844ef",
+      "proposalIndex": 57,
+      "published": "2026-05-14T19:35:53.593",
+      "sha256": "08a54d8e104893462603428db4a97847d396c3904c3ab0a6e9a241e629cc4d30",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Extension of Protection for the QSWAP Contract against Procedure Spamming"
+    }
+  ],
+  "epoch": 213,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 213,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 6.34,
+          "title": "No",
+          "votes": 34
+        },
+        {
+          "percentage": 93.66,
+          "title": "Yes",
+          "votes": 502
+        }
+      ],
+      "proposalId": "5fd37979-0e7a-4916-aa1a-2a2e90b9cf44",
+      "proposalIndex": 31,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BRYVNUOBJXMMCCHSGAYGDYUWTZCCZNKDLTJWDYLPIEYOXBZMVEOPYTTCAMKL",
+      "published": "2026-05-16T20:28:54.073",
+      "status": 3,
+      "title": "Proposal: Upgrade Qraffle Smart Contract",
+      "totalVotes": 536,
+      "url": "https://github.com/profitphil/Proposal-upgrade-Qraffle-smart-contract"
+    },
+    {
+      "epoch": 213,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 5.41,
+          "title": "No",
+          "votes": 29
+        },
+        {
+          "percentage": 94.59,
+          "title": "Yes",
+          "votes": 507
+        }
+      ],
+      "proposalId": "f8e3421f-8834-4696-976b-da400f6d9740",
+      "proposalIndex": 22,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XYZLYOUCYTFXHDGASZPTIIURRJJCMPFPWZGZQFZKCBBZIBAWEPEAIQCCQAPO",
+      "published": "2026-05-16T11:23:01.2",
+      "status": 3,
+      "title": "Proposal-Optimize-QVAULT-Smart-Contract",
+      "totalVotes": 536,
+      "url": "https://github.com/metafisicista/Proposal-Optimize-QVAULT-Smart-Contract/tree/main"
+    },
+    {
+      "epoch": 213,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 3.76,
+          "title": "No Transfer",
+          "votes": 20
+        },
+        {
+          "percentage": 96.24,
+          "title": "Yes, send 3,500,000,000 $QUBIC",
+          "votes": 512
+        }
+      ],
+      "proposalId": "65cab540-ff89-4085-812d-37f061e844ef",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-05-14T19:35:53.593",
+      "status": 3,
+      "title": "Extension of Protection for the QSWAP Contract against Procedure Spamming",
+      "totalVotes": 532,
+      "url": "https://github.com/javathon/Proposals/blob/d323fff406cdf0b760d341b378b5d88f5eff34e7/qswap-hardening.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:20Z"
+}
