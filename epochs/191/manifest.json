@@ -1,0 +1,73 @@
+{
+  "epoch": 191,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "c66411c85c17ba85fa9691a90cdad202e5566ba7004011ac178fbec5110af48b",
+      "sizeBytes": 69842,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "a861444f381d01d4e1745c1aa15f5ca36363b470037f5aac02eeb0b46e1ddeb5",
+      "sizeBytes": 399,
+      "status": "ok"
+    },
+    "ipo/documents/19-qraffle-5c973269cf.txt": {
+      "sha256": "5c973269cf7824e6f0e6a55e5b93401898fed988962c51d5ca9dd3c8ecbe42b1",
+      "sizeBytes": 48847,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "aabd898012a49e9d7385fe1c5586de8e1a940b05f02002fd2c2df180e3074fc7",
+      "sizeBytes": 617,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "91274ce1d4b7df33829fce600602bf2c42c646f7be7584bd0643a65b74c7a5b0",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "19db3010fa3b96273380747a53544145ce776085d022b4248514573489bb2a4c",
+      "sizeBytes": 325751,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "56d6769a13b239d110988ce1147edc4fc9ec934ec4adaa320b3235f736b33643",
+      "sizeBytes": 3066,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "4544684fb588161813df4e67deedba53470f6ab15ec467165d7b78642cb4369a",
+      "sizeBytes": 428184,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "3707b151eb709b5c77644b745293722d27d851a12be5357b5d6e24b3b8476dca",
+      "sizeBytes": 123435,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:14:46Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
