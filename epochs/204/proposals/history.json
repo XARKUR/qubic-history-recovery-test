@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/ae2d251c545a96ab2c29a91ae540992b03ad2e9e/DOGE AD HOCK BUDGET.md",
+      "documentKey": "3ac71a510411782a7e0b13a5bf2070c6cf1eea01943ce64b93712e5cd5b4d1a2",
+      "epoch": 204,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b9416687-5d1a-4354-8f8a-3c005f965a22",
+      "proposalIndex": 63,
+      "published": "2026-03-14T23:24:09.43",
+      "sha256": "0d2e001401d49d0b96326d113defb8971b430383e266aa9c3558b0851012a143",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC DOGE LAUNCH MARKETING"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/qct/blob/6ef6eabc17018236b34a135e4437d03a1e47e92c/funding/2026-03-Q2-proposal.md",
+      "documentKey": "be65ead5db8badd840753c449ba8a244948a67c98d6d14b1969c3e6e94933468",
+      "epoch": 204,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ae95a09d-3578-4adb-9af4-56c6388fdce4",
+      "proposalIndex": 57,
+      "published": "2026-03-14T11:18:13.617",
+      "sha256": "70602aafab8c7fd7fb680e24aaed21cfd18ef263934dfc767991935d67077b43",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Fund Qubic Core Development"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/88a3d1d/QubicScienceAMLDS2026.md",
+      "documentKey": "855bbe918cda88ef66644e4bf5645e5d0d41bf7ff91d279cd4f3d3baa1256520",
+      "epoch": 204,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "7c55c429-367c-4eb3-b591-c3a69c9aae51",
+      "proposalIndex": 62,
+      "published": "2026-03-14T08:35:26.4",
+      "sha256": "f9fdb2509dd667c6eb4a82097ca84d86e35bfb5a9bfa4052c603ea5572de49b1",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC SCIENCE - AMLDS 2026"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/0472abf/QubicScience2026-SecondTrimester.md",
+      "documentKey": "b353c252464c4867b4b4fd98a8d5b0f7eb909512ca8dfb2ce53d43bca7f2e4e6",
+      "epoch": 204,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "14f72ad8-89f9-4c6f-a25f-af987649eac8",
+      "proposalIndex": 12,
+      "published": "2026-03-14T08:33:54.94",
+      "sha256": "ab4cc5ac815e83325c462e821c154db8534f7858795e19374b6b06e22e68d397",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 Second Trimester Q2"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/e54987c19d95b6f4bbb54c9b1413e6092dc1d452/SmartContracts/2026-03-13-QBridge.md",
+      "documentKey": "b2985af7aff5dd574aa05a4be03a257fec0c4b8b6596ff214636ca0476797cb1",
+      "epoch": 204,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "871b6c12-d38a-4cc7-8678-08ed4ce7f5fd",
+      "proposalIndex": 5,
+      "published": "2026-03-13T11:30:26.467",
+      "sha256": "3e5e0960f1ca170e40fbfcab82ddc8be7c479c0145b749f3ab3be179b7b5b415",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QBridge Smart Contract (v2 - Multisig)"
+    }
+  ],
+  "epoch": 204,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 204,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 36.23,
+          "title": "No Transfer",
+          "votes": 225
+        },
+        {
+          "percentage": 63.77,
+          "title": "Yes, send 25,142,857,143 $QUBIC",
+          "votes": 396
+        }
+      ],
+      "proposalId": "b9416687-5d1a-4354-8f8a-3c005f965a22",
+      "proposalIndex": 63,
+      "proposalType": "Transfer",
+      "proposerIdentity": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+      "published": "2026-03-14T23:24:09.43",
+      "status": 3,
+      "title": "QUBIC DOGE LAUNCH MARKETING",
+      "totalVotes": 621,
+      "url": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/ae2d251c545a96ab2c29a91ae540992b03ad2e9e/DOGE AD HOCK BUDGET.md"
+    },
+    {
+      "epoch": 204,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 29.19,
+          "title": "No Transfer",
+          "votes": 181
+        },
+        {
+          "percentage": 70.81,
+          "title": "Yes, send 572,000,000,000 $QUBIC",
+          "votes": 439
+        }
+      ],
+      "proposalId": "ae95a09d-3578-4adb-9af4-56c6388fdce4",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-03-14T11:18:13.617",
+      "status": 3,
+      "title": "Fund Qubic Core Development",
+      "totalVotes": 620,
+      "url": "https://github.com/qubic/qct/blob/6ef6eabc17018236b34a135e4437d03a1e47e92c/funding/2026-03-Q2-proposal.md"
+    },
+    {
+      "epoch": 204,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 46.49,
+          "title": "No Transfer",
+          "votes": 291
+        },
+        {
+          "percentage": 53.51,
+          "title": "Yes, send 14,100,000,000 $QUBIC",
+          "votes": 335
+        }
+      ],
+      "proposalId": "7c55c429-367c-4eb3-b591-c3a69c9aae51",
+      "proposalIndex": 62,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SIBALIRBILXSNCJWIKERBGNPBFLBLDYWBRRRVCVIRCENKBIPXYIEHIZDJSOG",
+      "published": "2026-03-14T08:35:26.4",
+      "status": 3,
+      "title": "QUBIC SCIENCE - AMLDS 2026",
+      "totalVotes": 626,
+      "url": "https://github.com/qubicsci/Proposals/blob/88a3d1d/QubicScienceAMLDS2026.md"
+    },
+    {
+      "epoch": 204,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 43.06,
+          "title": "No Transfer",
+          "votes": 267
+        },
+        {
+          "percentage": 56.94,
+          "title": "Yes, send 81,400,000,000 $QUBIC",
+          "votes": 353
+        }
+      ],
+      "proposalId": "14f72ad8-89f9-4c6f-a25f-af987649eac8",
+      "proposalIndex": 12,
+      "proposalType": "Transfer",
+      "proposerIdentity": "RDHJXSLOOTYGSBMLVJPCNDFNYVFAXWCNDEEFIKKKVASXTNNYXSPMQNJBIIMN",
+      "published": "2026-03-14T08:33:54.94",
+      "status": 3,
+      "title": "QUBIC AGI (True AI) Research 2026 Second Trimester Q2",
+      "totalVotes": 620,
+      "url": "https://github.com/qubicsci/Proposals/blob/0472abf/QubicScience2026-SecondTrimester.md"
+    },
+    {
+      "epoch": 204,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 37.8,
+          "title": "No",
+          "votes": 217
+        },
+        {
+          "percentage": 62.2,
+          "title": "Yes",
+          "votes": 357
+        }
+      ],
+      "proposalId": "871b6c12-d38a-4cc7-8678-08ed4ce7f5fd",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-03-13T11:30:26.467",
+      "status": 3,
+      "title": "Proposal to include QBridge Smart Contract (v2 - Multisig)",
+      "totalVotes": 574,
+      "url": "https://github.com/qubic/proposal/blob/e54987c19d95b6f4bbb54c9b1413e6092dc1d452/SmartContracts/2026-03-13-QBridge.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:02Z"
+}
