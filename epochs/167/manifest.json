@@ -1,0 +1,53 @@
+{
+  "epoch": 167,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "613a40822d712c460ed61b99048fad04b4890e5c2c64353812a9a216e8473feb",
+      "sizeBytes": 247359,
+      "status": "ok"
+    },
+    "proposals/documents/14-proposal-qearn-unlock-vesting-period-1e38ea7ad3.md": {
+      "sha256": "1e38ea7ad3a95394a030981805cabdc8283cdb8184c7bd411bcedc57af525810",
+      "sizeBytes": 3411,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "2db182a75a5239829a0fefbb14f5e0e6950a6cf7495e4cebd997ed13e1989526",
+      "sizeBytes": 1532,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "ded122636c13145b3b058706438051382998e210be90e892574570b97a806ce0",
+      "sizeBytes": 3304,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "7b87a1f9b852d2f5b991ca510055fd8aff024f505ef762cea75aed03dfd4cc69",
+      "sizeBytes": 341905,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "1ba4f818c3532e6584a76e1558ba71e859956f6adbce4fc70e070eda3e4b3821",
+      "sizeBytes": 554,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:02:15Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
