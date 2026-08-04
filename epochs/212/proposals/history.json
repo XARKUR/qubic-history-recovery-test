@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/nineisten/QIP-Upgrades/blob/1302be22c8d1c10abe31ff20188384a0d5c3dbdf/README.md",
+      "documentKey": "4e1cc1d72def2a262f07ca64865e22d52783b53980e037f5ce47df827e59b6d8",
+      "epoch": 212,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "45135878-6706-4a37-a797-5cd9e596bc4f",
+      "proposalIndex": 1,
+      "published": "2026-05-09T09:00:00.723",
+      "sha256": "c38c3a6fdadad3248e9503336730d388d42b08f50253b63620d09e4c9fb0d272",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QIP Upgrade Proposal"
+    },
+    {
+      "canonicalUrl": "https://privatebin.net/",
+      "documentKey": "b2157fb8dcebccd5710d6c31298445f21d0be7e134ed72659b2c7f7f0eaa674d",
+      "epoch": 212,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "760e0789-6edd-4979-8637-b19a0ba668c0",
+      "proposalIndex": 0,
+      "published": "2026-05-07T04:23:04.387",
+      "sha256": "0518cab20182d0b3bec72e703335b4ff0bbbe68283898e79300970404cd9859b",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "PrivateBin"
+    }
+  ],
+  "epoch": 212,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 212,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 525
+        }
+      ],
+      "proposalId": "45135878-6706-4a37-a797-5cd9e596bc4f",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-05-09T09:00:00.723",
+      "status": 3,
+      "title": "QIP Upgrade Proposal",
+      "totalVotes": 525,
+      "url": "https://github.com/nineisten/QIP-Upgrades/blob/1302be22c8d1c10abe31ff20188384a0d5c3dbdf/README.md"
+    },
+    {
+      "epoch": 212,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 55.81,
+          "title": "No",
+          "votes": 317
+        },
+        {
+          "percentage": 44.19,
+          "title": "Yes",
+          "votes": 251
+        }
+      ],
+      "proposalId": "760e0789-6edd-4979-8637-b19a0ba668c0",
+      "proposalIndex": 0,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XVEOTRCTCCZQUFVXNABJDGIMOBDBJSUIVDUFGZSSFFSZCQFUPNYDBWMAEFNO",
+      "published": "2026-05-07T04:23:04.387",
+      "status": 6,
+      "title": "PrivateBin",
+      "totalVotes": 568,
+      "url": "https://privatebin.net/"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:18Z"
+}
