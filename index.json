@@ -7,6 +7,12 @@
       "status": "partial_final"
     },
     {
+      "epoch": 156,
+      "generatedAt": "2026-08-04T00:09:54Z",
+      "path": "epochs/156/manifest.json",
+      "status": "partial_final"
+    },
+    {
       "epoch": 155,
       "generatedAt": "2026-08-04T00:09:50Z",
       "path": "epochs/155/manifest.json",
@@ -118,5 +124,5 @@
   "branch": "main",
   "repository": "XARKUR/qubic-history-recovery-test",
   "schemaVersion": "qubic-history-v2",
-  "updatedAt": "2026-08-04T00:09:50Z"
+  "updatedAt": "2026-08-04T00:09:54Z"
 }
