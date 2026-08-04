@@ -1,0 +1,63 @@
+{
+  "epoch": 220,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "56dd9a1089bdd877c4b7ffbbdfb06588a3597e980879106099675e2e3915c7f8",
+      "sizeBytes": 513,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "fd36a99d6617c723f6fb01b64b93d093f54ffe1c96caefcce77f5338fcc8e521",
+      "sizeBytes": 266975,
+      "status": "ok"
+    },
+    "proposals/documents/1-qubic-proposal-qraffle-asset-raffle-extension-694aa1f610.md": {
+      "sha256": "694aa1f610ec93aea020d3074420da0e4aa9a024d22e573aa9754e04d133a058",
+      "sizeBytes": 22977,
+      "status": "ok"
+    },
+    "proposals/documents/33-qip-upgrade-proposal-1d967a7d86.md": {
+      "sha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "sizeBytes": 4881,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "2c2b1b37bbd542ee9cae65071c9e9cf8f359058ef04436d7663aff1d0d0c2c22",
+      "sizeBytes": 1503,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "665b4d1578d40435fc6c8c2ea3f407dfc09d9d4d711eac18fcc83d366b7738ab",
+      "sizeBytes": 2980,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "cfeb2f88e94fb7d701577e7cc846a38d6fdc4065af5c2197eb68c0afbcca61b0",
+      "sizeBytes": 375765,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "fe08057e121fcf9a5a86b7607135d967f393f5d33daa5520ce4d58927e004e20",
+      "sizeBytes": 63353,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:53:11Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

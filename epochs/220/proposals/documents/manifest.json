@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "33-qip-upgrade-proposal-1d967a7d86.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-28-QIP-Upgrade.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-06-28-QIP-Upgrade.md",
+      "proposalIndex": 33,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QIP Upgrade Proposal"
+    },
+    {
+      "archivePath": "1-qubic-proposal-qraffle-asset-raffle-extension-694aa1f610.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-07-02-upgrade_qraffle.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "694aa1f610ec93aea020d3074420da0e4aa9a024d22e573aa9754e04d133a058",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-07-02-upgrade_qraffle.md",
+      "proposalIndex": 1,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "694aa1f610ec93aea020d3074420da0e4aa9a024d22e573aa9754e04d133a058",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Proposal: QRaffle — Asset Raffle Extension"
+    }
+  ],
+  "epoch": 220,
+  "generatedAt": "2026-08-04T00:53:11Z"
+}
