@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/4e28a900731bf2ef09ee1944001c0556654dd7ca/Community Team CCF Proposal for January and February.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community Team CCF Proposal for January and February.md",
+      "proposalIndex": 57,
+      "ref": "4e28a900731bf2ef09ee1944001c0556654dd7ca",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal for January and February"
+    }
+  ],
+  "epoch": 196,
+  "generatedAt": "2026-08-04T00:15:13Z"
+}
