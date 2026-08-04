@@ -1,0 +1,48 @@
+{
+  "epoch": 175,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "303658ed0dfcd4d172b9b8e73823bc27ff9645b6bdbd64945e76cdb966631fd9",
+      "sizeBytes": 529,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "b5ac9d6fbf93a7e81469e232d3d3edb3130bace9ea1823f22fe63c0d7b4bd679",
+      "sizeBytes": 165625,
+      "status": "ok"
+    },
+    "proposals/documents/40-ccf-proposal-for-lfg-crew-compensation-community-vote-80-usd-h-8387eb6d7c.md": {
+      "sha256": "8387eb6d7cf33b1aa506a0af390dde4d9134f36d78965df8dc4ef701f1a500c2",
+      "sizeBytes": 11596,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "e90f14c2e73d3c5eff7c4cc527b5c64cb9b6b7aa19e7e40161a9af9bb968c152",
+      "sizeBytes": 881,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "3a19a03f69c41ee6e38c8cb2658f34fb1feae962c4e88eabaaca1652b57866c5",
+      "sizeBytes": 1716,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "b2a8b2804bb3d9b12d7a0871889504852059b54027de860d83eff302d3d0084b",
+      "sizeBytes": 209261,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:12Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
