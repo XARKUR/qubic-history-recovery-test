@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/MrRoseQubic/Proposal-to-run-incubation-for-6mo-Jan-Jun-/blob/4c386ba/Proposal to run Grants & Incubation Program.md",
+      "documentKey": "19f41aa88159b06654f37981985cab5c9e9bf2fdc3a7cf94b1a63e747fed4a0c",
+      "epoch": 192,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "f2896bb9-e460-41d2-bd21-00033d3d0f00",
+      "proposalIndex": 56,
+      "published": "2025-12-20T21:22:29.65",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Proposal to run Incubation Program for 6mo (Jan-Jun)"
+    },
+    {
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/35d9faf/CCF_Proposal_Ambassador_Program_S5_Revised.md",
+      "documentKey": "22cfce6728290bcf7817f86699a828dfbffe3ca0ab12cad5a4868b0587bbe355",
+      "epoch": 192,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "9658bd1a-1cd0-4b84-9921-75cb166e0eae",
+      "proposalIndex": 55,
+      "published": "2025-12-20T21:08:21.11",
+      "sha256": "d484aed2631af13819ea1985be69c54600c936d1269b451819d929d7444d2c29",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program Season 5 (Revised)"
+    }
+  ],
+  "epoch": 192,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 192,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 63.5,
+          "title": "No Transfer",
+          "votes": 395
+        },
+        {
+          "percentage": 36.5,
+          "title": "Yes, send 131,760,000,000 $QUBIC",
+          "votes": 227
+        }
+      ],
+      "proposalId": "f2896bb9-e460-41d2-bd21-00033d3d0f00",
+      "proposalIndex": 56,
+      "proposalType": "Transfer",
+      "proposerIdentity": "DCUIGXHWKQQJEBQMRACJKQANCQLCKNMWOKHDSEQNLFSCKYWVPWPBLXEDXIHM",
+      "published": "2025-12-20T21:22:29.65",
+      "status": 6,
+      "title": "Proposal to run Incubation Program for 6mo (Jan-Jun)",
+      "totalVotes": 622,
+      "url": "https://github.com/MrRoseQubic/Proposal-to-run-incubation-for-6mo-Jan-Jun-/blob/4c386ba/Proposal to run Grants & Incubation Program.md"
+    },
+    {
+      "epoch": 192,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 84.62,
+          "title": "No Transfer",
+          "votes": 506
+        },
+        {
+          "percentage": 15.38,
+          "title": "Yes, send 52,000,000,000 $QUBIC",
+          "votes": 92
+        }
+      ],
+      "proposalId": "9658bd1a-1cd0-4b84-9921-75cb166e0eae",
+      "proposalIndex": 55,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MBSFJXTUYTSNEAXSVRFHFHLXOBOCDVZBEQXFWNGJDCHTWHBLCSNNJPAAQBOH",
+      "published": "2025-12-20T21:08:21.11",
+      "status": 6,
+      "title": "CCF Proposal - Ambassador Program Season 5 (Revised)",
+      "totalVotes": 598,
+      "url": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/35d9faf/CCF_Proposal_Ambassador_Program_S5_Revised.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:46Z"
+}
