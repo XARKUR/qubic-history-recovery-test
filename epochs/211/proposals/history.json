@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://privatebin.net/",
+      "documentKey": "0c6cb5f44494bd2170b0d53766656a616c667e8ae47256417e9615f97a0ccd26",
+      "epoch": 211,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b428a4f9-eb26-4250-b9c2-2e96940268c7",
+      "proposalIndex": 0,
+      "published": "2026-05-06T06:04:28.07",
+      "sha256": "0518cab20182d0b3bec72e703335b4ff0bbbe68283898e79300970404cd9859b",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "PrivateBin"
+    }
+  ],
+  "epoch": 211,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 211,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes",
+          "votes": 0
+        }
+      ],
+      "proposalId": "b428a4f9-eb26-4250-b9c2-2e96940268c7",
+      "proposalIndex": 0,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XVEOTRCTCCZQUFVXNABJDGIMOBDBJSUIVDUFGZSSFFSZCQFUPNYDBWMAEFNO",
+      "published": "2026-05-06T06:04:28.07",
+      "status": 4,
+      "title": "PrivateBin",
+      "totalVotes": 0,
+      "url": "https://privatebin.net/"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:17Z"
+}

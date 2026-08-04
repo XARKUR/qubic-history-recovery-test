@@ -1,0 +1,52 @@
+{
+  "epoch": 211,
+  "result": [
+    {
+      "ballots": [],
+      "computorIndex": 0,
+      "contractIndex": 6,
+      "contractName": "General Quorum Proposal",
+      "epoch": 211,
+      "hasVotes": false,
+      "isSubscription": false,
+      "latestVoteTick": 0,
+      "mostVotes": 0,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No",
+          "numberOfVotes": 0
+        },
+        {
+          "index": 1,
+          "label": "Yes",
+          "numberOfVotes": 0
+        }
+      ],
+      "proposalId": "b428a4f9-eb26-4250-b9c2-2e96940268c7",
+      "proposalIndex": 0,
+      "proposalTick": 51386505,
+      "proposalType": "GeneralOptions",
+      "proposalTypeNumber": 0,
+      "proposerIdentity": "XVEOTRCTCCZQUFVXNABJDGIMOBDBJSUIVDUFGZSSFFSZCQFUPNYDBWMAEFNO",
+      "published": "2026-05-06T06:04:28.07",
+      "publishedTick": 51386505,
+      "reportCreated": "2026-05-06T12:09:20.5602837Z",
+      "resultSummary": {},
+      "status": 4,
+      "sumOption0": 0,
+      "sumOption1": 0,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 51386505,
+      "title": "PrivateBin",
+      "totalVotes": 0,
+      "url": "https://privatebin.net/"
+    }
+  ]
+}
