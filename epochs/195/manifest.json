@@ -1,0 +1,53 @@
+{
+  "epoch": 195,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "656eac14333bdfaaef0d531cc5357be722f48d08726048cb87f69dee55ee36e0",
+      "sizeBytes": 521,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "f14b4168bdb6d1199cf33ff4a891b1acb724aa20925e99cbe195ad2191cf1068",
+      "sizeBytes": 149814,
+      "status": "ok"
+    },
+    "proposals/documents/5-smart-contract-qubic-real-world-asset-qrwa-7445c1fec2.md": {
+      "sha256": "7445c1fec2de2d34e7fe6cc81d034158f2136b63a7b2865fe90c719cf0fb5a59",
+      "sizeBytes": 85554,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "c473b7256329c4c5224ddf892d887812d57187dfe97a6e2e4c45fde586898eed",
+      "sizeBytes": 865,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "02dcfa2ad0c63853edda0dcaf4d3d257ce9d56c4d423a7d108fc8e236c86b204",
+      "sizeBytes": 1665,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "a0e8682127d0871aab2cfe3127a60ebb1897c8aaf6b2b086695e6767c56494fc",
+      "sizeBytes": 203708,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "ee67778b73c6bebee711a4b7fc1da817727b62890640b42f3ee788ae213cd538",
+      "sizeBytes": 85514,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:32:01Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

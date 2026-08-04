@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/53605a5fea8abc340d116331750b6158039fbd37/SmartContracts/2026-01-10-qRWA.md",
+      "documentKey": "062aff352a85301923685afdbafb5822634ba9b06a8695f1a8c74a27818686aa",
+      "epoch": 195,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "93265a20-aec8-4700-9898-0e14de862e29",
+      "proposalIndex": 5,
+      "published": "2026-01-10T11:35:52.253",
+      "sha256": "7445c1fec2de2d34e7fe6cc81d034158f2136b63a7b2865fe90c719cf0fb5a59",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Smart Contract - Qubic Real World Asset (qRWA)"
+    }
+  ],
+  "epoch": 195,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 195,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 18.23,
+          "title": "No",
+          "votes": 111
+        },
+        {
+          "percentage": 81.77,
+          "title": "Yes",
+          "votes": 498
+        }
+      ],
+      "proposalId": "93265a20-aec8-4700-9898-0e14de862e29",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-01-10T11:35:52.253",
+      "status": 3,
+      "title": "Smart Contract - Qubic Real World Asset (qRWA)",
+      "totalVotes": 609,
+      "url": "https://github.com/qubic/proposal/blob/53605a5fea8abc340d116331750b6158039fbd37/SmartContracts/2026-01-10-qRWA.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:47Z"
+}
