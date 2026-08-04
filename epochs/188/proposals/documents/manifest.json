@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/abf4461/Community Management CCF Proposal for November and December.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community Management CCF Proposal for November and December.md",
+      "proposalIndex": 51,
+      "ref": "abf4461",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal for November and December"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/cccf74e8009550605158dd80b81aab8807d01ca0/SmartContracts/2025-11-22-UpdateQBond.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "KavataK",
+      "path": "SmartContracts/2025-11-22-UpdateQBond.md",
+      "proposalIndex": 3,
+      "ref": "cccf74e8009550605158dd80b81aab8807d01ca0",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to Update the Qbond Smart Contract"
+    }
+  ],
+  "epoch": 188,
+  "generatedAt": "2026-08-04T00:14:29Z"
+}
