@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": "19-ccf-proposal-web3lagos-conference-2025-e52fb87cb5.md",
+      "canonicalUrl": "https://github.com/qubicnigeria/Proposals/blob/main/Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e52fb87cb535f9b4ac0f5ef61b64cee1432c2fa7e4616e16b7f1c23448d25935",
+      "owner": "qubicnigeria",
+      "path": "Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md",
+      "proposalIndex": 19,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": "e52fb87cb535f9b4ac0f5ef61b64cee1432c2fa7e4616e16b7f1c23448d25935",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal – Web3Lagos Conference 2025"
+    },
+    {
+      "archivePath": "20-satoshi-s-cat-matilda-website-revamp-555429e06f.md",
+      "canonicalUrl": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "owner": "lolKovuh",
+      "path": "matilda_website_proposal.md",
+      "proposalIndex": 20,
+      "ref": "main",
+      "repo": "matilda-website-funding-request",
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp"
+    },
+    {
+      "archivePath": "1-reallocate-55-of-weekly-emissions-to-the-supplywatcher-burn-starting-from-epoch--33960dac59.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/563ee56b05f2337ff30097abbdae5197ed750282/ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "33960dac59ae734635e67a10ce258acf56ee5c5ceb3d593bfff45d18dfa5eeb2",
+      "owner": "qubic",
+      "path": "ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md",
+      "proposalIndex": 1,
+      "ref": "563ee56b05f2337ff30097abbdae5197ed750282",
+      "repo": "proposal",
+      "sha256": "33960dac59ae734635e67a10ce258acf56ee5c5ceb3d593bfff45d18dfa5eeb2",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Reallocate 55% of Weekly Emissions to the SupplyWatcher (Burn) starting from Epoch 175"
+    }
+  ],
+  "epoch": 168,
+  "generatedAt": "2026-08-04T00:48:16Z"
+}

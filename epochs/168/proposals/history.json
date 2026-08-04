@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/563ee56b05f2337ff30097abbdae5197ed750282/ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md",
+      "documentKey": "d4680203b5ae42cf8bf4a6d7aaf038605694b947a50a7c31e7a3bc83e9ac2c6e",
+      "epoch": 168,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ae185b4c-56fe-4383-afe5-2f7c08fe988b",
+      "proposalIndex": 1,
+      "published": "2025-07-05T21:59:05.357",
+      "sha256": "33960dac59ae734635e67a10ce258acf56ee5c5ceb3d593bfff45d18dfa5eeb2",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Reallocate 55% of Weekly Emissions to the SupplyWatcher (Burn) starting from Epoch 175"
+    },
+    {
+      "canonicalUrl": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md",
+      "documentKey": "9c133724204c96cb7ca8dc197b60f41f7e96b34261c4e91cf922a227fbc7a091",
+      "epoch": 168,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "cc78322e-9c99-46c3-ac8a-62a11bea7978",
+      "proposalIndex": 20,
+      "published": "2025-07-04T19:30:49.417",
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicnigeria/Proposals/blob/main/Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md",
+      "documentKey": "2d88a1223736f3f0791360509ab539af353e23fbab76bb5b3cfeb778cedd621f",
+      "epoch": 168,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "e71bf474-f016-46a3-b354-aa499f5e5fc0",
+      "proposalIndex": 19,
+      "published": "2025-07-04T13:55:15.78",
+      "sha256": "e52fb87cb535f9b4ac0f5ef61b64cee1432c2fa7e4616e16b7f1c23448d25935",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal – Web3Lagos Conference 2025"
+    }
+  ],
+  "epoch": 168,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 168,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 8.99,
+          "title": "No",
+          "votes": 56
+        },
+        {
+          "percentage": 91.01,
+          "title": "Yes",
+          "votes": 567
+        }
+      ],
+      "proposalId": "ae185b4c-56fe-4383-afe5-2f7c08fe988b",
+      "proposalIndex": 1,
+      "proposalType": "1024",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2025-07-05T21:59:05.357",
+      "status": 3,
+      "title": "Reallocate 55% of Weekly Emissions to the SupplyWatcher (Burn) starting from Epoch 175",
+      "totalVotes": 623,
+      "url": "https://github.com/qubic/proposal/blob/563ee56b05f2337ff30097abbdae5197ed750282/ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md"
+    },
+    {
+      "epoch": 168,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 75.04,
+          "title": "No Transfer",
+          "votes": 436
+        },
+        {
+          "percentage": 24.96,
+          "title": "Yes, send 2,000,000,000 $QUBIC",
+          "votes": 145
+        }
+      ],
+      "proposalId": "cc78322e-9c99-46c3-ac8a-62a11bea7978",
+      "proposalIndex": 20,
+      "proposalType": "Transfer",
+      "proposerIdentity": "HJOMRWLFMFOPHAVXXZOXNGCSNTPABQKSYQTRTFSCGCPLLYQWGGRTCISAXHQA",
+      "published": "2025-07-04T19:30:49.417",
+      "status": 6,
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp",
+      "totalVotes": 581,
+      "url": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md"
+    },
+    {
+      "epoch": 168,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 3.11,
+          "title": "No Transfer",
+          "votes": 18
+        },
+        {
+          "percentage": 96.89,
+          "title": "Yes, send 4,700,000,000 $QUBIC",
+          "votes": 561
+        }
+      ],
+      "proposalId": "e71bf474-f016-46a3-b354-aa499f5e5fc0",
+      "proposalIndex": 19,
+      "proposalType": "Transfer",
+      "proposerIdentity": "VJFQSSLNJMHQRDJTUPVCIWAFSTHCOTCLEQVRNOECFGBOAUOQMEXMLLQBCTGK",
+      "published": "2025-07-04T13:55:15.78",
+      "status": 3,
+      "title": "CCF Proposal – Web3Lagos Conference 2025",
+      "totalVotes": 579,
+      "url": "https://github.com/qubicnigeria/Proposals/blob/main/Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:42:53Z"
+}
