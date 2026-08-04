@@ -1,0 +1,171 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/686e3ca/CCF Proposal for September, October and November.md",
+      "documentKey": "5eca6dd7524b599b7e5363c5ab5de38c13f382ed6dbb7170a1a60522cd5e3cd8",
+      "epoch": 177,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "99d5f835-a334-4c0e-ab97-69f2a9ae65d1",
+      "proposalIndex": 39,
+      "published": "2025-09-06T18:48:14.45",
+      "sha256": "e98bfcf8ae87839170edb33695e552eeb13194a5e042409a48b448b6689d92bc",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for September, October and November"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/9b22ee2/CCF Proposal  - Ambassador Program S04 (Revised).md",
+      "documentKey": "ebc02cb534a8ede62513248a6727c7aef6b21593a6944efc5c4fa1083360d204",
+      "epoch": 177,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "683a4e69-c5bf-4f13-84ee-161531fd4404",
+      "proposalIndex": 1,
+      "published": "2025-09-06T18:42:33.6",
+      "sha256": "9822f66a5ca55dd58cced30cc0e6289c3b7ac332b32d2fdd9b8d15f16f2bacde",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program SO4 (Revised)"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/25a94970fee5f5669d70d7390ceef00d5a8e7d66/SmartContracts/2025-09-02-Qdraw.md",
+      "documentKey": "9689e0629462ad83871129fdbe4ae649febe8c4bba70a10ec758949dc021576b",
+      "epoch": 177,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "55257902-87fe-4fa7-a396-c24493362f77",
+      "proposalIndex": 15,
+      "published": "2025-09-06T07:57:51.67",
+      "sha256": "b5d819697f90d7c6d5ace19de99037ead651e5045354dbf36de6e893af1aa702",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QDraw Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/javathon/Proposals/blob/48df058e9530d07eb103459c011d1ae4b5bd6d16/qswap-integration.md",
+      "documentKey": "a5bc5b35e8d66788e7b4d0af95afba065408e4c71908b98feea1c9ce2a4157bf",
+      "epoch": 177,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "55d08e6d-af2a-436f-9993-87345f29b118",
+      "proposalIndex": 41,
+      "published": "2025-09-03T12:43:37.14",
+      "sha256": "177edbcf9637572859e2b5b2b4adc7a8801fc69e82650582412ff38cc8dfe8cc",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Completion of QSWAP SC functions to enable integration into qubictrade.com and other user interfaces"
+    }
+  ],
+  "epoch": 177,
+  "proposalCount": 4,
+  "proposals": [
+    {
+      "epoch": 177,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 12.23,
+          "title": "No Transfer",
+          "votes": 75
+        },
+        {
+          "percentage": 87.77,
+          "title": "Yes, send 24,000,000,000 $QUBIC",
+          "votes": 538
+        }
+      ],
+      "proposalId": "99d5f835-a334-4c0e-ab97-69f2a9ae65d1",
+      "proposalIndex": 39,
+      "proposalType": "Transfer",
+      "proposerIdentity": "SKMETUPWGBYHNCQBTZWQBRXNAZKAIIFVCNMOBZMSREIENXVNDFPBGILGRGPL",
+      "published": "2025-09-06T18:48:14.45",
+      "status": 3,
+      "title": "Community Management CCF Proposal for September, October and November",
+      "totalVotes": 613,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/686e3ca/CCF Proposal for September, October and November.md"
+    },
+    {
+      "epoch": 177,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 29.89,
+          "title": "No Transfer",
+          "votes": 191
+        },
+        {
+          "percentage": 70.11,
+          "title": "Yes, send 27,000,000,000 $QUBIC",
+          "votes": 448
+        }
+      ],
+      "proposalId": "683a4e69-c5bf-4f13-84ee-161531fd4404",
+      "proposalIndex": 1,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ACWNEGHPRAEPCFXNDEZDRQXLOPSCYDIFBUPRUIULSEZWHDHBFUMOLDVGNAZA",
+      "published": "2025-09-06T18:42:33.6",
+      "status": 3,
+      "title": "CCF Proposal - Ambassador Program SO4 (Revised)",
+      "totalVotes": 639,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/9b22ee2/CCF Proposal  - Ambassador Program S04 (Revised).md"
+    },
+    {
+      "epoch": 177,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 22.55,
+          "title": "No",
+          "votes": 145
+        },
+        {
+          "percentage": 77.45,
+          "title": "Yes",
+          "votes": 498
+        }
+      ],
+      "proposalId": "55257902-87fe-4fa7-a396-c24493362f77",
+      "proposalIndex": 15,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-09-06T07:57:51.67",
+      "status": 3,
+      "title": "Proposal to include QDraw Smart Contract",
+      "totalVotes": 643,
+      "url": "https://github.com/qubic/proposal/blob/25a94970fee5f5669d70d7390ceef00d5a8e7d66/SmartContracts/2025-09-02-Qdraw.md"
+    },
+    {
+      "epoch": 177,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 18.69,
+          "title": "No Transfer",
+          "votes": 120
+        },
+        {
+          "percentage": 81.31,
+          "title": "Yes, send 1,000,000,000 $QUBIC",
+          "votes": 522
+        }
+      ],
+      "proposalId": "55d08e6d-af2a-436f-9993-87345f29b118",
+      "proposalIndex": 41,
+      "proposalType": "Transfer",
+      "proposerIdentity": "BAQFIXYBGGUALDFNINDDAUDKTQMBIYASSIRAQPOOWBNSSUFQZIHETDXBVEDJ",
+      "published": "2025-09-03T12:43:37.14",
+      "status": 3,
+      "title": "Completion of QSWAP SC functions to enable integration into qubictrade.com and other user interfaces",
+      "totalVotes": 642,
+      "url": "https://github.com/javathon/Proposals/blob/48df058e9530d07eb103459c011d1ae4b5bd6d16/qswap-integration.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:23Z"
+}

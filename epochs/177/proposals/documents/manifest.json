@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": "39-community-management-ccf-proposal-for-september-october-and-november-e98bfcf8ae.md",
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/686e3ca/CCF Proposal for September, October and November.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e98bfcf8ae87839170edb33695e552eeb13194a5e042409a48b448b6689d92bc",
+      "owner": "31clip",
+      "path": "CCF Proposal for September, October and November.md",
+      "proposalIndex": 39,
+      "ref": "686e3ca",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": "e98bfcf8ae87839170edb33695e552eeb13194a5e042409a48b448b6689d92bc",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for September, October and November"
+    },
+    {
+      "archivePath": "15-proposal-to-include-qdraw-smart-contract-b5d819697f.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/25a94970fee5f5669d70d7390ceef00d5a8e7d66/SmartContracts/2025-09-02-Qdraw.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "b5d819697f90d7c6d5ace19de99037ead651e5045354dbf36de6e893af1aa702",
+      "owner": "qubic",
+      "path": "SmartContracts/2025-09-02-Qdraw.md",
+      "proposalIndex": 15,
+      "ref": "25a94970fee5f5669d70d7390ceef00d5a8e7d66",
+      "repo": "proposal",
+      "sha256": "b5d819697f90d7c6d5ace19de99037ead651e5045354dbf36de6e893af1aa702",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QDraw Smart Contract"
+    },
+    {
+      "archivePath": "41-completion-of-qswap-sc-functions-to-enable-integration-into-qubictrade-com-and-o-177edbcf96.md",
+      "canonicalUrl": "https://github.com/javathon/Proposals/blob/48df058e9530d07eb103459c011d1ae4b5bd6d16/qswap-integration.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "177edbcf9637572859e2b5b2b4adc7a8801fc69e82650582412ff38cc8dfe8cc",
+      "owner": "javathon",
+      "path": "qswap-integration.md",
+      "proposalIndex": 41,
+      "ref": "48df058e9530d07eb103459c011d1ae4b5bd6d16",
+      "repo": "Proposals",
+      "sha256": "177edbcf9637572859e2b5b2b4adc7a8801fc69e82650582412ff38cc8dfe8cc",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Completion of QSWAP SC functions to enable integration into qubictrade.com and other user interfaces"
+    },
+    {
+      "archivePath": "1-ccf-proposal-ambassador-program-so4-revised-9822f66a5c.md",
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/9b22ee2/CCF Proposal  - Ambassador Program S04 (Revised).md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "9822f66a5ca55dd58cced30cc0e6289c3b7ac332b32d2fdd9b8d15f16f2bacde",
+      "owner": "Qubic-Core-Services",
+      "path": "CCF Proposal  - Ambassador Program S04 (Revised).md",
+      "proposalIndex": 1,
+      "ref": "9b22ee2",
+      "repo": "Proposals",
+      "sha256": "9822f66a5ca55dd58cced30cc0e6289c3b7ac332b32d2fdd9b8d15f16f2bacde",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program SO4 (Revised)"
+    }
+  ],
+  "epoch": 177,
+  "generatedAt": "2026-08-04T02:03:15Z"
+}
