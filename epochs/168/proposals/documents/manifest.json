@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubicnigeria/Proposals/blob/main/Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubicnigeria",
+      "path": "Wagmi Sponsorship Proposal – Web3Lagos Conference 2025.md",
+      "proposalIndex": 19,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal – Web3Lagos Conference 2025"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/lolKovuh/matilda-website-funding-request/blob/main/matilda_website_proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "lolKovuh",
+      "path": "matilda_website_proposal.md",
+      "proposalIndex": 20,
+      "ref": "main",
+      "repo": "matilda-website-funding-request",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Satoshi's Cat ($MATILDA) Website Revamp"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/563ee56b05f2337ff30097abbdae5197ed750282/ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "ComputorDonations/2025-07-05-Adjust-SupplyWatch-Burn-Halving.md",
+      "proposalIndex": 1,
+      "ref": "563ee56b05f2337ff30097abbdae5197ed750282",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Reallocate 55% of Weekly Emissions to the SupplyWatcher (Burn) starting from Epoch 175"
+    }
+  ],
+  "epoch": 168,
+  "generatedAt": "2026-08-04T00:12:28Z"
+}
