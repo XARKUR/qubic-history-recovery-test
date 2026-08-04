@@ -1,0 +1,68 @@
+{
+  "epoch": 223,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "c966f09f0064be1e18066def0a9f60a5e4b3858ff04efe569dfed8d8522bdc5b",
+      "sizeBytes": 513,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "db661182b240a19c24734f6127c59e26715f38fc6c53afa7529795d8dcd929c4",
+      "sizeBytes": 459458,
+      "status": "ok"
+    },
+    "proposals/documents/38-proposal-nostromo-smart-contract-update-fbd4e71033.md": {
+      "sha256": "fbd4e7103313bf8ee5871575576a7c81f0f40a051356f53075927b47df85549d",
+      "sizeBytes": 13192,
+      "status": "ok"
+    },
+    "proposals/documents/70-qubic-ann-explorer-make-useful-proof-of-work-visible-d1b587f9d6.md": {
+      "sha256": "d1b587f9d6040c87fb8b04e42a0dedf17778773d810c83cfa06173b2480d4719",
+      "sizeBytes": 8417,
+      "status": "ok"
+    },
+    "proposals/documents/71-proposal-to-fund-glyph-wallet-and-dapp-ecosystem-for-four-months-3d9146e8f0.md": {
+      "sha256": "3d9146e8f02c85363c4ced88a3eb628d221ddaa0bf5724f45278c3c22b741c1d",
+      "sizeBytes": 7219,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "2a888320bf0d9be19a84d9be7cf903a8c98d2597cc93431d0643cd6ae2897b3b",
+      "sizeBytes": 2350,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "b48731676b39be5cb253bc2e7f2af2727bf6c7d6daa954f1c8fc54e3c342613f",
+      "sizeBytes": 4559,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "ad55e9de8dfc61b2e19f99dbf8a15df9e57b13830874c16bcb2d561083fa5dbd",
+      "sizeBytes": 605482,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "8e2d0e8f0fb1dddfbd833bc438115854e39048342dd22174f89dd7701ef5c0be",
+      "sizeBytes": 516,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "2367565d062f2254728c7a95fb758624a8c618ab85bb1d124850f517a541cfc7",
+      "sizeBytes": 88452,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:07:43Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
