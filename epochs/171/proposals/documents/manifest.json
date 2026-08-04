@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": "28-ccf-proposal-qubic-marketing-ccf-funding-proposal-230f786a25.md",
+      "canonicalUrl": "https://github.com/retrodrive1/ccf-funding-proposal-marketing/blob/c3a1862c5c91c209114c57d36ddef163d1ed3eea/25.07.18_qubic_marketing_proposal_team.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "230f786a2560b0490049ecccaea7d4dd8d031154a17e12c72078a0184a736365",
+      "owner": "retrodrive1",
+      "path": "25.07.18_qubic_marketing_proposal_team.md",
+      "proposalIndex": 28,
+      "ref": "c3a1862c5c91c209114c57d36ddef163d1ed3eea",
+      "repo": "ccf-funding-proposal-marketing",
+      "sha256": "230f786a2560b0490049ecccaea7d4dd8d031154a17e12c72078a0184a736365",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal – Qubic Marketing: CCF Funding Proposal"
+    },
+    {
+      "archivePath": "22-ccf-proposal-cff-qubic-ryan-babel-phase-2-md-at-main-officialrbweb3-ccf-proposal-e228f5d434.md",
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/CFF-Qubic-Ryan Babel-Phase-2.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e228f5d4344cd026ba4960cf74d90369c686aa07a565283e623c3a0dca667e3e",
+      "owner": "OfficialRBweb3",
+      "path": "CFF-Qubic-Ryan Babel-Phase-2.md",
+      "proposalIndex": 22,
+      "ref": "main",
+      "repo": "CCF-Proposal",
+      "sha256": "e228f5d4344cd026ba4960cf74d90369c686aa07a565283e623c3a0dca667e3e",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Proposal/CFF-Qubic-Ryan Babel-Phase-2.md at main · OfficialRBweb3/CCF-Proposal · GitHub"
+    },
+    {
+      "archivePath": "27-proposal-milly-x-qubic-amplification-proposal-milly-qubic-ecosystem-amplificatio-3fb8a0f624.md",
+      "canonicalUrl": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "3fb8a0f62438442f7b0774bc3c84cbca6b0208b5590c4d21f38f901cfa786c23",
+      "owner": "MillyCrypto9",
+      "path": "Proposal Milly × Qubic Ecosystem Amplification.md",
+      "proposalIndex": 27,
+      "ref": "main",
+      "repo": "Proposal-Milly-x-Qubic-Amplification",
+      "sha256": "3fb8a0f62438442f7b0774bc3c84cbca6b0208b5590c4d21f38f901cfa786c23",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil"
+    },
+    {
+      "archivePath": "26-qxmr-staking-smart-contract-proposal-f3878238a1.md",
+      "canonicalUrl": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "f3878238a1733554080c4180500a42492a90e4ba41bf2a9f684e8b4b53ae7376",
+      "owner": "profitphil",
+      "path": "README.md",
+      "proposalIndex": 26,
+      "ref": "main",
+      "repo": "QXMR-Staking-Smart-Contract-Proposal",
+      "sha256": "f3878238a1733554080c4180500a42492a90e4ba41bf2a9f684e8b4b53ae7376",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QXMR Staking Smart Contract Proposal"
+    }
+  ],
+  "epoch": 171,
+  "generatedAt": "2026-08-04T02:02:38Z"
+}
