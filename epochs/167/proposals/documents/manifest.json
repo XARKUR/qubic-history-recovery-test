@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "14-proposal-qearn-unlock-vesting-period-1e38ea7ad3.md",
+      "canonicalUrl": "https://github.com/MrUnhappyX/proposal/blob/543243c1e886a139e1785a3c02534e4e6c630f47/GeneralComputorProposals/2025-06-27-QEarn-Vesting-Period-Proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "1e38ea7ad3a95394a030981805cabdc8283cdb8184c7bd411bcedc57af525810",
+      "owner": "MrUnhappyX",
+      "path": "GeneralComputorProposals/2025-06-27-QEarn-Vesting-Period-Proposal.md",
+      "proposalIndex": 14,
+      "ref": "543243c1e886a139e1785a3c02534e4e6c630f47",
+      "repo": "proposal",
+      "sha256": "1e38ea7ad3a95394a030981805cabdc8283cdb8184c7bd411bcedc57af525810",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: QEarn Unlock Vesting Period"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/MatthewDarnell/RubicProposal/blob/ecab82dbda7912b28484e77058548c2cc6fb5a72/Rubic钱包提案.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "MatthewDarnell",
+      "path": "Rubic钱包提案.md",
+      "proposalIndex": 18,
+      "ref": "ecab82dbda7912b28484e77058548c2cc6fb5a72",
+      "repo": "RubicProposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "提案：已交付 Rubic 项目的资金申请"
+    }
+  ],
+  "epoch": 167,
+  "generatedAt": "2026-08-04T00:48:10Z"
+}

@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/MrUnhappyX/proposal/blob/543243c1e886a139e1785a3c02534e4e6c630f47/GeneralComputorProposals/2025-06-27-QEarn-Vesting-Period-Proposal.md",
+      "documentKey": "0edf0cc75d6090dc6d2034849a3e068f99f9a3bb3023087ba8cc9b41e1451275",
+      "epoch": 167,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1105622c-385a-4b6d-aec7-93d1d030ec0f",
+      "proposalIndex": 14,
+      "published": "2025-06-28T13:26:55.54",
+      "sha256": "1e38ea7ad3a95394a030981805cabdc8283cdb8184c7bd411bcedc57af525810",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: QEarn Unlock Vesting Period"
+    },
+    {
+      "canonicalUrl": "https://github.com/MatthewDarnell/RubicProposal/blob/ecab82dbda7912b28484e77058548c2cc6fb5a72/Rubic钱包提案.md",
+      "documentKey": "c1a3907d2eddcf16c80503a18d245f30208d3e85d6a5d55b630a2b1b42f0a80f",
+      "epoch": 167,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "fe8bfa5b-0cb1-4021-bcd1-43a7661eec81",
+      "proposalIndex": 18,
+      "published": "2025-06-28T12:52:04.003",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "提案：已交付 Rubic 项目的资金申请"
+    }
+  ],
+  "epoch": 167,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 167,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 41.85,
+          "title": "No",
+          "votes": 213
+        },
+        {
+          "percentage": 58.15,
+          "title": "Yes",
+          "votes": 296
+        }
+      ],
+      "proposalId": "1105622c-385a-4b6d-aec7-93d1d030ec0f",
+      "proposalIndex": 14,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "LGBXCXXZYCCGGFUYEDCHBLPQKQPDPHSNLZUMDZDYGAAPEORESAISVWLECCMG",
+      "published": "2025-06-28T13:26:55.54",
+      "status": 3,
+      "title": "Proposal: QEarn Unlock Vesting Period",
+      "totalVotes": 509,
+      "url": "https://github.com/MrUnhappyX/proposal/blob/543243c1e886a139e1785a3c02534e4e6c630f47/GeneralComputorProposals/2025-06-27-QEarn-Vesting-Period-Proposal.md"
+    },
+    {
+      "epoch": 167,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 45.79,
+          "title": "No Transfer",
+          "votes": 234
+        },
+        {
+          "percentage": 54.21,
+          "title": "Yes, send 30,000,000,000 $QUBIC",
+          "votes": 277
+        }
+      ],
+      "proposalId": "fe8bfa5b-0cb1-4021-bcd1-43a7661eec81",
+      "proposalIndex": 18,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UEYRTPZMKQHFFGWSXBTLHJLLKCBBPBVTGHWYUYVMXAWCRWIWAQMQFRIHQBOD",
+      "published": "2025-06-28T12:52:04.003",
+      "status": 3,
+      "title": "提案：已交付 Rubic 项目的资金申请",
+      "totalVotes": 511,
+      "url": "https://github.com/MatthewDarnell/RubicProposal/blob/ecab82dbda7912b28484e77058548c2cc6fb5a72/Rubic钱包提案.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:42:51Z"
+}
