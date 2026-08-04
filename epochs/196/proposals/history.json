@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/4e28a900731bf2ef09ee1944001c0556654dd7ca/Community Team CCF Proposal for January and February.md",
+      "documentKey": "e04af303818fc011419f011cb8cc7b01702e2b1f533ece88fd5e0d7f2b1088f0",
+      "epoch": 196,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "06c0d73c-7b45-4c21-b8c2-5a1974b90eb9",
+      "proposalIndex": 57,
+      "published": "2026-01-17T22:36:41.22",
+      "sha256": "4ed4de72862c85248002806655f834e931318ed00df211338172393cad9eb463",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for January and February"
+    }
+  ],
+  "epoch": 196,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 196,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 22.58,
+          "title": "No Transfer",
+          "votes": 142
+        },
+        {
+          "percentage": 77.42,
+          "title": "Yes, send 32,140,000,000 $QUBIC",
+          "votes": 487
+        }
+      ],
+      "proposalId": "06c0d73c-7b45-4c21-b8c2-5a1974b90eb9",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-01-17T22:36:41.22",
+      "status": 3,
+      "title": "Community Management CCF Proposal for January and February",
+      "totalVotes": 629,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/4e28a900731bf2ef09ee1944001c0556654dd7ca/Community Team CCF Proposal for January and February.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:48Z"
+}
