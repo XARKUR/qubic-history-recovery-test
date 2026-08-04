@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": "61-community-management-ccf-proposal-for-march-e78ab4fd61.md",
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/fa75857/Community Team CCF Funding Proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e78ab4fd6159c372bdd40be62d3c7d77e2563dfc8977c853473bfb65a9ef3ec9",
+      "owner": "31clip",
+      "path": "Community Team CCF Funding Proposal.md",
+      "proposalIndex": 61,
+      "ref": "fa75857",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": "e78ab4fd6159c372bdd40be62d3c7d77e2563dfc8977c853473bfb65a9ef3ec9",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for March"
+    },
+    {
+      "archivePath": "5-pulse-0787a20038.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/73863b85ed39ffcb22bbd976cbbeca58db734af8/SmartContracts/2026-01-12-Pulse.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "0787a200387eef431d3e9841f1a08b1172729d391fe78d42b03345e86ca90445",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-01-12-Pulse.md",
+      "proposalIndex": 5,
+      "ref": "73863b85ed39ffcb22bbd976cbbeca58db734af8",
+      "repo": "proposal",
+      "sha256": "0787a200387eef431d3e9841f1a08b1172729d391fe78d42b03345e86ca90445",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Pulse"
+    },
+    {
+      "archivePath": "61-community-management-ccf-proposal-for-march-dba959325f.md",
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/63399fb/Community Team CCF Funding Proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "dba959325f405472b34f5f8e4d6a5c88a422912f9bff8ba596c36a3748e3707b",
+      "owner": "31clip",
+      "path": "Community Team CCF Funding Proposal.md",
+      "proposalIndex": 61,
+      "ref": "63399fb",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": "dba959325f405472b34f5f8e4d6a5c88a422912f9bff8ba596c36a3748e3707b",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for March"
+    }
+  ],
+  "epoch": 202,
+  "generatedAt": "2026-08-04T00:51:28Z"
+}
