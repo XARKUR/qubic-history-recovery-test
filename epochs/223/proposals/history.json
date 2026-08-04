@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/flechar/Nostromo_SC/blob/0ad3461/README.md",
+      "documentKey": "b1c5cf42abcaa881e522a584b3ae0d1d87efe5ac9d44d762dd0a2da2e6232554",
+      "epoch": 223,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "dbfc1b0f-6e34-4863-9b41-4e11c5722853",
+      "proposalIndex": 38,
+      "published": "2026-07-25T19:15:41.937",
+      "sha256": "fbd4e7103313bf8ee5871575576a7c81f0f40a051356f53075927b47df85549d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal:  Nostromo Smart Contract Update"
+    },
+    {
+      "canonicalUrl": "https://github.com/glyphq/proposals/blob/085d22b/ccf_proposal_july_2026.md",
+      "documentKey": "ebc4426e0c11d8d30d864ceec78cd0f2f8521a4675ca71b021eccf18ce6b60d4",
+      "epoch": 223,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3d19b167-e7c5-40e8-8c0c-6e388393b804",
+      "proposalIndex": 71,
+      "published": "2026-07-25T19:09:07.273",
+      "sha256": "3d9146e8f02c85363c4ced88a3eb628d221ddaa0bf5724f45278c3c22b741c1d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to fund Glyph wallet and dApp ecosystem for four months"
+    },
+    {
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "documentKey": "4148c658a96749b3daeea9fcc35c4caab98d900ea6a9730c68b6d9e87b025f89",
+      "epoch": 223,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5b519a25-90f6-42c5-9729-0fe41bbb93e7",
+      "proposalIndex": 70,
+      "published": "2026-07-25T14:01:10.557",
+      "sha256": "d1b587f9d6040c87fb8b04e42a0dedf17778773d810c83cfa06173b2480d4719",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible"
+    }
+  ],
+  "epoch": 223,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 223,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 6.75,
+          "title": "No",
+          "votes": 39
+        },
+        {
+          "percentage": 93.25,
+          "title": "Yes",
+          "votes": 539
+        }
+      ],
+      "proposalId": "dbfc1b0f-6e34-4863-9b41-4e11c5722853",
+      "proposalIndex": 38,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "GSEARJUXBOECWBVVNQFNHUCLHRMCBWRCJCHTSYMTVDRZHTJQCKPZNMFBPAWJ",
+      "published": "2026-07-25T19:15:41.937",
+      "status": 3,
+      "title": "Proposal:  Nostromo Smart Contract Update",
+      "totalVotes": 578,
+      "url": "https://github.com/flechar/Nostromo_SC/blob/0ad3461/README.md"
+    },
+    {
+      "epoch": 223,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 75.0,
+          "title": "No Transfer",
+          "votes": 471
+        },
+        {
+          "percentage": 25.0,
+          "title": "Yes, send 20,880,000,000 $QUBIC",
+          "votes": 157
+        }
+      ],
+      "proposalId": "3d19b167-e7c5-40e8-8c0c-6e388393b804",
+      "proposalIndex": 71,
+      "proposalType": "Transfer",
+      "proposerIdentity": "PBSEAZIVHQYFGFEPCPQJRVTCEKIAPKNGUABUUCJKCALXCDRWGNUERREAMPEG",
+      "published": "2026-07-25T19:09:07.273",
+      "status": 6,
+      "title": "Proposal to fund Glyph wallet and dApp ecosystem for four months",
+      "totalVotes": 628,
+      "url": "https://github.com/glyphq/proposals/blob/085d22b/ccf_proposal_july_2026.md"
+    },
+    {
+      "epoch": 223,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 23.88,
+          "title": "No Transfer",
+          "votes": 144
+        },
+        {
+          "percentage": 76.12,
+          "title": "Yes, send 25,580,000,000 $QUBIC",
+          "votes": 459
+        }
+      ],
+      "proposalId": "5b519a25-90f6-42c5-9729-0fe41bbb93e7",
+      "proposalIndex": 70,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GSBQNPHPOLVFYCZHRIBQWLBYVAMDJBXWLCJLRBVFODWBORNWOQDTRKIDVNFL",
+      "published": "2026-07-25T14:01:10.557",
+      "status": 3,
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible",
+      "totalVotes": 603,
+      "url": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:41Z"
+}
