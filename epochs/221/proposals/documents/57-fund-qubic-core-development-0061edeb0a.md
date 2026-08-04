@@ -1,0 +1,199 @@
+# Fund Qubic Core Development
+
+## Proposal
+Send **671 billion QUBIC** to the identity `XQCLNHCEHTKQZDBAHJFVVTRMWFACMAZOBAEDQHEITGGEWZDIBRAIYWPGEONG` to support the further development of Qubic Core (including a $35,116.28 refund for June 2026 shortfall personally covered by @j0et0m — see Budget Execution Summary).
+
+> Option 0: no
+
+> Option 1: yes, 671 billion QUBIC
+
+## How We Used Past Funding
+
+Monthly financial reports can be found [here](../financial-reports).
+Core and Integration iteration reports can be found [here](../iterations/iteration-log.md).
+
+### Budget Execution Summary (Mar 2026 – Jun 2026)
+
+- With the [previous funding proposal](https://github.com/qubic/qct/blob/main/funding/2026-03-Q2-proposal.md), QCT received **572 billion QUBIC** from CCF.
+- This amount was estimated to cover QCT operations from **March 2026 to June 2026** (4 months) at around $100K/month (~$400K total), calculated at a valuation of 700 USD per billion QUBIC.
+- The QUBIC price continued to decline through the period (from 903 USD/bln in March to 470 USD/bln in May 2026), meaning higher QUBIC consumption per USD of expense. Despite that, QCT stayed close to the operating target through cost discipline (~$94.7K/month average vs. $100K target).
+- **The June treasury balance did not cover the full June 2026 operating cost.** Total June spending was **$75,855.12**. The treasury covered **$40,738.84** (depleting the remaining balance to zero); the remaining **$35,116.28 was personally covered by @j0et0m**. This shortfall is included in the Q3 request below as a refund line.
+
+| Month | USD Spent | QUBIC Spent | Rate (USD/bln) |
+|-------|-----------|-------------|-----------------|
+| March 2026 | $102,779 | 113.82B | 903 |
+| April 2026 | $94,248 | 159.74B | 590 |
+| May 2026 | $87,178 | 185.48B | 470 |
+| June 2026 | $75,855.12* | 184.11B | 412 |
+| **Total (Mar–Jun)** | **$360,060** | — | — |
+
+*June 2026 spending: $75,855.12 total (184,114,377,029 QUBIC at 412 USD/bln). Settled in two parts: the treasury paid **98,880,685,282 QUBIC (~$40,738.84)**, effectively depleting the remaining balance; @j0et0m personally covered the remaining **85,233,691,747 QUBIC (~$35,116.28)**, to be reimbursed via this Q3 request. Source: [June 2026 financial report](https://github.com/qubic/qct/blob/main/financial-reports/2026-07-06-june-2026.md).*
+
+> Treasury balance after June payments: **680,630,889 QUBIC**.
+>
+> A **one-off reimbursement of 13.39B QUBIC** was made on 17.04.2026 to compensate MEXC for losses caused by an integration-layer incident (see [QVE-2026-0001](https://github.com/qubic/qct/blob/main/qve/QVE-2026-0001.md)). This is not part of the operational cost breakdown but reduced the treasury balance by the same amount.
+
+### Spending by Category (Mar 2026 – Jun 2026 Actuals)
+
+Averages across the 4 months of the reporting period.
+
+| Category | Avg. Monthly | % of Spend | Trend |
+|----------|-------------|------------|-------|
+| Core | ~$39,200 | 43.6% | Reducing (Mar $45.4K → Jun $33.0K) |
+| Management¹ | ~$19,000 | 21.2% | Stable at $19.8K Mar–May, dipped to $16.8K in Jun under funding constraint |
+| Integration | ~$16,100 | 17.9% | Reducing (Mar $22.1K → Jun $10.8K) |
+| Infrastructure | ~$7,000 | 7.8% | Stable |
+| Testing | ~$5,150 | 5.7% | Stable |
+| Client | ~$3,500 | 3.9% | Stable |
+| **Total** | **~$90,015** | **100%** | Average declining as team adapted to lower QUBIC valuation |
+
+¹ *Labeled "Overhead" in the historical financial reports for this period; renamed to "Management" in this proposal (see Cost Break Down section).*
+
+### Team
+
+The team as of June 2026 consists of 16 contributors:
+
+```
+alez, cyber-pc, dkat, feiyu.IV, fnordspace, kavatak, keta, kimz300,
+linckode, luk, mio, Mr.Rose, phil, raika sternensucher, sally, yurabb8
+```
+
+>[!NOTE]
+> - Team members are engaged through various arrangements: some are employed via different companies, others are independent contractors or volunteers.
+> - Team members may work full-time or be compensated on an hourly basis.
+> - Salaries are paid either in USD or QUBIC, depending on individual agreements.
+> - Because not all team members receive a fixed salary and they send reports on their worked hours, the monthly budget for salaries fluctuates.
+
+## Overview
+
+We are requesting **671 billion QUBIC** to support the continued development of Qubic Core for **Q3 2026 — 3 months (July – September 2026)**, plus a refund of the June 2026 shortfall covered personally by @j0et0m.
+
+Given the current market conditions, we are **reducing the monthly USD budget by ~15.5%** compared to the previous period (~$100K/month → ~$84.5K/month). This reflects both a leaner operating scope for Q3 and the reduced weight of smart-contract review activity in the Core team's mandate.
+
+The requested funding breaks down as:
+- **Operating budget: ~$253,500** (3 months × ~$84.5K/month)
+- **June 2026 shortfall refund: $35,116.28** (personally covered by @j0et0m)
+- **Total: ~$288,616**
+
+The QUBIC amount was calculated using a valuation of **430 USD per billion** QUBIC (approximate 7-day average).
+
+The requested funding will be allocated to:
+- Pay team salaries
+- Cover service and server expenses necessary for QCT operations (e.g. RPC/API/Archive infra)
+- Cover the costs to run several test nets
+
+### Provided Services / What QCT does
+- Develops and maintains the Qubic Core and Qubic Network protocol
+- Develops the AI research integrations for Aigarth and Neuraxon within Qubic
+- Builds and operates the Qubic Integration Layer, enabling wallets, exchanges, and other applications to access the Qubic network
+- Operates and maintains the Qubic Testnet
+- Drives versioning and release management for the Qubic Core and Integration Layer
+- Maintains all software developed by Qubic Core Technology
+- Produces clear documentation explaining how the software works, how to use it, and the logic behind it — both in code comments and external guides
+- Provides technical support to other ecosystem builders building on top of Qubic
+- Develops and maintains the basic Explorer frontend (explorer.qubic.org)
+- Develops and maintains the basic Wallets (wallet.qubic.org, Android, iOS)
+- Maintains the proposal frontend (proposals.qubic.org)
+
+It's also important to clarify what we do not lead, handle, or take responsibility for:
+- Smart-contract development, code review, and integrator support (removed from Core scope in this period — see "Scope changes" below)
+- Qx Qubic frontend app
+- Grant and Incubation projects (part of Ecosystem)
+- Other community apps / DApps (i.e QEarn, QXBoard, QXTrade)
+- **Network Guardians program funding** — the Guardians program is not funded through the QCT budget. It is sourced separately. QCT coordinates on the technical side (Lite / Bob / archiver interoperability) but does not carry Guardian costs on this budget line.
+
+### Maintained Products/Software
+- Qubic Main Net (Core Node)
+- Qubic Core Lite Node (https://github.com/qubic/core-lite)
+- Qubic Core Bob Node (https://github.com/qubic/core-bob)
+- Qubic Test Net
+- Qubic RPC/API Infrastructure
+- Qubic General Tech Support
+- Qubic Core (https://github.com/qubic/core)
+- Qubic CLI (https://github.com/qubic/qubic-cli)
+- Qubic Archiver (https://github.com/qubic/go-archiver-v2)
+- Qubic Events (https://github.com/qubic/go-events)
+- Qubic TS Library (https://github.com/qubic/ts-library)
+- Explorer frontend
+- Wallet frontends
+- Quorum Proposal frontend
+- And many other tools around Qubic Core
+
+In [the about section](../about/README.md) you can find much more information about us.
+
+### Scope changes vs. previous period
+
+**Removed from Core team scope:**
+- **Smart-contract development, code review, and integrator support.** The about 1 FTE previously allocated to smart-contract work (development, code reviews, developer support) is no longer within Core's scope in this budget. Smart-contract review responsibility going forward is expected to sit with the proposers and the Computor review process, aligned with the [SC lifecycle documentation](https://docs.qubic.org/developers/smart-contracts/lifecycle). This is the primary driver of the Core budget reduction (~$49K → ~$40K/month).
+
+**Removed from budget:**
+- **Community Contributions category** (~$3K/month previously): the line covered ad-hoc community bounties and initial Network Guardians support. It is retired for this period. **The Network Guardians program itself is not — and was not — funded through the QCT budget**; funding is sourced separately.
+
+**Reduced:**
+- **Integration** (~$17K → ~$12K/month): running cost reduction following consolidation of Lite/Bob-based public RPC infrastructure.
+- **Client** (~$4K → ~$2K/month): maintenance mode for Explorer / Wallet / Proposal frontends; no major new client development planned this period.
+
+**Slightly increased:**
+- **Management** (formerly *Overhead*) (around $16K → $18K/month): aligned closer to historical actual (Mar–May avg around $19.8K, consistently above the previous $16K target). Internal composition rebalanced this period — **incubation management reduced from ~$6K to ~$2K/month** (the program currently requires fewer resources), and a **~$2K/month reserve added for general PMO / BD reliable resources**. Net effect: +$2K vs. previous target.
+- **Infrastructure** (~$6K → ~$6.5K/month): minor increase to cover additional archiver and RPC capacity.
+- **Testing** (~$5K → ~$6K/month): minor increase to strengthen regression and pre-release testing after the security work of the last quarter.
+
+## Success Indicators
+- Qubic network is in a stable state.
+- Bugs are fixed in an appropriate time.
+- Core and Integration boards are always updated so any member of the Qubic community can see who is working on what. The boards are public and can be found here: [Core](https://github.com/orgs/qubic/projects/1) and [Integration](https://github.com/orgs/qubic/projects/21/views/1)
+- At least once a month, someone from the Qubic Core Team informs the community on the progress (organizing/participating in AMAs/Presentation, written announcements).
+- Technical updates are shared regularly in the Qubic Discord server.
+- The developers are available to answer community questions and support ecosystem developers during onboarding. They actively engage with the community and stakeholders through the following public channels: [core-ama](https://discord.com/channels/1243503949013717063/1267841365425786881) and [integration-ama](https://discord.com/channels/1243503949013717063/1278229593647484939).
+- Every repository maintained by the Qubic Core Team includes a clear description and a manual on how to clone, compile, and run the project.
+
+## Cost Break Down
+
+The proposed monthly budget of **~$84.5K** reflects a **~15.5% reduction** vs. the previous ~$100K/month target. Every category has been reviewed; the Core reduction is driven mainly by the removal of smart-contract work from the Core team's scope.
+
+>[!NOTE]
+> **Rename:** the category previously called *Overhead* is renamed to **Management** in this proposal. Same scope, more accurate name — the line covers active management work (project management, coordination, business development, incubation management), which "Overhead" as a term did not convey well. Historical financial reports use "Overhead"; monthly reports from July 2026 onwards will use "Management."
+
+| Category | Monthly (USD) | % of Budget | Description |
+|----------|--------------|-------------|-------------|
+| Core | ~$40,000 | 47% | Core protocol development, maintenance, releases |
+| Management | ~$18,000 | 21% | PM, operations, coordination (incl. 50% BD, ~$2K incubation management, ~$2K reserve for PMO / BD reliable resources) |
+| Integration | ~$12,000 | 14% | Integration layer, APIs, archiver |
+| Infrastructure | ~$6,500 | 8% | Servers, test environments, services (CI/CD, monitoring, anti-DDoS) |
+| Testing | ~$6,000 | 7% | QA, test automation, testnet operations |
+| Client | ~$2,000 | 3% | Explorer, wallet, proposal frontends |
+| Community Contributions | ~$0 | 0% | Removed for this period |
+| **Total** | **~$84,500** | **100%** | |
+
+### Q3 total (3 months + refund)
+
+| | Amount |
+|---|--------|
+| Monthly budget | ~$84,500 |
+| Duration | 3 months (Jul–Sep 2026) |
+| Operating subtotal | ~$253,500 |
+| June 2026 shortfall refund (@j0et0m personal cover) | $35,116.28 |
+| **Subtotal USD** | **~$288,616** |
+| Valuation | 430 USD/bln (7-day average) |
+| **Total request** | **671 billion QUBIC (~$288,616)** |
+
+### Changes compared to previous budget
+
+| | Previous (Mar 2026) | This proposal |
+|---|---------------------|---------------|
+| Monthly target | ~$100K | ~$84.5K |
+| Duration | 4 months | 3 months |
+| Operating USD | ~$400K | ~$253.5K |
+| Total USD (incl. refund) | ~$400K | ~$288.6K |
+| Total QUBIC | 572B (at 700/bln) | ~671B (at 430/bln, 7-day avg) |
+| Smart-contract work in Core scope | ~1 FTE included | Removed |
+| Community Contributions | ~$3K/month | Removed |
+| Community engagement | Community Bounty, Network Guardians | Guardians self-sustaining |
+
+The monthly USD budget is **~15.5% lower** than the previous period. The Q3 operating USD is **~37% smaller** because this proposal covers 3 months instead of 4. Including the $35,116.28 refund for the June shortfall, the total USD request is **~$288,616 (~28% smaller than the previous $400K)**. The QUBIC amount is higher in absolute terms than the previous 572B due to the lower valuation (400 vs. 700 USD/bln), even though the underlying USD budget is meaningfully smaller.
+
+## Governance
+- Any unspent funds (e.g., due to an increase in QUBIC's market value) will either be used to cover expenses for the next period or returned to the CCF in the event of QCT's dissolution.
+- @j0et0m will receive the funds upon approval of the proposal and will be responsible for reporting all expenditures.
+- To ensure transparency and proper management of CCF funds, the Qubic Core Technology team will grant an independent community team access to all relevant documentation, including salary details, service invoices, and transaction history.
+- Monthly financial reports will continue to be published in the [financial-reports](../financial-reports) folder.
