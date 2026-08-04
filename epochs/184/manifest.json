@@ -1,0 +1,53 @@
+{
+  "epoch": 184,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "17658a65e9113045c3bd4b1a033fc93698b56cac03ea88a43f99eacdf291f054",
+      "sizeBytes": 529,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "4f317d022d2860b24a10e15c96f7bf4b9bf6e5e3282f289ea94396d0dc0459eb",
+      "sizeBytes": 139815,
+      "status": "ok"
+    },
+    "proposals/documents/47-community-reflection-and-accountability-c0dbe88502.md": {
+      "sha256": "c0dbe88502c1c9a17b4b971c4edf0a71b764e60deb8061f7ae2e74515b6c5218",
+      "sizeBytes": 2370,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "8786da3627b7ec75baa45bf1ca6444e7358c19d1b903406e462dc4d8d7bbeeff",
+      "sizeBytes": 1603,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "9203a8092a2542d4ef27ad59da31d37425ce00b96042b5c9ca767f4f642de4b6",
+      "sizeBytes": 3380,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "1b16a943d8e653e3ae14f8dba0cde6af4fe46f03af5445631ebf2aae2d0f20ef",
+      "sizeBytes": 197647,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:49:49Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
