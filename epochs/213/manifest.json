@@ -1,0 +1,68 @@
+{
+  "epoch": 213,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sizeBytes": 2,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "ce721d4ffa78356ce897629b49e5ada8e6a8d2941e4f5e43ebdda5826356e60c",
+      "sizeBytes": 78,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "d0e56758504298cf09e93b07e74bd3ba60e29260d5215c1d40742d09a796abe1",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "c4aff65937fc513fc3a769e905c1e2bee8b2aa3133ff06fbac9abb9b72bbbf7a",
+      "sizeBytes": 403584,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "44860605b8c8ac3e449741931e5d72848707d204928e28b85d041ec8c35f0d2c",
+      "sizeBytes": 4347,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "63357c8083f4aef46fe5dad8f53e6db82931a8e129b2e09ef6adb4f46a50747a",
+      "sizeBytes": 537165,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "4441387bf1bc22c1cdf1d09671b08c069f2a2143f4be02a9f70544b5a65ace13",
+      "sizeBytes": 53158,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:19:25Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/javathon/Proposals/blob/d323fff406cdf0b760d341b378b5d88f5eff34e7/qswap-hardening.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "javathon",
+      "path": "qswap-hardening.md",
+      "proposalIndex": 57,
+      "ref": "d323fff406cdf0b760d341b378b5d88f5eff34e7",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Extension of Protection for the QSWAP Contract against Procedure Spamming"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/profitphil/Proposal-upgrade-Qraffle-smart-contract",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": null,
+      "path": null,
+      "proposalIndex": 31,
+      "ref": null,
+      "repo": null,
+      "sha256": null,
+      "sourceType": "html_page",
+      "status": "blocked",
+      "title": "Proposal: Upgrade Qraffle Smart Contract"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/metafisicista/Proposal-Optimize-QVAULT-Smart-Contract/tree/main",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": null,
+      "path": null,
+      "proposalIndex": 22,
+      "ref": null,
+      "repo": null,
+      "sha256": null,
+      "sourceType": "html_page",
+      "status": "blocked",
+      "title": "Proposal-Optimize-QVAULT-Smart-Contract"
+    }
+  ],
+  "epoch": 213,
+  "generatedAt": "2026-08-04T00:19:25Z"
+}
