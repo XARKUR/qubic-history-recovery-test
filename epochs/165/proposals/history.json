@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/687b6fc/Community-Management-CCF-Proposal-June-July.md",
+      "documentKey": "a1f0773d745b5ed0b52c21ea7b9b181f0b2ebc751d9041488101c62284d54a80",
+      "epoch": 165,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "820a6ba5-ef9a-4ae7-9c2c-2af13769e71d",
+      "proposalIndex": 13,
+      "published": "2025-06-14T20:40:22.257",
+      "sha256": "c2cfcd34322ba59475b87835ead9804297bd446064fda984c4767676a79f4389",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/8ccfdce/Community-Management-CCF-Proposal-June-July.md",
+      "documentKey": "324a955d38e96cdddfff66ce1ad717311731f2542450e02f487c3c70d1c43831",
+      "epoch": 165,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "999ed232-1132-44ed-821d-f7f417a8ea56",
+      "proposalIndex": 13,
+      "published": "2025-06-14T20:30:36.837",
+      "sha256": "4c529744fff0b107bbdbd843e2bf786d4f4c815c3fd1af770fbedc7d20c74c74",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "社区管理 CCF 提案"
+    },
+    {
+      "canonicalUrl": "https://github.com/MatthewDarnell/RubicProposal/blob/f1e1de790d0529b1c1ca65cb1e179351ea44e39d/Rubic钱包提案.md",
+      "documentKey": "f16b1b97ffca007464293fcd9372066597e952aebd5ecf31cff3e2e8a04e9423",
+      "epoch": 165,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "4d100fe6-4cc7-4292-ae9c-98239c395495",
+      "proposalIndex": 18,
+      "published": "2025-06-13T19:02:12.303",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "提案：已交付 Rubic 项目的资金申请"
+    },
+    {
+      "canonicalUrl": "https://github.com/retrodrive1/qubic-ccf-marketing-proposal/blob/1d7058f2881e4af1a20e8b155c341d2aaa2e28a9/Qubic Socials Content and Coordination Proposal.md",
+      "documentKey": "4fb3e97cb820c67a34bce5d392c38db99db0dc7a504429d21b85ddb9ad35dfa3",
+      "epoch": 165,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4175898a-fe99-4df8-af02-c200024aef7e",
+      "proposalIndex": 17,
+      "published": "2025-06-13T18:48:07.697",
+      "sha256": "a4d9fbb5051d05bc7d148d157550055750f7712bde58b8fea3aa371aa407009a",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal – Marketing Revival"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/4c1251a8d8916ac9c3a0e330bdd04dc4925aac9f/GeneralComputorProposals/2025-06-11-strategic-qubic-monero-quorum-decision.md",
+      "documentKey": "cc376a422fc15ef3c1cb5ed906dc38fa2dc43d03d15c410925e1e3b95ecede21",
+      "epoch": 165,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "9420b45d-753e-4e97-85f7-f4777f633e6a",
+      "proposalIndex": 5,
+      "published": "2025-06-11T23:39:31.94",
+      "sha256": "9030d80bb0d568c3ec93fb03dfdbd881262c328caa4e9b8971fa056446c5d187",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Strategic Qubic - Monero Quorum Decision"
+    }
+  ],
+  "epoch": 165,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 165,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 12.08,
+          "title": "No Transfer",
+          "votes": 64
+        },
+        {
+          "percentage": 87.92,
+          "title": "Yes, send 20,000,000,000 $QUBIC",
+          "votes": 466
+        }
+      ],
+      "proposalId": "820a6ba5-ef9a-4ae7-9c2c-2af13769e71d",
+      "proposalIndex": 13,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-06-14T20:40:22.257",
+      "status": 3,
+      "title": "Community Management CCF Proposal",
+      "totalVotes": 530,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/687b6fc/Community-Management-CCF-Proposal-June-July.md"
+    },
+    {
+      "epoch": 165,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 20,000,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "999ed232-1132-44ed-821d-f7f417a8ea56",
+      "proposalIndex": 13,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-06-14T20:30:36.837",
+      "status": 5,
+      "title": "社区管理 CCF 提案",
+      "totalVotes": 0,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/8ccfdce/Community-Management-CCF-Proposal-June-July.md"
+    },
+    {
+      "epoch": 165,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 84.03,
+          "title": "No Transfer",
+          "votes": 442
+        },
+        {
+          "percentage": 15.97,
+          "title": "Yes, send 80,000,000,000 $QUBIC",
+          "votes": 84
+        }
+      ],
+      "proposalId": "4d100fe6-4cc7-4292-ae9c-98239c395495",
+      "proposalIndex": 18,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UEYRTPZMKQHFFGWSXBTLHJLLKCBBPBVTGHWYUYVMXAWCRWIWAQMQFRIHQBOD",
+      "published": "2025-06-13T19:02:12.303",
+      "status": 6,
+      "title": "提案：已交付 Rubic 项目的资金申请",
+      "totalVotes": 526,
+      "url": "https://github.com/MatthewDarnell/RubicProposal/blob/f1e1de790d0529b1c1ca65cb1e179351ea44e39d/Rubic钱包提案.md"
+    },
+    {
+      "epoch": 165,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 13.43,
+          "title": "No Transfer",
+          "votes": 72
+        },
+        {
+          "percentage": 86.57,
+          "title": "Yes, send 18,000,000,000 $QUBIC",
+          "votes": 464
+        }
+      ],
+      "proposalId": "4175898a-fe99-4df8-af02-c200024aef7e",
+      "proposalIndex": 17,
+      "proposalType": "Transfer",
+      "proposerIdentity": "TQLNOTPKDPLINBPALQHAOJVWHXSBFXTNGEVOVDSNNBGAULUVYGIDYDLFBDDG",
+      "published": "2025-06-13T18:48:07.697",
+      "status": 3,
+      "title": "CCF Proposal – Marketing Revival",
+      "totalVotes": 536,
+      "url": "https://github.com/retrodrive1/qubic-ccf-marketing-proposal/blob/1d7058f2881e4af1a20e8b155c341d2aaa2e28a9/Qubic Socials Content and Coordination Proposal.md"
+    },
+    {
+      "epoch": 165,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 27.74,
+          "title": "No",
+          "votes": 182
+        },
+        {
+          "percentage": 72.26,
+          "title": "Yes",
+          "votes": 474
+        }
+      ],
+      "proposalId": "9420b45d-753e-4e97-85f7-f4777f633e6a",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2025-06-11T23:39:31.94",
+      "status": 3,
+      "title": "Strategic Qubic - Monero Quorum Decision",
+      "totalVotes": 656,
+      "url": "https://github.com/qubic/proposal/blob/4c1251a8d8916ac9c3a0e330bdd04dc4925aac9f/GeneralComputorProposals/2025-06-11-strategic-qubic-monero-quorum-decision.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:42:49Z"
+}
