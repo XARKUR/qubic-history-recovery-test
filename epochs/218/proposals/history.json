@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-18-Qbay-Upgrade.md",
+      "documentKey": "4bb342c1706d71b57c53229af5e3e9946e8b6632deffec6aa793b290bb03cb20",
+      "epoch": 218,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b51ea384-062b-4223-9fa2-2953a94bf44b",
+      "proposalIndex": 1,
+      "published": "2026-06-19T22:58:34.34",
+      "sha256": "b07b84a302d83a04cc27f50492c453a8bd46e001798a260b2003c42ed30d7309",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade Qbay Smart Contract — Burn Collection Creation CFB Fees"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/0f56419/QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026.md",
+      "documentKey": "571b616b23c336e5594abfbfd42326e9249466d63b17a0ffcc44a977cd983aa2",
+      "epoch": 218,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4857550e-8c0f-4317-a3e4-72e9ee7a1bc0",
+      "proposalIndex": 54,
+      "published": "2026-06-19T22:26:47.007",
+      "sha256": "015d065f9c64e14cbe4054f1eaa60bf8ec999dc3e7254f3feb067adbf085dde4",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026"
+    }
+  ],
+  "epoch": 218,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 218,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 505
+        }
+      ],
+      "proposalId": "b51ea384-062b-4223-9fa2-2953a94bf44b",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-19T22:58:34.34",
+      "status": 3,
+      "title": "Proposal: Upgrade Qbay Smart Contract — Burn Collection Creation CFB Fees",
+      "totalVotes": 505,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-18-Qbay-Upgrade.md"
+    },
+    {
+      "epoch": 218,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 54.99,
+          "title": "No Transfer",
+          "votes": 336
+        },
+        {
+          "percentage": 45.01,
+          "title": "Yes, send 7,500,000,000 $QUBIC",
+          "votes": 275
+        }
+      ],
+      "proposalId": "4857550e-8c0f-4317-a3e4-72e9ee7a1bc0",
+      "proposalIndex": 54,
+      "proposalType": "Transfer",
+      "proposerIdentity": "RWTRPMXRVGHGLDWURVXJUAHQTJUAOECFTBZLVWCPYANOQRPGUHKJPLCANQPJ",
+      "published": "2026-06-19T22:26:47.007",
+      "status": 6,
+      "title": "QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026",
+      "totalVotes": 611,
+      "url": "https://github.com/QubicFrance/Proposals/blob/0f56419/QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:31Z"
+}

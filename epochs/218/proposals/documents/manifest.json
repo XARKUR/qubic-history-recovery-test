@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "1-proposal-upgrade-qbay-smart-contract-burn-collection-creation-cfb-fees-b07b84a302.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-18-Qbay-Upgrade.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "b07b84a302d83a04cc27f50492c453a8bd46e001798a260b2003c42ed30d7309",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-06-18-Qbay-Upgrade.md",
+      "proposalIndex": 1,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "b07b84a302d83a04cc27f50492c453a8bd46e001798a260b2003c42ed30d7309",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade Qbay Smart Contract — Burn Collection Creation CFB Fees"
+    },
+    {
+      "archivePath": "54-qubic-community-delegation-machina-raise-summit-2026-015d065f9c.md",
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/0f56419/QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "015d065f9c64e14cbe4054f1eaa60bf8ec999dc3e7254f3feb067adbf085dde4",
+      "owner": "QubicFrance",
+      "path": "QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026.md",
+      "proposalIndex": 54,
+      "ref": "0f56419",
+      "repo": "Proposals",
+      "sha256": "015d065f9c64e14cbe4054f1eaa60bf8ec999dc3e7254f3feb067adbf085dde4",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC COMMUNITY DELEGATION — MACHINA × RAISE SUMMIT 2026"
+    }
+  ],
+  "epoch": 218,
+  "generatedAt": "2026-08-04T01:34:10Z"
+}
