@@ -1,0 +1,291 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Zgirt.md",
+      "documentKey": "50dca2fec43a4bef15ff3df964326cec712d62d3c13907928a9ceeb928da4926",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "08422589-81d5-4047-aed1-1a8b4e958f25",
+      "proposalIndex": 28,
+      "published": "2026-03-30T22:00:32.78",
+      "sha256": "1920fb8ce15d1c62f962651c9bebfb8c992f8bd065e95062bb009ee6a4fd3d9e",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Zgirt - Qubic Strategic board member"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Pomm3sgab3l.md",
+      "documentKey": "7c77657884bec3afd26127e10fc686c5a4d4ce6ce42c43cca81b3b0ba75f652f",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1d8f0ef4-ba51-470a-95b3-e2dbbe7f5dc2",
+      "proposalIndex": 27,
+      "published": "2026-03-30T21:56:32.907",
+      "sha256": "b3be2661517459ecdc8da465ced6fd17ae3458254b8c4457bae68b9687c0e128",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Pomm3sgab3l - Qubic Strategic board member"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Cade.md",
+      "documentKey": "614b1863da0d663e77a928d8bf44f43d91c36428ecea871fb87abb0977a1a71b",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "fef9488c-04f0-43e3-bfd7-307966cc7992",
+      "proposalIndex": 26,
+      "published": "2026-03-30T21:55:19.53",
+      "sha256": "c84a02aa6a46c88c3c07fa5320268ce5e93e4ae4a444d070021a5c7a86e11c13",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Cade - Qubic Strategic board member"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Andrew-X.md",
+      "documentKey": "6fb9811d99da8c2d41cc2ad73f992353d603e295af8a2e5331aeb39209f394a8",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "7946fcf3-4377-4b53-9a8d-9e3a69d41d3b",
+      "proposalIndex": 25,
+      "published": "2026-03-30T21:51:47.97",
+      "sha256": "79210edfc9d1cafe9a33b4b043be615fc31a1000e34c323401abb2c4b4377541",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "AndrewX - Qubic Strategic board member"
+    },
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b56d955eb076bd8ccd2c0a5bc89ebcee67d890b3/04-01 - 06-30 MARKETING PROPOSAL.MD",
+      "documentKey": "7f60a332bbe5dcf7b777de113c06c3e1e04d7809e6fb93ba40b67e01af6acebe",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b3393300-b62b-474b-b253-f457969dda61",
+      "proposalIndex": 57,
+      "published": "2026-03-26T15:41:33.813",
+      "sha256": "602ff55643b20e8de48d07e460293333dc59d5837335bd259f0ea5d79712450a",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "🌐 QUBIC MARKETING CCF FUNDING PROPOSAL"
+    },
+    {
+      "canonicalUrl": "https://github.com/nineisten/qusino/blob/9caac13214316fae432b470d75bb1c44c71f9455/README.md",
+      "documentKey": "3a59b160c5039cd7fc5d4fc73b29fe2af15845fedb39931e7b2276805bd1690b",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "682a4b48-d9bc-465b-b48f-d1e6fe46e3a3",
+      "proposalIndex": 1,
+      "published": "2026-03-26T15:37:22.027",
+      "sha256": "c18c0f30e4d1aa303878277f589062b4c2cdee96d58902e48ef1069c642302a7",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to Include Qusino Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md",
+      "documentKey": "01deb87cb45a5ee965a3f3fbd321c29137e2d57d2cf6028b4e872470a864aa1d",
+      "epoch": 206,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "fab88452-73d1-4ce6-8197-efce2f92e72c",
+      "proposalIndex": 65,
+      "published": "2026-03-26T03:38:42.86",
+      "sha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Attend Hong Kong Web3 Festival 2026 and Qubic Computing Power Leasing Market Research in China"
+    }
+  ],
+  "epoch": 206,
+  "proposalCount": 7,
+  "proposals": [
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 77.29,
+          "title": "No",
+          "votes": 320
+        },
+        {
+          "percentage": 22.71,
+          "title": "Yes",
+          "votes": 94
+        }
+      ],
+      "proposalId": "08422589-81d5-4047-aed1-1a8b4e958f25",
+      "proposalIndex": 28,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "AQDVSYZCIRNAVGESXNGCWDZNHUUCYHFZEANDOFIGCFITABRGYGYCHWBCRXCH",
+      "published": "2026-03-30T22:00:32.78",
+      "status": 4,
+      "title": "Zgirt - Qubic Strategic board member",
+      "totalVotes": 414,
+      "url": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Zgirt.md"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 561
+        }
+      ],
+      "proposalId": "1d8f0ef4-ba51-470a-95b3-e2dbbe7f5dc2",
+      "proposalIndex": 27,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "RCHSGFTYPYZZBFOYDFCNFZCJWEMBTJXPFCVRGLVSCAVSKZLJPEDZONQGQEKK",
+      "published": "2026-03-30T21:56:32.907",
+      "status": 3,
+      "title": "Pomm3sgab3l - Qubic Strategic board member",
+      "totalVotes": 561,
+      "url": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Pomm3sgab3l.md"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 566
+        }
+      ],
+      "proposalId": "fef9488c-04f0-43e3-bfd7-307966cc7992",
+      "proposalIndex": 26,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XRDERVQTJTBSYCBIWNTKORUUOZSBOLTDMAMTRYHVWDXDXZJVGZTPJKQBSZCL",
+      "published": "2026-03-30T21:55:19.53",
+      "status": 3,
+      "title": "Cade - Qubic Strategic board member",
+      "totalVotes": 566,
+      "url": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Cade.md"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 524
+        }
+      ],
+      "proposalId": "7946fcf3-4377-4b53-9a8d-9e3a69d41d3b",
+      "proposalIndex": 25,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "HGGVSBXZEGIGIFOTHFQJTWWNPOUCUJLAXJVYFXCBCEDIQDCQHQHVNVQFGYDN",
+      "published": "2026-03-30T21:51:47.97",
+      "status": 3,
+      "title": "AndrewX - Qubic Strategic board member",
+      "totalVotes": 524,
+      "url": "https://github.com/qubic/proposal/blob/448383b34ec58595fad27be6130da472fd99f193/Qubic Strategic Board/2026-Q2-Andrew-X.md"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 18.31,
+          "title": "No Transfer",
+          "votes": 93
+        },
+        {
+          "percentage": 81.69,
+          "title": "Yes, send 98,000,000,000 $QUBIC",
+          "votes": 415
+        }
+      ],
+      "proposalId": "b3393300-b62b-474b-b253-f457969dda61",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-03-26T15:41:33.813",
+      "status": 3,
+      "title": "🌐 QUBIC MARKETING CCF FUNDING PROPOSAL",
+      "totalVotes": 508,
+      "url": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b56d955eb076bd8ccd2c0a5bc89ebcee67d890b3/04-01 - 06-30 MARKETING PROPOSAL.MD"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 30.3,
+          "title": "No",
+          "votes": 173
+        },
+        {
+          "percentage": 69.7,
+          "title": "Yes",
+          "votes": 398
+        }
+      ],
+      "proposalId": "682a4b48-d9bc-465b-b48f-d1e6fe46e3a3",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-03-26T15:37:22.027",
+      "status": 3,
+      "title": "Proposal to Include Qusino Smart Contract",
+      "totalVotes": 571,
+      "url": "https://github.com/nineisten/qusino/blob/9caac13214316fae432b470d75bb1c44c71f9455/README.md"
+    },
+    {
+      "epoch": 206,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 48.41,
+          "title": "No Transfer",
+          "votes": 274
+        },
+        {
+          "percentage": 51.59,
+          "title": "Yes, send 19,600,000,000 $QUBIC",
+          "votes": 292
+        }
+      ],
+      "proposalId": "fab88452-73d1-4ce6-8197-efce2f92e72c",
+      "proposalIndex": 65,
+      "proposalType": "Transfer",
+      "proposerIdentity": "CLKYJXJABWWIHGDEAUYRUVFXYIOCGHXWUYZNLUTOCDKLGGYIZREGDFIGLJOL",
+      "published": "2026-03-26T03:38:42.86",
+      "status": 3,
+      "title": "Attend Hong Kong Web3 Festival 2026 and Qubic Computing Power Leasing Market Research in China",
+      "totalVotes": 566,
+      "url": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:08Z"
+}
