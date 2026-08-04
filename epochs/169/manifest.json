@@ -1,0 +1,53 @@
+{
+  "epoch": 169,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "9d4ca52bd26ccd25ee60563a2926d7b475526892e475ef5a5d1b84d24e0b7d7f",
+      "sizeBytes": 451475,
+      "status": "ok"
+    },
+    "proposals/documents/15-proposal-to-include-qswap-smart-contract-af0b893bbe.md": {
+      "sha256": "af0b893bbed6e1f3b2d03d11894a9db83f4e2bee8420441f4e60c77aae8737cc",
+      "sizeBytes": 52013,
+      "status": "ok"
+    },
+    "proposals/documents/20-satoshi-s-cat-matilda-website-revamp-reduced-cost-555429e06f.md": {
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "sizeBytes": 7282,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "3e844100924a568d3a19110900321524859758de78e62c59b8da1e0373df920e",
+      "sizeBytes": 3019,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "c7e876dc6f5bed4478bb9d52d802bb1027a663874f814bcc4a4b9452e364e8d5",
+      "sizeBytes": 6509,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "363d97dbf840ecf9326abe0ee2c5e27d7e6243cfefba624a0df62f530c0b32d3",
+      "sizeBytes": 621876,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:29:36Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
