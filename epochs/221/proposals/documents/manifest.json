@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": "37-qip-upgrade-proposal-1d967a7d86.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-06-28-QIP-Upgrade.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-06-28-QIP-Upgrade.md",
+      "proposalIndex": 37,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "1d967a7d867485a0f03a6ab6ec31c977fd74cafd3318bfb07591ebb0b9ef8b6a",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QIP Upgrade Proposal"
+    },
+    {
+      "archivePath": "57-fund-qubic-core-development-0061edeb0a.md",
+      "canonicalUrl": "https://github.com/qubic/qct/blob/9ea86107b8346737fae5c20c579776a68b8ac8c4/funding/2026-07-01-Q3-proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "0061edeb0a4fb619812e8fc118e0a93aa42df679eef89b3194abcacf002f4aed",
+      "owner": "qubic",
+      "path": "funding/2026-07-01-Q3-proposal.md",
+      "proposalIndex": 57,
+      "ref": "9ea86107b8346737fae5c20c579776a68b8ac8c4",
+      "repo": "qct",
+      "sha256": "0061edeb0a4fb619812e8fc118e0a93aa42df679eef89b3194abcacf002f4aed",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Fund Qubic Core Development"
+    },
+    {
+      "archivePath": "36-proposal-cb0d0da319.md",
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/cd1d5d1/Establish the Qubic Community Marketing Board.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "cb0d0da319e2aa83e4f3a50f74c00542541becd8793d6e5d971a1c659e7a94f5",
+      "owner": "QubicFrance",
+      "path": "Establish the Qubic Community Marketing Board.md",
+      "proposalIndex": 36,
+      "ref": "cd1d5d1",
+      "repo": "Proposals",
+      "sha256": "cb0d0da319e2aa83e4f3a50f74c00542541becd8793d6e5d971a1c659e7a94f5",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal"
+    }
+  ],
+  "epoch": 221,
+  "generatedAt": "2026-08-04T01:34:27Z"
+}
