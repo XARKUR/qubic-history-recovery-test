@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/abd089e8f109571520809df9bde56f36a6b157a1/SmartContracts/2026-04-09-Escrow.md",
+      "documentKey": "5811364379852745f814e6562692e9250c7aab80ed9422bd614553e7a81f3f8e",
+      "epoch": 208,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "246e384c-19fd-4ecd-8ee1-465764025a63",
+      "proposalIndex": 29,
+      "published": "2026-04-11T20:45:41.847",
+      "sha256": "491eb6eec8b847cdbc357f621eb7d5df837ccf58240748d3cb4c03320344b6e6",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Escrow Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/AGI-26-Conference/tree/2afb05793843d894d765aabcd4018eb4347e4ac0",
+      "documentKey": "e8eefcb620823c5087295f872984d3d5a1c84af3cf2e80db7b46db34d5a696aa",
+      "epoch": 208,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "f63656a9-b363-4240-a96b-eb89a32d6dba",
+      "proposalIndex": 57,
+      "published": "2026-04-11T20:29:27.057",
+      "sha256": "7da2062c0d97d41012ddae8f85d2f6c65caed79667ff77823b44932e23f7a177",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "CCF Proposal — AGI-26 Conference Sponsorship"
+    }
+  ],
+  "epoch": 208,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 208,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 15.61,
+          "title": "No",
+          "votes": 84
+        },
+        {
+          "percentage": 84.39,
+          "title": "Yes",
+          "votes": 454
+        }
+      ],
+      "proposalId": "246e384c-19fd-4ecd-8ee1-465764025a63",
+      "proposalIndex": 29,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "YQZPLDQLMCWDSDETFBBABRXGNRTCZSSXFYSGBPFCZFNSSQZDJVDQYUPDNYIM",
+      "published": "2026-04-11T20:45:41.847",
+      "status": 3,
+      "title": "Proposal to include Escrow Smart Contract",
+      "totalVotes": 538,
+      "url": "https://github.com/KavataK/proposal/blob/abd089e8f109571520809df9bde56f36a6b157a1/SmartContracts/2026-04-09-Escrow.md"
+    },
+    {
+      "epoch": 208,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 56.42,
+          "title": "No Transfer",
+          "votes": 303
+        },
+        {
+          "percentage": 43.58,
+          "title": "Yes, send 51,600,000,000 $QUBIC",
+          "votes": 234
+        }
+      ],
+      "proposalId": "f63656a9-b363-4240-a96b-eb89a32d6dba",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-04-11T20:29:27.057",
+      "status": 6,
+      "title": "CCF Proposal — AGI-26 Conference Sponsorship",
+      "totalVotes": 537,
+      "url": "https://github.com/DeFiMomma/AGI-26-Conference/tree/2afb05793843d894d765aabcd4018eb4347e4ac0"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:12Z"
+}

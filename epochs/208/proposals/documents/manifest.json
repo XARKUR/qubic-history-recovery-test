@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "29-proposal-to-include-escrow-smart-contract-491eb6eec8.md",
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/abd089e8f109571520809df9bde56f36a6b157a1/SmartContracts/2026-04-09-Escrow.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "491eb6eec8b847cdbc357f621eb7d5df837ccf58240748d3cb4c03320344b6e6",
+      "owner": "KavataK",
+      "path": "SmartContracts/2026-04-09-Escrow.md",
+      "proposalIndex": 29,
+      "ref": "abd089e8f109571520809df9bde56f36a6b157a1",
+      "repo": "proposal",
+      "sha256": "491eb6eec8b847cdbc357f621eb7d5df837ccf58240748d3cb4c03320344b6e6",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Escrow Smart Contract"
+    },
+    {
+      "archivePath": "57-ccf-proposal-agi-26-conference-sponsorship-7da2062c0d.html",
+      "canonicalUrl": "https://github.com/DeFiMomma/AGI-26-Conference/tree/2afb05793843d894d765aabcd4018eb4347e4ac0",
+      "contentType": "text/html; charset=utf-8",
+      "expectedSha256": "7da2062c0d97d41012ddae8f85d2f6c65caed79667ff77823b44932e23f7a177",
+      "owner": null,
+      "path": null,
+      "proposalIndex": 57,
+      "ref": null,
+      "repo": null,
+      "sha256": "7da2062c0d97d41012ddae8f85d2f6c65caed79667ff77823b44932e23f7a177",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "CCF Proposal — AGI-26 Conference Sponsorship"
+    }
+  ],
+  "epoch": 208,
+  "generatedAt": "2026-08-04T01:33:13Z"
+}
