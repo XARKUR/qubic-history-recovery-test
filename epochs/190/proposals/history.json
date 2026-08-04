@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/52ae886/QubicScience2026-1.md",
+      "documentKey": "eb185114373fb9d5a66a3e38c44430f9b6b7ed0942a37ca1a48d5acb76d52cf1",
+      "epoch": 190,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "8b505bd2-3e97-4cf1-8229-d50e5696bd15",
+      "proposalIndex": 54,
+      "published": "2025-12-07T00:26:40.313",
+      "sha256": "aab71357609409754f3c80173c3dcc36107e02b16d20bbba392b41cb41a8cc0c",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 (1)"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/7d3f919ae67eee386acdc3661948fbc818681fd6/SmartContracts/2025-12-05-QSwap-Upgrade.md",
+      "documentKey": "dfb13352d60946018f2cf20c6cdfbbaa27a5224c2cf1fd81e26d3ca8292cc64a",
+      "epoch": 190,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "95502a2d-1cd5-40e5-868d-6ca431fbbb3a",
+      "proposalIndex": 1,
+      "published": "2025-12-05T22:08:00.77",
+      "sha256": "c6b92f06c1f71ca0914fd3ea66d2ce885fcf0fed8e1e299d89c99d6b6c61efee",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade QSwap with new fee distribution"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/6b049f7fcf855d18a16b248486dd8d9b458548d6/SmartContracts/2025-12-01-QRaffle.md",
+      "documentKey": "3de9fbdde2f138f935a410fad44cf8dafe69f800ba83153f409dda7a523c2609",
+      "epoch": 190,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "e5c81c4c-fa33-47d9-983a-4904d8209d09",
+      "proposalIndex": 5,
+      "published": "2025-12-05T16:45:35.253",
+      "sha256": "b1b4b7bef70185e5b565df456f172d148b3eb934646be0ed02ebc3e4e6121609",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Qraffle Smart Contract"
+    }
+  ],
+  "epoch": 190,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 190,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 62.17,
+          "title": "No Transfer",
+          "votes": 401
+        },
+        {
+          "percentage": 37.83,
+          "title": "Yes, send 126,000,000,000 $QUBIC",
+          "votes": 244
+        }
+      ],
+      "proposalId": "8b505bd2-3e97-4cf1-8229-d50e5696bd15",
+      "proposalIndex": 54,
+      "proposalType": "Transfer",
+      "proposerIdentity": "RWTRPMXRVGHGLDWURVXJUAHQTJUAOECFTBZLVWCPYANOQRPGUHKJPLCANQPJ",
+      "published": "2025-12-07T00:26:40.313",
+      "status": 6,
+      "title": "QUBIC AGI (True AI) Research 2026 (1)",
+      "totalVotes": 645,
+      "url": "https://github.com/qubicsci/Proposals/blob/52ae886/QubicScience2026-1.md"
+    },
+    {
+      "epoch": 190,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 639
+        }
+      ],
+      "proposalId": "95502a2d-1cd5-40e5-868d-6ca431fbbb3a",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2025-12-05T22:08:00.77",
+      "status": 3,
+      "title": "Proposal: Upgrade QSwap with new fee distribution",
+      "totalVotes": 639,
+      "url": "https://github.com/qubic/proposal/blob/7d3f919ae67eee386acdc3661948fbc818681fd6/SmartContracts/2025-12-05-QSwap-Upgrade.md"
+    },
+    {
+      "epoch": 190,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 637
+        }
+      ],
+      "proposalId": "e5c81c4c-fa33-47d9-983a-4904d8209d09",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2025-12-05T16:45:35.253",
+      "status": 3,
+      "title": "Proposal to include Qraffle Smart Contract",
+      "totalVotes": 637,
+      "url": "https://github.com/qubic/proposal/blob/6b049f7fcf855d18a16b248486dd8d9b458548d6/SmartContracts/2025-12-01-QRaffle.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:43Z"
+}
