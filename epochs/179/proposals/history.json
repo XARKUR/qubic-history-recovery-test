@@ -1,0 +1,251 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/b07e483/SmartContracts/2025-09-13-RandomLottery.md",
+      "documentKey": "86db6fee529287959d58bd69dd3966d8029901a322f08050f27686198a350116",
+      "epoch": 179,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "20cafebf-592e-453b-b366-59848e6f5af9",
+      "proposalIndex": 17,
+      "published": "2025-09-20T07:09:11.807",
+      "sha256": "263c5e2af429f856e572d450d8a3ea52c1aaab3e9af794f53a1f5cd9c9cce10e",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Random Lottery Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/d2a8382/CCF proposal Shanghai Global Blockchain Week event.md",
+      "documentKey": "cac15843b4221787608490f8c7605b1de0c51896a7e0279bec8839eee6300ab9",
+      "epoch": 179,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "a711bea4-7001-4fe7-a0c5-c338d48f0367",
+      "proposalIndex": 45,
+      "published": "2025-09-20T06:54:59.97",
+      "sha256": "e9012cdf7ce6fdc36d93c0dfbbf3c940736e983da96702af7661b88e3c78ca88",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Shanghai Global Blockchain Week"
+    },
+    {
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/a7ce34d/CCF proposal Shanghai Global Blockchain Week event.md",
+      "documentKey": "43e2f2726a30622579b8824a8599450e807bd2e788f1693e96fcfe23fff9837a",
+      "epoch": 179,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "213ea711-ed11-4ccc-a232-6227d88488dd",
+      "proposalIndex": 45,
+      "published": "2025-09-20T06:48:22.553",
+      "sha256": "57ad3f86ac0063f26b386f2e0b7d0398e0b8b14e54ba65c2970f34349f6f3033",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Shanghai Global Blockchain Week"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicRU/Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience/blob/main/README.md",
+      "documentKey": "dd60f6bd66c04cc272e7f734661f202412c15f20df5525a6854b8886cb125f61",
+      "epoch": 179,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "9218c72e-d328-4026-9b1d-3945f4d18587",
+      "proposalIndex": 44,
+      "published": "2025-09-18T21:20:23.65",
+      "sha256": "57918cc5761e9d49d264ae9f3624bd0442e9e8b28ddd2e28cd94b7057212d194",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthe"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicRU/Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience/blob/main/README.md",
+      "documentKey": "dd60f6bd66c04cc272e7f734661f202412c15f20df5525a6854b8886cb125f61",
+      "epoch": 179,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "c9c46fa4-d46b-4b75-bc9a-c08453c68981",
+      "proposalIndex": 44,
+      "published": "2025-09-18T20:43:25.643",
+      "sha256": "57918cc5761e9d49d264ae9f3624bd0442e9e8b28ddd2e28cd94b7057212d194",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthe"
+    },
+    {
+      "canonicalUrl": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/68a8f83efe61a782cac7c2e01d851146f1699c87/FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "documentKey": "689f9e45c80ac3dad30900552bafe72bbfcf3ad53538654b255ab4e219567383",
+      "epoch": 179,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "747362b5-92f0-4159-879d-9ff28a7161d1",
+      "proposalIndex": 43,
+      "published": "2025-09-18T10:19:22.587",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "QUBIC PROPOSAL - FRESCOID x SEB CCF"
+    }
+  ],
+  "epoch": 179,
+  "proposalCount": 6,
+  "proposals": [
+    {
+      "epoch": 179,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 93.31,
+          "title": "No",
+          "votes": 335
+        },
+        {
+          "percentage": 6.69,
+          "title": "Yes",
+          "votes": 24
+        }
+      ],
+      "proposalId": "20cafebf-592e-453b-b366-59848e6f5af9",
+      "proposalIndex": 17,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "MZHFWDSJLHMYYAARQJXMXIQRNSLCFIJVWQSOMDOUWCMNAATOOEZPMDWEAHYE",
+      "published": "2025-09-20T07:09:11.807",
+      "status": 4,
+      "title": "Proposal to include Random Lottery Smart Contract",
+      "totalVotes": 359,
+      "url": "https://github.com/N-010/proposal/blob/b07e483/SmartContracts/2025-09-13-RandomLottery.md"
+    },
+    {
+      "epoch": 179,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 43.87,
+          "title": "No Transfer",
+          "votes": 279
+        },
+        {
+          "percentage": 56.13,
+          "title": "Yes, send 18,300,000,000 $QUBIC",
+          "votes": 357
+        }
+      ],
+      "proposalId": "a711bea4-7001-4fe7-a0c5-c338d48f0367",
+      "proposalIndex": 45,
+      "proposalType": "Transfer",
+      "proposerIdentity": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+      "published": "2025-09-20T06:54:59.97",
+      "status": 3,
+      "title": "CCF proposal Shanghai Global Blockchain Week",
+      "totalVotes": 636,
+      "url": "https://github.com/zhangxingyuan-nj/Proposals/blob/d2a8382/CCF proposal Shanghai Global Blockchain Week event.md"
+    },
+    {
+      "epoch": 179,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 16,400,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "213ea711-ed11-4ccc-a232-6227d88488dd",
+      "proposalIndex": 45,
+      "proposalType": "Transfer",
+      "proposerIdentity": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+      "published": "2025-09-20T06:48:22.553",
+      "status": 5,
+      "title": "CCF proposal Shanghai Global Blockchain Week",
+      "totalVotes": 0,
+      "url": "https://github.com/zhangxingyuan-nj/Proposals/blob/a7ce34d/CCF proposal Shanghai Global Blockchain Week event.md"
+    },
+    {
+      "epoch": 179,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 78.55,
+          "title": "No Transfer",
+          "votes": 509
+        },
+        {
+          "percentage": 21.45,
+          "title": "Yes, send 6,900,000,000 $QUBIC",
+          "votes": 139
+        }
+      ],
+      "proposalId": "9218c72e-d328-4026-9b1d-3945f4d18587",
+      "proposalIndex": 44,
+      "proposalType": "Transfer",
+      "proposerIdentity": "JWXFEOENGWQTOCEAHUINODBYOHNAOYBKAQPDDNEMEFKEYFHXLBPIJLJDACYH",
+      "published": "2025-09-18T21:20:23.65",
+      "status": 6,
+      "title": "Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthe",
+      "totalVotes": 648,
+      "url": "https://github.com/QubicRU/Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience/blob/main/README.md"
+    },
+    {
+      "epoch": 179,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 69,000,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "c9c46fa4-d46b-4b75-bc9a-c08453c68981",
+      "proposalIndex": 44,
+      "proposalType": "Transfer",
+      "proposerIdentity": "JWXFEOENGWQTOCEAHUINODBYOHNAOYBKAQPDDNEMEFKEYFHXLBPIJLJDACYH",
+      "published": "2025-09-18T20:43:25.643",
+      "status": 5,
+      "title": "Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthe",
+      "totalVotes": 0,
+      "url": "https://github.com/QubicRU/Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience/blob/main/README.md"
+    },
+    {
+      "epoch": 179,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 75.99,
+          "title": "No Transfer",
+          "votes": 462
+        },
+        {
+          "percentage": 24.01,
+          "title": "Yes, send 4,000,000,000 $QUBIC",
+          "votes": 146
+        }
+      ],
+      "proposalId": "747362b5-92f0-4159-879d-9ff28a7161d1",
+      "proposalIndex": 43,
+      "proposalType": "Transfer",
+      "proposerIdentity": "KBJMAANEVAWGBFDZDIXRCDSHELXCJKMDDWVZBGNKZFBJZGDRKGNQOXGFVXID",
+      "published": "2025-09-18T10:19:22.587",
+      "status": 6,
+      "title": "QUBIC PROPOSAL - FRESCOID x SEB CCF",
+      "totalVotes": 608,
+      "url": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/68a8f83efe61a782cac7c2e01d851146f1699c87/FrescoidxSeb_QUBIC_PROPOSAL.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:27Z"
+}
