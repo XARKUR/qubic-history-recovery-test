@@ -1,0 +1,251 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/e9e04a49d9df935ab6fc9e491e327f5c13505793/SmartContracts/2026-01-12-Pulse.md",
+      "documentKey": "95466bc000babeef64aa6aff743f1d0e346615651032e5c4555eba43149c97ef",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5dab2bdd-736b-4d79-8785-93adb7bbe4dc",
+      "proposalIndex": 1,
+      "published": "2026-02-14T17:50:43.193",
+      "sha256": "f1c1045a38228748da532fa6a5313f424b94ab51f188cc0a19cc98505322a2da",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Pulse"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/ab7aa3196c30d53d6ee5f2124ca684b2331770fa/GeneralComputorProposals/2026-02-12-Governance-Framework.md",
+      "documentKey": "86a2d68e37c8547477b20366b077f66fa7c2b9040012a11424aad7875655bd22",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "2e6d2385-1e5e-4358-85f7-f8d8fe1992e9",
+      "proposalIndex": 5,
+      "published": "2026-02-14T14:57:28.057",
+      "sha256": "ed86340330c47a9a7f253bf7d33ef79097aed57eddcec598ac9498f1fbedf7e8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Governance & Funding Framework"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/ab7aa3196c30d53d6ee5f2124ca684b2331770fa/GeneralComputorProposals/2026-02-12-Governance-Framework.md",
+      "documentKey": "86a2d68e37c8547477b20366b077f66fa7c2b9040012a11424aad7875655bd22",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ae1642e4-82fa-4cc6-90a8-b65cbb07fcb5",
+      "proposalIndex": 5,
+      "published": "2026-02-14T14:55:03.63",
+      "sha256": "ed86340330c47a9a7f253bf7d33ef79097aed57eddcec598ac9498f1fbedf7e8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Governance & Funding Framework"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-02-13-QTRY-V2.md",
+      "documentKey": "534f8ce8aeb9d31b99c7130ef370a7c7ffab262d11f82deaad69d041fd0ae1fb",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "10dc1109-fcd5-4912-8c68-ea0d7ee47734",
+      "proposalIndex": 23,
+      "published": "2026-02-14T08:38:18.14",
+      "sha256": "91f432ced1c4fdb86e050cba62b25ad4501c85eb32725a3a7b4c6ab36239c303",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal for Quottery v2 update"
+    },
+    {
+      "canonicalUrl": "https://github.com/Kairos-Tek/qdb-proposal/blob/3ca6b22/README.md",
+      "documentKey": "7c20c177644e03b6651eb411331fd401aefb6a5e725602a8e69ef12187d0c084",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4f41903a-4991-4ee0-8c85-afdb727e21f3",
+      "proposalIndex": 60,
+      "published": "2026-02-13T20:23:50.317",
+      "sha256": "ef1c81e5188ed1db876173e1e138be4245de53c7fb22e2ff874f24521365124f",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qdb: Qubic's Dune - CCF Funding Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicRU/AI-Telegram-Assistant/blob/61e7326/README.md",
+      "documentKey": "7fc61fcb806bbe82f18a163590c27a3bfed20e01ee0467ff38421161ffc84b37",
+      "epoch": 200,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "05521c6f-0d33-43d6-9c1b-15a461b3ad51",
+      "proposalIndex": 59,
+      "published": "2026-02-13T20:20:13.65",
+      "sha256": "056472705dd5890385a0eadd3e85e597d9ea0f46c13fcb62c4bfa018f933cff7",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "AI-Telegram-Assistant"
+    }
+  ],
+  "epoch": 200,
+  "proposalCount": 6,
+  "proposals": [
+    {
+      "epoch": 200,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 53.95,
+          "title": "No",
+          "votes": 335
+        },
+        {
+          "percentage": 46.05,
+          "title": "Yes",
+          "votes": 286
+        }
+      ],
+      "proposalId": "5dab2bdd-736b-4d79-8785-93adb7bbe4dc",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-02-14T17:50:43.193",
+      "status": 6,
+      "title": "Pulse",
+      "totalVotes": 621,
+      "url": "https://github.com/qubic/proposal/blob/e9e04a49d9df935ab6fc9e491e327f5c13505793/SmartContracts/2026-01-12-Pulse.md"
+    },
+    {
+      "epoch": 200,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 614
+        }
+      ],
+      "proposalId": "2e6d2385-1e5e-4358-85f7-f8d8fe1992e9",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-02-14T14:57:28.057",
+      "status": 3,
+      "title": "Qubic Governance & Funding Framework",
+      "totalVotes": 614,
+      "url": "https://github.com/qubic/proposal/blob/ab7aa3196c30d53d6ee5f2124ca684b2331770fa/GeneralComputorProposals/2026-02-12-Governance-Framework.md"
+    },
+    {
+      "epoch": 200,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes",
+          "votes": 0
+        }
+      ],
+      "proposalId": "ae1642e4-82fa-4cc6-90a8-b65cbb07fcb5",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-02-14T14:55:03.63",
+      "status": 5,
+      "title": "Qubic Governance & Funding Framework",
+      "totalVotes": 0,
+      "url": "https://github.com/qubic/proposal/blob/ab7aa3196c30d53d6ee5f2124ca684b2331770fa/GeneralComputorProposals/2026-02-12-Governance-Framework.md"
+    },
+    {
+      "epoch": 200,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 666
+        }
+      ],
+      "proposalId": "10dc1109-fcd5-4912-8c68-ea0d7ee47734",
+      "proposalIndex": 23,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "DKNDYDOLUOIXYDKVTKHXHSAAUBXCPLAYTELTUMWTWDRUQNDBWVRBCCPBXRMH",
+      "published": "2026-02-14T08:38:18.14",
+      "status": 3,
+      "title": "Proposal for Quottery v2 update",
+      "totalVotes": 666,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-02-13-QTRY-V2.md"
+    },
+    {
+      "epoch": 200,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 95.48,
+          "title": "No Transfer",
+          "votes": 633
+        },
+        {
+          "percentage": 4.52,
+          "title": "Yes, send 80,000,000,000 $QUBIC",
+          "votes": 30
+        }
+      ],
+      "proposalId": "4f41903a-4991-4ee0-8c85-afdb727e21f3",
+      "proposalIndex": 60,
+      "proposalType": "Transfer",
+      "proposerIdentity": "JUVTIDCILQPJQFAGSYEAALSKGHODRHMQBREBBKDFJGPIPCDKUJGLSVUCPNTM",
+      "published": "2026-02-13T20:23:50.317",
+      "status": 6,
+      "title": "Qdb: Qubic's Dune - CCF Funding Proposal",
+      "totalVotes": 663,
+      "url": "https://github.com/Kairos-Tek/qdb-proposal/blob/3ca6b22/README.md"
+    },
+    {
+      "epoch": 200,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 100.0,
+          "title": "No Transfer",
+          "votes": 655
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 26,300,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "05521c6f-0d33-43d6-9c1b-15a461b3ad51",
+      "proposalIndex": 59,
+      "proposalType": "Transfer",
+      "proposerIdentity": "NVFDHXMSRYEDWFVFKCEHQGVHQHTCCKBXYFIEBWLKQBQQGOOITMBOINSDIIEL",
+      "published": "2026-02-13T20:20:13.65",
+      "status": 6,
+      "title": "AI-Telegram-Assistant",
+      "totalVotes": 655,
+      "url": "https://github.com/QubicRU/AI-Telegram-Assistant/blob/61e7326/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:56Z"
+}

@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": "23-proposal-for-quottery-v2-update-91f432ced1.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-02-13-QTRY-V2.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "91f432ced1c4fdb86e050cba62b25ad4501c85eb32725a3a7b4c6ab36239c303",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-02-13-QTRY-V2.md",
+      "proposalIndex": 23,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "91f432ced1c4fdb86e050cba62b25ad4501c85eb32725a3a7b4c6ab36239c303",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal for Quottery v2 update"
+    },
+    {
+      "archivePath": "60-qdb-qubic-s-dune-ccf-funding-proposal-ef1c81e518.md",
+      "canonicalUrl": "https://github.com/Kairos-Tek/qdb-proposal/blob/3ca6b22/README.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "ef1c81e5188ed1db876173e1e138be4245de53c7fb22e2ff874f24521365124f",
+      "owner": "Kairos-Tek",
+      "path": "README.md",
+      "proposalIndex": 60,
+      "ref": "3ca6b22",
+      "repo": "qdb-proposal",
+      "sha256": "ef1c81e5188ed1db876173e1e138be4245de53c7fb22e2ff874f24521365124f",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qdb: Qubic's Dune - CCF Funding Proposal"
+    },
+    {
+      "archivePath": "59-ai-telegram-assistant-056472705d.md",
+      "canonicalUrl": "https://github.com/QubicRU/AI-Telegram-Assistant/blob/61e7326/README.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "056472705dd5890385a0eadd3e85e597d9ea0f46c13fcb62c4bfa018f933cff7",
+      "owner": "QubicRU",
+      "path": "README.md",
+      "proposalIndex": 59,
+      "ref": "61e7326",
+      "repo": "AI-Telegram-Assistant",
+      "sha256": "056472705dd5890385a0eadd3e85e597d9ea0f46c13fcb62c4bfa018f933cff7",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "AI-Telegram-Assistant"
+    },
+    {
+      "archivePath": "5-qubic-governance-funding-framework-ed86340330.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/ab7aa3196c30d53d6ee5f2124ca684b2331770fa/GeneralComputorProposals/2026-02-12-Governance-Framework.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "ed86340330c47a9a7f253bf7d33ef79097aed57eddcec598ac9498f1fbedf7e8",
+      "owner": "qubic",
+      "path": "GeneralComputorProposals/2026-02-12-Governance-Framework.md",
+      "proposalIndex": 5,
+      "ref": "ab7aa3196c30d53d6ee5f2124ca684b2331770fa",
+      "repo": "proposal",
+      "sha256": "ed86340330c47a9a7f253bf7d33ef79097aed57eddcec598ac9498f1fbedf7e8",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic Governance & Funding Framework"
+    },
+    {
+      "archivePath": "1-pulse-f1c1045a38.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/e9e04a49d9df935ab6fc9e491e327f5c13505793/SmartContracts/2026-01-12-Pulse.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "f1c1045a38228748da532fa6a5313f424b94ab51f188cc0a19cc98505322a2da",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-01-12-Pulse.md",
+      "proposalIndex": 1,
+      "ref": "e9e04a49d9df935ab6fc9e491e327f5c13505793",
+      "repo": "proposal",
+      "sha256": "f1c1045a38228748da532fa6a5313f424b94ab51f188cc0a19cc98505322a2da",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Pulse"
+    }
+  ],
+  "epoch": 200,
+  "generatedAt": "2026-08-04T02:05:26Z"
+}
