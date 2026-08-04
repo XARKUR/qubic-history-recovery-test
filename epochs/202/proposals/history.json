@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/fa75857/Community Team CCF Funding Proposal.md",
+      "documentKey": "419f0680db4df860264793e3f3986eaacc8dc723f288c2b613b90c5206aa95b2",
+      "epoch": 202,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "0efaf038-e0cf-49d9-b580-363695e5f391",
+      "proposalIndex": 61,
+      "published": "2026-02-28T09:35:15.063",
+      "sha256": "e78ab4fd6159c372bdd40be62d3c7d77e2563dfc8977c853473bfb65a9ef3ec9",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for March"
+    },
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/63399fb/Community Team CCF Funding Proposal.md",
+      "documentKey": "e97442f74e719aab48edf0a40918b03957f717c7ac18120da876b9cbd16ae667",
+      "epoch": 202,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "a5fdf66c-88b0-4117-b033-c1950287a996",
+      "proposalIndex": 61,
+      "published": "2026-02-28T09:25:35.313",
+      "sha256": "dba959325f405472b34f5f8e4d6a5c88a422912f9bff8ba596c36a3748e3707b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for March"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/73863b85ed39ffcb22bbd976cbbeca58db734af8/SmartContracts/2026-01-12-Pulse.md",
+      "documentKey": "7368adb15c9a1f7751702ec059637f3202a076e3d7f9c3b28f2aed4134063a0e",
+      "epoch": 202,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5dc0f3d6-aa02-4dae-bd77-965406480bb4",
+      "proposalIndex": 5,
+      "published": "2026-02-26T13:11:51.577",
+      "sha256": "0787a200387eef431d3e9841f1a08b1172729d391fe78d42b03345e86ca90445",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Pulse"
+    }
+  ],
+  "epoch": 202,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 202,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 32.03,
+          "title": "No Transfer",
+          "votes": 188
+        },
+        {
+          "percentage": 67.97,
+          "title": "Yes, send 15,100,000,000 $QUBIC",
+          "votes": 399
+        }
+      ],
+      "proposalId": "0efaf038-e0cf-49d9-b580-363695e5f391",
+      "proposalIndex": 61,
+      "proposalType": "Transfer",
+      "proposerIdentity": "BBQLVDOUAZUDIGPTAZIXJJAZTKEANSRUYWJWFWVZGCSMSTSRDKEVBVYEUYME",
+      "published": "2026-02-28T09:35:15.063",
+      "status": 3,
+      "title": "Community Management CCF Proposal for March",
+      "totalVotes": 587,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/fa75857/Community Team CCF Funding Proposal.md"
+    },
+    {
+      "epoch": 202,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 15,500,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "a5fdf66c-88b0-4117-b033-c1950287a996",
+      "proposalIndex": 61,
+      "proposalType": "Transfer",
+      "proposerIdentity": "BBQLVDOUAZUDIGPTAZIXJJAZTKEANSRUYWJWFWVZGCSMSTSRDKEVBVYEUYME",
+      "published": "2026-02-28T09:25:35.313",
+      "status": 5,
+      "title": "Community Management CCF Proposal for March",
+      "totalVotes": 0,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/63399fb/Community Team CCF Funding Proposal.md"
+    },
+    {
+      "epoch": 202,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 2.16,
+          "title": "No",
+          "votes": 12
+        },
+        {
+          "percentage": 97.84,
+          "title": "Yes",
+          "votes": 544
+        }
+      ],
+      "proposalId": "5dc0f3d6-aa02-4dae-bd77-965406480bb4",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-02-26T13:11:51.577",
+      "status": 3,
+      "title": "Pulse",
+      "totalVotes": 556,
+      "url": "https://github.com/qubic/proposal/blob/73863b85ed39ffcb22bbd976cbbeca58db734af8/SmartContracts/2026-01-12-Pulse.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:57Z"
+}

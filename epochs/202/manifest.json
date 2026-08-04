@@ -1,0 +1,68 @@
+{
+  "epoch": 202,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "b798a640a1d4953c28646029c54e0433e5389655021ca73eedf0db049c0d3384",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "7d6dc9fb99846277e9d5705c6c37ac76053b6e7ca9fe269c1a2b8179d44078c0",
+      "sizeBytes": 257208,
+      "status": "ok"
+    },
+    "proposals/documents/5-pulse-0787a20038.md": {
+      "sha256": "0787a200387eef431d3e9841f1a08b1172729d391fe78d42b03345e86ca90445",
+      "sizeBytes": 7324,
+      "status": "ok"
+    },
+    "proposals/documents/61-community-management-ccf-proposal-for-march-dba959325f.md": {
+      "sha256": "dba959325f405472b34f5f8e4d6a5c88a422912f9bff8ba596c36a3748e3707b",
+      "sizeBytes": 15682,
+      "status": "ok"
+    },
+    "proposals/documents/61-community-management-ccf-proposal-for-march-e78ab4fd61.md": {
+      "sha256": "e78ab4fd6159c372bdd40be62d3c7d77e2563dfc8977c853473bfb65a9ef3ec9",
+      "sizeBytes": 15683,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "939b77dc692a282265d003f08d7198fad28443fb8eb88c9a544a5168a325805e",
+      "sizeBytes": 2359,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "99526e29b8e6e13636b38b996defc927ff1cba7bf80bfb53c5f494dd5d31ee85",
+      "sizeBytes": 4558,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "98f56b7cc990fe40b06fe3f14c0c100f5c6d074074e44d56d9f5added86dfb08",
+      "sizeBytes": 384294,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "0eba42a63fa5a7884602623ffde612bb68fea7c08cd27daa9057eedcd46205e2",
+      "sizeBytes": 549,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "a54fc6c483a35443e9ea3ad661755d950f1bba156324f3c54125d70f00c8357e",
+      "sizeBytes": 50536,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:05:37Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
