@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/6b049f7fcf855d18a16b248486dd8d9b458548d6/SmartContracts/2025-12-01-QRaffle.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-12-01-QRaffle.md",
+      "proposalIndex": 5,
+      "ref": "6b049f7fcf855d18a16b248486dd8d9b458548d6",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to include Qraffle Smart Contract"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/7d3f919ae67eee386acdc3661948fbc818681fd6/SmartContracts/2025-12-05-QSwap-Upgrade.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-12-05-QSwap-Upgrade.md",
+      "proposalIndex": 1,
+      "ref": "7d3f919ae67eee386acdc3661948fbc818681fd6",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal: Upgrade QSwap with new fee distribution"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/52ae886/QubicScience2026-1.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubicsci",
+      "path": "QubicScience2026-1.md",
+      "proposalIndex": 54,
+      "ref": "52ae886",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QUBIC AGI (True AI) Research 2026 (1)"
+    }
+  ],
+  "epoch": 190,
+  "generatedAt": "2026-08-04T00:14:40Z"
+}
