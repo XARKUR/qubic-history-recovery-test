@@ -1,0 +1,58 @@
+{
+  "epoch": 222,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "75de4b4d414dcc8a49aaf3cb6e09223eba12dc15233ae1defbf4cd31b83d4418",
+      "sizeBytes": 511,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "7f3a3f7dcf356138eb62d357b4461305124fde9bb21b1d283ecc9feaa313236c",
+      "sizeBytes": 141757,
+      "status": "ok"
+    },
+    "proposals/documents/69-community-management-ccf-proposal-for-august-u0026-september-eeae26f025.md": {
+      "sha256": "eeae26f025a4b6031e5b6956da32681a036604578f51dfda3ca1ca5bfaeba1e2",
+      "sizeBytes": 17288,
+      "status": "ok"
+    },
+    "proposals/documents/70-qubic-ann-explorer-make-useful-proof-of-work-visible-d1b587f9d6.md": {
+      "sha256": "d1b587f9d6040c87fb8b04e42a0dedf17778773d810c83cfa06173b2480d4719",
+      "sizeBytes": 8417,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "e86db6a2546739297848689da894a40c0d8f217428026661592601d725d91ace",
+      "sizeBytes": 1787,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "e1b54e2cd3d3d99a61b8b83162c11e495c333bf31c6a98d97c36c6b1200fd63d",
+      "sizeBytes": 3313,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "b9ce11e12a15c0ba7909e79004e9461a2ab3a93cf4020d8c958a0c279ea37e6b",
+      "sizeBytes": 182393,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "744387b7b62e8f6b03f23f4de02d05457502af9d1e38bdc30161fae8d4e5e69e",
+      "sizeBytes": 83336,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:34:33Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
