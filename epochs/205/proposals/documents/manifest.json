@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "zhangxingyuan-nj",
+      "path": "CCF-proposal-HK-Web3-Festival-2026.md",
+      "proposalIndex": 65,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF proposal Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/IanLaFlair/proposal/blob/2e0c612/SmartContracts/2026-03-20-QSurv.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "IanLaFlair",
+      "path": "SmartContracts/2026-03-20-QSurv.md",
+      "proposalIndex": 24,
+      "ref": "2e0c612",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to include QSurv Smart Contract – Decentralized AI-Verified Survey Platform"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/beb3be3/QubicScienceICMLT2026.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubicsci",
+      "path": "QubicScienceICMLT2026.md",
+      "proposalIndex": 64,
+      "ref": "beb3be3",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QUBIC SCIENCE NEURAXON - ICMLT 2026"
+    }
+  ],
+  "epoch": 205,
+  "generatedAt": "2026-08-04T00:17:11Z"
+}
