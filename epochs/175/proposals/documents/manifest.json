@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/LFG-Qubic/Proposals/blob/02375ec/proposal-1-ccf-compensation-august-2025/README.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "LFG-Qubic",
+      "path": "proposal-1-ccf-compensation-august-2025/README.md",
+      "proposalIndex": 40,
+      "ref": "02375ec",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal for LFG-Crew-Compensation (Community Vote 80 USD/H)"
+    }
+  ],
+  "epoch": 175,
+  "generatedAt": "2026-08-04T00:13:18Z"
+}
