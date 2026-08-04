@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/8085c47965e875552e6a122fab46bed3c29733c8/FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "documentKey": "e9a94ba6881fcde166ab3c44a8e4eafb2380bde49ccb56801083817f9d5a90f6",
+      "epoch": 184,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "8788f897-b311-4f5b-b5e5-9e8dc9bc3ea3",
+      "proposalIndex": 48,
+      "published": "2025-10-22T21:48:15.663",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "QUBIC PROPOSAL – Frescoid × Seb CCF"
+    },
+    {
+      "canonicalUrl": "https://github.com/5some/Community-Reflection-and-Accountability/blob/c34fa77f7729c76163963f5d8bc0ca5cad796aac/2025-10-22-community-reflection-and-accountability.md",
+      "documentKey": "dcd5c3992c7b9e4354b7207731c60f98f08174ddc1e112348cc8b8751b19dc16",
+      "epoch": 184,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "83965eb1-ff1e-4051-a2f0-47684a685bff",
+      "proposalIndex": 47,
+      "published": "2025-10-22T17:27:53.623",
+      "sha256": "c0dbe88502c1c9a17b4b971c4edf0a71b764e60deb8061f7ae2e74515b6c5218",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Reflection and Accountability"
+    }
+  ],
+  "epoch": 184,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 184,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 62.05,
+          "title": "No Transfer",
+          "votes": 363
+        },
+        {
+          "percentage": 37.95,
+          "title": "Yes, send 2,000,000,000 $QUBIC",
+          "votes": 222
+        }
+      ],
+      "proposalId": "8788f897-b311-4f5b-b5e5-9e8dc9bc3ea3",
+      "proposalIndex": 48,
+      "proposalType": "Transfer",
+      "proposerIdentity": "OVPKXLACQKXGHDMRXYLXCNQFGKGCTFNBXNVYECVVHEJBZDXMVCWJGUREZBCF",
+      "published": "2025-10-22T21:48:15.663",
+      "status": 6,
+      "title": "QUBIC PROPOSAL – Frescoid × Seb CCF",
+      "totalVotes": 585,
+      "url": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/8085c47965e875552e6a122fab46bed3c29733c8/FrescoidxSeb_QUBIC_PROPOSAL.md"
+    },
+    {
+      "epoch": 184,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 1,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "83965eb1-ff1e-4051-a2f0-47684a685bff",
+      "proposalIndex": 47,
+      "proposalType": "Transfer",
+      "proposerIdentity": "DYLOHIRXETAMLACRXQHDWPSLAPGABVWOGKFXYTYEZGFZZXFBMGVYPVZAXPHI",
+      "published": "2025-10-22T17:27:53.623",
+      "status": 4,
+      "title": "Community Reflection and Accountability",
+      "totalVotes": 0,
+      "url": "https://github.com/5some/Community-Reflection-and-Accountability/blob/c34fa77f7729c76163963f5d8bc0ca5cad796aac/2025-10-22-community-reflection-and-accountability.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:33Z"
+}
