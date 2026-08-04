@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": "63-qubic-doge-launch-marketing-0d2e001401.md",
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/ae2d251c545a96ab2c29a91ae540992b03ad2e9e/DOGE AD HOCK BUDGET.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "0d2e001401d49d0b96326d113defb8971b430383e266aa9c3558b0851012a143",
+      "owner": "DeFiMomma",
+      "path": "DOGE AD HOCK BUDGET.md",
+      "proposalIndex": 63,
+      "ref": "ae2d251c545a96ab2c29a91ae540992b03ad2e9e",
+      "repo": "CCF-Marketing-Proposal",
+      "sha256": "0d2e001401d49d0b96326d113defb8971b430383e266aa9c3558b0851012a143",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC DOGE LAUNCH MARKETING"
+    },
+    {
+      "archivePath": "62-qubic-science-amlds-2026-f9fdb2509d.md",
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/88a3d1d/QubicScienceAMLDS2026.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "f9fdb2509dd667c6eb4a82097ca84d86e35bfb5a9bfa4052c603ea5572de49b1",
+      "owner": "qubicsci",
+      "path": "QubicScienceAMLDS2026.md",
+      "proposalIndex": 62,
+      "ref": "88a3d1d",
+      "repo": "Proposals",
+      "sha256": "f9fdb2509dd667c6eb4a82097ca84d86e35bfb5a9bfa4052c603ea5572de49b1",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC SCIENCE - AMLDS 2026"
+    },
+    {
+      "archivePath": "5-proposal-to-include-qbridge-smart-contract-v2-multisig-3e5e0960f1.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/e54987c19d95b6f4bbb54c9b1413e6092dc1d452/SmartContracts/2026-03-13-QBridge.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "3e5e0960f1ca170e40fbfcab82ddc8be7c479c0145b749f3ab3be179b7b5b415",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-03-13-QBridge.md",
+      "proposalIndex": 5,
+      "ref": "e54987c19d95b6f4bbb54c9b1413e6092dc1d452",
+      "repo": "proposal",
+      "sha256": "3e5e0960f1ca170e40fbfcab82ddc8be7c479c0145b749f3ab3be179b7b5b415",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QBridge Smart Contract (v2 - Multisig)"
+    },
+    {
+      "archivePath": "12-qubic-agi-true-ai-research-2026-second-trimester-q2-ab4cc5ac81.md",
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/0472abf/QubicScience2026-SecondTrimester.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "ab4cc5ac815e83325c462e821c154db8534f7858795e19374b6b06e22e68d397",
+      "owner": "qubicsci",
+      "path": "QubicScience2026-SecondTrimester.md",
+      "proposalIndex": 12,
+      "ref": "0472abf",
+      "repo": "Proposals",
+      "sha256": "ab4cc5ac815e83325c462e821c154db8534f7858795e19374b6b06e22e68d397",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 Second Trimester Q2"
+    },
+    {
+      "archivePath": "57-fund-qubic-core-development-70602aafab.md",
+      "canonicalUrl": "https://github.com/qubic/qct/blob/6ef6eabc17018236b34a135e4437d03a1e47e92c/funding/2026-03-Q2-proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "70602aafab8c7fd7fb680e24aaed21cfd18ef263934dfc767991935d67077b43",
+      "owner": "qubic",
+      "path": "funding/2026-03-Q2-proposal.md",
+      "proposalIndex": 57,
+      "ref": "6ef6eabc17018236b34a135e4437d03a1e47e92c",
+      "repo": "qct",
+      "sha256": "70602aafab8c7fd7fb680e24aaed21cfd18ef263934dfc767991935d67077b43",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Fund Qubic Core Development"
+    }
+  ],
+  "epoch": 204,
+  "generatedAt": "2026-08-04T02:05:48Z"
+}

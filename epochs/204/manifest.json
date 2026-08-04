@@ -1,0 +1,78 @@
+{
+  "epoch": 204,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "a572c37fab44945699b9b3bdb8f3fa29b82f2fd6c468e061d75bbb3f600f05be",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "d0ff2bcef3b4e686590d52b40c504702ca24b5abc9e288ce128804e2a9f24fe2",
+      "sizeBytes": 730622,
+      "status": "ok"
+    },
+    "proposals/documents/12-qubic-agi-true-ai-research-2026-second-trimester-q2-ab4cc5ac81.md": {
+      "sha256": "ab4cc5ac815e83325c462e821c154db8534f7858795e19374b6b06e22e68d397",
+      "sizeBytes": 7975,
+      "status": "ok"
+    },
+    "proposals/documents/5-proposal-to-include-qbridge-smart-contract-v2-multisig-3e5e0960f1.md": {
+      "sha256": "3e5e0960f1ca170e40fbfcab82ddc8be7c479c0145b749f3ab3be179b7b5b415",
+      "sizeBytes": 81188,
+      "status": "ok"
+    },
+    "proposals/documents/57-fund-qubic-core-development-70602aafab.md": {
+      "sha256": "70602aafab8c7fd7fb680e24aaed21cfd18ef263934dfc767991935d67077b43",
+      "sizeBytes": 10305,
+      "status": "ok"
+    },
+    "proposals/documents/62-qubic-science-amlds-2026-f9fdb2509d.md": {
+      "sha256": "f9fdb2509dd667c6eb4a82097ca84d86e35bfb5a9bfa4052c603ea5572de49b1",
+      "sizeBytes": 2736,
+      "status": "ok"
+    },
+    "proposals/documents/63-qubic-doge-launch-marketing-0d2e001401.md": {
+      "sha256": "0d2e001401d49d0b96326d113defb8971b430383e266aa9c3558b0851012a143",
+      "sizeBytes": 3672,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "adf4e27cfd3525bfbed2efcdff181e2597989db390604dda888e8124356bb46e",
+      "sizeBytes": 3821,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "6c81f94077dc01ee6d594f05ef0d5a1d269c5e5b1354bbef43166c5b58df94b0",
+      "sizeBytes": 7444,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "322abaa9baca683f7e739cdd3ab75deef0b7239ba14b49cf6da632441373f8a7",
+      "sizeBytes": 1024520,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "76aa14294d859167b5715b99503d8f59ff7199bd645af48b1f2acb320a5ff297",
+      "sizeBytes": 546,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "14bf9c0592f22d2eb4dcd02d891b415ec741a9f45c34b948ca52ba4cba352234",
+      "sizeBytes": 65555,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:05:48Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
