@@ -1,0 +1,88 @@
+{
+  "epoch": 205,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e06a3bfea0ddea94b969a3bc85ac297f7bbd329bb2a4a2618ec1c55a75364ebb",
+      "sizeBytes": 70671,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "41330dc926738d1aa0783ab13ce1749f5fc5f7aeaf425707d726070735649a3c",
+      "sizeBytes": 396,
+      "status": "ok"
+    },
+    "ipo/documents/25-vottun-552dd4975d.txt": {
+      "sha256": "552dd4975d25e7c63f539db993b1757c827bb004758b8cd6a726748872d5f1ae",
+      "sizeBytes": 49674,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "db5fbc12b23beaffc4e911e344a666f44c53ab35aabd62d727c0003815538fd3",
+      "sizeBytes": 613,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "17b846ae721523546bbeaa2354e038227f48c67532933187f590b2df4a7117b3",
+      "sizeBytes": 525,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "0d10c54093708eff926874853f2573ebc72e803c8ac5bca4110632f722896943",
+      "sizeBytes": 354624,
+      "status": "ok"
+    },
+    "proposals/documents/24-proposal-to-include-qsurv-smart-contract-decentralized-ai-verified-survey-platfo-2ea8f6bc4a.md": {
+      "sha256": "2ea8f6bc4a0eb26d5ab275ebc00583d2fb6a53ee9cfb0e4df89c8341bdbd7ad7",
+      "sizeBytes": 20861,
+      "status": "ok"
+    },
+    "proposals/documents/64-qubic-science-neuraxon-icmlt-2026-e3aec2dd8f.md": {
+      "sha256": "e3aec2dd8f1f9fc33e2a5d7e43be3c180d0f9198fb4ad4ff18cf216b1a699b88",
+      "sizeBytes": 4962,
+      "status": "ok"
+    },
+    "proposals/documents/65-ccf-proposal-hong-kong-web3-festival-2026-and-preliminary-study-on-qubic-computi-1b334dd841.md": {
+      "sha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "sizeBytes": 15489,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "9962033d6640048c6d7eb9ad3a93c9520fb249baee64b33026ae3428860765f6",
+      "sizeBytes": 2420,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "6b4551ef498bca7e69801acbacefb2af85546085beadb98ab2fc5de6d8c50a6c",
+      "sizeBytes": 4651,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "12285565f3770fdd9f18eb8e393ad833dd88829be718bc9df0bd7008b30f80e3",
+      "sizeBytes": 447161,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "86cef9d83df94b33dbda153afee882ba1599fc58cb982dd80f6939dae59c0cd8",
+      "sizeBytes": 547,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "b2f58f2831f366e42065b7411e8f920f012bc4d6b31cac5743996e2fce77b379",
+      "sizeBytes": 73556,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:05:56Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

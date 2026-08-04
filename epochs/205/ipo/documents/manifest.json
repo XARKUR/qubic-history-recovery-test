@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZUQI",
+      "archivePath": "25-vottun-552dd4975d.txt",
+      "bidCount": 676,
+      "contractIndex": 25,
+      "epoch": 205,
+      "fileName": "25_vottun.txt",
+      "lastError": null,
+      "name": "VOTTUN",
+      "sha256": "552dd4975d25e7c63f539db993b1757c827bb004758b8cd6a726748872d5f1ae",
+      "sizeBytes": 49674,
+      "sourceUrl": "https://auctions.qubic.tools/files/25_vottun.txt",
+      "status": "saved",
+      "uniqueBidderCount": 92
+    }
+  ],
+  "epoch": 205,
+  "generatedAt": "2026-08-04T02:05:56Z"
+}
