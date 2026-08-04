@@ -1,0 +1,63 @@
+{
+  "epoch": 210,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "c3deae41430a394f5b7bae432bf37f44e43170457f65f27e6e1eebcf88f2e493",
+      "sizeBytes": 509,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "8a3ba0a9f7ecdb1ca5d24b65e9b06f5e01b8870886aa9b5e22e8e2a18fb3b3d3",
+      "sizeBytes": 509142,
+      "status": "ok"
+    },
+    "proposals/documents/22-proposal-upgrade-qrwa-smart-contract-ecd0254a15.md": {
+      "sha256": "ecd0254a15e6fc9eba78425ad2f422f8039d3d60c6ed8596fc6bf75b6a9a1d0b",
+      "sizeBytes": 3360,
+      "status": "ok"
+    },
+    "proposals/documents/57-community-management-ccf-proposal-for-april-and-may-3a4141238f.md": {
+      "sha256": "3a4141238f994934cae4213626983d98af4f6b2165d7eb8b7f0b06a807cc67c5",
+      "sizeBytes": 16194,
+      "status": "ok"
+    },
+    "proposals/documents/63-ccf-audit-proposal-05-01-07-31-audit-proposal-md-at-main-dxpsito-ccf-audit-propo-38beb997c2.md": {
+      "sha256": "38beb997c296720985042f87312c92c838a109b07288a870ce26d661a2a6f904",
+      "sizeBytes": 5133,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "94fa44960b56273f8dbab4bdc28cd83dad1793e05ad4fc5565f711c81ef96e36",
+      "sizeBytes": 2484,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "5102ebc1e8c1dfe6c7609e1ba9ce0493f41c2d7310761a76df8e12a6777a31b4",
+      "sizeBytes": 7754,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "3065dfe64830578d9e0d602844c60a184225add47a4d0558020b915d0a4b67d1",
+      "sizeBytes": 646756,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "42bc115814fedf2c54a04ea1f9203599cf57a58869013d030e418df71ac090af",
+      "sizeBytes": 66996,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:33:24Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
