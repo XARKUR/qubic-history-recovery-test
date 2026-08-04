@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-26-QBond.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-09-26-QBond.md",
+      "proposalIndex": 17,
+      "ref": "605da6f57f17505b2d5b9b271b2351a90268f4c8",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to include QBond Smart Contract"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/a8e8a80/SmartContracts/2025-09-13-RandomLottery.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "N-010",
+      "path": "SmartContracts/2025-09-13-RandomLottery.md",
+      "proposalIndex": 18,
+      "ref": "a8e8a80",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to include Random Lottery Smart Contract"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/main/Qubic France - Community CCF Proposal _ Crypto XR 2026.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "QubicFrance",
+      "path": "Qubic France - Community CCF Proposal _ Crypto XR 2026.md",
+      "proposalIndex": 46,
+      "ref": "main",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Qubic France – Community CCF Proposal: Crypto XR 2026"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-22-MSVAULT.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-09-22-MSVAULT.md",
+      "proposalIndex": 5,
+      "ref": "605da6f57f17505b2d5b9b271b2351a90268f4c8",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal: Upgrade Multi-Sign-Vault (MSVault) to version 2.0 with Multi-Asset Support"
+    }
+  ],
+  "epoch": 180,
+  "generatedAt": "2026-08-04T00:13:47Z"
+}
