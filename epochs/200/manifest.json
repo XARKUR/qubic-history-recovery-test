@@ -1,0 +1,78 @@
+{
+  "epoch": 200,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "01fee6a2a3ece2a8561db22fa18b1fb4705e90bcc0082f28e83d7fbc529a067b",
+      "sizeBytes": 528,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "3617c71e7e2ccac436021b2a20a51ef8cca5cae381ed2e86c50fb757b2cbda44",
+      "sizeBytes": 731914,
+      "status": "ok"
+    },
+    "proposals/documents/1-pulse-f1c1045a38.md": {
+      "sha256": "f1c1045a38228748da532fa6a5313f424b94ab51f188cc0a19cc98505322a2da",
+      "sizeBytes": 7358,
+      "status": "ok"
+    },
+    "proposals/documents/23-proposal-for-quottery-v2-update-91f432ced1.md": {
+      "sha256": "91f432ced1c4fdb86e050cba62b25ad4501c85eb32725a3a7b4c6ab36239c303",
+      "sizeBytes": 5853,
+      "status": "ok"
+    },
+    "proposals/documents/5-qubic-governance-funding-framework-ed86340330.md": {
+      "sha256": "ed86340330c47a9a7f253bf7d33ef79097aed57eddcec598ac9498f1fbedf7e8",
+      "sizeBytes": 5711,
+      "status": "ok"
+    },
+    "proposals/documents/59-ai-telegram-assistant-056472705d.md": {
+      "sha256": "056472705dd5890385a0eadd3e85e597d9ea0f46c13fcb62c4bfa018f933cff7",
+      "sizeBytes": 10575,
+      "status": "ok"
+    },
+    "proposals/documents/60-qdb-qubic-s-dune-ccf-funding-proposal-ef1c81e518.md": {
+      "sha256": "ef1c81e5188ed1db876173e1e138be4245de53c7fb22e2ff874f24521365124f",
+      "sizeBytes": 18752,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "d0ea45f35e056a0c8369ca06be1832a09e5abc57b589eeecf43a32bf1554048d",
+      "sizeBytes": 3640,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "90f2d722a0415c4b083425871600c0a2537c0fd22665314e0437176379cee01a",
+      "sizeBytes": 8675,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "3ffeee487a4d55a955b83a7322dcbaf7de83c5b6752793427137093f800304b6",
+      "sizeBytes": 1077757,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "441a39ce87d18c004f8a90113c960dd926114838d73767969089842ec5f26dc4",
+      "sizeBytes": 60796,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:51:18Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
