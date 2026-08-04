@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "address": "VAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAILLJ",
+      "archivePath": "21-qrp-0758858075.txt",
+      "bidCount": 676,
+      "contractIndex": 21,
+      "epoch": 198,
+      "fileName": "21_qrp.txt",
+      "lastError": null,
+      "name": "QRP",
+      "sha256": "0758858075984b8c23beceeb8fb3a6791015fa1e63627ad6c28e17305892c71b",
+      "sizeBytes": 48144,
+      "sourceUrl": "https://auctions.qubic.tools/files/21_qrp.txt",
+      "status": "saved",
+      "uniqueBidderCount": 23
+    },
+    {
+      "address": "WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVDQA",
+      "archivePath": "22-qtf-a7c4cd9143.txt",
+      "bidCount": 676,
+      "contractIndex": 22,
+      "epoch": 198,
+      "fileName": "22_qtf.txt",
+      "lastError": null,
+      "name": "QTF",
+      "sha256": "a7c4cd9143a4be450e20657c227b678998f8ac31d8d237da98cf2918e34ea6ab",
+      "sizeBytes": 48114,
+      "sourceUrl": "https://auctions.qubic.tools/files/22_qtf.txt",
+      "status": "saved",
+      "uniqueBidderCount": 21
+    },
+    {
+      "address": "XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXNMD",
+      "archivePath": "23-qduel-edac748785.txt",
+      "bidCount": 676,
+      "contractIndex": 23,
+      "epoch": 198,
+      "fileName": "23_qduel.txt",
+      "lastError": null,
+      "name": "QDUEL",
+      "sha256": "edac748785ddceec72bb767bb29e595fb2b097295ebb2c666c99203b8925176e",
+      "sizeBytes": 48113,
+      "sourceUrl": "https://auctions.qubic.tools/files/23_qduel.txt",
+      "status": "saved",
+      "uniqueBidderCount": 19
+    }
+  ],
+  "epoch": 198,
+  "generatedAt": "2026-08-04T01:32:17Z"
+}

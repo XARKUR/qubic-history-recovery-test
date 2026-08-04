@@ -1,0 +1,88 @@
+{
+  "epoch": 198,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "d79fa6602171800259a46100185fed15464f78f63806c41be4078c18936f8cdd",
+      "sizeBytes": 207313,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "ae378e55c985a88817e41a860779147435c87be0a656a5990d621beee0911b1b",
+      "sizeBytes": 1163,
+      "status": "ok"
+    },
+    "ipo/documents/21-qrp-0758858075.txt": {
+      "sha256": "0758858075984b8c23beceeb8fb3a6791015fa1e63627ad6c28e17305892c71b",
+      "sizeBytes": 48144,
+      "status": "ok"
+    },
+    "ipo/documents/22-qtf-a7c4cd9143.txt": {
+      "sha256": "a7c4cd9143a4be450e20657c227b678998f8ac31d8d237da98cf2918e34ea6ab",
+      "sizeBytes": 48114,
+      "status": "ok"
+    },
+    "ipo/documents/23-qduel-edac748785.txt": {
+      "sha256": "edac748785ddceec72bb767bb29e595fb2b097295ebb2c666c99203b8925176e",
+      "sizeBytes": 48113,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "70c8da4298d00aba3043b4b89fbee5a140d79af4dc48c5446c619a980d85f686",
+      "sizeBytes": 1651,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "86dc9105be114686b91c7c7272aa1a9a8ceda1689545d9ddd1660c9130b086cf",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "d329ff6885a5379892fcedc4d0fa969749a9da54025fb63228034802ba5d54b0",
+      "sizeBytes": 325120,
+      "status": "ok"
+    },
+    "proposals/documents/57-ccf-marketing-proposal-02-01-26-04-01-26-md-at-b7bf8984203d00d87a8cec412e42a2edd-88172411d8.md": {
+      "sha256": "88172411d83df00d48541cdec620b59b0af0f4799559b5a4048ab5f802c897f8",
+      "sizeBytes": 14087,
+      "status": "ok"
+    },
+    "proposals/documents/58-proposal-paris-blockchain-week-2026-30f33e2bfa.md": {
+      "sha256": "30f33e2bfa94b761e041fbacef4eaa1f6127b26a432a70a125ae3171a0def87d",
+      "sizeBytes": 5711,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "e40efb65a0f22801d212d235b09cac15a95221f8c44d1ef939afa07dce35afa8",
+      "sizeBytes": 1738,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "1ea83b5509f902fa7979cf6f4cb31b2f36ca2fffe2f37bcce95131258707746c",
+      "sizeBytes": 3290,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "1a0eca1f549512d85f0f20e0fbff0172f0db61ddd8778425404334d6658bb237",
+      "sizeBytes": 405229,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "048087e8a88b44a73a02e868d8a0835596c0356f93f381ad06f8052485c0065e",
+      "sizeBytes": 87506,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:32:17Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

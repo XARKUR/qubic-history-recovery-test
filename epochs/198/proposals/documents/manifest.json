@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "57-ccf-marketing-proposal-02-01-26-04-01-26-md-at-b7bf8984203d00d87a8cec412e42a2edd-88172411d8.md",
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b7bf8984203d00d87a8cec412e42a2eddafc882c/02-01-26-04-01-26.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "88172411d83df00d48541cdec620b59b0af0f4799559b5a4048ab5f802c897f8",
+      "owner": "DeFiMomma",
+      "path": "02-01-26-04-01-26.md",
+      "proposalIndex": 57,
+      "ref": "b7bf8984203d00d87a8cec412e42a2eddafc882c",
+      "repo": "CCF-Marketing-Proposal",
+      "sha256": "88172411d83df00d48541cdec620b59b0af0f4799559b5a4048ab5f802c897f8",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Marketing-Proposal/02-01-26-04-01-26.md at b7bf8984203d00d87a8cec412e42a2eddafc882c · DeFiMomma/"
+    },
+    {
+      "archivePath": "58-proposal-paris-blockchain-week-2026-30f33e2bfa.md",
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/558569c/Paris Blockchain Week 2026 - Qubic Community Delegation.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "30f33e2bfa94b761e041fbacef4eaa1f6127b26a432a70a125ae3171a0def87d",
+      "owner": "QubicFrance",
+      "path": "Paris Blockchain Week 2026 - Qubic Community Delegation.md",
+      "proposalIndex": 58,
+      "ref": "558569c",
+      "repo": "Proposals",
+      "sha256": "30f33e2bfa94b761e041fbacef4eaa1f6127b26a432a70a125ae3171a0def87d",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Paris Blockchain Week 2026"
+    }
+  ],
+  "epoch": 198,
+  "generatedAt": "2026-08-04T01:32:17Z"
+}
