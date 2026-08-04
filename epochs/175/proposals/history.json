@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/LFG-Qubic/Proposals/blob/02375ec/proposal-1-ccf-compensation-august-2025/README.md",
+      "documentKey": "d40992c83075d20f6c0af7d3e828fb3e3b0035b90baad10d2e3d21a1f04fd11c",
+      "epoch": 175,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3f8d4c36-6311-4a17-a38f-e5e2f55b218f",
+      "proposalIndex": 40,
+      "published": "2025-08-23T17:06:24.273",
+      "sha256": "8387eb6d7cf33b1aa506a0af390dde4d9134f36d78965df8dc4ef701f1a500c2",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal for LFG-Crew-Compensation (Community Vote 80 USD/H)"
+    }
+  ],
+  "epoch": 175,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 175,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 69.92,
+          "title": "No Transfer",
+          "votes": 437
+        },
+        {
+          "percentage": 30.08,
+          "title": "Yes, send 59’000’000’000 $QUBIC",
+          "votes": 188
+        }
+      ],
+      "proposalId": "3f8d4c36-6311-4a17-a38f-e5e2f55b218f",
+      "proposalIndex": 40,
+      "proposalType": "Transfer",
+      "proposerIdentity": "VVKJPLTDVLUSLFADVASZNCHZUULBXBMCNFVXJMZELELZUUGBRSAQPKVFQGRO",
+      "published": "2025-08-23T17:06:24.273",
+      "status": 6,
+      "title": "CCF Proposal for LFG-Crew-Compensation (Community Vote 80 USD/H)",
+      "totalVotes": 625,
+      "url": "https://github.com/LFG-Qubic/Proposals/blob/02375ec/proposal-1-ccf-compensation-august-2025/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:18Z"
+}
