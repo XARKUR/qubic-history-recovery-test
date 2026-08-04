@@ -1,0 +1,26 @@
+[
+  {
+    "address": "QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPIYE",
+    "contractIndex": 16,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 181,
+    "fileName": "16_rl.txt",
+    "lastError": null,
+    "name": "RL",
+    "sourceUrl": "https://auctions.qubic.tools/files/16_rl.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  },
+  {
+    "address": "RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADKAH",
+    "contractIndex": 17,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 181,
+    "fileName": "17_qbond.txt",
+    "lastError": null,
+    "name": "QBOND",
+    "sourceUrl": "https://auctions.qubic.tools/files/17_qbond.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  }
+]

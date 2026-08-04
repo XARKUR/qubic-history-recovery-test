@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/retrodrive1/25.10.01_qubic_marketing_proposal_team/blob/8e50c504182b5d5c52362a6260ef07a287c6fd3d/25.10.01_qubic_marketing_proposal_team.md",
+      "documentKey": "6d1b9869081fc6c7d9dd365f2b597b1415f9e6e45d309c2aa0a60328f86b3b84",
+      "epoch": 181,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "cf1355e0-9faf-4396-8051-60c206c2a253",
+      "proposalIndex": 44,
+      "published": "2025-10-03T15:19:33.62",
+      "sha256": "e2c8e4228601327c58f0238c086c3c86b79f0498c14b3ad36c2057f1af940a37",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "25.10.01_qubic_marketing_proposal_team/25.10.01_qubic_marketing_proposal_team.md at 8e50c504182b5d5c"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/main/CryptoXR 2026 x Qubic France %3B minimum requirement.md",
+      "documentKey": "36c3b586a398caabe1351eb2cb288267c57dc2fe6057120a48b4e227101a9e4b",
+      "epoch": 181,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "69c6eabc-a0ea-4d7c-98fe-22bdd1d6b2d1",
+      "proposalIndex": 46,
+      "published": "2025-10-03T09:10:20.857",
+      "sha256": "a039df40c3f751dc44291c70f8e2a3a8a038c3d3411b5731a43bdf41a8a8ac04",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic France : Crypto XR 2026 Minimal Requirement"
+    }
+  ],
+  "epoch": 181,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 181,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 28.18,
+          "title": "No Transfer",
+          "votes": 166
+        },
+        {
+          "percentage": 71.82,
+          "title": "Yes, send 33,200,000,000 $QUBIC",
+          "votes": 423
+        }
+      ],
+      "proposalId": "cf1355e0-9faf-4396-8051-60c206c2a253",
+      "proposalIndex": 44,
+      "proposalType": "Transfer",
+      "proposerIdentity": "JWXFEOENGWQTOCEAHUINODBYOHNAOYBKAQPDDNEMEFKEYFHXLBPIJLJDACYH",
+      "published": "2025-10-03T15:19:33.62",
+      "status": 3,
+      "title": "25.10.01_qubic_marketing_proposal_team/25.10.01_qubic_marketing_proposal_team.md at 8e50c504182b5d5c",
+      "totalVotes": 589,
+      "url": "https://github.com/retrodrive1/25.10.01_qubic_marketing_proposal_team/blob/8e50c504182b5d5c52362a6260ef07a287c6fd3d/25.10.01_qubic_marketing_proposal_team.md"
+    },
+    {
+      "epoch": 181,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 59.77,
+          "title": "No Transfer",
+          "votes": 361
+        },
+        {
+          "percentage": 40.23,
+          "title": "Yes, send 9,200,000,000 $QUBIC",
+          "votes": 243
+        }
+      ],
+      "proposalId": "69c6eabc-a0ea-4d7c-98fe-22bdd1d6b2d1",
+      "proposalIndex": 46,
+      "proposalType": "Transfer",
+      "proposerIdentity": "PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB",
+      "published": "2025-10-03T09:10:20.857",
+      "status": 6,
+      "title": "Qubic France : Crypto XR 2026 Minimal Requirement",
+      "totalVotes": 604,
+      "url": "https://github.com/QubicFrance/Proposals/blob/main/CryptoXR 2026 x Qubic France %3B minimum requirement.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:32Z"
+}
