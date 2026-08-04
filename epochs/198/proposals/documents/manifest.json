@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b7bf8984203d00d87a8cec412e42a2eddafc882c/02-01-26-04-01-26.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "DeFiMomma",
+      "path": "02-01-26-04-01-26.md",
+      "proposalIndex": 57,
+      "ref": "b7bf8984203d00d87a8cec412e42a2eddafc882c",
+      "repo": "CCF-Marketing-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF-Marketing-Proposal/02-01-26-04-01-26.md at b7bf8984203d00d87a8cec412e42a2eddafc882c · DeFiMomma/"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/558569c/Paris Blockchain Week 2026 - Qubic Community Delegation.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "QubicFrance",
+      "path": "Paris Blockchain Week 2026 - Qubic Community Delegation.md",
+      "proposalIndex": 58,
+      "ref": "558569c",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal: Paris Blockchain Week 2026"
+    }
+  ],
+  "epoch": 198,
+  "generatedAt": "2026-08-04T00:15:25Z"
+}
