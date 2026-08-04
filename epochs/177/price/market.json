@@ -1,0 +1,18 @@
+{
+  "averagePrice": "0.000002111891962560104347619047619",
+  "closePrice": "0.0000019902378114181794",
+  "coinId": "qubic-network",
+  "coverage": 1.0,
+  "endsAt": "2025-09-10T12:00:00Z",
+  "epoch": 177,
+  "expectedSampleCount": 168,
+  "highPrice": "0.0000022773971806209594",
+  "lowPrice": "0.0000019711401716721886",
+  "openPrice": "0.000002263977357918874",
+  "sampleCount": 168,
+  "source": "coingecko",
+  "startsAt": "2025-09-03T12:00:00Z",
+  "status": "final",
+  "updatedAt": "2026-08-02T14:15:30Z",
+  "vsCurrency": "usd"
+}
