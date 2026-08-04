@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/6fd19f0/QubicScience2026-FirstTrimester.md",
+      "documentKey": "2c95c5ff64d68b68a9ed7b28a5bade9498f9357206fada850063527a9a435ba0",
+      "epoch": 191,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "6691d63b-e0c3-4d27-bfce-cb566595515d",
+      "proposalIndex": 54,
+      "published": "2025-12-14T20:21:24.89",
+      "sha256": "0365c7814ab32fd6a453a0194a352ac6a38aacc09b6536ec3a7461466bd05cb5",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 First Trimester"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/f73afd874bf81f0c0ab8165d2d15110a5bbcb97a/SmartContracts/2025-12-09-CCF-Upgrade.md",
+      "documentKey": "ac8079768c5179620a1c5af22e9735e50a3d34f040267d3a1c43a9ad242a1cb8",
+      "epoch": 191,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "deb091c6-3e16-4cca-a83f-6510943a9851",
+      "proposalIndex": 1,
+      "published": "2025-12-10T19:16:04.417",
+      "sha256": "e10bf8e1b09092680d2620ff88708e71e83c15c131a9e3e727dba6f03b6e83cd",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Upgrade Computor Controlled Fund (CCF) - Intervall Payments"
+    }
+  ],
+  "epoch": 191,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 191,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 25.43,
+          "title": "No Transfer",
+          "votes": 163
+        },
+        {
+          "percentage": 74.57,
+          "title": "Yes, send 85,000,000,000 $QUBIC",
+          "votes": 478
+        }
+      ],
+      "proposalId": "6691d63b-e0c3-4d27-bfce-cb566595515d",
+      "proposalIndex": 54,
+      "proposalType": "Transfer",
+      "proposerIdentity": "RWTRPMXRVGHGLDWURVXJUAHQTJUAOECFTBZLVWCPYANOQRPGUHKJPLCANQPJ",
+      "published": "2025-12-14T20:21:24.89",
+      "status": 3,
+      "title": "QUBIC AGI (True AI) Research 2026 First Trimester",
+      "totalVotes": 641,
+      "url": "https://github.com/qubicsci/Proposals/blob/6fd19f0/QubicScience2026-FirstTrimester.md"
+    },
+    {
+      "epoch": 191,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 14.55,
+          "title": "No",
+          "votes": 93
+        },
+        {
+          "percentage": 85.45,
+          "title": "Yes",
+          "votes": 546
+        }
+      ],
+      "proposalId": "deb091c6-3e16-4cca-a83f-6510943a9851",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2025-12-10T19:16:04.417",
+      "status": 3,
+      "title": "Upgrade Computor Controlled Fund (CCF) - Intervall Payments",
+      "totalVotes": 639,
+      "url": "https://github.com/qubic/proposal/blob/f73afd874bf81f0c0ab8165d2d15110a5bbcb97a/SmartContracts/2025-12-09-CCF-Upgrade.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:45Z"
+}
