@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "address": "QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPIYE",
+      "archivePath": "16-rl-740445ffab.txt",
+      "bidCount": 676,
+      "contractIndex": 16,
+      "epoch": 181,
+      "fileName": "16_rl.txt",
+      "lastError": null,
+      "name": "RL",
+      "sha256": "740445ffabec33846ac358963a2e72f73c98e8a67b520f42854d0c894fd9958d",
+      "sizeBytes": 48726,
+      "sourceUrl": "https://auctions.qubic.tools/files/16_rl.txt",
+      "status": "saved",
+      "uniqueBidderCount": 34
+    },
+    {
+      "address": "RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADKAH",
+      "archivePath": "17-qbond-485ea7a72d.txt",
+      "bidCount": 676,
+      "contractIndex": 17,
+      "epoch": 181,
+      "fileName": "17_qbond.txt",
+      "lastError": null,
+      "name": "QBOND",
+      "sha256": "485ea7a72de8b1082e992206da2d342dab7b777f0ae74c662fb0b3e015bd08c1",
+      "sizeBytes": 48671,
+      "sourceUrl": "https://auctions.qubic.tools/files/17_qbond.txt",
+      "status": "saved",
+      "uniqueBidderCount": 38
+    }
+  ],
+  "epoch": 181,
+  "generatedAt": "2026-08-04T01:30:47Z"
+}

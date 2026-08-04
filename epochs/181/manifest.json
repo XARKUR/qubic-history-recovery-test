@@ -1,0 +1,78 @@
+{
+  "epoch": 181,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "8b74333472a297d42cf9cd9092c03498dca31aa2a52e79bdcaa3c5c0546a224b",
+      "sizeBytes": 139359,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "dafec235f1242487fa5a836015df59e2597fe96048a4a98447929af85f84a39f",
+      "sizeBytes": 775,
+      "status": "ok"
+    },
+    "ipo/documents/16-rl-740445ffab.txt": {
+      "sha256": "740445ffabec33846ac358963a2e72f73c98e8a67b520f42854d0c894fd9958d",
+      "sizeBytes": 48726,
+      "status": "ok"
+    },
+    "ipo/documents/17-qbond-485ea7a72d.txt": {
+      "sha256": "485ea7a72de8b1082e992206da2d342dab7b777f0ae74c662fb0b3e015bd08c1",
+      "sizeBytes": 48671,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "100db6fc96d1d3be4543189c053382ee25308f5bcee798bc937227b1da46f971",
+      "sizeBytes": 1126,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "6009e311cb50ce7ebb565fd827beb984e5ff36d4159322f64c24a7a1c2092661",
+      "sizeBytes": 529,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "65bc602ef031c7e705d754577ac6896433ce783b2fc8503956c4ec8489ef9b3b",
+      "sizeBytes": 328289,
+      "status": "ok"
+    },
+    "proposals/documents/44-25-10-01-qubic-marketing-proposal-team-25-10-01-qubic-marketing-proposal-team-md-e2c8e42286.md": {
+      "sha256": "e2c8e4228601327c58f0238c086c3c86b79f0498c14b3ad36c2057f1af940a37",
+      "sizeBytes": 10866,
+      "status": "ok"
+    },
+    "proposals/documents/46-qubic-france-crypto-xr-2026-minimal-requirement-a039df40c3.md": {
+      "sha256": "a039df40c3f751dc44291c70f8e2a3a8a038c3d3411b5731a43bdf41a8a8ac04",
+      "sizeBytes": 18450,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "ef643c51b19511591c396058e01714b136b541d0e0fff06f5b196124b35f0772",
+      "sizeBytes": 1826,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "1b510d8dfb83fedbc8e825064c2115e0fe826c38bdcebc88a6d6ac4e770217f5",
+      "sizeBytes": 3381,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "d856679c54517fcd67f7457c56ac4f21849fc2d16d34efb622db412a05156bcb",
+      "sizeBytes": 399629,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:47Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
