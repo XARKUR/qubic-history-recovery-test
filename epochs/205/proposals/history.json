@@ -1,0 +1,131 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md",
+      "documentKey": "01deb87cb45a5ee965a3f3fbd321c29137e2d57d2cf6028b4e872470a864aa1d",
+      "epoch": 205,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "09ed7b1e-5528-4c3e-9466-33739a4299a0",
+      "proposalIndex": 65,
+      "published": "2026-03-22T11:13:22.627",
+      "sha256": "1b334dd8415288ebd8e10855e06d6081d64815bc2703e44187931b23d2701d5b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/beb3be3/QubicScienceICMLT2026.md",
+      "documentKey": "c7571aba2d44f109cf3653fdff97452a6b9c9ce7d622f8c09458972e8193f333",
+      "epoch": 205,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "90eeed3b-3f74-42f3-8a9d-551127cd1c3f",
+      "proposalIndex": 64,
+      "published": "2026-03-21T08:48:42.01",
+      "sha256": "e3aec2dd8f1f9fc33e2a5d7e43be3c180d0f9198fb4ad4ff18cf216b1a699b88",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC SCIENCE NEURAXON - ICMLT 2026"
+    },
+    {
+      "canonicalUrl": "https://github.com/IanLaFlair/proposal/blob/2e0c612/SmartContracts/2026-03-20-QSurv.md",
+      "documentKey": "0947af89cad0d7a52a68cb2c10f4666aa17fabe4332c9f8695ee60ef18c0aa0b",
+      "epoch": 205,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1d097069-fd5b-4496-af79-35401fafd0dc",
+      "proposalIndex": 24,
+      "published": "2026-03-21T08:47:11.61",
+      "sha256": "2ea8f6bc4a0eb26d5ab275ebc00583d2fb6a53ee9cfb0e4df89c8341bdbd7ad7",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QSurv Smart Contract – Decentralized AI-Verified Survey Platform"
+    }
+  ],
+  "epoch": 205,
+  "proposalCount": 3,
+  "proposals": [
+    {
+      "epoch": 205,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 28.93,
+          "title": "No Transfer",
+          "votes": 46
+        },
+        {
+          "percentage": 71.07,
+          "title": "Yes, send 19,600,000,000 $QUBIC",
+          "votes": 113
+        }
+      ],
+      "proposalId": "09ed7b1e-5528-4c3e-9466-33739a4299a0",
+      "proposalIndex": 65,
+      "proposalType": "Transfer",
+      "proposerIdentity": "CLKYJXJABWWIHGDEAUYRUVFXYIOCGHXWUYZNLUTOCDKLGGYIZREGDFIGLJOL",
+      "published": "2026-03-22T11:13:22.627",
+      "status": 4,
+      "title": "CCF proposal Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in",
+      "totalVotes": 159,
+      "url": "https://github.com/zhangxingyuan-nj/Proposals/blob/main/CCF-proposal-HK-Web3-Festival-2026.md"
+    },
+    {
+      "epoch": 205,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 25.09,
+          "title": "No Transfer",
+          "votes": 147
+        },
+        {
+          "percentage": 74.91,
+          "title": "Yes, send 8,500,000,000 $QUBIC",
+          "votes": 439
+        }
+      ],
+      "proposalId": "90eeed3b-3f74-42f3-8a9d-551127cd1c3f",
+      "proposalIndex": 64,
+      "proposalType": "Transfer",
+      "proposerIdentity": "NEEZJJQWCSDMVBKTFROXJQGBGXIALDRZGWGFOMAGBECTPANXOKXMXINFBCEK",
+      "published": "2026-03-21T08:48:42.01",
+      "status": 3,
+      "title": "QUBIC SCIENCE NEURAXON - ICMLT 2026",
+      "totalVotes": 586,
+      "url": "https://github.com/qubicsci/Proposals/blob/beb3be3/QubicScienceICMLT2026.md"
+    },
+    {
+      "epoch": 205,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 62.69,
+          "title": "No",
+          "votes": 368
+        },
+        {
+          "percentage": 37.31,
+          "title": "Yes",
+          "votes": 219
+        }
+      ],
+      "proposalId": "1d097069-fd5b-4496-af79-35401fafd0dc",
+      "proposalIndex": 24,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "CCNCYCDWBXFSTAKYJHRMEMWDBOTBBNHWWJDBKZJIPBACFDUZFSUKYJIBTSKN",
+      "published": "2026-03-21T08:47:11.61",
+      "status": 6,
+      "title": "Proposal to include QSurv Smart Contract – Decentralized AI-Verified Survey Platform",
+      "totalVotes": 587,
+      "url": "https://github.com/IanLaFlair/proposal/blob/2e0c612/SmartContracts/2026-03-20-QSurv.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:04Z"
+}
