@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/abf4461/Community Management CCF Proposal for November and December.md",
+      "documentKey": "3597e6a0bbee42e0f565b9d2b12961776f366a7e82c6ad22e3325f252a4c03f7",
+      "epoch": 188,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d21d6ef1-3a76-4c71-89d4-84054f2b16ab",
+      "proposalIndex": 51,
+      "published": "2025-11-22T22:14:08.867",
+      "sha256": "b43bad5d0376115bcadfce7a9d0f3925261b94df4538aa81c6c74e05646f15bf",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for November and December"
+    },
+    {
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/cccf74e8009550605158dd80b81aab8807d01ca0/SmartContracts/2025-11-22-UpdateQBond.md",
+      "documentKey": "592c0870144c49af4fc4dd3bba74e510de9f2e56af0368254203c0ed49ea37a9",
+      "epoch": 188,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "eeac56e1-61c5-427f-846e-1b54a6667b17",
+      "proposalIndex": 3,
+      "published": "2025-11-22T22:11:32.247",
+      "sha256": "56690bc22533c028f14ab97092ab8c02baf3a00b4f53542dcad9a47d7e0d617b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to Update the Qbond Smart Contract"
+    }
+  ],
+  "epoch": 188,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 188,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 41.57,
+          "title": "No Transfer",
+          "votes": 264
+        },
+        {
+          "percentage": 58.43,
+          "title": "Yes, send 23,300,000,000 $QUBIC",
+          "votes": 371
+        }
+      ],
+      "proposalId": "d21d6ef1-3a76-4c71-89d4-84054f2b16ab",
+      "proposalIndex": 51,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MZWKFCEYLXXYFAXLXCEJHLFJOVPBAMFNDULCIZULCHGWJOQHCGDWIVSCTDWE",
+      "published": "2025-11-22T22:14:08.867",
+      "status": 3,
+      "title": "Community Management CCF Proposal for November and December",
+      "totalVotes": 635,
+      "url": "https://github.com/31clip/Community-Management-Team-Proposals/blob/abf4461/Community Management CCF Proposal for November and December.md"
+    },
+    {
+      "epoch": 188,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.31,
+          "title": "No",
+          "votes": 2
+        },
+        {
+          "percentage": 99.69,
+          "title": "Yes",
+          "votes": 634
+        }
+      ],
+      "proposalId": "eeac56e1-61c5-427f-846e-1b54a6667b17",
+      "proposalIndex": 3,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "NEEZJJQWCSDMVBKTFROXJQGBGXIALDRZGWGFOMAGBECTPANXOKXMXINFBCEK",
+      "published": "2025-11-22T22:11:32.247",
+      "status": 3,
+      "title": "Proposal to Update the Qbond Smart Contract",
+      "totalVotes": 636,
+      "url": "https://github.com/KavataK/proposal/blob/cccf74e8009550605158dd80b81aab8807d01ca0/SmartContracts/2025-11-22-UpdateQBond.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:39Z"
+}

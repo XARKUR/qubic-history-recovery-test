@@ -1,0 +1,53 @@
+{
+  "epoch": 188,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "4ee64ae0698ab7a389c6310591b1611ec58e8e57f3ddcab5ade6c1177e50e6e8",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "67fd8ef81372f7e5398b29c4220765a63e75d4e9522a6707f3fbd56d0e11f64b",
+      "sizeBytes": 319648,
+      "status": "ok"
+    },
+    "proposals/documents/3-proposal-to-update-the-qbond-smart-contract-56690bc225.md": {
+      "sha256": "56690bc22533c028f14ab97092ab8c02baf3a00b4f53542dcad9a47d7e0d617b",
+      "sizeBytes": 53168,
+      "status": "ok"
+    },
+    "proposals/documents/51-community-management-ccf-proposal-for-november-and-december-b43bad5d03.md": {
+      "sha256": "b43bad5d0376115bcadfce7a9d0f3925261b94df4538aa81c6c74e05646f15bf",
+      "sizeBytes": 15070,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "deae8d76e630c240e1f58ceaded4a9e2d7fcb640d5cda6a8622d138dbd7269a0",
+      "sizeBytes": 1746,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "267f8171ba2eb9797e1c587018fd67c5da6424e4889c63a17818bc158a5bc8c7",
+      "sizeBytes": 3246,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "ceccd2f2bc13fb600f33318fc350fc5320cfc43693652384d9cc11dbe5111d2c",
+      "sizeBytes": 425243,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:31:23Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

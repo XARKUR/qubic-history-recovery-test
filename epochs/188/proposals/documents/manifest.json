@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": "51-community-management-ccf-proposal-for-november-and-december-b43bad5d03.md",
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/abf4461/Community Management CCF Proposal for November and December.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "b43bad5d0376115bcadfce7a9d0f3925261b94df4538aa81c6c74e05646f15bf",
+      "owner": "31clip",
+      "path": "Community Management CCF Proposal for November and December.md",
+      "proposalIndex": 51,
+      "ref": "abf4461",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": "b43bad5d0376115bcadfce7a9d0f3925261b94df4538aa81c6c74e05646f15bf",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for November and December"
+    },
+    {
+      "archivePath": "3-proposal-to-update-the-qbond-smart-contract-56690bc225.md",
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/cccf74e8009550605158dd80b81aab8807d01ca0/SmartContracts/2025-11-22-UpdateQBond.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "56690bc22533c028f14ab97092ab8c02baf3a00b4f53542dcad9a47d7e0d617b",
+      "owner": "KavataK",
+      "path": "SmartContracts/2025-11-22-UpdateQBond.md",
+      "proposalIndex": 3,
+      "ref": "cccf74e8009550605158dd80b81aab8807d01ca0",
+      "repo": "proposal",
+      "sha256": "56690bc22533c028f14ab97092ab8c02baf3a00b4f53542dcad9a47d7e0d617b",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to Update the Qbond Smart Contract"
+    }
+  ],
+  "epoch": 188,
+  "generatedAt": "2026-08-04T01:31:23Z"
+}
