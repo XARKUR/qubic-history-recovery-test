@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/5aa5cbd/🌐 FINAL QUBIC MARKETING PROPOSAL_Markdown.md",
+      "documentKey": "ebf801a72e2e25f11615138ba5de5d19da0c63219b72c2e30fbd3b72a3002cc2",
+      "epoch": 189,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "44468e22-3390-441a-9d61-8e474b23cd1b",
+      "proposalIndex": 53,
+      "published": "2025-11-29T21:27:32.943",
+      "sha256": "0e7a15c84c40fa6bbff1c2f33267a1936af50883ba7a380a5cd2983875d83d42",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC MARKETING PROPOSAL"
+    },
+    {
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/78959d1/Ambassador Program S5 Proposal.md",
+      "documentKey": "51f8ff2a14e97796cef9b1b85fdce77c8c0b8b59d95be69eebc74499cbf2cfa9",
+      "epoch": 189,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4ff2d511-a5de-48d9-a679-f9fedd7830cc",
+      "proposalIndex": 52,
+      "published": "2025-11-29T21:27:23.697",
+      "sha256": "f6e3ff13af15e6b45173bdf1b2a9ec01e67e41bcc327bc09ffd55c5ceaf3a2a3",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program S5"
+    }
+  ],
+  "epoch": 189,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 189,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 17.54,
+          "title": "No Transfer",
+          "votes": 111
+        },
+        {
+          "percentage": 82.46,
+          "title": "Yes, send 86,636,066,565 $QUBIC",
+          "votes": 522
+        }
+      ],
+      "proposalId": "44468e22-3390-441a-9d61-8e474b23cd1b",
+      "proposalIndex": 53,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ETFXUOPVSTKLHCCLVOXHCWWIPCLBLFXYMDRMFRJHCHQPWKFRERLUYNBGIKPK",
+      "published": "2025-11-29T21:27:32.943",
+      "status": 3,
+      "title": "QUBIC MARKETING PROPOSAL",
+      "totalVotes": 633,
+      "url": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/5aa5cbd/🌐 FINAL QUBIC MARKETING PROPOSAL_Markdown.md"
+    },
+    {
+      "epoch": 189,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 62.48,
+          "title": "No Transfer",
+          "votes": 393
+        },
+        {
+          "percentage": 37.52,
+          "title": "Yes, send 49,000,000,000 $QUBIC",
+          "votes": 236
+        }
+      ],
+      "proposalId": "4ff2d511-a5de-48d9-a679-f9fedd7830cc",
+      "proposalIndex": 52,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ILJOXJEUQKINTGNTMSMVUQBIGNXBKBXPNBLEJFKEMGANGTAJGLJWJDSBFXDL",
+      "published": "2025-11-29T21:27:23.697",
+      "status": 6,
+      "title": "CCF Proposal - Ambassador Program S5",
+      "totalVotes": 629,
+      "url": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/78959d1/Ambassador Program S5 Proposal.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:40Z"
+}

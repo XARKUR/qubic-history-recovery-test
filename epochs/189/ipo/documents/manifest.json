@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "SAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABNI",
+      "archivePath": "18-qip-883298fbcc.txt",
+      "bidCount": 676,
+      "contractIndex": 18,
+      "epoch": 189,
+      "fileName": "18_qip.txt",
+      "lastError": null,
+      "name": "QIP",
+      "sha256": "883298fbcc5d1a3eecd85df3f9f19305dc02c21876f274fd05c367f5219cb015",
+      "sizeBytes": 47776,
+      "sourceUrl": "https://auctions.qubic.tools/files/18_qip.txt",
+      "status": "saved",
+      "uniqueBidderCount": 7
+    }
+  ],
+  "epoch": 189,
+  "generatedAt": "2026-08-04T01:31:28Z"
+}
