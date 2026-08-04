@@ -1,0 +1,251 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/Qubic x Ryan Babel Month 2%263.md",
+      "documentKey": "752324e5f6b241776ffc9f4f294008f0984afd446376ef362a7e18fbe3fa3a09",
+      "epoch": 170,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "ce47c929-b966-45f1-8127-0ac19b6bbbc6",
+      "proposalIndex": 22,
+      "published": "2025-07-19T10:42:11.29",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "CCF-Proposal/Qubic x Ryan Babel Month 2&amp;3.md at main · OfficialRBweb3/CCF-Proposal · GitHub"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/main/Core Services CCF Proposal - Strategy & Operations.md",
+      "documentKey": "3244f958eb00a043215bfd6bc297845fd02470908d10133a405eb864cf40586f",
+      "epoch": 170,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "f87ff7a4-fb8b-4106-8101-30fb3135942b",
+      "proposalIndex": 25,
+      "published": "2025-07-19T09:04:44.24",
+      "sha256": "d9aac2eb9e4e65e67cf792bec10967ace62e49eb1516ab9a9a8876866b0cba31",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Core Services: Strategy \\u0026 Operations CCF Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/497c86af99ff242ffa7279585f23e69b06f570cf/Ecosystem Services CCF Proposal (August - October 2025).md",
+      "documentKey": "753e46ec68bdf63d3fd0c38a349d1865037255b0757520c5555a1e148b8ede58",
+      "epoch": 170,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ae9f8f0d-6a52-4035-a67a-07b55019e570",
+      "proposalIndex": 3,
+      "published": "2025-07-18T23:19:33.163",
+      "sha256": "6c1180e8ddae26b135869e4b466c8657b4357ddf542ee49c01bccfbc6b6aa31b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Ecosystem Services CCF Proposal (August - October 2025)"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/d6addfa/SmartContracts/2025-07-19-Nostromo.md",
+      "documentKey": "cad750db901f49fe2dbfa0b52168e2b5d25f74d39974467d9976d8450a9436ea",
+      "epoch": 170,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "5b3e4026-5c80-426c-a456-1bbfc24b6c4c",
+      "proposalIndex": 15,
+      "published": "2025-07-18T23:15:39.49",
+      "sha256": "e4f900e6cff00436b1f05ce59343821ed40f4c88cdc9f3c8889dbd800e7afc93",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Nostromo Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/Qubic-community/Community-contributions/blob/736c44a8d1c4fcbebc81e6fad826b4ca323c61fc/2025-Community-Rewards.md",
+      "documentKey": "9ebddf09c17f0606c1dc75e1f77759b3889863e371e8ffaae571a17cfc8123c1",
+      "epoch": 170,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "4cb6c8e6-1206-4d75-b8b8-47fdda4be207",
+      "proposalIndex": 24,
+      "published": "2025-07-18T16:15:57.313",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "CCF Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/nineisten/QubicRareEvo/blob/8a1265f62f4702daceeb00e598128efd121c62ea/README.md",
+      "documentKey": "4b470f0eff4d8d3a16e182325aef6ed771f6351d930e8ba4b579bacfcde6114c",
+      "epoch": 170,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d232eac5-6035-4730-98f0-5c2244fa36f3",
+      "proposalIndex": 23,
+      "published": "2025-07-18T08:03:10.857",
+      "sha256": "c5bf8e56bc8d72175e1ea134aac2229a2a9108c9d7be5e3fdc61d8da1dbdbf43",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal : Qubic USA x RareEvo event"
+    }
+  ],
+  "epoch": 170,
+  "proposalCount": 6,
+  "proposals": [
+    {
+      "epoch": 170,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 73.78,
+          "title": "No Transfer",
+          "votes": 467
+        },
+        {
+          "percentage": 26.22,
+          "title": "Yes, send 15,200,000,000 $QUBIC",
+          "votes": 166
+        }
+      ],
+      "proposalId": "ce47c929-b966-45f1-8127-0ac19b6bbbc6",
+      "proposalIndex": 22,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MVUCJYICVTZUXAISLYEYBPNVOQWANSLOKNKZVHSAQFJIVALBLOSEBVDHUARK",
+      "published": "2025-07-19T10:42:11.29",
+      "status": 6,
+      "title": "CCF-Proposal/Qubic x Ryan Babel Month 2&amp;3.md at main · OfficialRBweb3/CCF-Proposal · GitHub",
+      "totalVotes": 633,
+      "url": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/Qubic x Ryan Babel Month 2%263.md"
+    },
+    {
+      "epoch": 170,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 42.74,
+          "title": "No Transfer",
+          "votes": 271
+        },
+        {
+          "percentage": 57.26,
+          "title": "Yes, send 72,500,000,000 $QUBIC",
+          "votes": 363
+        }
+      ],
+      "proposalId": "f87ff7a4-fb8b-4106-8101-30fb3135942b",
+      "proposalIndex": 25,
+      "proposalType": "Transfer",
+      "proposerIdentity": "WUPTDVJADGNHCDOVUIEWIDDFUTFABGZFBBSYJFBBKADUPVMFYSGVHQVBBNYA",
+      "published": "2025-07-19T09:04:44.24",
+      "status": 3,
+      "title": "Core Services: Strategy \\u0026 Operations CCF Proposal",
+      "totalVotes": 634,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/main/Core Services CCF Proposal - Strategy & Operations.md"
+    },
+    {
+      "epoch": 170,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 18.28,
+          "title": "No Transfer",
+          "votes": 115
+        },
+        {
+          "percentage": 81.72,
+          "title": "Yes, send 125,000,000,000 $QUBIC",
+          "votes": 514
+        }
+      ],
+      "proposalId": "ae9f8f0d-6a52-4035-a67a-07b55019e570",
+      "proposalIndex": 3,
+      "proposalType": "Transfer",
+      "proposerIdentity": "HJVZKBEWSHXBIHOMRIWOEXCALBXBYZXFYJHGDNTTACCZWUAUVQWEKJDDYOOH",
+      "published": "2025-07-18T23:19:33.163",
+      "status": 3,
+      "title": "Ecosystem Services CCF Proposal (August - October 2025)",
+      "totalVotes": 629,
+      "url": "https://github.com/Qubic-Core-Services/Proposals/blob/497c86af99ff242ffa7279585f23e69b06f570cf/Ecosystem Services CCF Proposal (August - October 2025).md"
+    },
+    {
+      "epoch": 170,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 6.3,
+          "title": "No",
+          "votes": 40
+        },
+        {
+          "percentage": 93.7,
+          "title": "Yes",
+          "votes": 595
+        }
+      ],
+      "proposalId": "5b3e4026-5c80-426c-a456-1bbfc24b6c4c",
+      "proposalIndex": 15,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-07-18T23:15:39.49",
+      "status": 3,
+      "title": "Proposal to include Nostromo Smart Contract",
+      "totalVotes": 635,
+      "url": "https://github.com/qubic/proposal/blob/d6addfa/SmartContracts/2025-07-19-Nostromo.md"
+    },
+    {
+      "epoch": 170,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 21,500,000,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "4cb6c8e6-1206-4d75-b8b8-47fdda4be207",
+      "proposalIndex": 24,
+      "proposalType": "Transfer",
+      "proposerIdentity": "QAUTBTFQHFCMQFSWMBXSMDONEMEDRPFDPWFYBCUWXERDKJBKEKBBQHDDOGKG",
+      "published": "2025-07-18T16:15:57.313",
+      "status": 4,
+      "title": "CCF Proposal",
+      "totalVotes": 0,
+      "url": "https://github.com/Qubic-community/Community-contributions/blob/736c44a8d1c4fcbebc81e6fad826b4ca323c61fc/2025-Community-Rewards.md"
+    },
+    {
+      "epoch": 170,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 48.9,
+          "title": "No Transfer",
+          "votes": 289
+        },
+        {
+          "percentage": 51.1,
+          "title": "Yes, send 10,300,000,000 $QUBIC",
+          "votes": 302
+        }
+      ],
+      "proposalId": "d232eac5-6035-4730-98f0-5c2244fa36f3",
+      "proposalIndex": 23,
+      "proposalType": "Transfer",
+      "proposerIdentity": "QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM",
+      "published": "2025-07-18T08:03:10.857",
+      "status": 3,
+      "title": "CCF proposal : Qubic USA x RareEvo event",
+      "totalVotes": 591,
+      "url": "https://github.com/nineisten/QubicRareEvo/blob/8a1265f62f4702daceeb00e598128efd121c62ea/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:00Z"
+}
