@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/fa75857/Community Team CCF Funding Proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community Team CCF Funding Proposal.md",
+      "proposalIndex": 61,
+      "ref": "fa75857",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal for March"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/73863b85ed39ffcb22bbd976cbbeca58db734af8/SmartContracts/2026-01-12-Pulse.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2026-01-12-Pulse.md",
+      "proposalIndex": 5,
+      "ref": "73863b85ed39ffcb22bbd976cbbeca58db734af8",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Pulse"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/31clip/Community-Management-Team-Proposals/blob/63399fb/Community Team CCF Funding Proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "31clip",
+      "path": "Community Team CCF Funding Proposal.md",
+      "proposalIndex": 61,
+      "ref": "63399fb",
+      "repo": "Community-Management-Team-Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal for March"
+    }
+  ],
+  "epoch": 202,
+  "generatedAt": "2026-08-04T00:15:48Z"
+}
