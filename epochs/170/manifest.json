@@ -1,0 +1,83 @@
+{
+  "epoch": 170,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "439bb0b65adb76352114d9cbad06934ea45b4a8cb64ef5405d235f99f7ad8bdb",
+      "sizeBytes": 70409,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "8005a035d17ca771c4398ed2d328e7423ec0ef0b47ab211ae7b2eb6209f9230a",
+      "sizeBytes": 393,
+      "status": "ok"
+    },
+    "ipo/documents/13-qswap-bceffecb3e.txt": {
+      "sha256": "bceffecb3ea22aec6895bfb571569900e4aa4b30a0f5bcc9b7c82636360d70f9",
+      "sizeBytes": 49417,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "3a077fea9f8f4fa0ea9a1a67d979dd918840c95cc8c9ac0381c7425c4ca45ad4",
+      "sizeBytes": 609,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "c2f6c728f8fcfbb6b75c481065812291b21b8d43bad8ca4e56cdb93fb35b019c",
+      "sizeBytes": 808704,
+      "status": "ok"
+    },
+    "proposals/documents/15-proposal-to-include-nostromo-smart-contract-e4f900e6cf.md": {
+      "sha256": "e4f900e6cff00436b1f05ce59343821ed40f4c88cdc9f3c8889dbd800e7afc93",
+      "sizeBytes": 52302,
+      "status": "ok"
+    },
+    "proposals/documents/23-ccf-proposal-qubic-usa-x-rareevo-event-c5bf8e56bc.md": {
+      "sha256": "c5bf8e56bc8d72175e1ea134aac2229a2a9108c9d7be5e3fdc61d8da1dbdbf43",
+      "sizeBytes": 7302,
+      "status": "ok"
+    },
+    "proposals/documents/25-core-services-strategy-u0026-operations-ccf-proposal-d9aac2eb9e.md": {
+      "sha256": "d9aac2eb9e4e65e67cf792bec10967ace62e49eb1516ab9a9a8876866b0cba31",
+      "sizeBytes": 8825,
+      "status": "ok"
+    },
+    "proposals/documents/3-ecosystem-services-ccf-proposal-august-october-2025-6c1180e8dd.md": {
+      "sha256": "6c1180e8ddae26b135869e4b466c8657b4357ddf542ee49c01bccfbc6b6aa31b",
+      "sizeBytes": 11913,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "5efe5a8c71444e3fb491808b7b3eb29c5f3cd869fb1561c3fd28b58e2f49c45e",
+      "sizeBytes": 4438,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "edced4fd8caf878c318eba7a7746b4f489c67949fb44c807454440560abbe470",
+      "sizeBytes": 9317,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "01f9c90a2f4b5ae19572f6a9784884e2841af4b1ec0e615b5454d2f393b818d1",
+      "sizeBytes": 1046519,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:29:42Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
