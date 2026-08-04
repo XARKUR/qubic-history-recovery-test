@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/558569c/Paris Blockchain Week 2026 - Qubic Community Delegation.md",
+      "documentKey": "95006e9bb11ee9cc8b521e897f9b7e962908c51783fc848779a4f89f7432062f",
+      "epoch": 198,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4bb6d313-c2a3-4ccc-93a2-de3c2b83df78",
+      "proposalIndex": 58,
+      "published": "2026-01-31T10:10:22.86",
+      "sha256": "30f33e2bfa94b761e041fbacef4eaa1f6127b26a432a70a125ae3171a0def87d",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Paris Blockchain Week 2026"
+    },
+    {
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b7bf8984203d00d87a8cec412e42a2eddafc882c/02-01-26-04-01-26.md",
+      "documentKey": "3c2b971c590f45da4b1f2166f806a760f0d684cbef2d6e63adeeeffeb7724507",
+      "epoch": 198,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "af239a7f-573f-4b30-8f77-a4cf471c1b92",
+      "proposalIndex": 57,
+      "published": "2026-01-30T13:33:14.543",
+      "sha256": "88172411d83df00d48541cdec620b59b0af0f4799559b5a4048ab5f802c897f8",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Marketing-Proposal/02-01-26-04-01-26.md at b7bf8984203d00d87a8cec412e42a2eddafc882c · DeFiMomma/"
+    }
+  ],
+  "epoch": 198,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 198,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 22.9,
+          "title": "No Transfer",
+          "votes": 142
+        },
+        {
+          "percentage": 77.1,
+          "title": "Yes, send 6,000,000,000 $QUBIC",
+          "votes": 478
+        }
+      ],
+      "proposalId": "4bb6d313-c2a3-4ccc-93a2-de3c2b83df78",
+      "proposalIndex": 58,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MSJKDZFOBZZWXDOPDZFJAEVDVCCCBSYULMPQYURXVBKQSSDUSSRYWYFETJSG",
+      "published": "2026-01-31T10:10:22.86",
+      "status": 3,
+      "title": "Proposal: Paris Blockchain Week 2026",
+      "totalVotes": 620,
+      "url": "https://github.com/QubicFrance/Proposals/blob/558569c/Paris Blockchain Week 2026 - Qubic Community Delegation.md"
+    },
+    {
+      "epoch": 198,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 22.71,
+          "title": "No Transfer",
+          "votes": 134
+        },
+        {
+          "percentage": 77.29,
+          "title": "Yes, send 113,442,622,950 $QUBIC",
+          "votes": 456
+        }
+      ],
+      "proposalId": "af239a7f-573f-4b30-8f77-a4cf471c1b92",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-01-30T13:33:14.543",
+      "status": 3,
+      "title": "CCF-Marketing-Proposal/02-01-26-04-01-26.md at b7bf8984203d00d87a8cec412e42a2eddafc882c · DeFiMomma/",
+      "totalVotes": 590,
+      "url": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/b7bf8984203d00d87a8cec412e42a2eddafc882c/02-01-26-04-01-26.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:52Z"
+}
