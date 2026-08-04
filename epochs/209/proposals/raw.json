@@ -1,0 +1,5808 @@
+{
+  "epoch": 209,
+  "result": [
+    {
+      "ballots": [
+        {
+          "computorId": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+          "vote": 1,
+          "voteTick": 49973329
+        },
+        {
+          "computorId": "KGLUEQQRUOVFJCVIVNUXHPOXEOZBIWJPNHOQLCGOCANUYMXXCUBCGOUFNDXM",
+          "vote": 1,
+          "voteTick": 49973329
+        },
+        {
+          "computorId": "MZHFWDSJLHMYYAARQJXMXIQRNSLCFIJVWQSOMDOUWCMNAATOOEZPMDWEAHYE",
+          "vote": 1,
+          "voteTick": 49973329
+        },
+        {
+          "computorId": "RNDMOPQAOZQIGBYAVOFLBTEJFINCAUNTQFHJKVZWHGIBJBWHAQZGWMKHCXIC",
+          "vote": 1,
+          "voteTick": 49973329
+        },
+        {
+          "computorId": "TKJLYIPVCYBRECBJPKKIYHJYLHVBQLFPELHFBTMXXDSGLNWQAVHSRMUBJNAN",
+          "vote": 1,
+          "voteTick": 49973329
+        },
+        {
+          "computorId": "IHJFVZSRAMSTWBWDQQGNXVWUSJCCVIUGNOEIAZTNQCDLPMUPTUPWFRSFYNCD",
+          "vote": 1,
+          "voteTick": 49973326
+        },
+        {
+          "computorId": "RGGNEEZYXQYTYFNFTLQYZKNNFMSCTBRSNZJIQGCXKAVVELCXQQQRMAKDDGOA",
+          "vote": 1,
+          "voteTick": 49973326
+        },
+        {
+          "computorId": "TTVGKPIMQTGWDFRNQPAZWJDDHGADFXLPASJGQYIPTDVVVBYMBWGXLHNFRVRD",
+          "vote": 1,
+          "voteTick": 49973326
+        },
+        {
+          "computorId": "HDPWVFRQBPZREDVBVHYJLMLDACFDLPCLKGJOMFETCGEHMPVNTXVOVVHCNATJ",
+          "vote": 1,
+          "voteTick": 49973323
+        },
+        {
+          "computorId": "YBLGFTOWVBRIDHYBFMKWUCNVPVIBCQSPOEFUJBFGTAVNZOXINRNKOEWDMTAG",
+          "vote": 1,
+          "voteTick": 49973323
+        },
+        {
+          "computorId": "QBQQFVVJNMVMXCOXCILDOCWRUINBBAEGLWGKOQDYCGLNWURURHEJULJCFCAK",
+          "vote": 1,
+          "voteTick": 49973314
+        },
+        {
+          "computorId": "GUIIQZSRHVCEZACFQVAHBJKYPNJBHQYOOYOWUIOJSCPDRXCCPRSIAUJHKABK",
+          "vote": 1,
+          "voteTick": 49969512
+        },
+        {
+          "computorId": "OSFFPROLXDDMVCYRQOISSNAUKRCBDPKNBRNOTMRWAHPZDXFODWWKNXEANIXJ",
+          "vote": 1,
+          "voteTick": 49969511
+        },
+        {
+          "computorId": "LHDRZRNITLNVCEVCHDVASGFWPWUCQBQURBIXLDWIMAZQILTNAFGVDEXDKIYG",
+          "vote": 1,
+          "voteTick": 49969508
+        },
+        {
+          "computorId": "DYMALGOOTMSBOBCXDRAASSKKYEKABNKIEJCKMWVUKEYTOLPJVEOJJESCIXDF",
+          "vote": 1,
+          "voteTick": 49969506
+        },
+        {
+          "computorId": "CEFCATHBHJWNLCCOEPPARMZROEFBXUQWSQTLDUXIBBOCWKQGNLTZDECBVWYF",
+          "vote": 1,
+          "voteTick": 49966861
+        },
+        {
+          "computorId": "MKHTOJBMFUOVCFRLTRTJUDKJPMCBTPERIVNUDYDWEARXNKYKZJNTFPWBVZOK",
+          "vote": 1,
+          "voteTick": 49966861
+        },
+        {
+          "computorId": "OZSSSBXYWDQVBEEQFRATNSIJGEQDIXURGMGIPPDUSGDEWIXBANVOTWPBCPXD",
+          "vote": 1,
+          "voteTick": 49966861
+        },
+        {
+          "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+          "vote": 1,
+          "voteTick": 49966861
+        },
+        {
+          "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "THYLJXISGWDDJFVLIFMZCNNAGDYCVIPTKUIKHNADLGHIVQHIIKFCLHNGCQQG",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+          "vote": 1,
+          "voteTick": 49966860
+        },
+        {
+          "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+          "vote": 1,
+          "voteTick": 49966859
+        },
+        {
+          "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+          "vote": 1,
+          "voteTick": 49966859
+        },
+        {
+          "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+          "vote": 1,
+          "voteTick": 49966859
+        },
+        {
+          "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+          "vote": 1,
+          "voteTick": 49966859
+        },
+        {
+          "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+          "vote": 1,
+          "voteTick": 49966859
+        },
+        {
+          "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+          "vote": 1,
+          "voteTick": 49966858
+        },
+        {
+          "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+          "vote": 1,
+          "voteTick": 49966858
+        },
+        {
+          "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+          "vote": 1,
+          "voteTick": 49966858
+        },
+        {
+          "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+          "vote": 1,
+          "voteTick": 49966858
+        },
+        {
+          "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+          "vote": 1,
+          "voteTick": 49966858
+        },
+        {
+          "computorId": "KBFYQRULBOHFJGJNYRPHIOFFPIHDMKGHCUDVLZTRCCZTBFMMWSYZLWDFZTEM",
+          "vote": 1,
+          "voteTick": 49963677
+        },
+        {
+          "computorId": "BFQABPRMSRELIAOBTCKOVRGRYKCDUKNYTXAYSUBEIEFYUNZKMSSPEFJDHGMJ",
+          "vote": 1,
+          "voteTick": 49963676
+        },
+        {
+          "computorId": "JOJHDQDCRFRBJAOMIWZUXRRQKINDMNHIHKUITGMSAARNHBYYOWANPHMBIHWM",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "KEQHRFIQJPIMZBHYVQEEVLHNDMQCCXKMMOVHECVIUETUMNVZBTCAZIKFOJZI",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "NNKADDKOHPGPVCRJMNNJFIPYCTGASKVUMTYNYMIAXGFTIHJBLMLWZNMGWBPO",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "QNYGQYGRZZXHICDXBPLSQDWGQJGCJQFTNHWRYUZHRFHBJESLBGUFJPWBDFUM",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "QROZAGQLQORZQGZDTOYENRNOACUBKZSXLJVKJTZUFDTOCPRFLXASSDECRGRA",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "QXCQOSGGMGOFRAOVRPIZYKDXIPGBLRCGIMBOSXEHYFOYIAZKJTCBVPWCQRGB",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "UQSRAPBGJXPSEHYQDFFRAVMAGJOCGFEFITGHFWPAHGRFATUCXQPOUBTCIXEM",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "VRHPHZVQFMDVODLVLOREOJQFCXJDCIBTMDGOZGLQQFOIXWGDAUMCCTKCOBPK",
+          "vote": 1,
+          "voteTick": 49963675
+        },
+        {
+          "computorId": "FUFBZCWSIBNCKDCVPCHQADJRREEBRRLUSHUSYWDGSCFRRACAREYOUHEAJZAF",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "HWLUKKMHWIZGXAXQXOQXJVISONJBWBOARGUOKSARHDVQIIEAMBVMLSJAKZHI",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "IAFLYPMTFNIFXBMBZYPXNDKCTVGCLWTQAXIPSWEWJDBLXFGLOGAHFIJEQSGM",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "OUWFHLGJYUUVLDBMLEWMRLXYJLUAPRMKFLKBRDOAHEIXFNFEKLGCACZBXMGL",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "TLHPBFFLUXOYHBOZJHDKBIEKYFFBDENZOROREKSLWEGWTDWMUBBSFEVBPSRO",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "UOAYPFEGRYJWYCALTCESLEEOHLDAGRZSHEPVKANFXBVOOBRJLJRQCONCCNLL",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "VMFEKUQFTLVHHBTKOHAGABGLPSICKDHGVMNIAIETHBXVLHGFHEMTSRLBOKCN",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "XRJPGXFPZXJXJBSDGSMUYLNDKIBCDGKRKGDHRRLPGHBKKBSFXCIZHELCKQPB",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "XVEOTRCTCCZQUFVXNABJDGIMOBDBJSUIVDUFGZSSFFSZCQFUPNYDBWMAEFNO",
+          "vote": 1,
+          "voteTick": 49963674
+        },
+        {
+          "computorId": "NPATKDMJJZKJQAKQEKEYXADIAGLCUWVIKNRDQOHDLFRRSKZUKEZTZBQFRTRG",
+          "vote": 1,
+          "voteTick": 49963673
+        },
+        {
+          "computorId": "UFSNYZYVMPOXMGELSOYGCRWOYNXCMBBLZYWDCBKPCGHHJRIYXJTZMXBEHPXM",
+          "vote": 1,
+          "voteTick": 49963673
+        },
+        {
+          "computorId": "VGCSLFCCYPTRAEEMKILWFZDZALECYNLPIGHVZAHJAARUVGWLKKLZUMOCZIAC",
+          "vote": 1,
+          "voteTick": 49963673
+        },
+        {
+          "computorId": "EGWOIAGYYJYMTGYUJHKOARVJKAXCNSAMXOFZVZOCKFPOLNTTWJYACHRDBIKC",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "GEOQOIAYTKHRDAVQXSJRSRURFTQCNABMHMZJGARMDHKATWWVWDYSWFSAXGPH",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "KURHBVWEZVUSZDXRVCJFLNALTZHAJMKBKIDXVRMXYFEWAOBLJWFVZAQCSGJO",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "MSXAGWTCMFIMZDSWIATMBRAHLKMAHXNPAAJXXNWEVEVZOBAMRMBPYRYFCJCI",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "VLCXCPITYJHDEHSFNVHUZSREIWMCSQPKBVTPYBCBDFKZNFFCIPUSLLMCVOKB",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "WPHDZCLAEIDWQBBOIVYFFXKAWLHCWSSAACWGBMBNZBZFWYLUVSWEIIPCKIVC",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "XAZOCBPLHXSGDDMZWBMJFVKFJBODTSAHFVTWYXOGEEUMUGCESSVNTIGEJLLJ",
+          "vote": 1,
+          "voteTick": 49963672
+        },
+        {
+          "computorId": "BERMVLQIWUIONFZICUHVNOXVHYRAFSGQLRMXWYOKRGFCFWZRXXLAFTOAGDJM",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "DYMMHIZOCSHENDBBPTGLYSFZTGXBBICCCCHAMHBKLCGNEDEKDWTAWSQDIDAD",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "GLFKYHUZRFDRQDKCDYLACDARZEQAGAPPIKPFAFJNXFTIVIRPMOBPXOPBNOGN",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "ILWERPLVERIDTFWFKBSCTDVDHBPAVCIYWLLDYRUMYDXEOCQWQEHXQEWEOVZF",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "JKUJYGHTYUVPUBOUOTAZZLVEFIRBUMEBVIFGUEIPQEMOAQGNOSIWGKGFNYFK",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "MHOSCPLHXNAAIEXDCOLPAAZNKZTBDRYXAKIJGJCMMGOVIXGEKHASDVUBMKZJ",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "NEZJDSTEJXQYPALPRWPMGBLXSUZAVEFWJQIQXKTBWBUGBFVQTEYOQAUBEYSI",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "RWDRMFKSANQXKDBIMXDWPJCRICGBTCKZEGQEWOTOJBAXLIYVQVSEKPQACLUF",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "UGRQMIBSJHFKUGSMRHBXJVWCKOMACBUSBAOZXRQQOFTOIKTYPYHGDCYEGDQN",
+          "vote": 1,
+          "voteTick": 49963671
+        },
+        {
+          "computorId": "DKNDYDOLUOIXYDKVTKHXHSAAUBXCPLAYTELTUMWTWDRUQNDBWVRBCCPBXRMH",
+          "vote": 1,
+          "voteTick": 49963670
+        },
+        {
+          "computorId": "IWRPCZORKWVSUBPDHFANNJRALBEBKZGKPVOOBZCGVFFKAGGUPFUSTEXBEJOA",
+          "vote": 1,
+          "voteTick": 49963670
+        },
+        {
+          "computorId": "KDNTRTMXGFYTHCUGKJCYRVTLXLQCXHJXEYRFEMFZIFNAEIDBMGEYZZKAGGMK",
+          "vote": 1,
+          "voteTick": 49963670
+        },
+        {
+          "computorId": "WOVZGGNULDAGHBPJYBYUQQHVYTGDHAOYZVHIJDLDUEURITYZJBJMFCFFBARC",
+          "vote": 1,
+          "voteTick": 49963670
+        },
+        {
+          "computorId": "BKWXRJBXMHFACHCFZZVPXUZNREDCVEMAGIRQCUDUYDROSDOBETPNXBLHDXEG",
+          "vote": 1,
+          "voteTick": 49959742
+        },
+        {
+          "computorId": "CTOGYCYSMUPGWGKDAIJOAITXKBGBLGYBILXJNLYVNEJBXVHBRXOMKGHBLJCC",
+          "vote": 1,
+          "voteTick": 49959742
+        },
+        {
+          "computorId": "JIAAEVPYCFRHSAUDTNYBQPSNYARALAVOJYSEHSKNCFRQMEXENJMQGWCDMNUJ",
+          "vote": 1,
+          "voteTick": 49959742
+        },
+        {
+          "computorId": "QALLCDVSEFWGAGEZSZKZXZHWTLGDOHBXJDUGRVGQBFWGZSFRDWHYWXBCHKTG",
+          "vote": 1,
+          "voteTick": 49959742
+        },
+        {
+          "computorId": "ISZWAIFATLTNCATENOFNRHFCSFAAEUSUBKACDOCSYETQHJMVMOOHNEBBSRDA",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "UIEHXBOITJHZHGWEONNLSWFUURKDIPHHJOUVBIBGZEUNTBZYDCCAYXIEJOZI",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "VKSBAXEFCYKGNGDKUZYGYCQQZGOBZBORNXGOJOAMAABQQEATINDRKMBBWUWE",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "VXZWQEBRYFZXYCMGVMDCEPQEKUPASZIWGLHGZKVSMBSGWFYAHHNMSBVAWAFH",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "WAPYMAFDNBOYCAIAKNACQIYBGUMAPALOPIRADMTELHEXZYETCUXUZCJFBFCD",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "XWRBVVMOKWVKDAFEOXVAMSTYZPKBDYGAJBSCVLYXFHXWDSFJQUSDKPQDIGIL",
+          "vote": 1,
+          "voteTick": 49959741
+        },
+        {
+          "computorId": "BFWLXCRKXCIERGELXUPNAGEXWTPCRHENARJAVHVIDAGUFOZYNUJWGTPFLILB",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "CYLEJZOSJIMUHCONVNHHRFGEQVODNPHILLGNJGWDTALASUIWVXIASRRBYRPG",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "DHEHIUXAQBYVKFHDJIMFEONJTIAANOIPOSGFWPGEYFLQFJEZCIBNRQGGQTMC",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "FEBBLDOTHZLXJHGHCETTJPVXGLDAXEPNHBVHSQQMCFAFNIIXMXHFZMXCTAYJ",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "FJEFJGSHEBEWKDDITVKBFSKNHNJBALMOYHOUAESLKDFAPWRHFIUYAOKDEQLH",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "NTNBRUONVFAJAHEYXOCHBIACLSIAFOLWARIKJIQJYGGQVCEXDZHKGOTBTVYF",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "QOOFBWCGSCAEQFTYXBPHUXTRHCXBVDZCHJHPHSWZKAVEWSKQRANUWEXAIILM",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "VWQRQWFURNONBANOAORQXLHWHCJAIBYLUVCKCNDVAGAJFNFAGLTSEKYBENWL",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "XBSMQLJXVMUVZBPWBLBBDHLCZHGBEKBQMDNEJNRXWFETQEPUHKKJFTCEWTBG",
+          "vote": 1,
+          "voteTick": 49959740
+        },
+        {
+          "computorId": "AKHACHPUSLYRRCQAEIFRNBEXTRGBPHQVYQFUGRWIMBUDSSGTRRXIIKYCPLMN",
+          "vote": 1,
+          "voteTick": 49959739
+        },
+        {
+          "computorId": "LCENLZOVOJQPODVGNKQUWNJNLSIATJJBOHOKATICBDALYIJEJVQWRORFYCTE",
+          "vote": 1,
+          "voteTick": 49959739
+        },
+        {
+          "computorId": "MJTDVBLKEUXBFFSMCUQGHGBOQFNBEZSUNAFNPGFTHBXPRCYMQNVIALKAQDQB",
+          "vote": 1,
+          "voteTick": 49959739
+        },
+        {
+          "computorId": "QFJBKXUYCBKIUFFIWDXSYLAGSPTBSRUNGFWISKNZJAJDDKSAPLIOGCLCOIYA",
+          "vote": 1,
+          "voteTick": 49959739
+        },
+        {
+          "computorId": "WOQUHIZKKUCTDCHHCALNTPJPMJVCJIZEGUJUKFCHDCDFMXPBYOIYPFDFVWWE",
+          "vote": 1,
+          "voteTick": 49959739
+        },
+        {
+          "computorId": "ARJRXNLVRHCEMGBZUSCAAHKBMKDAVXGMWROLXXARLDGDMBHYRUAVVIOFTNLB",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "CSZLNJJTPMHGGGERHDQYNEQNJACDHXXXEPCILTBEXDGLCTBYPDCIABXGKXAM",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "HWZYDTEAZVGNIAWDEIULESFWKLFCLDWGSBJVGLXLVCLXVZNKBLDCMZVBAXXN",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "KSOHJQTNNFLLXBXVWQAXZKZVGVQDJCMCRUQIIBSVCFZLGJGNOBQZNAWCNLON",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "VSVAGIYGXHDDYDQDRVMOXFKKOAFDRYFSGNMPQWBOQFBSKICDLSVDLQJAVXII",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "VYJUZPTNMEQDDHMPQDSJVSYEBSOAUXUKVOTTQTAFJDDPAQPGJYDKCZTDLQOL",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "WHUEUZRHKKUYPFCFFULJJFTYEUBCCDADDGAXHDBHQCRUVHRXFBHOMSTBZYMJ",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "YAHJYOWZCKWHEGYUSWKJQAPZXTLDFHSDZMFZNQUJFDNSULZMONUYSTRASCZK",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "YFIHTIIQUTPSECXGYQNLFBMGXLAARTUDLJYPCLGLFBCSRCIRMVJVDVEDBYNC",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "YZQLDDVFYEMJPCQHKPONSTJWJMSAAWRBWCTIBATDAHDGDZHMBQDBGKADNKGG",
+          "vote": 1,
+          "voteTick": 49959738
+        },
+        {
+          "computorId": "HAEBNYTBMGOPLAMWYOAMMYJBXHKCUBPBWRHXMZTRLAWEBNIGCXLPINJDYEJK",
+          "vote": 1,
+          "voteTick": 49959737
+        },
+        {
+          "computorId": "RYVGSJRJDWSYYFBIZOPGILRKWSSCFZJUHCGNGCSRJDSKATOHACSLWUEHVPRK",
+          "vote": 1,
+          "voteTick": 49959737
+        },
+        {
+          "computorId": "VSMDDZMIYDYGXADOQHURCVUMBWLAVVCYLTBDKDEASCUUXIOMDYFMWOLDJUYN",
+          "vote": 1,
+          "voteTick": 49959737
+        },
+        {
+          "computorId": "VVLTPLHLYRIIUFQQOOSJWKTNFNOCDIJMLMCVTQIIAFSHGKOMJIJGMAQEJTWF",
+          "vote": 1,
+          "voteTick": 49959737
+        },
+        {
+          "computorId": "ZOHTZNRLCSUEHCEXDQHVYEXOMSJDKLDOIVCEHUDUWFSBRGDDQHBVPBAHZATL",
+          "vote": 1,
+          "voteTick": 49959737
+        },
+        {
+          "computorId": "CIBJIZDJQFANUEJCDYLCTLSEFWABSOMVMEMJKYIRNGEWEIGOIKNXBAZBBUBB",
+          "vote": 1,
+          "voteTick": 49959736
+        },
+        {
+          "computorId": "EIFDPRAMCUCLDBFUJIDBISTVFSTCSNHUPLZXMQCNIGZEUNKRHYACQHYFYYGL",
+          "vote": 1,
+          "voteTick": 49959736
+        },
+        {
+          "computorId": "NKIPJTDVVGKHWFVMJFZUPXMEDLGAYHEVNHUSAZMHGHVMJFIYALDDGJBDQDFG",
+          "vote": 1,
+          "voteTick": 49959736
+        },
+        {
+          "computorId": "QMHOOWWWCDXDLGWRHRIAEBDRBKQAVJBSODIGVHVBMGDXUOFGHZGZGVKDZXYD",
+          "vote": 1,
+          "voteTick": 49959736
+        },
+        {
+          "computorId": "YKFMFFGFHHJCLHCNOKWWSELNQESDQHETGCLKKZDWKAAGHNOASMMYKMSAYXVN",
+          "vote": 1,
+          "voteTick": 49959736
+        },
+        {
+          "computorId": "DAMTLNJBDCLKECJMREYFWUODUIXBCNYIWZTTXVSNIDUAGUCHWDYEGCUCOXSI",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "NZQHSXHRBEJAEDVAUOJPNSEONAICIITBBOJFLZDPSABPZHFLQOQVZJRBPGBO",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "PGRDPIGHKEMRTBFEFHVVSURSBKXATVQMHRBISGIWABSJWWJGVHVDHLZBZJBL",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "QJHPKXSRFBKSOCXVNKKQBRHDYZRDYNWLTPLBUCZFICQZXJXNDEHAAHPBKXFO",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "QUJXJCNMKBTNPGPYYXHYUTAOONIBWAFEHPNPUGPTKDJAWOTAGXKNHAOGPQTA",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "VKIZBNEFJWWYTANBWEVOSSWFMKLDGVVCDGQCQZCYFFFIQNJGXHNFBHPBXMKG",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "VSCQIVMRJGUTKFHWFAHFTROWCKSCEOTNSBKKASYEQERNVHSBEDZKQQREOQGL",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "YROXPGAQMWOWTEFEWUVTGPVUOECCTXZYGMOXHHRBHGCYPOGSYVZLYLOECDZA",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "YVJKCBLLKJEQWGPHYQGOFVDOFRJCNNJQAUDEUVJIVDUWALQEGPBDWKDHLPSO",
+          "vote": 1,
+          "voteTick": 49959735
+        },
+        {
+          "computorId": "DFMHDGRBSJSJHAFHPSTKRFTZEWVBTWJGMNGONRHHHBKVBGFYLMIGNKBAEAAI",
+          "vote": 1,
+          "voteTick": 49959734
+        },
+        {
+          "computorId": "DNWSUCQYTDTPYDNGWLPZVWUGNANDUHGWQPGBFWMWWBUVNGOVWREZPYFESCSE",
+          "vote": 1,
+          "voteTick": 49959734
+        },
+        {
+          "computorId": "FLWWOFYFMXOUFGPFZKXPDWWSJPJAWRMPGKTOVFCZWBPTJNKLAUJDSZMFWTIA",
+          "vote": 1,
+          "voteTick": 49959734
+        },
+        {
+          "computorId": "MLBLNMDWXACKZEHIRCQWTJZAZAZBDPYNSBVNJFNYPEYKQWULCJQCUZKECLXK",
+          "vote": 1,
+          "voteTick": 49959734
+        },
+        {
+          "computorId": "YWCUXYXOWECNMBEOVNUBSMNMKZFBQTZVMRBVQKXTPANUMHHABUMZFWDEASLD",
+          "vote": 1,
+          "voteTick": 49959734
+        },
+        {
+          "computorId": "FMTLHNEKEYLCKBRNPJYFHZRYTZOBIUUUOHDHLWSZBGHRXQOERIZRBRBBZYBA",
+          "vote": 1,
+          "voteTick": 49959733
+        },
+        {
+          "computorId": "ITEFBOIAPRVEBDAENUERGSCMSASCACCKTWNQHKOTDBLKXSPLRZYGXMDAIMQA",
+          "vote": 1,
+          "voteTick": 49959733
+        },
+        {
+          "computorId": "NFEBTFAQNTWWPEPSKKYJBTKLXXQDNORCBDLRPMZQJGQYRMNWRHKRGVHEBBKH",
+          "vote": 1,
+          "voteTick": 49959733
+        },
+        {
+          "computorId": "XGGKWSBMMWUPVFGDCHABUQTMZMRAKFLZNREMHUPCDAOGHDHJFKAGPOXBRKUM",
+          "vote": 1,
+          "voteTick": 49959733
+        },
+        {
+          "computorId": "YZBRNWDBSAOLIGDDWTTPJWUQNAMCDMCCVFPUIPOKOADURAVHRXQXLIREVSMK",
+          "vote": 1,
+          "voteTick": 49959733
+        },
+        {
+          "computorId": "DPGEOOXWIFJGRAQLUGABANQJCHUBAHEOQMLDOQJUTETFCXIWVGYNGXFCDXCC",
+          "vote": 1,
+          "voteTick": 49959732
+        },
+        {
+          "computorId": "TBDZASWUJTTHHBMCFWGDOVSRIYCDQUGLGEUIIWXCWGYMNCIZVFDFMXACAPWD",
+          "vote": 1,
+          "voteTick": 49959732
+        },
+        {
+          "computorId": "XPNITZGOMINMCCQXBFPXEHMHLHNDENFRLRHTZJZAPEJUKRNVCGNSFLKHZEUD",
+          "vote": 1,
+          "voteTick": 49959732
+        },
+        {
+          "computorId": "YPVWDDBSRGPOTFQQJKARANGINKEDEQHDVZTGLYTUDCPZDKKEOHJQYVRBPBRD",
+          "vote": 1,
+          "voteTick": 49959732
+        },
+        {
+          "computorId": "ZWWGPUJSEGRSFGVIMJGVKIFTGTGDJBPZCDFYOCXQJBIYISCPLNCIUFUBXRCM",
+          "vote": 1,
+          "voteTick": 49959732
+        },
+        {
+          "computorId": "AZIMFPMKQWKUCEJBUWOCBBNJQLSCMEIQUIELAOQIWFWGGQVOANKFXYQCUJPI",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "DQUBHHQIKLNUUCIYPQVQTUVQVMHAEJBNMDWWLHAFWFEJIGYOPTZKZUUAQNEJ",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "GORRZEWKSFKNICLHCGJEHLFUOIEDOYXJFDRWWQUCNACTVJVZNIGSAHLFILAB",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "IMMGQOYGDWQMXBFOINPOMFVQKMOBTSXMNJXOVZHNEDYWVWFYTDWIYUUBLABJ",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "JJRLQMAJUYSPMBFNPAYSMBEIAEQCVRTPFWMSSMGHUBLHHEIEODJGPQEAZELF",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "LKCCNSMATREFBFGEQLMDRFRCESZCUBRLSFRWLEIOVCZMCVWNKKFRMMWETHQK",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "QINSTKDLKYRUQGALQWSVNAZGNINDGRXEYGWCHIYEKCNRUXZXDHVBEGSFLPYC",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "QWNWURVBYQRBGACWACESIUTCXNZBXVNOPVRVVSBRMCWZUBKPEFKXLJAAZMCE",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "URKHMIBKREJHYBWITNMSODKOXRIBIJEVWJUTWMNZXAIEINRXQHCMDZPADYKO",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "VINWFWMYTCJCWAKOSLSSXAVOHBLDIHSROXRRYVGTDEIQVSQCEUFPNGBHNXLO",
+          "vote": 1,
+          "voteTick": 49959731
+        },
+        {
+          "computorId": "CLKYJXJABWWIHGDEAUYRUVFXYIOCGHXWUYZNLUTOCDKLGGYIZREGDFIGLJOL",
+          "vote": 1,
+          "voteTick": 49959730
+        },
+        {
+          "computorId": "NUUJOWQCUGHTDCGOOGYHAOBXREABKCMCVDUVMEINKBNEYHZTWRSGFOABHCHL",
+          "vote": 1,
+          "voteTick": 49959730
+        },
+        {
+          "computorId": "RIMHCQGRNNRTFARHTGBBTMBCVTZCYJTOZNZSKWHOJDCMKDOMAFYGBLTGGYCM",
+          "vote": 1,
+          "voteTick": 49959730
+        },
+        {
+          "computorId": "ZLRVFKFICBNVEGJOJQWNSHUNWIFCJEUHFGHBQEQHFFJQYCPFCSXSLEDCBTBJ",
+          "vote": 1,
+          "voteTick": 49959730
+        },
+        {
+          "computorId": "ZSSFIDHYKOZPFDYEOSRNSKBKFDIDXVDSFOXSQOANLAODXZSPQDZRWDDCPHCO",
+          "vote": 1,
+          "voteTick": 49959730
+        },
+        {
+          "computorId": "HXCTXXEFMXVJZACQLGHNCKGCSRXBFHMMOOSXZXYXMCXWTOIYFJROVYODKHDK",
+          "vote": 1,
+          "voteTick": 49947712
+        },
+        {
+          "computorId": "KEOYNGTMBPAAKAIQTIRFFZNKGRNAHPQZMXFZKXWAQDWIIVKPLPJPIYRDJYZL",
+          "vote": 1,
+          "voteTick": 49947682
+        },
+        {
+          "computorId": "EAZPXEXLQUCJRDPWNYWNNDXXGQCDFTKGUZCFMZTEZGINSORAAOOJYZOEXWQN",
+          "vote": 1,
+          "voteTick": 49947447
+        },
+        {
+          "computorId": "LWRNWTRJURKRADBOLIIKBNJPZBCBDYIBGWWDGLBJECTVATIVMLOSEJBHPJUE",
+          "vote": 1,
+          "voteTick": 49947419
+        },
+        {
+          "computorId": "XFXKFBVFCNGPLERQWNKRYFRPLKNDCKOBIAGPZIVQJBJBICNQIYINAKWBLNXF",
+          "vote": 1,
+          "voteTick": 49946698
+        },
+        {
+          "computorId": "BNMGBKPXEQDAOFJWTLFZEDLBBYRCKASKWORDNVPDSBVNXDRDZHGONBLCRLBA",
+          "vote": 1,
+          "voteTick": 49946632
+        },
+        {
+          "computorId": "IQXOWGCSOJLSGDCMLURVODDFJANBVYJGKLHWIMIRSEBBYHELGURHGJCHDOKJ",
+          "vote": 1,
+          "voteTick": 49946405
+        },
+        {
+          "computorId": "VODNGCILTEUHUBSRCZZEERRADTBCODNHWGINYVSTEGESJLFMLKSGBXIDNWBN",
+          "vote": 1,
+          "voteTick": 49946348
+        },
+        {
+          "computorId": "WOYFAHJBGAFCEAKJYXODRGWOTSZBQEWEEVAPQGXSXBFLNNNVWCLLSYHFLKHI",
+          "vote": 1,
+          "voteTick": 49946343
+        },
+        {
+          "computorId": "EBGMZITEECYNTCMGCPMNQALAMMHAOBPQLBKGHGMQMAJWJUXIORRLGIWDAFAF",
+          "vote": 1,
+          "voteTick": 49946324
+        },
+        {
+          "computorId": "JOYWWBOTKGFDBHPMPEEJPNDHOKACMRVLIIPUUPZQQEDEVIYSBWLSVBUFYGKG",
+          "vote": 1,
+          "voteTick": 49946286
+        },
+        {
+          "computorId": "ZDTDLMKWLXDJLGABEMOVPKQIJQNDPSDKXGGYSCJOPFMJCJEIHNQMCYPDCGVN",
+          "vote": 1,
+          "voteTick": 49946208
+        },
+        {
+          "computorId": "CIVDDXIUWMVTJHBLQOQAMJINVFDCDLNEALHSXPNCGFSFRFWDCVCFRICCPCXN",
+          "vote": 1,
+          "voteTick": 49946126
+        },
+        {
+          "computorId": "QIGFXRGSKXZDWELZYXXBOEBLWFRDSWZYZDFEPDEXIGDYHKWCGDUIVMJCNCSI",
+          "vote": 1,
+          "voteTick": 49946073
+        },
+        {
+          "computorId": "KVGXWEHSTUXTGELYAXNHFXJVFVKCLKXOWFFYKUZJEDETDQQXTQXDSYUBHPME",
+          "vote": 1,
+          "voteTick": 49945891
+        },
+        {
+          "computorId": "OWBDOCGOTICVQFZHSEUYVQGFNWABVDKCIAEGBHOVTFVWVBQHZSJTOVXBPNWB",
+          "vote": 1,
+          "voteTick": 49945866
+        },
+        {
+          "computorId": "YKCHMCKVKIRHKHWNLDTDDEINWLOBSDTHGQTQTOEWHBLIYULYUBXHYXWBFDEF",
+          "vote": 1,
+          "voteTick": 49945564
+        },
+        {
+          "computorId": "MFKEPQYQCNROXAYZYROEZLJUNWABARQKSIMGFDIJBBKFECXZAVTAPYYCIHGL",
+          "vote": 1,
+          "voteTick": 49945240
+        },
+        {
+          "computorId": "AMLENKOQQLTEJGSFHKETFCOKZZQCGNAPUXNUYDVCBASVYDPATEYRDPDGDMFA",
+          "vote": 1,
+          "voteTick": 49945214
+        },
+        {
+          "computorId": "REGTKTEURCVGUBYZALVWAGNRSLQAMEVGXBBJZBXRCCZGWXFBNDCBCIMEQGKO",
+          "vote": 1,
+          "voteTick": 49945122
+        },
+        {
+          "computorId": "OZRBTVYDCYIXAFZHMSGMUIQQHGWCJCCINXCPJDWZQEANVIYXTHBEDLCCMOSL",
+          "vote": 1,
+          "voteTick": 49945083
+        },
+        {
+          "computorId": "SRRRUYBTLACBLEGOBKRYXGOHZMDDAOKWINHMAOIOEFALLEALNVVHQTXEIYLA",
+          "vote": 1,
+          "voteTick": 49945068
+        },
+        {
+          "computorId": "GICFRPSPNAVVYFYVCTHBMTNIAAWCHDVJKWEVDVJDIHMDGKJUJCRBXSYERWZB",
+          "vote": 1,
+          "voteTick": 49945047
+        },
+        {
+          "computorId": "QAKUILCVXCGGSGGGLRBDPJSSGSSAHDUJOWYJMRZOKFDPZQSGDZAHPYCGDTKC",
+          "vote": 1,
+          "voteTick": 49945010
+        },
+        {
+          "computorId": "KKSPOZZECAQGNCFCGQFDYZZGUBPAQBHLUTIMBCAKGADRFSAIOYOQNLTDGVUA",
+          "vote": 1,
+          "voteTick": 49944990
+        },
+        {
+          "computorId": "HBHPJUJQIRNJZBVUVIVKJXMDCAZCGXNGVVJJFDODCESZCOLNJDIQKRAAQOUJ",
+          "vote": 1,
+          "voteTick": 49944983
+        },
+        {
+          "computorId": "HKQPTCRUGQMYKAOLDLECDGGNFWGBWATFVTYRQFTQCBLLVEEIBTCYEJFFUQNA",
+          "vote": 1,
+          "voteTick": 49944964
+        },
+        {
+          "computorId": "DRTNKJBVCKPWGBPGMXFYZQDQJXGBWCERKMUMJKEPXAEGDXSASADMTXUFOPJH",
+          "vote": 1,
+          "voteTick": 49944931
+        },
+        {
+          "computorId": "VKYJUBFJBXZILBDXLCFYFVESSGVCVOXNHSOHZOWCECVJFAWWGCCKCIADFRNJ",
+          "vote": 1,
+          "voteTick": 49944929
+        },
+        {
+          "computorId": "PEIQLPYEKAJCODCGPNUNDMENBYKCVQYXRWQECHHWKHDJKOCAXGMPEGBEOPEJ",
+          "vote": 1,
+          "voteTick": 49944923
+        },
+        {
+          "computorId": "CKAJMKZDFKUAGGNHQSXLGBVORNXCINMFRXKHADLOPFNVITCLDVIADVMALFCE",
+          "vote": 1,
+          "voteTick": 49944912
+        },
+        {
+          "computorId": "ZWJGFDRAEGDHNADMMRBGZDFNDNLARACCARGAVDRCIHEYGLAVHRZOUZOGYHPF",
+          "vote": 1,
+          "voteTick": 49944909
+        },
+        {
+          "computorId": "UJLGUAXRPTHNGCUVLAPBQBTHAOPBLGIQRMUXSSCCIBFGKCIBRIJNGMKACNNH",
+          "vote": 1,
+          "voteTick": 49944891
+        },
+        {
+          "computorId": "HNCLDSGVFYDEWDQBGEWSNZJJTSMATZRQKHHWIZHGWGQAEAQWMLHQFKLCNTIB",
+          "vote": 1,
+          "voteTick": 49944879
+        },
+        {
+          "computorId": "DEKOWMDDKTQYVAKPSZDERMLTAXSBOGSWSCMPCFCQZDVKBAFAYACWPUIFYDZA",
+          "vote": 1,
+          "voteTick": 49944845
+        },
+        {
+          "computorId": "RCHSGFTYPYZZBFOYDFCNFZCJWEMBTJXPFCVRGLVSCAVSKZLJPEDZONQGQEKK",
+          "vote": 1,
+          "voteTick": 49944820
+        },
+        {
+          "computorId": "CZTNAUKMMHUGLCYTDQPLRLUCSUKAXSVAFSXSXSNEHARASRYOIRYWNVWDYXXB",
+          "vote": 1,
+          "voteTick": 49944803
+        },
+        {
+          "computorId": "MNNKVWJDGGNWQGWZGJFOEEIFXOJATQAINTEYVMTCFCWBMYOKSBXDDLQGVZAH",
+          "vote": 1,
+          "voteTick": 49944803
+        },
+        {
+          "computorId": "WAJHPCIHFLSOMFFMSQLLCIZQUVKAMMHIZAGUPJQNCHAKKSQZAJZFNZQABSPN",
+          "vote": 1,
+          "voteTick": 49944777
+        },
+        {
+          "computorId": "BFEZBAFFIRADEFMKVTCGVUMFAZDBXAPYPKYLRLAHAFCGJNQBHHIENZYDTTAN",
+          "vote": 1,
+          "voteTick": 49944648
+        },
+        {
+          "computorId": "JMMRHRWASHLQTGPGUXFTBNIVOQECTSSKLBULOTHYWFFQNFVSWEBHYLCFBQKD",
+          "vote": 1,
+          "voteTick": 49944521
+        },
+        {
+          "computorId": "UDWBHDPRLMAVLCOUPNGGHORXHOZAKPUZDNIRYCTFHGCRBAJRJGCVGOHCBNID",
+          "vote": 1,
+          "voteTick": 49944342
+        },
+        {
+          "computorId": "SRNKFGOVSSQXEARYBOVYQOHMQSQADIJGUEKOHLCRVGOUPIRUWFEORAMDZDBM",
+          "vote": 1,
+          "voteTick": 49944109
+        },
+        {
+          "computorId": "MASJPOZTWYCVGATWSSGLKYLUWZFDUEYQMOBSDICZNGWLXJZEFGECLTQBKZID",
+          "vote": 1,
+          "voteTick": 49944083
+        },
+        {
+          "computorId": "LNTAMQAIGIXGMBBZTZFKFVXGJHVBIAGYLXBISOVKOGGRFNRNRPBQSLWEIRLJ",
+          "vote": 1,
+          "voteTick": 49944038
+        },
+        {
+          "computorId": "CJZKHPWFNBCHFEUAXFAYMDDOBRWCDQBFWSAOPGGYVAIAWFXBXANKYPQEANMB",
+          "vote": 1,
+          "voteTick": 49944008
+        },
+        {
+          "computorId": "QHWQTDUDOLSHJFVENMUHFBMZNXNDBAIYPMQCSERBJBRQSDTQBEFDDBTADRIO",
+          "vote": 1,
+          "voteTick": 49943998
+        },
+        {
+          "computorId": "XFUVECXMTZIYOGZEWZFWQANDVVMCYHBPEBEBERTIECDVDQWKCYIUHDHCUIPI",
+          "vote": 1,
+          "voteTick": 49943994
+        },
+        {
+          "computorId": "JMYIBMJMWACDIENYFJCMENIZQMTBNZPMCCBLOCSELAYSEXGHAFGBWXCCHQUH",
+          "vote": 1,
+          "voteTick": 49943936
+        },
+        {
+          "computorId": "YSOZVACIFBKCCFRVWIIGQUMWAHLCFFJRHEWIBZJSXBWRUSFTRREBCMNANWBG",
+          "vote": 1,
+          "voteTick": 49943915
+        },
+        {
+          "computorId": "WUDYATUHGNZNKAIBPIWGUXIIOPLDEPIPCVWPOCHXAFITEGYJYNOHHNJBMNRC",
+          "vote": 1,
+          "voteTick": 49943871
+        },
+        {
+          "computorId": "KIAQSXZBZKZWIBWRRXKIQJXDBKIDTUOOWTKORSCPODNUSYDMCPJRIEMBALYA",
+          "vote": 1,
+          "voteTick": 49943860
+        },
+        {
+          "computorId": "ASGPKKOZUNSTCGZGGDFPMKSSLGDDRHIDXPOWEGLBAHZLOKAZANZSMFDFVQVK",
+          "vote": 1,
+          "voteTick": 49943793
+        },
+        {
+          "computorId": "BRKYOWPIULAABAMXWNCYFPTDVPVCIQRTTGXPAYFHYFUAQRBTYQZSUIJESMQD",
+          "vote": 1,
+          "voteTick": 49943788
+        },
+        {
+          "computorId": "QZNTXVGPRYNNPCARWVTOLSDFXJYBTFRVJQPOGIMGVEVQTZNHIPUYGTWFGRQC",
+          "vote": 1,
+          "voteTick": 49943721
+        },
+        {
+          "computorId": "DPFNKMQMLWJOAEBRMLXHBOYFKLMAEBSFCEGIMRVRGCXDDWRJVFXGQPEEDIWI",
+          "vote": 1,
+          "voteTick": 49943678
+        },
+        {
+          "computorId": "IPQMMCLKHGVMPGCRDJBGMUTOEJGBJJASKXMTITOHXEMYQQRZPBHWZXAGVZVH",
+          "vote": 1,
+          "voteTick": 49943633
+        },
+        {
+          "computorId": "SMCITEHEYIRTLBKQDUBCKFTBDZQDFJJFMGQPSNHSVAVFZFIJMIZUXVDFCCMJ",
+          "vote": 1,
+          "voteTick": 49943591
+        },
+        {
+          "computorId": "MCJCJWXNXPWDKETNOMKBLKJLGOZAPASCMWJIWHRJFGXNLSCWYUMBZQFBESQO",
+          "vote": 1,
+          "voteTick": 49943571
+        },
+        {
+          "computorId": "IPEACKCUBWQVYDOPBRTDCEBGWQACWBWZNHLSXJSEMCGFPNQVBLYFPJSDETMB",
+          "vote": 1,
+          "voteTick": 49943565
+        },
+        {
+          "computorId": "XJKGAOXAOGQQGEPOSOLGYJDOJFUAUUXLVDPRQTQMDAEORWPZXUWGQDTAEASH",
+          "vote": 1,
+          "voteTick": 49943507
+        },
+        {
+          "computorId": "DCKQDDOMLNVKVBEHABJJICIQXVNCMTLLTSMVGELLYGPMOJEYELBLXCLAHMNJ",
+          "vote": 1,
+          "voteTick": 49943505
+        },
+        {
+          "computorId": "ZMURCFONJJVOZFGNUXJTAGEIVUWCOVZSTAHISFTFCEBQPHMYAGQHPZAGGAKD",
+          "vote": 1,
+          "voteTick": 49943489
+        },
+        {
+          "computorId": "WHVPEPELPPSQXFJDKYHBBKTUEMPBKICFWUNFBEITCBLUMCIOHABGWWICDUKJ",
+          "vote": 1,
+          "voteTick": 49943486
+        },
+        {
+          "computorId": "AVNROQHSIDFAAFPUGDLKNLVYKMCCRHIBAQNKUKSQWGIAFJIRXFZLLIUBQIZL",
+          "vote": 1,
+          "voteTick": 49943426
+        },
+        {
+          "computorId": "RNKUYIDDSPDZBCCOOWCFZDOJIIGCFYCHLGMKGDKJYBWBJACSIPNCUGKGOIEA",
+          "vote": 1,
+          "voteTick": 49943412
+        },
+        {
+          "computorId": "KPXBFYFWDZWOWDQAWUQOGGLJZVGDIOUCLRYNCVNCUAJKZDIMXPSSAIKBFXLL",
+          "vote": 1,
+          "voteTick": 49943395
+        },
+        {
+          "computorId": "ZPSZROIIIRJDHFZADFFTXTGQFJVAPLZADPXXKDWKJBFSWEGBWITBMJGFPFOH",
+          "vote": 1,
+          "voteTick": 49943388
+        },
+        {
+          "computorId": "WKQJFMAOGBTUKFYTBXYDWVLLXVGCRVMFQOUMRTFGRADLXYVSUPNVGNQFTVZG",
+          "vote": 1,
+          "voteTick": 49943386
+        },
+        {
+          "computorId": "FWULOPRDWYHVEFXUEDQHMMMPYARBXAANUKWXMQVZUDHBDFMOLJKCZGNBHIMG",
+          "vote": 1,
+          "voteTick": 49943382
+        },
+        {
+          "computorId": "OWODXSJVGHVJGGHWXNRBVCXHJNOBNNOZWKACCRTJUCFAKRYOCBNMXMVFPFFO",
+          "vote": 1,
+          "voteTick": 49943376
+        },
+        {
+          "computorId": "PXNWRMKZKYZBPDOWLPYLSVIVOGLBPWPEJRNZHQBXYGKFCCMNMWSTVWEEAAKD",
+          "vote": 1,
+          "voteTick": 49943369
+        },
+        {
+          "computorId": "XNZCAISPDKIFTATDMFBOSPCWYXHCGEVNHZTGCLVQCGANCOQQBULAIXAHMDFL",
+          "vote": 1,
+          "voteTick": 49943348
+        },
+        {
+          "computorId": "XBDMLXRDCOQXQDVOJDHAKWGCRVWABCSYYRHKSPZTQAUGVHELOAARKNLFUCJC",
+          "vote": 1,
+          "voteTick": 49943321
+        },
+        {
+          "computorId": "HBKBLVENDOKUTAVFQLBOSQDHOKGDOSXVXDMUMEFUSFNQZRKIFOFSIRBEIXBA",
+          "vote": 1,
+          "voteTick": 49943259
+        },
+        {
+          "computorId": "TGSZAHZSSIECRFRIJKBMTZTZWDLDZPQJLJMIWRAKEAJUAFVCTPZKLUJCULCM",
+          "vote": 1,
+          "voteTick": 49943178
+        },
+        {
+          "computorId": "LHAFAWFWUGMUJCSLJAHVWBOKTETAGKLKNPQAKWMIDHSFPSGHVZQGUMKDMLRI",
+          "vote": 1,
+          "voteTick": 49943072
+        },
+        {
+          "computorId": "KGGZMJXNAAJKQBOKOXUKETBKXLNBFMAAARDTAJEXSBJAFPTPNMDVWPFEYXNA",
+          "vote": 1,
+          "voteTick": 49942921
+        },
+        {
+          "computorId": "BVIKTWXQPCEWTBVVHNHWYLTMFBTBAYKHOTOTITGLFAGHUHAFLDXTFIZEQTLO",
+          "vote": 1,
+          "voteTick": 49942827
+        },
+        {
+          "computorId": "JVPZVAKNVAAMMFFULSALKYIUMICASIKFYSTCWLIUQBSDBDQUPQUDDCODTVNJ",
+          "vote": 1,
+          "voteTick": 49942759
+        },
+        {
+          "computorId": "SVTJPLNDOZXNHACDRENFNKMQMOYBVUEIQQNUSSSNYCUATBARSRMVDFBDAGBO",
+          "vote": 1,
+          "voteTick": 49942736
+        },
+        {
+          "computorId": "CJFEZZHRKLLDZCQHZEARLUPHQMSBESQIMRDQHRXBZEAXHBXCXLPEEHIBUMEB",
+          "vote": 1,
+          "voteTick": 49942709
+        },
+        {
+          "computorId": "WEERYPHALEXFNGEAIWXVBWWAEBJDZMZRDWCDDHEGDANJVNJYSJNWXTOEJOBI",
+          "vote": 1,
+          "voteTick": 49942681
+        },
+        {
+          "computorId": "MYTCEQHYXKLAAENITJKYGRUHYCXBUZHAVXZJMYUDIDHYBUWMWKWYJOIEHICL",
+          "vote": 1,
+          "voteTick": 49942605
+        },
+        {
+          "computorId": "WHOHMDWQBKZDQAVXVVDSOJPCZTODUWUAMGMNRBVNIGUYBBFFQYRKRIWDTQEM",
+          "vote": 1,
+          "voteTick": 49942592
+        },
+        {
+          "computorId": "LGBXCXXZYCCGGFUYEDCHBLPQKQPDPHSNLZUMDZDYGAAPEORESAISVWLECCMG",
+          "vote": 1,
+          "voteTick": 49942585
+        },
+        {
+          "computorId": "XLEKSUBKLSUCYBSNSYGWSEYYLJNDZCREXOEAXXBYHFSYFWTRGWALHWZDKQSG",
+          "vote": 1,
+          "voteTick": 49942582
+        },
+        {
+          "computorId": "NUSRHIUBCOQGCCOGSDSGAGMBRXYCMMZWVNYHYTZYHDZAKONKDJOEPOQGUXPN",
+          "vote": 1,
+          "voteTick": 49942577
+        },
+        {
+          "computorId": "JKATOYLVEGPEFFEBEZNFTYMIGTLCUFZBZUTSHYCUCCLYZARQZKSTXYPAUVNG",
+          "vote": 1,
+          "voteTick": 49942548
+        },
+        {
+          "computorId": "SJYCCJYZEZOXMCSSPEWTXNWUZYBDGBVQHTRVKHNZVDZCZBOGMACMCBFGXNFO",
+          "vote": 1,
+          "voteTick": 49942545
+        },
+        {
+          "computorId": "JMPSXPJNKFUKJFIWSMXMTHOLXJGAJUUVHMXDRSNIACVQQSRXBNWCDNLBEKAA",
+          "vote": 1,
+          "voteTick": 49942503
+        },
+        {
+          "computorId": "UNCASRSRPXDCECXWHDZWLUALSOTAAYEOOUVQHCUPREYZMYYVSIWERIYDNXOJ",
+          "vote": 1,
+          "voteTick": 49942419
+        },
+        {
+          "computorId": "ZUIIWFDICLJZAEGWOIONISWYBXBBBFALXNSZASHTSEVORNNBWVOLKIMADNAO",
+          "vote": 1,
+          "voteTick": 49942385
+        },
+        {
+          "computorId": "KHKQHCCGPKWDMCDHIIVNMLBDJIWARWFTGAWGMOJAGAYCRVUNDELLRXDFHUDD",
+          "vote": 1,
+          "voteTick": 49942356
+        },
+        {
+          "computorId": "WNYNJFVMKOMATCVTXCAHJVIEMVPCZQLBMOPCUQTFZAAKSZEWRMQIWJCHDUEG",
+          "vote": 1,
+          "voteTick": 49942343
+        },
+        {
+          "computorId": "QPDRTMANIFYAIHSRAKXPKUUNVOLAEXCTLMJPGQRLHHQAAWUEBKRRWWPEMSXB",
+          "vote": 1,
+          "voteTick": 49942336
+        },
+        {
+          "computorId": "ZVXJGWGMZAJNDAIALGBPIDTGTKRCFWUYKZNOASBBZAVBWKSEYTQVXAVAJWNM",
+          "vote": 1,
+          "voteTick": 49942314
+        },
+        {
+          "computorId": "YHBSEYTCLADQQEKYKUEMQZTBRGTBGOZOCXBITKMFYCDUCNZXLNAZHRIDOXGN",
+          "vote": 1,
+          "voteTick": 49942291
+        },
+        {
+          "computorId": "OPJWJEBYSZPQIENCFPYSCTVFKDCCZFINHKRTALCHYAZUMRVACSGIRGRGAOOC",
+          "vote": 1,
+          "voteTick": 49942277
+        },
+        {
+          "computorId": "DSXZTFJOGMCJWBSSACMMOCLDTRDAJZMKKFNEVAGONBVKADGBCZCUMCBDRBJM",
+          "vote": 1,
+          "voteTick": 49942265
+        },
+        {
+          "computorId": "FZTXBUWQTOWAHBODSZKVMUQRRPDDASKDOQLSDGLIUCVWDSYWIBAKAXRBKEJJ",
+          "vote": 1,
+          "voteTick": 49942264
+        },
+        {
+          "computorId": "BPGZKWFJXWYLLABKKIKMAFZVRWYCPYRHCDYQNIQBXEUQDYDDFTJYGRSBMPEL",
+          "vote": 1,
+          "voteTick": 49942247
+        },
+        {
+          "computorId": "AMFPLGHQOOFHGBIPCHDZVZYGKRYBXQTUNFMEGOSTKBVCPLETQEEQKSADQDKC",
+          "vote": 1,
+          "voteTick": 49942234
+        },
+        {
+          "computorId": "GBVFYTKTNUUOFBBJUFIQLCKEHITAUAAQGANTDRVUUCEPZZHBAMYUBTPGIHVH",
+          "vote": 1,
+          "voteTick": 49942228
+        },
+        {
+          "computorId": "FNVZCSXXVWXWYFVMJDDOMBCPNSKBWQWXGIIHSOHXJGUWVPRMKKJXANMEMTOI",
+          "vote": 1,
+          "voteTick": 49942222
+        },
+        {
+          "computorId": "LJKSMQVYJFJMSDGNAFXGFZKXPMPCKBMJQLIOIXFXCCJPCILNXJLTLGVEEAXE",
+          "vote": 1,
+          "voteTick": 49942218
+        },
+        {
+          "computorId": "QSCRUWVFRMIWMGNVMYKMWDMKCPOBMXTORQDTJNNBDAESWRZYMATPRFBGIPSA",
+          "vote": 1,
+          "voteTick": 49942167
+        },
+        {
+          "computorId": "ZJRDKVEZWJEZJFHWTYIDJMOGRMFCEVSWKMVMLXWTQBVBBANPSXJRDAUBVINF",
+          "vote": 1,
+          "voteTick": 49942164
+        },
+        {
+          "computorId": "VXUMPJYOZPQFFCSDSJNVCVRTNQADUHFYZIEGOTXHOGVRTMJSGZBMKXPCOUMJ",
+          "vote": 1,
+          "voteTick": 49942156
+        },
+        {
+          "computorId": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+          "vote": 1,
+          "voteTick": 49942096
+        },
+        {
+          "computorId": "DSROQOYVZNPAFFJLURKOVFVBRHJBTFJVGUETWRZRJGTREZPKNOLDAWGGZHFB",
+          "vote": 1,
+          "voteTick": 49942080
+        },
+        {
+          "computorId": "RLXAVROAOOWUFCITHVIDVPNNVUMDQUBMRLDUOYOSVFKVHVHKAMETTASGSKSH",
+          "vote": 1,
+          "voteTick": 49942075
+        },
+        {
+          "computorId": "ABUIWGXWUCTKVCCGNDQSIWVBJITAZHJVEQCDHHHTUFQIJGJSAOLIHYTCQCNO",
+          "vote": 1,
+          "voteTick": 49942064
+        },
+        {
+          "computorId": "XNISDNQDSYYGDEUNUDKUJUABOVQBNUOHVPYHSKWCUECPPANEQZECGSVCLENN",
+          "vote": 1,
+          "voteTick": 49942060
+        },
+        {
+          "computorId": "ZLKIEOBIRMKYEHRNTOTPNRDUZWLBERMWHJTZMXWYCFZVGIAZOCWGZRHEUILN",
+          "vote": 1,
+          "voteTick": 49942030
+        },
+        {
+          "computorId": "GOBRKOOZRXSSWFFKDKRRJUKENPVCLAYCKMUDAPPPGFFMVYFVHFVVUHPBJMOB",
+          "vote": 1,
+          "voteTick": 49942022
+        },
+        {
+          "computorId": "XMLFLOVHPTIUNDXYRWLRRDYWBISBCGKRDNUKRRYZDHFMCEJBTVYPTDTBMXNB",
+          "vote": 1,
+          "voteTick": 49942019
+        },
+        {
+          "computorId": "CLMZDHLELFISZDJBIDPXKZQGBSPCEUHHCJMZFYILOBLMRRSMSOFGVJCFPULL",
+          "vote": 1,
+          "voteTick": 49942018
+        },
+        {
+          "computorId": "RCJYKOYBJNLBRBORHJKNDXNUATOBWNWMQHGLJEVMEEUIWISREQPKQWWGLHJD",
+          "vote": 1,
+          "voteTick": 49942010
+        },
+        {
+          "computorId": "VXWPJSDEXHQBWGUOJJRXGSGJZGQALGGIMQMKKLGVVGNJAJSPZDRCIJHFGHXI",
+          "vote": 1,
+          "voteTick": 49941988
+        },
+        {
+          "computorId": "YCRXPTXHSUFDGCBBYQQPPGQGSDICZBSXHLLKYJIZCDDNHIRKKWBLMTUFMJAM",
+          "vote": 1,
+          "voteTick": 49941945
+        },
+        {
+          "computorId": "ESCWGMCAHSQUHGQHPHNHJDXODUFAXOGFZSHIHTKDIHDWHXRNYOVPQHQCTQHH",
+          "vote": 1,
+          "voteTick": 49941920
+        },
+        {
+          "computorId": "SITKICYXJKJOLCXPEFTWFWASMMOBTTABLIFQHCBKPBKTULUSHRJMSQDHFYKK",
+          "vote": 1,
+          "voteTick": 49941890
+        },
+        {
+          "computorId": "SYAMDTHPXBMBMBYJVZMHXYUPBXRBKOFYNTVPGTGJQGLDWAKCTAHWNKJHTTQO",
+          "vote": 1,
+          "voteTick": 49941868
+        },
+        {
+          "computorId": "NVWYQAFNBMDQSAFIOVTASBMAJDKDPNYIYFUOHWMLFENDWLHQPHYMYNVFCGRI",
+          "vote": 1,
+          "voteTick": 49941862
+        },
+        {
+          "computorId": "HOPUYBPOWJCUFGNGVMOSVAIRFQIBCCPCOYOLXSQOHBWJNXDMTWDZQVUCIJYN",
+          "vote": 1,
+          "voteTick": 49941791
+        },
+        {
+          "computorId": "MYNSCVJIFLVZAHFXEYCVVGZJOUIDRBJXDKURQRHHSFLTPDGLTQYODOBHJBKI",
+          "vote": 1,
+          "voteTick": 49941790
+        },
+        {
+          "computorId": "ULSMVMNNLZBVJECVAURXRAWTUQXCTHYETZSWDJFICDEYTVVVYOVZCLMFWQOC",
+          "vote": 1,
+          "voteTick": 49941769
+        },
+        {
+          "computorId": "JUJQKJKRDALOOCBWBNIMGVKKGSCBLSWTFRVESIABVDORWGUCUOYGEHNBUAXN",
+          "vote": 1,
+          "voteTick": 49941700
+        },
+        {
+          "computorId": "BMBGSBAWEBCORCMHLXNNLQMYTJNCUIXEWMQPVJTXYAJCNKNNOHPFISZBMRHO",
+          "vote": 1,
+          "voteTick": 49941620
+        },
+        {
+          "computorId": "GFCVRLPPCVOZFDBSRUNMNNKJSWZBWWXAOEDGYFIJLDHXYFYXKJFCCZLAQWGJ",
+          "vote": 1,
+          "voteTick": 49941605
+        },
+        {
+          "computorId": "GCAXRFJPDIHDCBVRJDWIPERDSCWBSTFOEAQDZVAPPEMZJXHNCWCTMOUFRNPD",
+          "vote": 1,
+          "voteTick": 49941577
+        },
+        {
+          "computorId": "PPDXRFPCTZZCUDIBFDOEYEKJYVTCYUSTNYCAADOUMDJNDBBSSUUVMFBGOQMG",
+          "vote": 1,
+          "voteTick": 49941465
+        },
+        {
+          "computorId": "ULLUTTIHHPQRKHPOAIQPQCEMILZAUJLDXXVOQPAKZFWXWVCKNMSHCTSEGPHB",
+          "vote": 1,
+          "voteTick": 49941465
+        },
+        {
+          "computorId": "WBHKIWZZZOLGOAPTQPSXBLBCKYBBHNVFHSXIIXXEMCALUYOSTITOYUJAGDRO",
+          "vote": 1,
+          "voteTick": 49941431
+        },
+        {
+          "computorId": "VCVXEJTFPTALZETCFWITQAQVJKAAKGCXKTAXGUPAOGGEVGRHIGBKZGNFOUEC",
+          "vote": 1,
+          "voteTick": 49941403
+        },
+        {
+          "computorId": "KFRCPABPXQICBBYPUUDAPMZYJXHBFHIHDYCHPLVAAESWOWWXQRKUJLJDFLXD",
+          "vote": 1,
+          "voteTick": 49941380
+        },
+        {
+          "computorId": "KTUQNSKVCBTONAQSJECHTGCYMEAAUPQTBUSQNCSNBBTGLUGQBVRCTEADIJMN",
+          "vote": 1,
+          "voteTick": 49941366
+        },
+        {
+          "computorId": "ZWUXZSKJDTKHGHZHIRXSPIAMFUMAWSEMTVQMSHUXJHUAYKPWJAMCNCNDOLIM",
+          "vote": 1,
+          "voteTick": 49941362
+        },
+        {
+          "computorId": "ZMHBAXNKUKZUVAXLEZTZFEAQNCXCWVKPQUUTNEJBFDBFAGBBWZCLGSMCUWJL",
+          "vote": 1,
+          "voteTick": 49941272
+        },
+        {
+          "computorId": "MEYDUCTZZIWIOBAVVGYFUOHANRCBTFRXRPGOXQZVWDGKADOQZDQMFGMCGKIE",
+          "vote": 1,
+          "voteTick": 49941263
+        },
+        {
+          "computorId": "BMUCOVFACSPKUGYMDPTTYDTNYHHCYRHXDRWNQBIWJDCSDZNUIQGIPGEELPFC",
+          "vote": 1,
+          "voteTick": 49941255
+        },
+        {
+          "computorId": "NNKYWAHFGVIJAAIOCHQQBBUJJXIADGZCBGSMHPLSDAHNICSDONSMJTLCUSDH",
+          "vote": 1,
+          "voteTick": 49941232
+        },
+        {
+          "computorId": "EJPNXCVVNNANCAUHTOWVLINSVTFAXXCWLLPYUGEZEGPEDWCJYXZRZECCUNIC",
+          "vote": 1,
+          "voteTick": 49941230
+        },
+        {
+          "computorId": "ZQDFODAXNIPOLEBPHRIHOMBGVCLBSRTEAVQBZGYCRCMTVTKQMLABPFMFLVEA",
+          "vote": 1,
+          "voteTick": 49941219
+        },
+        {
+          "computorId": "MCQWQLIOHUOERDVCGXGUQXBAOTWBGZSQRWRBCUWGCCLDQHKJUPFCKMXBTCSB",
+          "vote": 1,
+          "voteTick": 49941200
+        },
+        {
+          "computorId": "APTDQWCRJZJQGFGLMYZPJOBPKFRCBRZVWQRVDGEHOADUICRMKMIYXDQFBHXA",
+          "vote": 1,
+          "voteTick": 49941197
+        },
+        {
+          "computorId": "OEOFKQCMIAZJTCJWWEYSUAHAPCNDBXVPKPXENDXDLDYMSKXVLOKDSZHGWDBN",
+          "vote": 1,
+          "voteTick": 49941181
+        },
+        {
+          "computorId": "MOVWNDRPNKTXTDCJLTNSWEFSJWYBDIVJMTRCXAJZJHPNSJEQUWACFCWABPNM",
+          "vote": 1,
+          "voteTick": 49941178
+        },
+        {
+          "computorId": "MFFMGHCRUNEWCFYWIYNMQRRNORGDSIYMUAHZRAYHVCZZOQFIXMLOUJACZPVD",
+          "vote": 1,
+          "voteTick": 49941160
+        },
+        {
+          "computorId": "HARCLJQMHOWISFQZSODEKUVVKQEBJRWFRFQVHQBYBABMBFSYNFLOYEEHEOOG",
+          "vote": 1,
+          "voteTick": 49941123
+        },
+        {
+          "computorId": "BGOZXJKPLUFFTBXMCPHDNRGQNLCBFSNOLBDGJCYSRDUMRVNJOOKMBIYFVGRD",
+          "vote": 1,
+          "voteTick": 49941113
+        },
+        {
+          "computorId": "LVCDPBDHWYVEGAEXIAVDFHEWXDGBICQNSBTFYKOBHHSRMWYALVPOXTSBQJIG",
+          "vote": 1,
+          "voteTick": 49941096
+        },
+        {
+          "computorId": "ZBEWTCMDZOBSHDRMXGFTLBACBBOCWLLIGWZSRNCQRGHAXTVUYNDNJUAAIRBC",
+          "vote": 1,
+          "voteTick": 49941067
+        },
+        {
+          "computorId": "PAILAFJBNBCKACOMQRMNJJYXCGSCUHIQKZTDTJMCTCKPZXAWVLXVMMSGXXZI",
+          "vote": 1,
+          "voteTick": 49941066
+        },
+        {
+          "computorId": "EFGQNDZETESOXGAEOQVJAERUSUNDVBVMJJNDKJOZSDSGEKBCYNHOKVLAFNYG",
+          "vote": 1,
+          "voteTick": 49941064
+        },
+        {
+          "computorId": "KWUWHWBAWZMXDFZQBAWXWAQPQWVAAGOUGDHAZAUONEFBXNUHODODJIYGHWVN",
+          "vote": 1,
+          "voteTick": 49941063
+        },
+        {
+          "computorId": "GXJKKNUWLZOKNCXDPCKUVYFVFLUAWTDLNQFQAAUXFBJZWBWGEYPROXLGBEND",
+          "vote": 1,
+          "voteTick": 49941059
+        },
+        {
+          "computorId": "LWYMEXAJSSQATBAMEUANKNQIIIUCWFJFZHCZZWLKVAYGTMXFUMZVCWVCJWDB",
+          "vote": 1,
+          "voteTick": 49941050
+        },
+        {
+          "computorId": "MZTHLCIODOIDCCCZRSLWACELEDSAQIAMIBQCYWXJJFFFTQYKQZVAYVGBPUJJ",
+          "vote": 1,
+          "voteTick": 49941042
+        },
+        {
+          "computorId": "JKHDWIFVECLMBEGRPIMAIZORRLPDRGHEDDJQHETJKHBMVHJCWPPQYYBHTYWH",
+          "vote": 1,
+          "voteTick": 49941034
+        },
+        {
+          "computorId": "GIYKRPALMYOVHAIEICFIFOFSGLAAYOYXAJMEFTZZDEELCEMUKVSCBEBAYPHA",
+          "vote": 1,
+          "voteTick": 49941033
+        },
+        {
+          "computorId": "YSUOBYIZGKMIVGVTKFDTMLPKINUAMKWLRDAUENPXMGXYVPXIIUOARGGARIBK",
+          "vote": 1,
+          "voteTick": 49941021
+        },
+        {
+          "computorId": "DVFEIAMQBGXTQCFJTBSQYLZKMUABSEOSTISTNUYEIBDRDGEIYPWLHLOERGHG",
+          "vote": 1,
+          "voteTick": 49940997
+        },
+        {
+          "computorId": "SOXEANRWFXOTQFTKLPHNLOVHOSACNLYOSIVJPJUTHFBJTZIAFYTXLPUDLSCF",
+          "vote": 1,
+          "voteTick": 49940978
+        },
+        {
+          "computorId": "GGSEOQSRXKNACAHZAKUMNRKIXMPBJGVJTEUPLNLRSBRWFBXNHKOTZYIANMJE",
+          "vote": 1,
+          "voteTick": 49940977
+        },
+        {
+          "computorId": "SOPGYHCJLEQENDFCWQOSTAPDDKSCTILAQYXEETEDIDYAJIAZWHCFFJUCSAJL",
+          "vote": 1,
+          "voteTick": 49940973
+        },
+        {
+          "computorId": "ERIFFSDSSZBJUDWIICCJABAOEFUCTSMNSDOQQKENFGGRPEXHOAMNPTWDGEQJ",
+          "vote": 1,
+          "voteTick": 49940954
+        },
+        {
+          "computorId": "JZAZNLEGBXOMPEDQYIVNVGDCVRBBFEZPFEQEIUOVYBAACOJBAMQENEYBGSVC",
+          "vote": 1,
+          "voteTick": 49940954
+        },
+        {
+          "computorId": "BRYVNUOBJXMMCCHSGAYGDYUWTZCCZNKDLTJWDYLPIEYOXBZMVEOPYTTCAMKL",
+          "vote": 1,
+          "voteTick": 49940947
+        },
+        {
+          "computorId": "XCBIHRQSVZVBBAXAEKWJBBJUYZHAXXXKQJVQFFLYABUAFWHVHUCKFDVFKGBE",
+          "vote": 1,
+          "voteTick": 49940926
+        },
+        {
+          "computorId": "TOQUPGENXZMINANENXHHJNSZYEODHSSAMEHPKHBKJEOEISOEJXKTKRAEHBMH",
+          "vote": 1,
+          "voteTick": 49940922
+        },
+        {
+          "computorId": "ODURWTQUABUNDFOMHKFESVZIUPBAQSODZJSAQNCSVECJYKOTJLEPNIADTTQN",
+          "vote": 1,
+          "voteTick": 49940916
+        },
+        {
+          "computorId": "UPRIIXACDMDQDGKKECPUFHIQEVBAADXYOIYNOAQLDBIXKTXZUUKFKIPFXEWC",
+          "vote": 1,
+          "voteTick": 49940880
+        },
+        {
+          "computorId": "WWGPLROCULVFTCSDAQMSQAZTKDYAFCMVQXBBKLHDCHFAPMFTNWJOMUDHAPSC",
+          "vote": 1,
+          "voteTick": 49940856
+        },
+        {
+          "computorId": "NMDKYPUWRUNVNFLFERTNCWHWSFEDLBEWCMVGPHLICFJNNGQLUTUHXJHFSEPK",
+          "vote": 1,
+          "voteTick": 49940851
+        },
+        {
+          "computorId": "NSJDJQVNWZELTGJUSTSHIMTLWRPDDIEMOCFECUIBOAYVOLXDKKMNQJJGGTLG",
+          "vote": 1,
+          "voteTick": 49940844
+        },
+        {
+          "computorId": "DTBXYJPFNACVZBYSEHAJGICGRKNAYDTJIVMVXWXENDVOAYBAZEXLQNXCCPPE",
+          "vote": 1,
+          "voteTick": 49940840
+        },
+        {
+          "computorId": "PDLGNEDFMYOXBEZONGMMGTLYGHQABXPBOURLAVUYJCWCPMPXRGJLVFLAPVUF",
+          "vote": 1,
+          "voteTick": 49940840
+        },
+        {
+          "computorId": "LPGPVYFJNATDWDXTOUWIBPCBNCDDAYSICXJCQSZGLESSFGEOIMYCGUFFSXRF",
+          "vote": 1,
+          "voteTick": 49940823
+        },
+        {
+          "computorId": "LJAAZIXOCFYSKFGNHPSWBGXLHSMAQIXBWKZZOJZDJAMPHKSDRYNRAOHEUPPD",
+          "vote": 1,
+          "voteTick": 49940780
+        },
+        {
+          "computorId": "TIJLRGNZXPZEJEFHCWNPTQYULXKAVNGMFRUTIHCOLGRDAQAALXMRXPMCRQEA",
+          "vote": 1,
+          "voteTick": 49940771
+        },
+        {
+          "computorId": "YUSSEWQMXJQFUEOKXISNUHUWEQQDVMLXQBWUDZDNRDSJDIHOHQRPINUFDBFJ",
+          "vote": 1,
+          "voteTick": 49940729
+        },
+        {
+          "computorId": "AEKIORFKMOMBGFYWODNCKXXKMCMDDDNDLYSOVOIHIFGMKVDSZEKVCQEBPCON",
+          "vote": 1,
+          "voteTick": 49940728
+        },
+        {
+          "computorId": "SXUREGPNKNEDMBLLVQUVZHKHRQIDPKWIERHZBFSYCCXOCTPRBZFZRLOGYTVG",
+          "vote": 1,
+          "voteTick": 49940724
+        },
+        {
+          "computorId": "CRHXOCSLXIFTBCDXTLZOHCNEFRLBBOBQRBAWAFXCRFHIJVPWPWJZIYDEDXEF",
+          "vote": 1,
+          "voteTick": 49940701
+        },
+        {
+          "computorId": "MASDOGEGEXWMIDCIUILMEHEXUWOBDZGFQTFJFDHPDGHSJQJYKASMIOSCGYQN",
+          "vote": 1,
+          "voteTick": 49940684
+        },
+        {
+          "computorId": "LOMKALFFBYXNVCNXGPNZMJIHCEADDJQGJQKUGLKFLHGKTRJIMDTFPJHADLRF",
+          "vote": 1,
+          "voteTick": 49940677
+        },
+        {
+          "computorId": "UHDZJOGELURMKBEQUSMNBMWAVPHDADXMZPCOLTFAUGQZVELHGUYRCPADDBEF",
+          "vote": 1,
+          "voteTick": 49940669
+        },
+        {
+          "computorId": "IUVGHPCMSLDDCHECYYIAJYHZNXHAOCVQOGOHKBVGOEHDHFXCAESNBIKGIRBA",
+          "vote": 1,
+          "voteTick": 49940651
+        },
+        {
+          "computorId": "CJKLJQACJFSFKDLQYGHAVHZCMCHAEZYGRQZMFCVPOEYALHFWZPEYAERADMOI",
+          "vote": 1,
+          "voteTick": 49940649
+        },
+        {
+          "computorId": "DZYVCMEERDGJJCJSNOYLAVSKBZEBIEORAKOBBQOWOEGQLKKMQYDKYJMAFFXL",
+          "vote": 1,
+          "voteTick": 49940645
+        },
+        {
+          "computorId": "GMXEPGHTXZLGWCWHOAZZXVFOGGLDDFUWMCYXAZCQCDPITOEEENDWJHZBYGTD",
+          "vote": 1,
+          "voteTick": 49940642
+        },
+        {
+          "computorId": "FYEMTCKBTSCPEGQIRDKOOTETWZUASGSLURYUWWNQBFWTZSFSZNEYNEZCRENM",
+          "vote": 1,
+          "voteTick": 49940638
+        },
+        {
+          "computorId": "XRDERVQTJTBSYCBIWNTKORUUOZSBOLTDMAMTRYHVWDXDXZJVGZTPJKQBSZCL",
+          "vote": 1,
+          "voteTick": 49940625
+        },
+        {
+          "computorId": "ZQYFSSZTIIQICEXZEQJTKRQPTJBBTTWMCTWEBZXWZEFSGMVWMGBNKKJDEYBJ",
+          "vote": 1,
+          "voteTick": 49940607
+        },
+        {
+          "computorId": "ZNVNIDGWFRZELCWFCMNDJWZAKIODMFFQPZAXIXWZOGBRPWILQHCIKTTBLDRF",
+          "vote": 1,
+          "voteTick": 49940584
+        },
+        {
+          "computorId": "HFXJLOGOQRDEKDCVTWPMIWIRFNCAIJAXNXUGJDWJHDJFLTHKKAJFXYGEPMPO",
+          "vote": 1,
+          "voteTick": 49940497
+        },
+        {
+          "computorId": "UJITZUGZEHOQQFUVYLJZWCYTBXBCBUTAJKVMFNFHBDUNRGCNXLGGCCDASALD",
+          "vote": 1,
+          "voteTick": 49940443
+        },
+        {
+          "computorId": "HEWBHWWWZSEDCCYSTNJIQXWAMIEALWRRZUSTQZUKDEMQEEFCKKPEEFQBHAHD",
+          "vote": 1,
+          "voteTick": 49940436
+        },
+        {
+          "computorId": "UFLWCVNDGCSXOAIXZMJMFNQKRLPCRFKGPTPWGPFJHGOCPEVUGTQQSIFDUUZI",
+          "vote": 1,
+          "voteTick": 49940407
+        },
+        {
+          "computorId": "TYHUKWPQBGEJNBSOBAUFSOVAQIGDZMBNFEFPNKURCAHIIJDAWUYXYNLGRHKA",
+          "vote": 1,
+          "voteTick": 49940402
+        },
+        {
+          "computorId": "PRFGQESMTPYQLELAEYIYJMWLRFOBZQJXAIXXWOIWSAYVRSETNFZPCCLFEQFI",
+          "vote": 1,
+          "voteTick": 49940382
+        },
+        {
+          "computorId": "HVAEKXSIVXNZZFLHHXZZASRDYXTAWQMRCYORNQIAGFECMUVVMQRQBQTCDWCJ",
+          "vote": 1,
+          "voteTick": 49940335
+        },
+        {
+          "computorId": "UNNDETCJYBPHFFDQRZLANZJITDGASFVIGAJRCURVUCWFBQTWEQXAGROCMAHG",
+          "vote": 1,
+          "voteTick": 49940306
+        },
+        {
+          "computorId": "PGIVBJFVOIHGIAOQGKIXPAXPTFXCSAVDRIRBFBYPQFZQUOEYKSLJMXFFVGGO",
+          "vote": 1,
+          "voteTick": 49940288
+        },
+        {
+          "computorId": "BRNYKSHZSJKGWBKCIFDJLAJZJPHBPMFWGVNPWQUEFGWAPHBAQIOVRCIGFDEN",
+          "vote": 1,
+          "voteTick": 49940236
+        },
+        {
+          "computorId": "UFHMKNURITDEQFEWDUHLSGUCSIUCWUMFRDPNXGVODATINUTFHIRNBGMBBKYM",
+          "vote": 1,
+          "voteTick": 49940230
+        },
+        {
+          "computorId": "JPDLHXMGPJSRCFSHBFYXVMMIPBDBBCIPEUDMNLNWPFAWBFTIFCELCRDGZIEH",
+          "vote": 1,
+          "voteTick": 49940229
+        },
+        {
+          "computorId": "URRUEMRFQRMGREYUDBYNMTCVAXIBQYZRRTYPCCZPJCDLKMUGNOTXACPDKDCJ",
+          "vote": 1,
+          "voteTick": 49940212
+        },
+        {
+          "computorId": "AQYHKXUTSJQZDFPVHPQWKXGWKSFBBNHAOXKZLRNUOGNSCUZUHHVAXKNAMHFO",
+          "vote": 1,
+          "voteTick": 49940193
+        },
+        {
+          "computorId": "GHPXGDGSIWLTFDZMQNJZBRWQEYLBANDJZXECZCHFXGIXRVGDWBEDNYUAUDLG",
+          "vote": 1,
+          "voteTick": 49940174
+        },
+        {
+          "computorId": "ZWRHSCPHMZUNFFSEVNRZLCNCTENDQMGNXBUNPNNRUGITJBFQKHOPDDTCVOVC",
+          "vote": 1,
+          "voteTick": 49939985
+        },
+        {
+          "computorId": "KGWRPFEHKRAYQEQGZMMMUWJFJVTAJSJIVTBRZKTIDDJAUUIFDOIRGKYCSAAM",
+          "vote": 1,
+          "voteTick": 49939980
+        },
+        {
+          "computorId": "SFVLFAZMWEQXMDAVGBFQOJXDYFZAZALUYEQZEMWMKGZWYDFHZSAJPXACBOEK",
+          "vote": 1,
+          "voteTick": 49939945
+        },
+        {
+          "computorId": "POHIXLBAJPDBIBJQJOMTZDDEIGZCPAYCEFYDOCAINDNSZJYDMBKNBXBECGHH",
+          "vote": 1,
+          "voteTick": 49939925
+        },
+        {
+          "computorId": "LDRVHBUTTQVLRCTGMJDRFEMZLWECAPGDSNCCPNBPCFPWKXUZJUVVNWLDQYOI",
+          "vote": 1,
+          "voteTick": 49939923
+        },
+        {
+          "computorId": "LGASHJKMLCVAVFWTUQZDJQIFDWLADYIAAOTVEUYHODETDNFNFMLTZMJCTVUA",
+          "vote": 1,
+          "voteTick": 49939914
+        },
+        {
+          "computorId": "FGHXFGDWGEQVGBRGFBFJTQOHCIYBCQWSCFKEJKNACEMNKVALXXYSMIPBQCNH",
+          "vote": 1,
+          "voteTick": 49939884
+        },
+        {
+          "computorId": "QUHLTTFUSKVECAJGVLEROVGRBSMAKZYTYNPCCWHVJCQPYVLDJGHIDNECMZGB",
+          "vote": 1,
+          "voteTick": 49939882
+        },
+        {
+          "computorId": "ACTQAIFTWBBMMCTECNKICUZRGOJAKIJQBFICDUKVRBBTFFLJCNCJVUQFZBMM",
+          "vote": 1,
+          "voteTick": 49939881
+        },
+        {
+          "computorId": "FMUVJULVTSBFFEXBKWCBIXSUMQDBKGJJTXOBFUEKNDMFTKFUXPFDPLMGKRIF",
+          "vote": 1,
+          "voteTick": 49939873
+        },
+        {
+          "computorId": "AOHXHEKOUWJIPFDIEKSJCKDHQBKBCJBWLESAJSUMRCWBHGSZOHGIHGIFXWPK",
+          "vote": 1,
+          "voteTick": 49939872
+        },
+        {
+          "computorId": "JPDIMOFXMRDKYBGTSZGOEAITERBBDKTYCTXVLFOZLBHKXKHDFDJLPIDFIRQO",
+          "vote": 1,
+          "voteTick": 49939869
+        },
+        {
+          "computorId": "ZFCNHLWTWVVYIHPLLLZGBNSDXLNDZMNYTIONVNEHODSLORLTROMZTYOGMEXF",
+          "vote": 1,
+          "voteTick": 49939861
+        },
+        {
+          "computorId": "VMTHRMXJYNKUJALNUJKACQHQKYYBWLRLXGSFVLJBJFTUHWXSYMDMXPGGZQRO",
+          "vote": 1,
+          "voteTick": 49939853
+        },
+        {
+          "computorId": "KUSHDANEMAKUJFJFGQWKYPWKAIVAYWXJAJLYQABBGFSXGZIGHZIFBKSBWUZC",
+          "vote": 1,
+          "voteTick": 49939850
+        },
+        {
+          "computorId": "GWWRNGMKREQOIDPBPVNCZBBPURLAAYWMQKATTZZUEAFKJFKFQTKRFHIHOLJJ",
+          "vote": 1,
+          "voteTick": 49939848
+        },
+        {
+          "computorId": "TWJPJULZPTBIAGMGLXDFMUQPLMNALYSUKEEWTBGGXEENLLGPUCTBQPTAFRAH",
+          "vote": 1,
+          "voteTick": 49939841
+        },
+        {
+          "computorId": "VZNFCOTAIGMQZGYUHSSERFJCQUQBKGKJMGQFFHFDLAUGWVPUFUHRNMCEGVOC",
+          "vote": 1,
+          "voteTick": 49939827
+        },
+        {
+          "computorId": "ZZULUXOQRBLGFHPOJSTRNRDUERPDBFLJZKOBWTNNYAXDHQHZBYAZUMAHDJBL",
+          "vote": 1,
+          "voteTick": 49939824
+        },
+        {
+          "computorId": "JBXKYCLHQMNFXBCZUVYZSZRFDVICDUFXGSITDMXFFCZXWTFGWZQEYLVEALDB",
+          "vote": 1,
+          "voteTick": 49939820
+        },
+        {
+          "computorId": "IWODKYGZQOGQPDMWXFILYZZCATGBEAZZIARMIUWAODOIWJQAANWULMMCTBZL",
+          "vote": 1,
+          "voteTick": 49939819
+        },
+        {
+          "computorId": "UTYRHCPROOPMFGRZIYGGVIBZJOYARHTRUPHXVULQLDBYJUJJSYIRBJHDWMFM",
+          "vote": 1,
+          "voteTick": 49939803
+        },
+        {
+          "computorId": "XEFLREPRXXIALBQVWOZFTLSQEPOCQTCXYLTYVBBYGAIIKLFHJJNIXTOGYGLC",
+          "vote": 1,
+          "voteTick": 49939801
+        },
+        {
+          "computorId": "ZDIEQISFHRFPGAQBIILHKQBYVTHAVYMJIQHHXWGVEANJUEYTJIBKBCPBUBZF",
+          "vote": 1,
+          "voteTick": 49939787
+        },
+        {
+          "computorId": "NUCUTILCUBRQDCFTQQPOSUCGJGVCQXASVZIWKVLJWDXIAOFJSSOZYYIAMPWJ",
+          "vote": 1,
+          "voteTick": 49939785
+        },
+        {
+          "computorId": "XYZLYOUCYTFXHDGASZPTIIURRJJCMPFPWZGZQFZKCBBZIBAWEPEAIQCCQAPO",
+          "vote": 1,
+          "voteTick": 49939777
+        },
+        {
+          "computorId": "IAAFTTBAKDRICFXJRECZKURFCJVCERXFDMBKMQPTEGJDMVLXVJACYVBCBEEA",
+          "vote": 1,
+          "voteTick": 49939760
+        },
+        {
+          "computorId": "HTFRVBXGBHYUTDMWTGDZDKYQAZQDLZUTOEGFOVAUHCHYMZRTGWPXECYGACOJ",
+          "vote": 1,
+          "voteTick": 49939743
+        },
+        {
+          "computorId": "GXWPAZEQGLHXSFRIXGFXXZDWJQWBAHLZELDOVJFJKEYPVFVKAUFQPPTCIRXF",
+          "vote": 1,
+          "voteTick": 49939740
+        },
+        {
+          "computorId": "CZWTRYJWZJKQZBSELZHOWRQADTBBYFXIPAWKTCTPQBZQEDDTYRPYHUPDNFEH",
+          "vote": 1,
+          "voteTick": 49939736
+        },
+        {
+          "computorId": "RNUSIDFFJYLHWAAVMJGUQVJOJFCDBNOFKXFALENVYGGBQLILTPTGGWDANGSH",
+          "vote": 1,
+          "voteTick": 49939729
+        },
+        {
+          "computorId": "DTZLPZSNLIFDKFUKWKRXUBLYDEKCIYSLGCQDGTTUHEDGYGMODIHFDEWDOKVB",
+          "vote": 1,
+          "voteTick": 49939713
+        },
+        {
+          "computorId": "RKTQGFUNHEKNAGYKIHOORTEBSBDBXGDVYQBBFOSZECCWLDGGQXAOIGRFJBWF",
+          "vote": 1,
+          "voteTick": 49939703
+        },
+        {
+          "computorId": "GEBCSNPASXEYCFKHHRYFUJRBYUAANMYYETBGTIJWLAFWLSWADXVJUEAAYLIB",
+          "vote": 1,
+          "voteTick": 49939697
+        },
+        {
+          "computorId": "HWUWBAXQPVYCHGDMIORUGQNUOSCDECLTXELAYGNUTCQIDEYDEMQOPROFMHHL",
+          "vote": 1,
+          "voteTick": 49939690
+        },
+        {
+          "computorId": "ZKYFEDJROPXJKCNUHDVITXNEGPFDKQQNLAPAQQDJFCDKSNOGNVAOCCDGODFI",
+          "vote": 1,
+          "voteTick": 49939686
+        },
+        {
+          "computorId": "GAYWTKBPALJPZGVHPVQSFLZGWADACXQDKKTDJAPNJBIFCUYSRENAHWHCJPGD",
+          "vote": 1,
+          "voteTick": 49939677
+        },
+        {
+          "computorId": "MSKFZNEKCTUIYBIJCMPGZFQYHHCDBVPLJHOVGFHFXCUDIVQQUQYLGZIGMXPN",
+          "vote": 1,
+          "voteTick": 49939662
+        },
+        {
+          "computorId": "MIHCGPCLSABNXAMGEPPBZVBDJUZAOOLXKVUGZKPYYBEYPMKQFYECZCTBDUYI",
+          "vote": 1,
+          "voteTick": 49939656
+        },
+        {
+          "computorId": "PQPWZOWIOOVEOCOZDHLKDFRFMNAAHGSKSHIQKXZLBFBELRGVJLFDGJXEDMKL",
+          "vote": 1,
+          "voteTick": 49939654
+        },
+        {
+          "computorId": "NSMTJLUAKAHCIANWJZSWOMYXKZCDKIQQCTDFWBLUQFALSQSFYUWHRKEHXZYJ",
+          "vote": 1,
+          "voteTick": 49939650
+        },
+        {
+          "computorId": "PLVAJXKGJZPOBHZEOWICRYNOGAKBQBQSSPPDWCISLAJDIXNRJPOLRYCBZJLA",
+          "vote": 1,
+          "voteTick": 49939636
+        },
+        {
+          "computorId": "PPVDQTCQKBONUBPHQIEMIOHSWREAFPTJLNSUEWWGBDBAXEIPJOAGTHHGEKEB",
+          "vote": 1,
+          "voteTick": 49939636
+        },
+        {
+          "computorId": "IWJTLTKUSVSLXDMOTURXUAXACEQCXUALBREZVOMMIDOMOYDKBJQGHMVEXIBJ",
+          "vote": 1,
+          "voteTick": 49939625
+        },
+        {
+          "computorId": "FKVKHXVSJLSREEJTPBCVNCSWXFSDERLYODTFYHOEKFQQBVTCUWOWCZODBRHM",
+          "vote": 1,
+          "voteTick": 49939598
+        },
+        {
+          "computorId": "SYXPYJLXAAXKEELOBHMWKAUGCYDDSMDAKOKJGHYGUDJXSSMMRNFEONSEVKXB",
+          "vote": 1,
+          "voteTick": 49939596
+        },
+        {
+          "computorId": "TDYBEYUDZZGBZFSGTAPGXJOKUBRCNUMRSUFXXCFXCDXZRIHQFASWCJIAXHIB",
+          "vote": 1,
+          "voteTick": 49939596
+        },
+        {
+          "computorId": "YPIZEJGBKTVWGCQVLASKVVPZDIUABABTDPYTLNXKXBWDJMNVQSHKEVXEEHXA",
+          "vote": 1,
+          "voteTick": 49939590
+        },
+        {
+          "computorId": "AGISTCKDWHDKHFDUKHDPITGPLHGDXAZGMOWWEUUMABTMKDEWDJLGQBVCEYDA",
+          "vote": 1,
+          "voteTick": 49939589
+        },
+        {
+          "computorId": "IWGBIWFAYFHJACUCQITTOEZKWFKAXYFEJEHXVAJWJGTTBGFRQOLZDRTDIIJO",
+          "vote": 1,
+          "voteTick": 49939578
+        },
+        {
+          "computorId": "CTNCDEPDSXMJAHPRCMEHMBJOWHLARHJMUEKUJXVXADFZWZOPANMZYWAGHSUO",
+          "vote": 1,
+          "voteTick": 49939564
+        },
+        {
+          "computorId": "ELFSUNZPKTCASENNHQMDJAYCOJDDUBUZVTIDEVJUFBUHTSXSMFIMIHWBPFBH",
+          "vote": 1,
+          "voteTick": 49939564
+        },
+        {
+          "computorId": "UIXYCEFYOWUVOGWUWHQYWMSJDSODIPJAASZEAXQXMFQGROJJIFKISQCFKWQM",
+          "vote": 1,
+          "voteTick": 49939561
+        },
+        {
+          "computorId": "YFIOQCMSJKADBDLGRNBNKBZQFXTCJEIUVXCKECZDXAHHAGEDBVYOPZEHYRAE",
+          "vote": 1,
+          "voteTick": 49939560
+        },
+        {
+          "computorId": "SAYMCREYZHDBOBXVGMECHSALAHSCYJBKRYCHGLJHKENXUDOFQIPCQCSEZEFD",
+          "vote": 1,
+          "voteTick": 49939538
+        },
+        {
+          "computorId": "OEFKRVIPUQGGKFLIYUJQHUEGPYRCXXCSTAZDWZIYHAVAGGMRBJRYVYIHOLSO",
+          "vote": 1,
+          "voteTick": 49939537
+        },
+        {
+          "computorId": "LPPFFGBVLFIIVCHUXNMQVHSHSTFCWNBZWLUEUVCHLFOALCFMHOHOMJIGWCJF",
+          "vote": 1,
+          "voteTick": 49939531
+        },
+        {
+          "computorId": "NNGTATHEFVLOOABAPJBDOXJWQOICSPNPNBKTPWYKXCCINCIRSGCPTKGBWZEH",
+          "vote": 1,
+          "voteTick": 49939523
+        },
+        {
+          "computorId": "KMHJTCAYZBXSUECPMKQGYMIXIGVATKRSQCXNPDCZTCFIUHAECAGFAJJGKFJA",
+          "vote": 1,
+          "voteTick": 49939514
+        },
+        {
+          "computorId": "RORTPAVDANGWPEYFNUOYUMFQKYXBORQUWWZHGIIJWARLKASJKXSSQYZDYNNM",
+          "vote": 1,
+          "voteTick": 49939508
+        },
+        {
+          "computorId": "RQSGLNWXLGPLGDIQEJVXHBVBUFRBPARGGPQSLMRYCDRJICDPVLFNGRPFHLJO",
+          "vote": 1,
+          "voteTick": 49939505
+        },
+        {
+          "computorId": "YGJGKBGKMWEEYFBMWGMLBJLWOQGBQADQZOFJJYGDKBMMDVWXWVKCDHZCIGDF",
+          "vote": 1,
+          "voteTick": 49939502
+        },
+        {
+          "computorId": "GTRABQADQHETTCROPTXUPXRESPXBBYMENBLEXIFIWBHSMHGVNLXEKYUBLEUF",
+          "vote": 1,
+          "voteTick": 49939497
+        },
+        {
+          "computorId": "BWIFLBQBPGIGRFPNAQNGZHPNBSCABQNGRMUSXQMQTDITAZHHOAVHDSOAPCBF",
+          "vote": 1,
+          "voteTick": 49939495
+        },
+        {
+          "computorId": "NWQGEKVIDUWFIEEPNEMVOCCBRZDCINDVKTLLVOQPHDIXEZAJIWXGKRJGURSM",
+          "vote": 1,
+          "voteTick": 49939495
+        },
+        {
+          "computorId": "MSZLCNGBOXQWRFLZANNELYOOKZRDZIXMYRKTITNUAESOJJOZFCZXWROCTKBK",
+          "vote": 1,
+          "voteTick": 49939494
+        },
+        {
+          "computorId": "QBCFSSEWKWZWKGXDRRTYFQRLMCIARVGTLUUZZPMKTEOBDFNZQZGSXQJBHNYF",
+          "vote": 1,
+          "voteTick": 49939493
+        },
+        {
+          "computorId": "MPDTRPNFTUHHMDBGBVGVUJKEKNZBEVXOSTRTLLEDKFFXSSNORSTKDSXECFLH",
+          "vote": 1,
+          "voteTick": 49939484
+        },
+        {
+          "computorId": "GRSEVSZBAOLCZCFCFTJHYWVNGILDXEYLGLBSIARVDBGWPLUUXYENIAPBXFON",
+          "vote": 1,
+          "voteTick": 49939482
+        },
+        {
+          "computorId": "ZFQHURQOHFEJGAXMWFEEISXLTPBBVDWDJYDLYYWWTEMGJTBPBIPTTAVBMGMI",
+          "vote": 1,
+          "voteTick": 49939478
+        },
+        {
+          "computorId": "GVJARQQCHZFKGFOONXNFDJZBAUEBSLRBRIOZYHZEIBDPYJHLRWMAGKICTDFC",
+          "vote": 1,
+          "voteTick": 49939470
+        },
+        {
+          "computorId": "YIROSMBRZQGEACLVKWHTDMJHMLICLNVIHHNQVNUNMEJGHBLYNIFEZYDHDCQH",
+          "vote": 1,
+          "voteTick": 49939468
+        },
+        {
+          "computorId": "VUAOTUEXWNMHNBYEUCQIFHUOFRKCVRIICGIRGMAFKBXGSWZDNRXSWZYCZODG",
+          "vote": 1,
+          "voteTick": 49939450
+        },
+        {
+          "computorId": "VJZPDJJSCDFMYERIGSYKXXSXIMMDITKHAZDPIPDVICEZEBNPHAWLXWHDJDJG",
+          "vote": 1,
+          "voteTick": 49939435
+        },
+        {
+          "computorId": "YASAEATGAAPLCFTFJGSUAYFLGKMDHOHTRLZRTIKIUCSGHADCIMIJLLFBFBMO",
+          "vote": 1,
+          "voteTick": 49939433
+        },
+        {
+          "computorId": "NXBFANGNKOBYEEBJJQDTTTRIVWGDOBYZCOWJIZDNBBFOSTHTDUEQZCTBGJHI",
+          "vote": 1,
+          "voteTick": 49939421
+        },
+        {
+          "computorId": "WSBKOFCJNRUPHEPXSYPNVUDYGNWBSMWQVYYESTJSVFEBDTUADVCPKSOCWKDJ",
+          "vote": 1,
+          "voteTick": 49939418
+        },
+        {
+          "computorId": "NUIRTWXKVFJIACFCCEEYTKNUSSLACIAJPWTLCOPWXABRLQKYRSDBGOAGFWPD",
+          "vote": 1,
+          "voteTick": 49939416
+        },
+        {
+          "computorId": "AOUJVGNZZJRYCFNSEHGUVXYCWFGASIQQHLJQMTFYZGTSPDUMSHTUKCGDTYCA",
+          "vote": 1,
+          "voteTick": 49939414
+        },
+        {
+          "computorId": "YFLZZOLKKXHOFDSQFLGSMETODNACUEPTXYDYSVCKACASBOWAOEFUJQPEIBZL",
+          "vote": 1,
+          "voteTick": 49939410
+        },
+        {
+          "computorId": "XHWDYKMHSXMHIBXTZNLUJBNGABACLTCIVDFTWPNQSGQGBLJXNMTBTHSBOXVD",
+          "vote": 1,
+          "voteTick": 49939384
+        },
+        {
+          "computorId": "ILIBXTPPSLDSVFMMGFHHLAZLEEIBWPHZWIMKOASGKDLZSWNHUZMGSKJGLAYI",
+          "vote": 1,
+          "voteTick": 49939375
+        },
+        {
+          "computorId": "OOBLZSDUJQXMMFZQRPFLBPLBUKSAKYPYVGUVLIHYNACIOWPTVYGAVAGBVYAG",
+          "vote": 1,
+          "voteTick": 49939374
+        },
+        {
+          "computorId": "DBLZYVRBUWJBUCPSBIYOHNYQYIVBLOJJPIPYADBEMBFTPEOHAGPKUKFAEUCH",
+          "vote": 1,
+          "voteTick": 49939371
+        },
+        {
+          "computorId": "IOEEHDYATHYVHFPASBGCEZAFILRARIWKXXEWTJFXVAOUMHCFCZAJADOARGJE",
+          "vote": 1,
+          "voteTick": 49939367
+        },
+        {
+          "computorId": "QHSKGDFAXOBSKGLQGTLTOMZEKKFCYPVWFNGZTNNBXFNGEYCLRYGAVLNDAILC",
+          "vote": 1,
+          "voteTick": 49939356
+        },
+        {
+          "computorId": "MWBTYRAPNPGQVAUNLYPBWZVLTUQCQNVGSVLMUPFEGEIYBFXXMWXBTWVEXLZH",
+          "vote": 1,
+          "voteTick": 49939352
+        },
+        {
+          "computorId": "IQPYEPBLOMOHJAFLYWOLDUZWBKSBGMBRWRYXSEOKFFVFCFBREQBLXYGECZIA",
+          "vote": 1,
+          "voteTick": 49939350
+        },
+        {
+          "computorId": "KLMDWFAWEWUTMBRTBQDKEGNZALBCZQQRQNPTQERGWAUSYMOYNOGQGKMECRFH",
+          "vote": 1,
+          "voteTick": 49939345
+        },
+        {
+          "computorId": "BTURBWASCRZMDGPINNYWXQXACJACSLXLRKNHXCCOFGOQKLDPVRETFVOFIUNE",
+          "vote": 1,
+          "voteTick": 49939342
+        },
+        {
+          "computorId": "AQDVSYZCIRNAVGESXNGCWDZNHUUCYHFZEANDOFIGCFITABRGYGYCHWBCRXCH",
+          "vote": 1,
+          "voteTick": 49939340
+        },
+        {
+          "computorId": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+          "vote": 1,
+          "voteTick": 49939339
+        },
+        {
+          "computorId": "QOBVLLWTFFOYBGLYTKNVBOKTAZLDFTKTETYEBXEJPDFVTYLELJEIMXHDMIOE",
+          "vote": 1,
+          "voteTick": 49939332
+        },
+        {
+          "computorId": "MFGXZXCFRWYACHWYIOZCOYOGBRWCUDCWPPVXLDVUXCGVRNAGWKODGMBCHFOB",
+          "vote": 1,
+          "voteTick": 49939328
+        },
+        {
+          "computorId": "FILAUEMBFVOBIFUBGAQDYRVROGNDUVKMWAIXWAYQWDSMVCXPXMNUYFSGGPTI",
+          "vote": 1,
+          "voteTick": 49939319
+        },
+        {
+          "computorId": "ZVAPTANPSTIFDFHJWUWYGXWMKDFDKWIRJBCAGXXKYDYZKVOOAMHQGZBAGSPI",
+          "vote": 1,
+          "voteTick": 49939311
+        },
+        {
+          "computorId": "UAFSRBMLJHVHNDSWMHFGOPWJARWBBVWKDUGLVZQEREBGCIJCTDGIMPJDMJMM",
+          "vote": 1,
+          "voteTick": 49939306
+        },
+        {
+          "computorId": "MYVLWZGGVHALIEVZQXCEVQJXNEUAYULLEMBMFTNORGJGESCMQTPCVOHBBBTI",
+          "vote": 1,
+          "voteTick": 49939303
+        },
+        {
+          "computorId": "NBICANPFQRCYBBJTSOUXEFULRINDAPCXGVIPYQMZDAOLBXTIGBSZAJGBDKTF",
+          "vote": 1,
+          "voteTick": 49939293
+        },
+        {
+          "computorId": "KAUHCSFKLTDZZBSZUJDDDEJEONBBMZRTFDXTRDZGPFDJNUBXKVSYEVQFYOSN",
+          "vote": 1,
+          "voteTick": 49939291
+        },
+        {
+          "computorId": "KXPVWYDHVCQGAGYEGROFWDWZEVFABJUBAACVCXYQYEURTDUOMSENTQHCNYVB",
+          "vote": 1,
+          "voteTick": 49939273
+        },
+        {
+          "computorId": "BDVLVGJVUVLCTDPXUBMNKVIBTEMADSPQDJWIWMYKNCFCZMNLXNJLPFGCGTWJ",
+          "vote": 1,
+          "voteTick": 49939252
+        },
+        {
+          "computorId": "GYKPYYARFHUERCVMQPMNIZKWBMZAFWOIWVCMLIMHCGXJRLIFXYQTQRGAELQC",
+          "vote": 1,
+          "voteTick": 49939244
+        },
+        {
+          "computorId": "VLULWLNWGYEIPERRNDKSILWUWNHBVXKBCMXUFLVVTCLQSCRQMWVMBEJCOBKF",
+          "vote": 1,
+          "voteTick": 49939244
+        },
+        {
+          "computorId": "COZFNHZCRMJBJBTVBIHBECQRDVRCILUKQPMMVHWZVBWSVEUBEQWIWISEFINI",
+          "vote": 1,
+          "voteTick": 49939212
+        },
+        {
+          "computorId": "SZJNDWHCYWHMOGKEIAJXCFTWHMFAKSYVJWMLLPMVPAVHRVKJRYVSVGPFCBHC",
+          "vote": 1,
+          "voteTick": 49939191
+        },
+        {
+          "computorId": "CPUTYXXZHUHGKHIPCMXTNAMXWXYAXPBDBWLOJMNYBCTRFRYZPPRFKPDBULJJ",
+          "vote": 1,
+          "voteTick": 49939182
+        },
+        {
+          "computorId": "ORXKLTDPWTKXKFZCMQAZJTKMMKIBBAPDZJWNCOHYGHEBBQYKYYDLJTVCWNKC",
+          "vote": 1,
+          "voteTick": 49939153
+        },
+        {
+          "computorId": "PCQRHZBMMMTCDAROMBXXLDSPAVJCGKUYMZILJCUHRDGSACXMUAGSEPVAXUCG",
+          "vote": 1,
+          "voteTick": 49939139
+        },
+        {
+          "computorId": "KVQHWKDVZJFZFGQBSEDETUKYWKEAVGNKXYBCIZGBGANDKVERAEKMCPVEJCMG",
+          "vote": 1,
+          "voteTick": 49939129
+        },
+        {
+          "computorId": "HGGVSBXZEGIGIFOTHFQJTWWNPOUCUJLAXJVYFXCBCEDIQDCQHQHVNVQFGYDN",
+          "vote": 1,
+          "voteTick": 49939118
+        },
+        {
+          "computorId": "OUPNMQYFFYEEGAPJWHKODGMKCQAASPDCMZUOZICPSDXWHANLSKHJROWGBDPG",
+          "vote": 1,
+          "voteTick": 49939118
+        },
+        {
+          "computorId": "VAVZCPHUDJEZXCQXYOOOBIKJQHWBVKZMLUDCPEFDEEZKGZJQMJYGSUMDRYQB",
+          "vote": 1,
+          "voteTick": 49939115
+        },
+        {
+          "computorId": "WJZUFSKTCCODKDLRMJFILHLSNUFAPIJAZUJVNUKHODOISOWUJOUEZUXCEREL",
+          "vote": 1,
+          "voteTick": 49939079
+        },
+        {
+          "computorId": "VLZGNIGNFODLJCQMPYFQPTATMUBAMRWDUOPFARMPJEGMYKPMSMZIRZNBLAFM",
+          "vote": 1,
+          "voteTick": 49939058
+        },
+        {
+          "computorId": "CGURFFBZVBAOMATSLJOEHORHMMHCBSFACWLVLPRCMDKXVVKRXNKXSHPDLFKM",
+          "vote": 1,
+          "voteTick": 49939037
+        },
+        {
+          "computorId": "TPLMMLVWETVGZAVFDXMVQKQPIVBBAXOWLRPGSYQZEGCYTYVRIVPBSOJFYUWM",
+          "vote": 1,
+          "voteTick": 49939006
+        },
+        {
+          "computorId": "SLBIBAFQMLZSICVVTZCBHASMZRIDPHGTDWKSZUBDCCBNOMEHEKKQMJJFEDJE",
+          "vote": 1,
+          "voteTick": 49939005
+        },
+        {
+          "computorId": "KHKUVGTEMFFJVBVKPTTSGRSBNBSDQRXRUDYASGRBOCEVLTVQSNLAMRMGBOXH",
+          "vote": 1,
+          "voteTick": 49938980
+        },
+        {
+          "computorId": "KOJIDIXRAJRTTAPSFTSZCYJBTNQDMUNIDLQYSUHFRAVEGRZXGFMCCUEAMWAM",
+          "vote": 1,
+          "voteTick": 49938958
+        },
+        {
+          "computorId": "FKXJHTXVVBYHOEKZKGTZPTXZFVQBIFTSLRLBPIBNXGSCQEITNPXTPADANYRG",
+          "vote": 1,
+          "voteTick": 49938943
+        },
+        {
+          "computorId": "BTFWRMJQOPVCLHZGCIQYHEJBBSVCWUIBOIUPHAZVKARSGYJCUMXMODKHETCF",
+          "vote": 1,
+          "voteTick": 49938921
+        },
+        {
+          "computorId": "LXAIZZLFLKRWUFHBDQNBFJXJEFJADMOELEWCLSJEVDLIQZHDPASIAKWELASL",
+          "vote": 1,
+          "voteTick": 49938905
+        },
+        {
+          "computorId": "KOWZSEMBCTHXFDPIWYMMCIUYWDEBMLCFVOYPVAJXNEGRSENZYMNFCNWEXCCC",
+          "vote": 1,
+          "voteTick": 49938891
+        },
+        {
+          "computorId": "FDDQQMCIAKKFLCGICHHGFVOMPFHDGFSGSJWZHCGBWEPBZLWEILIRCISGMAWF",
+          "vote": 0,
+          "voteTick": 49938886
+        },
+        {
+          "computorId": "VMCVPEPHDOXRACPFQCHWJYJWFPFAMMDYHGODJIPZZAVNCUPZISEWMNMBEMZM",
+          "vote": 1,
+          "voteTick": 49938883
+        },
+        {
+          "computorId": "IEREXJCDLSYWOFXEGIIQXUFBZBMBQUSHYUCSUBYKVAUBZDGXLPDYQVPBXPMG",
+          "vote": 1,
+          "voteTick": 49938872
+        },
+        {
+          "computorId": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+          "vote": 0,
+          "voteTick": 49938865
+        },
+        {
+          "computorId": "UFHFSDRQDJIQWEMIERVJBFYTJCYBHLTLPXKSGPYMRDCZYYLKXGGBYRFHUPIO",
+          "vote": 1,
+          "voteTick": 49938862
+        },
+        {
+          "computorId": "OUVRUMERNEEJOAPVTEBWQEJGWMSDSYBCORORWDNHSCNZAVGWGPTVVANFVPPO",
+          "vote": 1,
+          "voteTick": 49938856
+        },
+        {
+          "computorId": "QXYMUAXWTUHKGDWXYJOTFVACKHDAUSZQGMCTLLJXPDPYVREKCNWPYBOAKHQI",
+          "vote": 1,
+          "voteTick": 49938853
+        },
+        {
+          "computorId": "TLNCRDYMWPQYGHSYIPEVVTZOZDZBLKFIURFEPUMDQBOPVBOHRWQBROVGAAZB",
+          "vote": 1,
+          "voteTick": 49938852
+        },
+        {
+          "computorId": "BMTLTSXOFGZIEHGIQQEOGCCVAOBDOMVYETBOFRRUIADXMNOXVWZTCGYAPDJF",
+          "vote": 1,
+          "voteTick": 49938822
+        },
+        {
+          "computorId": "YIGGHALDEEXIUCSCCUGYNZFKWWXBGWIABGOLUIDOSCUWPLOXFTINQMPETKVO",
+          "vote": 1,
+          "voteTick": 49938822
+        },
+        {
+          "computorId": "FYNXKUWJNVKTLECUYDUMNCUFKCVBBUWWWDMAYPXTRESGFTCDFSXFARSDNBRM",
+          "vote": 1,
+          "voteTick": 49938798
+        },
+        {
+          "computorId": "SHBONGLGNKAFWAAZJUMKCMGEUWEADMIMTQPQBYYLCETMFBAFLJOEQMAFBHBK",
+          "vote": 1,
+          "voteTick": 49938794
+        },
+        {
+          "computorId": "CHBJDHKUTXDJNGVGRVHCFCDECDNDVWKBFOCEBLMKHDZBSCMULTMMSRAFCCIO",
+          "vote": 1,
+          "voteTick": 49938790
+        },
+        {
+          "computorId": "KWMQYWLEUCOFOGSFJNBFYGXXSDWAGEAMOMIBWWRPDACOMGQSSQGYYPMDMJQI",
+          "vote": 1,
+          "voteTick": 49938761
+        },
+        {
+          "computorId": "VUKEQPVNKWVEKBHXZHNASJPJHUACYMQHCLBOAUTRLBBFQEEZEIQSCCYDTJYJ",
+          "vote": 1,
+          "voteTick": 49938743
+        },
+        {
+          "computorId": "NZUFIWZJLOEDIDSSAVUSMHIZMKFAWJSGDUIZTDUABBTLDHWKXCAIOQIEROKE",
+          "vote": 1,
+          "voteTick": 49938734
+        },
+        {
+          "computorId": "RSCGGACGWZQGUEMQFLAENNNITMWBZWOLNZBHYKKEEFKIZSIPXRREACCDVAOD",
+          "vote": 1,
+          "voteTick": 49938718
+        },
+        {
+          "computorId": "EXAOPEELTRWDIBOBTUZQFRMHLFEAWGPPHGBJGCRMLGTQUYYRGLTZYEBGINEC",
+          "vote": 1,
+          "voteTick": 49938717
+        },
+        {
+          "computorId": "KGDUKQRDIWPQPESDDDQKQUTSTVTAJABPSXUUPRCHDANBEKJSCXPMSEIFYCJL",
+          "vote": 1,
+          "voteTick": 49938711
+        },
+        {
+          "computorId": "HDSURKZHMPQRPBHUOSPPIOFAFOAAGZURUPPQZVIYNDYUVSHLLPZGDTSFAKTB",
+          "vote": 1,
+          "voteTick": 49938706
+        },
+        {
+          "computorId": "KUDDGLGALHCONBIFKRCGVJSXVRMCFCVEPVEHRJZZPDDHDFKQQUROCWTDTJID",
+          "vote": 1,
+          "voteTick": 49938694
+        },
+        {
+          "computorId": "YNKYXRQDAXAUEDVZPNDTVTVHKKCDTMMKUABJHBLCBEJRTTCXIUNFDWZGLHQN",
+          "vote": 1,
+          "voteTick": 49938687
+        },
+        {
+          "computorId": "DHXIVGZJNRGDJADGTPWPCVXIKQMCZXYLDJGMROVJFHKJAWSOWDKYZAICJVGE",
+          "vote": 1,
+          "voteTick": 49938682
+        },
+        {
+          "computorId": "ZDTOOKKPTJIFUCTTCHBOHSKVSBRCPZDKDSCVTXPHRESOVAHETHZMXMVBRMSJ",
+          "vote": 1,
+          "voteTick": 49938681
+        },
+        {
+          "computorId": "NMJMCXMNBTMKQGVFKSSWIPPDNSBCYYPZYVJMKVGUKHPNQPZFDKASEUWDDNPL",
+          "vote": 1,
+          "voteTick": 49938675
+        },
+        {
+          "computorId": "AISTJIXEBSIUGGWJIAMZKJJOUITAABMCXWHCELHQGCRCSMBRNEOGOIZBADTJ",
+          "vote": 1,
+          "voteTick": 49938667
+        },
+        {
+          "computorId": "DHRZAZPTTELYLGJXMVJZHGREPBGDHQTRQNSHOEPAMFKNRJEBICJKXZEDHGVI",
+          "vote": 1,
+          "voteTick": 49938630
+        },
+        {
+          "computorId": "BVPINRTEUTGXOGPUUMTHEQUYUSUCWKCHPUNOVNZNTAEULAONYQTLSWBEIJOD",
+          "vote": 1,
+          "voteTick": 49938623
+        },
+        {
+          "computorId": "AEVOVRWKYBPVMFVUVXWRXMGGRLLAZHUFYQIXUIYIHDHDMCEBOCVYFVLCATZL",
+          "vote": 1,
+          "voteTick": 49938617
+        },
+        {
+          "computorId": "FLIEMINZHRVZYDKGMYMWVNDOSSKAPUAIEFTVGANRYFXBZUQIWWBFMMJAENGB",
+          "vote": 1,
+          "voteTick": 49938608
+        },
+        {
+          "computorId": "ODHNPWSCRAUFAADXVTDGLYRAGHFBEIQAZHAKIEXLGDKMBQDASJOGYUUGAEOA",
+          "vote": 1,
+          "voteTick": 49938597
+        },
+        {
+          "computorId": "XZXIGAYBLQKOUFCUFNPGUZGRFIODGUROHQXCASOCYGRIRPCOFQYBQZXFASUD",
+          "vote": 1,
+          "voteTick": 49938575
+        },
+        {
+          "computorId": "ALLBGDWKPVITGDXPLUFNBTJCCQRCVWTVHYQRZZOJPFFFEIPDTPQINBYBHBXI",
+          "vote": 1,
+          "voteTick": 49938572
+        },
+        {
+          "computorId": "TBQZCMRRYPUUODFILWSNFIXSEIICFCKHBNNGVVVFTFPUKQIKZXXWVVECTFLE",
+          "vote": 1,
+          "voteTick": 49938569
+        },
+        {
+          "computorId": "ULIWKFSBCBIHHGXRZEVXTEYULVIBYFLKLECLZFCZLCBWGBOTEHFZEVNGSHFA",
+          "vote": 1,
+          "voteTick": 49938565
+        },
+        {
+          "computorId": "YFAPNWTNUMGEHEEHVRQNCKRGUKUANQAYHIYLQFHCZBVQOKISWVPWQGDEFWTK",
+          "vote": 1,
+          "voteTick": 49938565
+        },
+        {
+          "computorId": "DOIAOCAQZLNNAHNRAJSJCBOMEPXATUYULBYCCNIZYGYJCDYNXVLEYIEHKUBG",
+          "vote": 1,
+          "voteTick": 49938564
+        },
+        {
+          "computorId": "NNGIRJRVKZMAACWOYTQRURVKQUNCNWJJOBRAOUPIXCKISBTVZJKQOKCHJJDN",
+          "vote": 1,
+          "voteTick": 49938563
+        },
+        {
+          "computorId": "CAOUGOVHOAEDLCDVRGWRXLZSUXMAPXWCQSEXPCPLWDIVHSDDVBIUVKODLTAJ",
+          "vote": 1,
+          "voteTick": 49938558
+        },
+        {
+          "computorId": "CUSLXCNZSGXVMFLTDLVVPMIBQHMAISZOSGHKXUCAJBGQEFCYGJZTPGQFKIJO",
+          "vote": 1,
+          "voteTick": 49938558
+        },
+        {
+          "computorId": "DJDMZWJHBHUIGEGLFRLFMDTTAYEBGQESXYPFWZZEIHUQPCGBVQFSRCKFRZLJ",
+          "vote": 1,
+          "voteTick": 49938542
+        },
+        {
+          "computorId": "RGZILMQMTYBTIECBJUQBONPVJEODKOESMAUHQCBCXCPQARQIUCXACWBCRNAN",
+          "vote": 1,
+          "voteTick": 49938539
+        },
+        {
+          "computorId": "THPZBYUXYKGVLCXKKUPFXQUDMUPDZHSTJASXTTIEKDVNAUFEUAURZVFHHOQK",
+          "vote": 1,
+          "voteTick": 49938539
+        },
+        {
+          "computorId": "IBFOXFJILREFAFFLOWYNBYMSDZCBMNWGHFMPLRTLODPSXIAVMKBWNMJAXPWJ",
+          "vote": 1,
+          "voteTick": 49938536
+        },
+        {
+          "computorId": "SEBJSWCEOMFVBHQVANVBANIJWWZCBQYQZZSMTVKTMBVOMABAAHPMKDDBRNCC",
+          "vote": 1,
+          "voteTick": 49938534
+        },
+        {
+          "computorId": "OACOYJIUCLKILAEHRVREPBXHNOXADQFDDNNMARDVPDLSUQVXXEDFWWVAKSKA",
+          "vote": 1,
+          "voteTick": 49938531
+        },
+        {
+          "computorId": "ZOPQGIYTTAQAVFFEFTFHSYREBPSBPIZMFYOTBOOAODNHQRQOPOWCYUBASCEG",
+          "vote": 1,
+          "voteTick": 49938530
+        },
+        {
+          "computorId": "IZTDUNFFNVRVKFWGRQJNTNUZJIPDLLXFGJRVLMIZFCPBLVBTKFUZCTXFRURF",
+          "vote": 1,
+          "voteTick": 49938525
+        },
+        {
+          "computorId": "SCAUFYMVFWCLIBTKRDBFDCVLUPMCOLJZNTLXVRPMEAXFKOGLGTIDRPFHOJWA",
+          "vote": 0,
+          "voteTick": 49938521
+        },
+        {
+          "computorId": "GDHINGCTQZZJVFBRPWYBSOIUTNMCOINEUYXVQZRGNDQNHGXCAZMYTRDCNSUA",
+          "vote": 1,
+          "voteTick": 49938519
+        },
+        {
+          "computorId": "TYIDIMCRMSKFCEHHNOPRTRHWTDGDGLBKRJPNEDSFJGGYLIQVJOTYFNIGUQWH",
+          "vote": 1,
+          "voteTick": 49938516
+        },
+        {
+          "computorId": "DUIVGIEOXKAENFEPCGOIYCJORXDACAPKRYGGMOSGQAVUIXNKXQVXHJCAXBFE",
+          "vote": 1,
+          "voteTick": 49938514
+        },
+        {
+          "computorId": "APZKGVENRLBKYBOMPKGFTPTKBHMBOCFPGMIRXNANHGNGCMAYOTWVPQCGDOZB",
+          "vote": 1,
+          "voteTick": 49938506
+        },
+        {
+          "computorId": "FZNCEGPOMJPRPAESSPDOWGJFIFWCZDDKXTINCRJDIDUXIESPCDPDASWDVRPC",
+          "vote": 1,
+          "voteTick": 49938503
+        },
+        {
+          "computorId": "UNTGFDGPZSUPVAUITIMGVHJMYWVATOKRFTOPRQEYNGTVCSMZWVMJMAODLFYK",
+          "vote": 1,
+          "voteTick": 49938502
+        },
+        {
+          "computorId": "IKUVACMVCOLQXBAEIHMLSLWNEUIBDDLXOXRIGUBUDEPEMYJTQMONXKHCENEF",
+          "vote": 1,
+          "voteTick": 49938475
+        },
+        {
+          "computorId": "NAZBSHBXUXEUDCNCMNGOUYTAYJLCGEORQYGFFCWTFBFYXEYMLYLLFSRDTXZK",
+          "vote": 1,
+          "voteTick": 49938472
+        },
+        {
+          "computorId": "OQMGFIQVUMSBKGBCZFNPMGMSGBJCXKXRKSURVKUCXEAEHOXQFJEOSJSDALNK",
+          "vote": 0,
+          "voteTick": 49938467
+        },
+        {
+          "computorId": "ESNPKBONFWSUYAXRIPOESCQTXYRDVYMCKTHSGZWAKDSOYBKMKYZEAUZAHYAI",
+          "vote": 1,
+          "voteTick": 49938463
+        },
+        {
+          "computorId": "ZOGHBBDLXPZOBDCZZZJSXNZIZOYAUHOULPJYVMILYBRHHNFAHWKORVQEDLLF",
+          "vote": 1,
+          "voteTick": 49938462
+        },
+        {
+          "computorId": "WQPCSJDUUFCEZENUCGQKEFHONNCCUKZPHXVXWUNNEEFCYACOXCTBAZTGRTGI",
+          "vote": 1,
+          "voteTick": 49938460
+        },
+        {
+          "computorId": "TTTOZXVAOUEGVBBNSOGUSUDWYZHBOXKDPFARSKVJBGQNSWLBLFAZTNMDECXM",
+          "vote": 1,
+          "voteTick": 49938455
+        },
+        {
+          "computorId": "ROXAYIPSPXZEHBYSZVIGKMJKVMBDVAIEGEEXCVMFABMECCFAEQDJDIEASYVK",
+          "vote": 0,
+          "voteTick": 49938453
+        },
+        {
+          "computorId": "GHGAJAUCLTWRZAFUASRFZKMVJYXADFZDIBDAVMZMXFZAOWJVZJVNWUZDJJQN",
+          "vote": 1,
+          "voteTick": 49938452
+        },
+        {
+          "computorId": "EZBSJOPARIGKPGPTTDAZGBRLNONBYHVRGGKURCUVEDXCCVJGCGEQUJHDKMCI",
+          "vote": 0,
+          "voteTick": 49938445
+        }
+      ],
+      "computorIndex": 0,
+      "contractIndex": 6,
+      "contractName": "General Quorum Proposal",
+      "epoch": 209,
+      "hasVotes": true,
+      "isSubscription": false,
+      "latestVoteTick": 49973329,
+      "mostVotes": 569,
+      "numberOfOptions": 2,
+      "options": [
+        {
+          "index": 0,
+          "label": "No",
+          "numberOfVotes": 6
+        },
+        {
+          "index": 1,
+          "label": "Yes",
+          "numberOfVotes": 569
+        }
+      ],
+      "proposalId": "1afeea11-30af-44cf-bf90-f92a4f96bd41",
+      "proposalIndex": 30,
+      "proposalTick": 49616244,
+      "proposalType": "GeneralOptions",
+      "proposalTypeNumber": 0,
+      "proposerIdentity": "IAFLYPMTFNIFXBMBZYPXNDKCTVGCLWTQAXIPSWEWJDBLXFGLOGAHFIJEQSGM",
+      "published": "2026-04-17T06:05:50.777",
+      "publishedTick": 49616244,
+      "reportCreated": "2026-04-22T12:28:36.6648509Z",
+      "resultSummary": {
+        "0": [
+          {
+            "computorId": "FDDQQMCIAKKFLCGICHHGFVOMPFHDGFSGSJWZHCGBWEPBZLWEILIRCISGMAWF",
+            "vote": 0,
+            "voteTick": 49938886
+          },
+          {
+            "computorId": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+            "vote": 0,
+            "voteTick": 49938865
+          },
+          {
+            "computorId": "SCAUFYMVFWCLIBTKRDBFDCVLUPMCOLJZNTLXVRPMEAXFKOGLGTIDRPFHOJWA",
+            "vote": 0,
+            "voteTick": 49938521
+          },
+          {
+            "computorId": "OQMGFIQVUMSBKGBCZFNPMGMSGBJCXKXRKSURVKUCXEAEHOXQFJEOSJSDALNK",
+            "vote": 0,
+            "voteTick": 49938467
+          },
+          {
+            "computorId": "ROXAYIPSPXZEHBYSZVIGKMJKVMBDVAIEGEEXCVMFABMECCFAEQDJDIEASYVK",
+            "vote": 0,
+            "voteTick": 49938453
+          },
+          {
+            "computorId": "EZBSJOPARIGKPGPTTDAZGBRLNONBYHVRGGKURCUVEDXCCVJGCGEQUJHDKMCI",
+            "vote": 0,
+            "voteTick": 49938445
+          }
+        ],
+        "1": [
+          {
+            "computorId": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+            "vote": 1,
+            "voteTick": 49973329
+          },
+          {
+            "computorId": "KGLUEQQRUOVFJCVIVNUXHPOXEOZBIWJPNHOQLCGOCANUYMXXCUBCGOUFNDXM",
+            "vote": 1,
+            "voteTick": 49973329
+          },
+          {
+            "computorId": "MZHFWDSJLHMYYAARQJXMXIQRNSLCFIJVWQSOMDOUWCMNAATOOEZPMDWEAHYE",
+            "vote": 1,
+            "voteTick": 49973329
+          },
+          {
+            "computorId": "RNDMOPQAOZQIGBYAVOFLBTEJFINCAUNTQFHJKVZWHGIBJBWHAQZGWMKHCXIC",
+            "vote": 1,
+            "voteTick": 49973329
+          },
+          {
+            "computorId": "TKJLYIPVCYBRECBJPKKIYHJYLHVBQLFPELHFBTMXXDSGLNWQAVHSRMUBJNAN",
+            "vote": 1,
+            "voteTick": 49973329
+          },
+          {
+            "computorId": "IHJFVZSRAMSTWBWDQQGNXVWUSJCCVIUGNOEIAZTNQCDLPMUPTUPWFRSFYNCD",
+            "vote": 1,
+            "voteTick": 49973326
+          },
+          {
+            "computorId": "RGGNEEZYXQYTYFNFTLQYZKNNFMSCTBRSNZJIQGCXKAVVELCXQQQRMAKDDGOA",
+            "vote": 1,
+            "voteTick": 49973326
+          },
+          {
+            "computorId": "TTVGKPIMQTGWDFRNQPAZWJDDHGADFXLPASJGQYIPTDVVVBYMBWGXLHNFRVRD",
+            "vote": 1,
+            "voteTick": 49973326
+          },
+          {
+            "computorId": "HDPWVFRQBPZREDVBVHYJLMLDACFDLPCLKGJOMFETCGEHMPVNTXVOVVHCNATJ",
+            "vote": 1,
+            "voteTick": 49973323
+          },
+          {
+            "computorId": "YBLGFTOWVBRIDHYBFMKWUCNVPVIBCQSPOEFUJBFGTAVNZOXINRNKOEWDMTAG",
+            "vote": 1,
+            "voteTick": 49973323
+          },
+          {
+            "computorId": "QBQQFVVJNMVMXCOXCILDOCWRUINBBAEGLWGKOQDYCGLNWURURHEJULJCFCAK",
+            "vote": 1,
+            "voteTick": 49973314
+          },
+          {
+            "computorId": "GUIIQZSRHVCEZACFQVAHBJKYPNJBHQYOOYOWUIOJSCPDRXCCPRSIAUJHKABK",
+            "vote": 1,
+            "voteTick": 49969512
+          },
+          {
+            "computorId": "OSFFPROLXDDMVCYRQOISSNAUKRCBDPKNBRNOTMRWAHPZDXFODWWKNXEANIXJ",
+            "vote": 1,
+            "voteTick": 49969511
+          },
+          {
+            "computorId": "LHDRZRNITLNVCEVCHDVASGFWPWUCQBQURBIXLDWIMAZQILTNAFGVDEXDKIYG",
+            "vote": 1,
+            "voteTick": 49969508
+          },
+          {
+            "computorId": "DYMALGOOTMSBOBCXDRAASSKKYEKABNKIEJCKMWVUKEYTOLPJVEOJJESCIXDF",
+            "vote": 1,
+            "voteTick": 49969506
+          },
+          {
+            "computorId": "CEFCATHBHJWNLCCOEPPARMZROEFBXUQWSQTLDUXIBBOCWKQGNLTZDECBVWYF",
+            "vote": 1,
+            "voteTick": 49966861
+          },
+          {
+            "computorId": "MKHTOJBMFUOVCFRLTRTJUDKJPMCBTPERIVNUDYDWEARXNKYKZJNTFPWBVZOK",
+            "vote": 1,
+            "voteTick": 49966861
+          },
+          {
+            "computorId": "OZSSSBXYWDQVBEEQFRATNSIJGEQDIXURGMGIPPDUSGDEWIXBANVOTWPBCPXD",
+            "vote": 1,
+            "voteTick": 49966861
+          },
+          {
+            "computorId": "ZBJUOHQTLGGGGCUCWTVAAJNNONDDCPNDQKANVUULIEBAIWSRDKPDLQTCHQVC",
+            "vote": 1,
+            "voteTick": 49966861
+          },
+          {
+            "computorId": "BPHYQKCKUIWYQBQENTYNWZODLAIALNVOSNSJRGZQQCECHTAGPQFZQNICYTZL",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "BYOGNQRQRRBSPBUSDGJNGGNUXHEBCDLLPQYEIALTMCINGBGCSOJQCFVBVARN",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "EGOCTGJSNPNEJFSSCTOKAEBKMEEDGLXXVFFHUWHBFEHZOGLMEMAUQZOAVKAN",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "GBWYREJYXDSJIGHDTWKETZJOBRCCUPJRVHILKAJRWCNVTQPFQDQVTUXEJAJB",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "GXYCYUVHXFVLTBXOZQRLSFNFWHOBFXKLBWYFYJSSEAARIETYOSWGMGIGWCYN",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "IRDDREYOGQZBREETIIUFOCVAQCUBLRMCACQPNFBIBBAAOFDDPUDSCDLEJUII",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "JUURDQVIXYAOQAJCBUTTHIYTOPDAODJDPXXKMLRKMBABQUGOZGOWDVFECCYE",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "MZQESFGIIYSFVBLGGZPTOPEENKQAFBLSBKTHRRYGFDZCQUMBNFRLUSZCTEDC",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "QPSCKBAVMLRGJADYEMKZJYAHOSBCKUNLVFKIYVMDLAOOHQYPCLLLEOYCKGBH",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "RUAYHTXIUPZMUDXLCIFIGWNBIZUAFNXHYINERRCEJGKKSYZUQOGHEXOBUFUH",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "SBJGLZDZLZTWYDDJSNDGKKTPBTGDEZEPLCRGTOECKCJVNZUSVEUEUAFFGGKD",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "SIKTFXJDOVODFBCBGPXZKEAMSYWBMUMKQADKGWURBAWRMKPWJLQGNIBFOTIC",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "THYLJXISGWDDJFVLIFMZCNNAGDYCVIPTKUIKHNADLGHIVQHIIKFCLHNGCQQG",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "UOSRJVYNRDJDCBLUOYBJLIIQGSUASUCFQDAXGLVFEASSCXCQMVKPGZKHJPGI",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "URJSMBCMHNAVPFRVXYYQUWZDTCNBXIJNBGIEYCIFZFIQVKKEIRAOVCPBQZHF",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "VPSSENRCNXBEEFHHTCYXGYBFXZNBPXIKPPXHWIQLICYRJFQYMSDVEHCBTEFJ",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "XLOJNMECPVKGUEARSMIYMDUTCKIDIUGDUXGATZJIAEGGTAUQICCEVNKHJFQJ",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "XODAPDYGIDIQDHHRWGXRTSFLHXPAZLYVQPHEQZJEWELLTHNBMMIEPYTFLOVD",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "ZAWPNUVOIHLGLAMJZAUBWCHCHRXAKXTSAZWETXZHCGVNITPYWXJIJOUARHSC",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "ZHNQDAWNJONEHFEQFYSJSZTJRSLDWKZFOJUIOBDHDHIBPZRRSJSMLOZEJLSB",
+            "vote": 1,
+            "voteTick": 49966860
+          },
+          {
+            "computorId": "LNNNRNUUUBWGRGCNNHJNHUYCEKGDQLSASNQINEUGAAJKECVXMBWMLSREAHRH",
+            "vote": 1,
+            "voteTick": 49966859
+          },
+          {
+            "computorId": "NBYVEFCCWHVHQDLTBUBGRCLYJJCBDVIDFXSSNSBZMARDLDSFMLKAIUJBPCCM",
+            "vote": 1,
+            "voteTick": 49966859
+          },
+          {
+            "computorId": "TFLPWGUMPQJOVEJPOWOVFVBXDVCAIJMQTGCGUMFFKCKZCMMYKPQBMPKHDXFE",
+            "vote": 1,
+            "voteTick": 49966859
+          },
+          {
+            "computorId": "TUPYXKVHWUZXECJVAJCINHMEULDCHENCUZAVIKMNSBJHZLECBCLSCWOFACWG",
+            "vote": 1,
+            "voteTick": 49966859
+          },
+          {
+            "computorId": "XFMIZSKTMMOYEGUJKLTZTYAMKJMCZYCYCKAAMEHGUESYZEEOGQBHJYTFMPDL",
+            "vote": 1,
+            "voteTick": 49966859
+          },
+          {
+            "computorId": "ASPRWLHCHRFSXCCCGVSPPHONDYLDWAKVPPKJBXPFCCASJANWYAXGULYELFUM",
+            "vote": 1,
+            "voteTick": 49966858
+          },
+          {
+            "computorId": "FPZMMGEIAPWLDGHNVJZTYOCFPCDAJUQVMYQJKQUJZELOFEYICTPOXXTANYKC",
+            "vote": 1,
+            "voteTick": 49966858
+          },
+          {
+            "computorId": "KGCSZWAIQTNVXFQCCVWTPPKWFRGCGWZGEJFYHCYAMFJPTJFLBBSOUBWGVYHB",
+            "vote": 1,
+            "voteTick": 49966858
+          },
+          {
+            "computorId": "OBJANZWVGXBBWAICXLMZWCGBCTKCVSYQNWTMRTVIXCNQNQRKDVSPMDMDHPKN",
+            "vote": 1,
+            "voteTick": 49966858
+          },
+          {
+            "computorId": "YORPDKCMEYHTRFIHVDSOKIAYVVCAJAGMDVITZPGROAIYIQDWDNHSJGSEZWEG",
+            "vote": 1,
+            "voteTick": 49966858
+          },
+          {
+            "computorId": "KBFYQRULBOHFJGJNYRPHIOFFPIHDMKGHCUDVLZTRCCZTBFMMWSYZLWDFZTEM",
+            "vote": 1,
+            "voteTick": 49963677
+          },
+          {
+            "computorId": "BFQABPRMSRELIAOBTCKOVRGRYKCDUKNYTXAYSUBEIEFYUNZKMSSPEFJDHGMJ",
+            "vote": 1,
+            "voteTick": 49963676
+          },
+          {
+            "computorId": "JOJHDQDCRFRBJAOMIWZUXRRQKINDMNHIHKUITGMSAARNHBYYOWANPHMBIHWM",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "KEQHRFIQJPIMZBHYVQEEVLHNDMQCCXKMMOVHECVIUETUMNVZBTCAZIKFOJZI",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "NNKADDKOHPGPVCRJMNNJFIPYCTGASKVUMTYNYMIAXGFTIHJBLMLWZNMGWBPO",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "QNYGQYGRZZXHICDXBPLSQDWGQJGCJQFTNHWRYUZHRFHBJESLBGUFJPWBDFUM",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "QROZAGQLQORZQGZDTOYENRNOACUBKZSXLJVKJTZUFDTOCPRFLXASSDECRGRA",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "QXCQOSGGMGOFRAOVRPIZYKDXIPGBLRCGIMBOSXEHYFOYIAZKJTCBVPWCQRGB",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "UQSRAPBGJXPSEHYQDFFRAVMAGJOCGFEFITGHFWPAHGRFATUCXQPOUBTCIXEM",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "VRHPHZVQFMDVODLVLOREOJQFCXJDCIBTMDGOZGLQQFOIXWGDAUMCCTKCOBPK",
+            "vote": 1,
+            "voteTick": 49963675
+          },
+          {
+            "computorId": "FUFBZCWSIBNCKDCVPCHQADJRREEBRRLUSHUSYWDGSCFRRACAREYOUHEAJZAF",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "HWLUKKMHWIZGXAXQXOQXJVISONJBWBOARGUOKSARHDVQIIEAMBVMLSJAKZHI",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "IAFLYPMTFNIFXBMBZYPXNDKCTVGCLWTQAXIPSWEWJDBLXFGLOGAHFIJEQSGM",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "OUWFHLGJYUUVLDBMLEWMRLXYJLUAPRMKFLKBRDOAHEIXFNFEKLGCACZBXMGL",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "TLHPBFFLUXOYHBOZJHDKBIEKYFFBDENZOROREKSLWEGWTDWMUBBSFEVBPSRO",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "UOAYPFEGRYJWYCALTCESLEEOHLDAGRZSHEPVKANFXBVOOBRJLJRQCONCCNLL",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "VMFEKUQFTLVHHBTKOHAGABGLPSICKDHGVMNIAIETHBXVLHGFHEMTSRLBOKCN",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "XRJPGXFPZXJXJBSDGSMUYLNDKIBCDGKRKGDHRRLPGHBKKBSFXCIZHELCKQPB",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "XVEOTRCTCCZQUFVXNABJDGIMOBDBJSUIVDUFGZSSFFSZCQFUPNYDBWMAEFNO",
+            "vote": 1,
+            "voteTick": 49963674
+          },
+          {
+            "computorId": "NPATKDMJJZKJQAKQEKEYXADIAGLCUWVIKNRDQOHDLFRRSKZUKEZTZBQFRTRG",
+            "vote": 1,
+            "voteTick": 49963673
+          },
+          {
+            "computorId": "UFSNYZYVMPOXMGELSOYGCRWOYNXCMBBLZYWDCBKPCGHHJRIYXJTZMXBEHPXM",
+            "vote": 1,
+            "voteTick": 49963673
+          },
+          {
+            "computorId": "VGCSLFCCYPTRAEEMKILWFZDZALECYNLPIGHVZAHJAARUVGWLKKLZUMOCZIAC",
+            "vote": 1,
+            "voteTick": 49963673
+          },
+          {
+            "computorId": "EGWOIAGYYJYMTGYUJHKOARVJKAXCNSAMXOFZVZOCKFPOLNTTWJYACHRDBIKC",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "GEOQOIAYTKHRDAVQXSJRSRURFTQCNABMHMZJGARMDHKATWWVWDYSWFSAXGPH",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "KURHBVWEZVUSZDXRVCJFLNALTZHAJMKBKIDXVRMXYFEWAOBLJWFVZAQCSGJO",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "MSXAGWTCMFIMZDSWIATMBRAHLKMAHXNPAAJXXNWEVEVZOBAMRMBPYRYFCJCI",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "VLCXCPITYJHDEHSFNVHUZSREIWMCSQPKBVTPYBCBDFKZNFFCIPUSLLMCVOKB",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "WPHDZCLAEIDWQBBOIVYFFXKAWLHCWSSAACWGBMBNZBZFWYLUVSWEIIPCKIVC",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "XAZOCBPLHXSGDDMZWBMJFVKFJBODTSAHFVTWYXOGEEUMUGCESSVNTIGEJLLJ",
+            "vote": 1,
+            "voteTick": 49963672
+          },
+          {
+            "computorId": "BERMVLQIWUIONFZICUHVNOXVHYRAFSGQLRMXWYOKRGFCFWZRXXLAFTOAGDJM",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "DYMMHIZOCSHENDBBPTGLYSFZTGXBBICCCCHAMHBKLCGNEDEKDWTAWSQDIDAD",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "GLFKYHUZRFDRQDKCDYLACDARZEQAGAPPIKPFAFJNXFTIVIRPMOBPXOPBNOGN",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "ILWERPLVERIDTFWFKBSCTDVDHBPAVCIYWLLDYRUMYDXEOCQWQEHXQEWEOVZF",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "JKUJYGHTYUVPUBOUOTAZZLVEFIRBUMEBVIFGUEIPQEMOAQGNOSIWGKGFNYFK",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "MHOSCPLHXNAAIEXDCOLPAAZNKZTBDRYXAKIJGJCMMGOVIXGEKHASDVUBMKZJ",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "NEZJDSTEJXQYPALPRWPMGBLXSUZAVEFWJQIQXKTBWBUGBFVQTEYOQAUBEYSI",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "RWDRMFKSANQXKDBIMXDWPJCRICGBTCKZEGQEWOTOJBAXLIYVQVSEKPQACLUF",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "UGRQMIBSJHFKUGSMRHBXJVWCKOMACBUSBAOZXRQQOFTOIKTYPYHGDCYEGDQN",
+            "vote": 1,
+            "voteTick": 49963671
+          },
+          {
+            "computorId": "DKNDYDOLUOIXYDKVTKHXHSAAUBXCPLAYTELTUMWTWDRUQNDBWVRBCCPBXRMH",
+            "vote": 1,
+            "voteTick": 49963670
+          },
+          {
+            "computorId": "IWRPCZORKWVSUBPDHFANNJRALBEBKZGKPVOOBZCGVFFKAGGUPFUSTEXBEJOA",
+            "vote": 1,
+            "voteTick": 49963670
+          },
+          {
+            "computorId": "KDNTRTMXGFYTHCUGKJCYRVTLXLQCXHJXEYRFEMFZIFNAEIDBMGEYZZKAGGMK",
+            "vote": 1,
+            "voteTick": 49963670
+          },
+          {
+            "computorId": "WOVZGGNULDAGHBPJYBYUQQHVYTGDHAOYZVHIJDLDUEURITYZJBJMFCFFBARC",
+            "vote": 1,
+            "voteTick": 49963670
+          },
+          {
+            "computorId": "BKWXRJBXMHFACHCFZZVPXUZNREDCVEMAGIRQCUDUYDROSDOBETPNXBLHDXEG",
+            "vote": 1,
+            "voteTick": 49959742
+          },
+          {
+            "computorId": "CTOGYCYSMUPGWGKDAIJOAITXKBGBLGYBILXJNLYVNEJBXVHBRXOMKGHBLJCC",
+            "vote": 1,
+            "voteTick": 49959742
+          },
+          {
+            "computorId": "JIAAEVPYCFRHSAUDTNYBQPSNYARALAVOJYSEHSKNCFRQMEXENJMQGWCDMNUJ",
+            "vote": 1,
+            "voteTick": 49959742
+          },
+          {
+            "computorId": "QALLCDVSEFWGAGEZSZKZXZHWTLGDOHBXJDUGRVGQBFWGZSFRDWHYWXBCHKTG",
+            "vote": 1,
+            "voteTick": 49959742
+          },
+          {
+            "computorId": "ISZWAIFATLTNCATENOFNRHFCSFAAEUSUBKACDOCSYETQHJMVMOOHNEBBSRDA",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "UIEHXBOITJHZHGWEONNLSWFUURKDIPHHJOUVBIBGZEUNTBZYDCCAYXIEJOZI",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "VKSBAXEFCYKGNGDKUZYGYCQQZGOBZBORNXGOJOAMAABQQEATINDRKMBBWUWE",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "VXZWQEBRYFZXYCMGVMDCEPQEKUPASZIWGLHGZKVSMBSGWFYAHHNMSBVAWAFH",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "WAPYMAFDNBOYCAIAKNACQIYBGUMAPALOPIRADMTELHEXZYETCUXUZCJFBFCD",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "XWRBVVMOKWVKDAFEOXVAMSTYZPKBDYGAJBSCVLYXFHXWDSFJQUSDKPQDIGIL",
+            "vote": 1,
+            "voteTick": 49959741
+          },
+          {
+            "computorId": "BFWLXCRKXCIERGELXUPNAGEXWTPCRHENARJAVHVIDAGUFOZYNUJWGTPFLILB",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "CYLEJZOSJIMUHCONVNHHRFGEQVODNPHILLGNJGWDTALASUIWVXIASRRBYRPG",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "DHEHIUXAQBYVKFHDJIMFEONJTIAANOIPOSGFWPGEYFLQFJEZCIBNRQGGQTMC",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "FEBBLDOTHZLXJHGHCETTJPVXGLDAXEPNHBVHSQQMCFAFNIIXMXHFZMXCTAYJ",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "FJEFJGSHEBEWKDDITVKBFSKNHNJBALMOYHOUAESLKDFAPWRHFIUYAOKDEQLH",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "NTNBRUONVFAJAHEYXOCHBIACLSIAFOLWARIKJIQJYGGQVCEXDZHKGOTBTVYF",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "QOOFBWCGSCAEQFTYXBPHUXTRHCXBVDZCHJHPHSWZKAVEWSKQRANUWEXAIILM",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "VWQRQWFURNONBANOAORQXLHWHCJAIBYLUVCKCNDVAGAJFNFAGLTSEKYBENWL",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "XBSMQLJXVMUVZBPWBLBBDHLCZHGBEKBQMDNEJNRXWFETQEPUHKKJFTCEWTBG",
+            "vote": 1,
+            "voteTick": 49959740
+          },
+          {
+            "computorId": "AKHACHPUSLYRRCQAEIFRNBEXTRGBPHQVYQFUGRWIMBUDSSGTRRXIIKYCPLMN",
+            "vote": 1,
+            "voteTick": 49959739
+          },
+          {
+            "computorId": "LCENLZOVOJQPODVGNKQUWNJNLSIATJJBOHOKATICBDALYIJEJVQWRORFYCTE",
+            "vote": 1,
+            "voteTick": 49959739
+          },
+          {
+            "computorId": "MJTDVBLKEUXBFFSMCUQGHGBOQFNBEZSUNAFNPGFTHBXPRCYMQNVIALKAQDQB",
+            "vote": 1,
+            "voteTick": 49959739
+          },
+          {
+            "computorId": "QFJBKXUYCBKIUFFIWDXSYLAGSPTBSRUNGFWISKNZJAJDDKSAPLIOGCLCOIYA",
+            "vote": 1,
+            "voteTick": 49959739
+          },
+          {
+            "computorId": "WOQUHIZKKUCTDCHHCALNTPJPMJVCJIZEGUJUKFCHDCDFMXPBYOIYPFDFVWWE",
+            "vote": 1,
+            "voteTick": 49959739
+          },
+          {
+            "computorId": "ARJRXNLVRHCEMGBZUSCAAHKBMKDAVXGMWROLXXARLDGDMBHYRUAVVIOFTNLB",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "CSZLNJJTPMHGGGERHDQYNEQNJACDHXXXEPCILTBEXDGLCTBYPDCIABXGKXAM",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "HWZYDTEAZVGNIAWDEIULESFWKLFCLDWGSBJVGLXLVCLXVZNKBLDCMZVBAXXN",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "KSOHJQTNNFLLXBXVWQAXZKZVGVQDJCMCRUQIIBSVCFZLGJGNOBQZNAWCNLON",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "VSVAGIYGXHDDYDQDRVMOXFKKOAFDRYFSGNMPQWBOQFBSKICDLSVDLQJAVXII",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "VYJUZPTNMEQDDHMPQDSJVSYEBSOAUXUKVOTTQTAFJDDPAQPGJYDKCZTDLQOL",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "WHUEUZRHKKUYPFCFFULJJFTYEUBCCDADDGAXHDBHQCRUVHRXFBHOMSTBZYMJ",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "YAHJYOWZCKWHEGYUSWKJQAPZXTLDFHSDZMFZNQUJFDNSULZMONUYSTRASCZK",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "YFIHTIIQUTPSECXGYQNLFBMGXLAARTUDLJYPCLGLFBCSRCIRMVJVDVEDBYNC",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "YZQLDDVFYEMJPCQHKPONSTJWJMSAAWRBWCTIBATDAHDGDZHMBQDBGKADNKGG",
+            "vote": 1,
+            "voteTick": 49959738
+          },
+          {
+            "computorId": "HAEBNYTBMGOPLAMWYOAMMYJBXHKCUBPBWRHXMZTRLAWEBNIGCXLPINJDYEJK",
+            "vote": 1,
+            "voteTick": 49959737
+          },
+          {
+            "computorId": "RYVGSJRJDWSYYFBIZOPGILRKWSSCFZJUHCGNGCSRJDSKATOHACSLWUEHVPRK",
+            "vote": 1,
+            "voteTick": 49959737
+          },
+          {
+            "computorId": "VSMDDZMIYDYGXADOQHURCVUMBWLAVVCYLTBDKDEASCUUXIOMDYFMWOLDJUYN",
+            "vote": 1,
+            "voteTick": 49959737
+          },
+          {
+            "computorId": "VVLTPLHLYRIIUFQQOOSJWKTNFNOCDIJMLMCVTQIIAFSHGKOMJIJGMAQEJTWF",
+            "vote": 1,
+            "voteTick": 49959737
+          },
+          {
+            "computorId": "ZOHTZNRLCSUEHCEXDQHVYEXOMSJDKLDOIVCEHUDUWFSBRGDDQHBVPBAHZATL",
+            "vote": 1,
+            "voteTick": 49959737
+          },
+          {
+            "computorId": "CIBJIZDJQFANUEJCDYLCTLSEFWABSOMVMEMJKYIRNGEWEIGOIKNXBAZBBUBB",
+            "vote": 1,
+            "voteTick": 49959736
+          },
+          {
+            "computorId": "EIFDPRAMCUCLDBFUJIDBISTVFSTCSNHUPLZXMQCNIGZEUNKRHYACQHYFYYGL",
+            "vote": 1,
+            "voteTick": 49959736
+          },
+          {
+            "computorId": "NKIPJTDVVGKHWFVMJFZUPXMEDLGAYHEVNHUSAZMHGHVMJFIYALDDGJBDQDFG",
+            "vote": 1,
+            "voteTick": 49959736
+          },
+          {
+            "computorId": "QMHOOWWWCDXDLGWRHRIAEBDRBKQAVJBSODIGVHVBMGDXUOFGHZGZGVKDZXYD",
+            "vote": 1,
+            "voteTick": 49959736
+          },
+          {
+            "computorId": "YKFMFFGFHHJCLHCNOKWWSELNQESDQHETGCLKKZDWKAAGHNOASMMYKMSAYXVN",
+            "vote": 1,
+            "voteTick": 49959736
+          },
+          {
+            "computorId": "DAMTLNJBDCLKECJMREYFWUODUIXBCNYIWZTTXVSNIDUAGUCHWDYEGCUCOXSI",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "NZQHSXHRBEJAEDVAUOJPNSEONAICIITBBOJFLZDPSABPZHFLQOQVZJRBPGBO",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "PGRDPIGHKEMRTBFEFHVVSURSBKXATVQMHRBISGIWABSJWWJGVHVDHLZBZJBL",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "QJHPKXSRFBKSOCXVNKKQBRHDYZRDYNWLTPLBUCZFICQZXJXNDEHAAHPBKXFO",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "QUJXJCNMKBTNPGPYYXHYUTAOONIBWAFEHPNPUGPTKDJAWOTAGXKNHAOGPQTA",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "VKIZBNEFJWWYTANBWEVOSSWFMKLDGVVCDGQCQZCYFFFIQNJGXHNFBHPBXMKG",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "VSCQIVMRJGUTKFHWFAHFTROWCKSCEOTNSBKKASYEQERNVHSBEDZKQQREOQGL",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "YROXPGAQMWOWTEFEWUVTGPVUOECCTXZYGMOXHHRBHGCYPOGSYVZLYLOECDZA",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "YVJKCBLLKJEQWGPHYQGOFVDOFRJCNNJQAUDEUVJIVDUWALQEGPBDWKDHLPSO",
+            "vote": 1,
+            "voteTick": 49959735
+          },
+          {
+            "computorId": "DFMHDGRBSJSJHAFHPSTKRFTZEWVBTWJGMNGONRHHHBKVBGFYLMIGNKBAEAAI",
+            "vote": 1,
+            "voteTick": 49959734
+          },
+          {
+            "computorId": "DNWSUCQYTDTPYDNGWLPZVWUGNANDUHGWQPGBFWMWWBUVNGOVWREZPYFESCSE",
+            "vote": 1,
+            "voteTick": 49959734
+          },
+          {
+            "computorId": "FLWWOFYFMXOUFGPFZKXPDWWSJPJAWRMPGKTOVFCZWBPTJNKLAUJDSZMFWTIA",
+            "vote": 1,
+            "voteTick": 49959734
+          },
+          {
+            "computorId": "MLBLNMDWXACKZEHIRCQWTJZAZAZBDPYNSBVNJFNYPEYKQWULCJQCUZKECLXK",
+            "vote": 1,
+            "voteTick": 49959734
+          },
+          {
+            "computorId": "YWCUXYXOWECNMBEOVNUBSMNMKZFBQTZVMRBVQKXTPANUMHHABUMZFWDEASLD",
+            "vote": 1,
+            "voteTick": 49959734
+          },
+          {
+            "computorId": "FMTLHNEKEYLCKBRNPJYFHZRYTZOBIUUUOHDHLWSZBGHRXQOERIZRBRBBZYBA",
+            "vote": 1,
+            "voteTick": 49959733
+          },
+          {
+            "computorId": "ITEFBOIAPRVEBDAENUERGSCMSASCACCKTWNQHKOTDBLKXSPLRZYGXMDAIMQA",
+            "vote": 1,
+            "voteTick": 49959733
+          },
+          {
+            "computorId": "NFEBTFAQNTWWPEPSKKYJBTKLXXQDNORCBDLRPMZQJGQYRMNWRHKRGVHEBBKH",
+            "vote": 1,
+            "voteTick": 49959733
+          },
+          {
+            "computorId": "XGGKWSBMMWUPVFGDCHABUQTMZMRAKFLZNREMHUPCDAOGHDHJFKAGPOXBRKUM",
+            "vote": 1,
+            "voteTick": 49959733
+          },
+          {
+            "computorId": "YZBRNWDBSAOLIGDDWTTPJWUQNAMCDMCCVFPUIPOKOADURAVHRXQXLIREVSMK",
+            "vote": 1,
+            "voteTick": 49959733
+          },
+          {
+            "computorId": "DPGEOOXWIFJGRAQLUGABANQJCHUBAHEOQMLDOQJUTETFCXIWVGYNGXFCDXCC",
+            "vote": 1,
+            "voteTick": 49959732
+          },
+          {
+            "computorId": "TBDZASWUJTTHHBMCFWGDOVSRIYCDQUGLGEUIIWXCWGYMNCIZVFDFMXACAPWD",
+            "vote": 1,
+            "voteTick": 49959732
+          },
+          {
+            "computorId": "XPNITZGOMINMCCQXBFPXEHMHLHNDENFRLRHTZJZAPEJUKRNVCGNSFLKHZEUD",
+            "vote": 1,
+            "voteTick": 49959732
+          },
+          {
+            "computorId": "YPVWDDBSRGPOTFQQJKARANGINKEDEQHDVZTGLYTUDCPZDKKEOHJQYVRBPBRD",
+            "vote": 1,
+            "voteTick": 49959732
+          },
+          {
+            "computorId": "ZWWGPUJSEGRSFGVIMJGVKIFTGTGDJBPZCDFYOCXQJBIYISCPLNCIUFUBXRCM",
+            "vote": 1,
+            "voteTick": 49959732
+          },
+          {
+            "computorId": "AZIMFPMKQWKUCEJBUWOCBBNJQLSCMEIQUIELAOQIWFWGGQVOANKFXYQCUJPI",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "DQUBHHQIKLNUUCIYPQVQTUVQVMHAEJBNMDWWLHAFWFEJIGYOPTZKZUUAQNEJ",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "GORRZEWKSFKNICLHCGJEHLFUOIEDOYXJFDRWWQUCNACTVJVZNIGSAHLFILAB",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "IMMGQOYGDWQMXBFOINPOMFVQKMOBTSXMNJXOVZHNEDYWVWFYTDWIYUUBLABJ",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "JJRLQMAJUYSPMBFNPAYSMBEIAEQCVRTPFWMSSMGHUBLHHEIEODJGPQEAZELF",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "LKCCNSMATREFBFGEQLMDRFRCESZCUBRLSFRWLEIOVCZMCVWNKKFRMMWETHQK",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "QINSTKDLKYRUQGALQWSVNAZGNINDGRXEYGWCHIYEKCNRUXZXDHVBEGSFLPYC",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "QWNWURVBYQRBGACWACESIUTCXNZBXVNOPVRVVSBRMCWZUBKPEFKXLJAAZMCE",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "URKHMIBKREJHYBWITNMSODKOXRIBIJEVWJUTWMNZXAIEINRXQHCMDZPADYKO",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "VINWFWMYTCJCWAKOSLSSXAVOHBLDIHSROXRRYVGTDEIQVSQCEUFPNGBHNXLO",
+            "vote": 1,
+            "voteTick": 49959731
+          },
+          {
+            "computorId": "CLKYJXJABWWIHGDEAUYRUVFXYIOCGHXWUYZNLUTOCDKLGGYIZREGDFIGLJOL",
+            "vote": 1,
+            "voteTick": 49959730
+          },
+          {
+            "computorId": "NUUJOWQCUGHTDCGOOGYHAOBXREABKCMCVDUVMEINKBNEYHZTWRSGFOABHCHL",
+            "vote": 1,
+            "voteTick": 49959730
+          },
+          {
+            "computorId": "RIMHCQGRNNRTFARHTGBBTMBCVTZCYJTOZNZSKWHOJDCMKDOMAFYGBLTGGYCM",
+            "vote": 1,
+            "voteTick": 49959730
+          },
+          {
+            "computorId": "ZLRVFKFICBNVEGJOJQWNSHUNWIFCJEUHFGHBQEQHFFJQYCPFCSXSLEDCBTBJ",
+            "vote": 1,
+            "voteTick": 49959730
+          },
+          {
+            "computorId": "ZSSFIDHYKOZPFDYEOSRNSKBKFDIDXVDSFOXSQOANLAODXZSPQDZRWDDCPHCO",
+            "vote": 1,
+            "voteTick": 49959730
+          },
+          {
+            "computorId": "HXCTXXEFMXVJZACQLGHNCKGCSRXBFHMMOOSXZXYXMCXWTOIYFJROVYODKHDK",
+            "vote": 1,
+            "voteTick": 49947712
+          },
+          {
+            "computorId": "KEOYNGTMBPAAKAIQTIRFFZNKGRNAHPQZMXFZKXWAQDWIIVKPLPJPIYRDJYZL",
+            "vote": 1,
+            "voteTick": 49947682
+          },
+          {
+            "computorId": "EAZPXEXLQUCJRDPWNYWNNDXXGQCDFTKGUZCFMZTEZGINSORAAOOJYZOEXWQN",
+            "vote": 1,
+            "voteTick": 49947447
+          },
+          {
+            "computorId": "LWRNWTRJURKRADBOLIIKBNJPZBCBDYIBGWWDGLBJECTVATIVMLOSEJBHPJUE",
+            "vote": 1,
+            "voteTick": 49947419
+          },
+          {
+            "computorId": "XFXKFBVFCNGPLERQWNKRYFRPLKNDCKOBIAGPZIVQJBJBICNQIYINAKWBLNXF",
+            "vote": 1,
+            "voteTick": 49946698
+          },
+          {
+            "computorId": "BNMGBKPXEQDAOFJWTLFZEDLBBYRCKASKWORDNVPDSBVNXDRDZHGONBLCRLBA",
+            "vote": 1,
+            "voteTick": 49946632
+          },
+          {
+            "computorId": "IQXOWGCSOJLSGDCMLURVODDFJANBVYJGKLHWIMIRSEBBYHELGURHGJCHDOKJ",
+            "vote": 1,
+            "voteTick": 49946405
+          },
+          {
+            "computorId": "VODNGCILTEUHUBSRCZZEERRADTBCODNHWGINYVSTEGESJLFMLKSGBXIDNWBN",
+            "vote": 1,
+            "voteTick": 49946348
+          },
+          {
+            "computorId": "WOYFAHJBGAFCEAKJYXODRGWOTSZBQEWEEVAPQGXSXBFLNNNVWCLLSYHFLKHI",
+            "vote": 1,
+            "voteTick": 49946343
+          },
+          {
+            "computorId": "EBGMZITEECYNTCMGCPMNQALAMMHAOBPQLBKGHGMQMAJWJUXIORRLGIWDAFAF",
+            "vote": 1,
+            "voteTick": 49946324
+          },
+          {
+            "computorId": "JOYWWBOTKGFDBHPMPEEJPNDHOKACMRVLIIPUUPZQQEDEVIYSBWLSVBUFYGKG",
+            "vote": 1,
+            "voteTick": 49946286
+          },
+          {
+            "computorId": "ZDTDLMKWLXDJLGABEMOVPKQIJQNDPSDKXGGYSCJOPFMJCJEIHNQMCYPDCGVN",
+            "vote": 1,
+            "voteTick": 49946208
+          },
+          {
+            "computorId": "CIVDDXIUWMVTJHBLQOQAMJINVFDCDLNEALHSXPNCGFSFRFWDCVCFRICCPCXN",
+            "vote": 1,
+            "voteTick": 49946126
+          },
+          {
+            "computorId": "QIGFXRGSKXZDWELZYXXBOEBLWFRDSWZYZDFEPDEXIGDYHKWCGDUIVMJCNCSI",
+            "vote": 1,
+            "voteTick": 49946073
+          },
+          {
+            "computorId": "KVGXWEHSTUXTGELYAXNHFXJVFVKCLKXOWFFYKUZJEDETDQQXTQXDSYUBHPME",
+            "vote": 1,
+            "voteTick": 49945891
+          },
+          {
+            "computorId": "OWBDOCGOTICVQFZHSEUYVQGFNWABVDKCIAEGBHOVTFVWVBQHZSJTOVXBPNWB",
+            "vote": 1,
+            "voteTick": 49945866
+          },
+          {
+            "computorId": "YKCHMCKVKIRHKHWNLDTDDEINWLOBSDTHGQTQTOEWHBLIYULYUBXHYXWBFDEF",
+            "vote": 1,
+            "voteTick": 49945564
+          },
+          {
+            "computorId": "MFKEPQYQCNROXAYZYROEZLJUNWABARQKSIMGFDIJBBKFECXZAVTAPYYCIHGL",
+            "vote": 1,
+            "voteTick": 49945240
+          },
+          {
+            "computorId": "AMLENKOQQLTEJGSFHKETFCOKZZQCGNAPUXNUYDVCBASVYDPATEYRDPDGDMFA",
+            "vote": 1,
+            "voteTick": 49945214
+          },
+          {
+            "computorId": "REGTKTEURCVGUBYZALVWAGNRSLQAMEVGXBBJZBXRCCZGWXFBNDCBCIMEQGKO",
+            "vote": 1,
+            "voteTick": 49945122
+          },
+          {
+            "computorId": "OZRBTVYDCYIXAFZHMSGMUIQQHGWCJCCINXCPJDWZQEANVIYXTHBEDLCCMOSL",
+            "vote": 1,
+            "voteTick": 49945083
+          },
+          {
+            "computorId": "SRRRUYBTLACBLEGOBKRYXGOHZMDDAOKWINHMAOIOEFALLEALNVVHQTXEIYLA",
+            "vote": 1,
+            "voteTick": 49945068
+          },
+          {
+            "computorId": "GICFRPSPNAVVYFYVCTHBMTNIAAWCHDVJKWEVDVJDIHMDGKJUJCRBXSYERWZB",
+            "vote": 1,
+            "voteTick": 49945047
+          },
+          {
+            "computorId": "QAKUILCVXCGGSGGGLRBDPJSSGSSAHDUJOWYJMRZOKFDPZQSGDZAHPYCGDTKC",
+            "vote": 1,
+            "voteTick": 49945010
+          },
+          {
+            "computorId": "KKSPOZZECAQGNCFCGQFDYZZGUBPAQBHLUTIMBCAKGADRFSAIOYOQNLTDGVUA",
+            "vote": 1,
+            "voteTick": 49944990
+          },
+          {
+            "computorId": "HBHPJUJQIRNJZBVUVIVKJXMDCAZCGXNGVVJJFDODCESZCOLNJDIQKRAAQOUJ",
+            "vote": 1,
+            "voteTick": 49944983
+          },
+          {
+            "computorId": "HKQPTCRUGQMYKAOLDLECDGGNFWGBWATFVTYRQFTQCBLLVEEIBTCYEJFFUQNA",
+            "vote": 1,
+            "voteTick": 49944964
+          },
+          {
+            "computorId": "DRTNKJBVCKPWGBPGMXFYZQDQJXGBWCERKMUMJKEPXAEGDXSASADMTXUFOPJH",
+            "vote": 1,
+            "voteTick": 49944931
+          },
+          {
+            "computorId": "VKYJUBFJBXZILBDXLCFYFVESSGVCVOXNHSOHZOWCECVJFAWWGCCKCIADFRNJ",
+            "vote": 1,
+            "voteTick": 49944929
+          },
+          {
+            "computorId": "PEIQLPYEKAJCODCGPNUNDMENBYKCVQYXRWQECHHWKHDJKOCAXGMPEGBEOPEJ",
+            "vote": 1,
+            "voteTick": 49944923
+          },
+          {
+            "computorId": "CKAJMKZDFKUAGGNHQSXLGBVORNXCINMFRXKHADLOPFNVITCLDVIADVMALFCE",
+            "vote": 1,
+            "voteTick": 49944912
+          },
+          {
+            "computorId": "ZWJGFDRAEGDHNADMMRBGZDFNDNLARACCARGAVDRCIHEYGLAVHRZOUZOGYHPF",
+            "vote": 1,
+            "voteTick": 49944909
+          },
+          {
+            "computorId": "UJLGUAXRPTHNGCUVLAPBQBTHAOPBLGIQRMUXSSCCIBFGKCIBRIJNGMKACNNH",
+            "vote": 1,
+            "voteTick": 49944891
+          },
+          {
+            "computorId": "HNCLDSGVFYDEWDQBGEWSNZJJTSMATZRQKHHWIZHGWGQAEAQWMLHQFKLCNTIB",
+            "vote": 1,
+            "voteTick": 49944879
+          },
+          {
+            "computorId": "DEKOWMDDKTQYVAKPSZDERMLTAXSBOGSWSCMPCFCQZDVKBAFAYACWPUIFYDZA",
+            "vote": 1,
+            "voteTick": 49944845
+          },
+          {
+            "computorId": "RCHSGFTYPYZZBFOYDFCNFZCJWEMBTJXPFCVRGLVSCAVSKZLJPEDZONQGQEKK",
+            "vote": 1,
+            "voteTick": 49944820
+          },
+          {
+            "computorId": "CZTNAUKMMHUGLCYTDQPLRLUCSUKAXSVAFSXSXSNEHARASRYOIRYWNVWDYXXB",
+            "vote": 1,
+            "voteTick": 49944803
+          },
+          {
+            "computorId": "MNNKVWJDGGNWQGWZGJFOEEIFXOJATQAINTEYVMTCFCWBMYOKSBXDDLQGVZAH",
+            "vote": 1,
+            "voteTick": 49944803
+          },
+          {
+            "computorId": "WAJHPCIHFLSOMFFMSQLLCIZQUVKAMMHIZAGUPJQNCHAKKSQZAJZFNZQABSPN",
+            "vote": 1,
+            "voteTick": 49944777
+          },
+          {
+            "computorId": "BFEZBAFFIRADEFMKVTCGVUMFAZDBXAPYPKYLRLAHAFCGJNQBHHIENZYDTTAN",
+            "vote": 1,
+            "voteTick": 49944648
+          },
+          {
+            "computorId": "JMMRHRWASHLQTGPGUXFTBNIVOQECTSSKLBULOTHYWFFQNFVSWEBHYLCFBQKD",
+            "vote": 1,
+            "voteTick": 49944521
+          },
+          {
+            "computorId": "UDWBHDPRLMAVLCOUPNGGHORXHOZAKPUZDNIRYCTFHGCRBAJRJGCVGOHCBNID",
+            "vote": 1,
+            "voteTick": 49944342
+          },
+          {
+            "computorId": "SRNKFGOVSSQXEARYBOVYQOHMQSQADIJGUEKOHLCRVGOUPIRUWFEORAMDZDBM",
+            "vote": 1,
+            "voteTick": 49944109
+          },
+          {
+            "computorId": "MASJPOZTWYCVGATWSSGLKYLUWZFDUEYQMOBSDICZNGWLXJZEFGECLTQBKZID",
+            "vote": 1,
+            "voteTick": 49944083
+          },
+          {
+            "computorId": "LNTAMQAIGIXGMBBZTZFKFVXGJHVBIAGYLXBISOVKOGGRFNRNRPBQSLWEIRLJ",
+            "vote": 1,
+            "voteTick": 49944038
+          },
+          {
+            "computorId": "CJZKHPWFNBCHFEUAXFAYMDDOBRWCDQBFWSAOPGGYVAIAWFXBXANKYPQEANMB",
+            "vote": 1,
+            "voteTick": 49944008
+          },
+          {
+            "computorId": "QHWQTDUDOLSHJFVENMUHFBMZNXNDBAIYPMQCSERBJBRQSDTQBEFDDBTADRIO",
+            "vote": 1,
+            "voteTick": 49943998
+          },
+          {
+            "computorId": "XFUVECXMTZIYOGZEWZFWQANDVVMCYHBPEBEBERTIECDVDQWKCYIUHDHCUIPI",
+            "vote": 1,
+            "voteTick": 49943994
+          },
+          {
+            "computorId": "JMYIBMJMWACDIENYFJCMENIZQMTBNZPMCCBLOCSELAYSEXGHAFGBWXCCHQUH",
+            "vote": 1,
+            "voteTick": 49943936
+          },
+          {
+            "computorId": "YSOZVACIFBKCCFRVWIIGQUMWAHLCFFJRHEWIBZJSXBWRUSFTRREBCMNANWBG",
+            "vote": 1,
+            "voteTick": 49943915
+          },
+          {
+            "computorId": "WUDYATUHGNZNKAIBPIWGUXIIOPLDEPIPCVWPOCHXAFITEGYJYNOHHNJBMNRC",
+            "vote": 1,
+            "voteTick": 49943871
+          },
+          {
+            "computorId": "KIAQSXZBZKZWIBWRRXKIQJXDBKIDTUOOWTKORSCPODNUSYDMCPJRIEMBALYA",
+            "vote": 1,
+            "voteTick": 49943860
+          },
+          {
+            "computorId": "ASGPKKOZUNSTCGZGGDFPMKSSLGDDRHIDXPOWEGLBAHZLOKAZANZSMFDFVQVK",
+            "vote": 1,
+            "voteTick": 49943793
+          },
+          {
+            "computorId": "BRKYOWPIULAABAMXWNCYFPTDVPVCIQRTTGXPAYFHYFUAQRBTYQZSUIJESMQD",
+            "vote": 1,
+            "voteTick": 49943788
+          },
+          {
+            "computorId": "QZNTXVGPRYNNPCARWVTOLSDFXJYBTFRVJQPOGIMGVEVQTZNHIPUYGTWFGRQC",
+            "vote": 1,
+            "voteTick": 49943721
+          },
+          {
+            "computorId": "DPFNKMQMLWJOAEBRMLXHBOYFKLMAEBSFCEGIMRVRGCXDDWRJVFXGQPEEDIWI",
+            "vote": 1,
+            "voteTick": 49943678
+          },
+          {
+            "computorId": "IPQMMCLKHGVMPGCRDJBGMUTOEJGBJJASKXMTITOHXEMYQQRZPBHWZXAGVZVH",
+            "vote": 1,
+            "voteTick": 49943633
+          },
+          {
+            "computorId": "SMCITEHEYIRTLBKQDUBCKFTBDZQDFJJFMGQPSNHSVAVFZFIJMIZUXVDFCCMJ",
+            "vote": 1,
+            "voteTick": 49943591
+          },
+          {
+            "computorId": "MCJCJWXNXPWDKETNOMKBLKJLGOZAPASCMWJIWHRJFGXNLSCWYUMBZQFBESQO",
+            "vote": 1,
+            "voteTick": 49943571
+          },
+          {
+            "computorId": "IPEACKCUBWQVYDOPBRTDCEBGWQACWBWZNHLSXJSEMCGFPNQVBLYFPJSDETMB",
+            "vote": 1,
+            "voteTick": 49943565
+          },
+          {
+            "computorId": "XJKGAOXAOGQQGEPOSOLGYJDOJFUAUUXLVDPRQTQMDAEORWPZXUWGQDTAEASH",
+            "vote": 1,
+            "voteTick": 49943507
+          },
+          {
+            "computorId": "DCKQDDOMLNVKVBEHABJJICIQXVNCMTLLTSMVGELLYGPMOJEYELBLXCLAHMNJ",
+            "vote": 1,
+            "voteTick": 49943505
+          },
+          {
+            "computorId": "ZMURCFONJJVOZFGNUXJTAGEIVUWCOVZSTAHISFTFCEBQPHMYAGQHPZAGGAKD",
+            "vote": 1,
+            "voteTick": 49943489
+          },
+          {
+            "computorId": "WHVPEPELPPSQXFJDKYHBBKTUEMPBKICFWUNFBEITCBLUMCIOHABGWWICDUKJ",
+            "vote": 1,
+            "voteTick": 49943486
+          },
+          {
+            "computorId": "AVNROQHSIDFAAFPUGDLKNLVYKMCCRHIBAQNKUKSQWGIAFJIRXFZLLIUBQIZL",
+            "vote": 1,
+            "voteTick": 49943426
+          },
+          {
+            "computorId": "RNKUYIDDSPDZBCCOOWCFZDOJIIGCFYCHLGMKGDKJYBWBJACSIPNCUGKGOIEA",
+            "vote": 1,
+            "voteTick": 49943412
+          },
+          {
+            "computorId": "KPXBFYFWDZWOWDQAWUQOGGLJZVGDIOUCLRYNCVNCUAJKZDIMXPSSAIKBFXLL",
+            "vote": 1,
+            "voteTick": 49943395
+          },
+          {
+            "computorId": "ZPSZROIIIRJDHFZADFFTXTGQFJVAPLZADPXXKDWKJBFSWEGBWITBMJGFPFOH",
+            "vote": 1,
+            "voteTick": 49943388
+          },
+          {
+            "computorId": "WKQJFMAOGBTUKFYTBXYDWVLLXVGCRVMFQOUMRTFGRADLXYVSUPNVGNQFTVZG",
+            "vote": 1,
+            "voteTick": 49943386
+          },
+          {
+            "computorId": "FWULOPRDWYHVEFXUEDQHMMMPYARBXAANUKWXMQVZUDHBDFMOLJKCZGNBHIMG",
+            "vote": 1,
+            "voteTick": 49943382
+          },
+          {
+            "computorId": "OWODXSJVGHVJGGHWXNRBVCXHJNOBNNOZWKACCRTJUCFAKRYOCBNMXMVFPFFO",
+            "vote": 1,
+            "voteTick": 49943376
+          },
+          {
+            "computorId": "PXNWRMKZKYZBPDOWLPYLSVIVOGLBPWPEJRNZHQBXYGKFCCMNMWSTVWEEAAKD",
+            "vote": 1,
+            "voteTick": 49943369
+          },
+          {
+            "computorId": "XNZCAISPDKIFTATDMFBOSPCWYXHCGEVNHZTGCLVQCGANCOQQBULAIXAHMDFL",
+            "vote": 1,
+            "voteTick": 49943348
+          },
+          {
+            "computorId": "XBDMLXRDCOQXQDVOJDHAKWGCRVWABCSYYRHKSPZTQAUGVHELOAARKNLFUCJC",
+            "vote": 1,
+            "voteTick": 49943321
+          },
+          {
+            "computorId": "HBKBLVENDOKUTAVFQLBOSQDHOKGDOSXVXDMUMEFUSFNQZRKIFOFSIRBEIXBA",
+            "vote": 1,
+            "voteTick": 49943259
+          },
+          {
+            "computorId": "TGSZAHZSSIECRFRIJKBMTZTZWDLDZPQJLJMIWRAKEAJUAFVCTPZKLUJCULCM",
+            "vote": 1,
+            "voteTick": 49943178
+          },
+          {
+            "computorId": "LHAFAWFWUGMUJCSLJAHVWBOKTETAGKLKNPQAKWMIDHSFPSGHVZQGUMKDMLRI",
+            "vote": 1,
+            "voteTick": 49943072
+          },
+          {
+            "computorId": "KGGZMJXNAAJKQBOKOXUKETBKXLNBFMAAARDTAJEXSBJAFPTPNMDVWPFEYXNA",
+            "vote": 1,
+            "voteTick": 49942921
+          },
+          {
+            "computorId": "BVIKTWXQPCEWTBVVHNHWYLTMFBTBAYKHOTOTITGLFAGHUHAFLDXTFIZEQTLO",
+            "vote": 1,
+            "voteTick": 49942827
+          },
+          {
+            "computorId": "JVPZVAKNVAAMMFFULSALKYIUMICASIKFYSTCWLIUQBSDBDQUPQUDDCODTVNJ",
+            "vote": 1,
+            "voteTick": 49942759
+          },
+          {
+            "computorId": "SVTJPLNDOZXNHACDRENFNKMQMOYBVUEIQQNUSSSNYCUATBARSRMVDFBDAGBO",
+            "vote": 1,
+            "voteTick": 49942736
+          },
+          {
+            "computorId": "CJFEZZHRKLLDZCQHZEARLUPHQMSBESQIMRDQHRXBZEAXHBXCXLPEEHIBUMEB",
+            "vote": 1,
+            "voteTick": 49942709
+          },
+          {
+            "computorId": "WEERYPHALEXFNGEAIWXVBWWAEBJDZMZRDWCDDHEGDANJVNJYSJNWXTOEJOBI",
+            "vote": 1,
+            "voteTick": 49942681
+          },
+          {
+            "computorId": "MYTCEQHYXKLAAENITJKYGRUHYCXBUZHAVXZJMYUDIDHYBUWMWKWYJOIEHICL",
+            "vote": 1,
+            "voteTick": 49942605
+          },
+          {
+            "computorId": "WHOHMDWQBKZDQAVXVVDSOJPCZTODUWUAMGMNRBVNIGUYBBFFQYRKRIWDTQEM",
+            "vote": 1,
+            "voteTick": 49942592
+          },
+          {
+            "computorId": "LGBXCXXZYCCGGFUYEDCHBLPQKQPDPHSNLZUMDZDYGAAPEORESAISVWLECCMG",
+            "vote": 1,
+            "voteTick": 49942585
+          },
+          {
+            "computorId": "XLEKSUBKLSUCYBSNSYGWSEYYLJNDZCREXOEAXXBYHFSYFWTRGWALHWZDKQSG",
+            "vote": 1,
+            "voteTick": 49942582
+          },
+          {
+            "computorId": "NUSRHIUBCOQGCCOGSDSGAGMBRXYCMMZWVNYHYTZYHDZAKONKDJOEPOQGUXPN",
+            "vote": 1,
+            "voteTick": 49942577
+          },
+          {
+            "computorId": "JKATOYLVEGPEFFEBEZNFTYMIGTLCUFZBZUTSHYCUCCLYZARQZKSTXYPAUVNG",
+            "vote": 1,
+            "voteTick": 49942548
+          },
+          {
+            "computorId": "SJYCCJYZEZOXMCSSPEWTXNWUZYBDGBVQHTRVKHNZVDZCZBOGMACMCBFGXNFO",
+            "vote": 1,
+            "voteTick": 49942545
+          },
+          {
+            "computorId": "JMPSXPJNKFUKJFIWSMXMTHOLXJGAJUUVHMXDRSNIACVQQSRXBNWCDNLBEKAA",
+            "vote": 1,
+            "voteTick": 49942503
+          },
+          {
+            "computorId": "UNCASRSRPXDCECXWHDZWLUALSOTAAYEOOUVQHCUPREYZMYYVSIWERIYDNXOJ",
+            "vote": 1,
+            "voteTick": 49942419
+          },
+          {
+            "computorId": "ZUIIWFDICLJZAEGWOIONISWYBXBBBFALXNSZASHTSEVORNNBWVOLKIMADNAO",
+            "vote": 1,
+            "voteTick": 49942385
+          },
+          {
+            "computorId": "KHKQHCCGPKWDMCDHIIVNMLBDJIWARWFTGAWGMOJAGAYCRVUNDELLRXDFHUDD",
+            "vote": 1,
+            "voteTick": 49942356
+          },
+          {
+            "computorId": "WNYNJFVMKOMATCVTXCAHJVIEMVPCZQLBMOPCUQTFZAAKSZEWRMQIWJCHDUEG",
+            "vote": 1,
+            "voteTick": 49942343
+          },
+          {
+            "computorId": "QPDRTMANIFYAIHSRAKXPKUUNVOLAEXCTLMJPGQRLHHQAAWUEBKRRWWPEMSXB",
+            "vote": 1,
+            "voteTick": 49942336
+          },
+          {
+            "computorId": "ZVXJGWGMZAJNDAIALGBPIDTGTKRCFWUYKZNOASBBZAVBWKSEYTQVXAVAJWNM",
+            "vote": 1,
+            "voteTick": 49942314
+          },
+          {
+            "computorId": "YHBSEYTCLADQQEKYKUEMQZTBRGTBGOZOCXBITKMFYCDUCNZXLNAZHRIDOXGN",
+            "vote": 1,
+            "voteTick": 49942291
+          },
+          {
+            "computorId": "OPJWJEBYSZPQIENCFPYSCTVFKDCCZFINHKRTALCHYAZUMRVACSGIRGRGAOOC",
+            "vote": 1,
+            "voteTick": 49942277
+          },
+          {
+            "computorId": "DSXZTFJOGMCJWBSSACMMOCLDTRDAJZMKKFNEVAGONBVKADGBCZCUMCBDRBJM",
+            "vote": 1,
+            "voteTick": 49942265
+          },
+          {
+            "computorId": "FZTXBUWQTOWAHBODSZKVMUQRRPDDASKDOQLSDGLIUCVWDSYWIBAKAXRBKEJJ",
+            "vote": 1,
+            "voteTick": 49942264
+          },
+          {
+            "computorId": "BPGZKWFJXWYLLABKKIKMAFZVRWYCPYRHCDYQNIQBXEUQDYDDFTJYGRSBMPEL",
+            "vote": 1,
+            "voteTick": 49942247
+          },
+          {
+            "computorId": "AMFPLGHQOOFHGBIPCHDZVZYGKRYBXQTUNFMEGOSTKBVCPLETQEEQKSADQDKC",
+            "vote": 1,
+            "voteTick": 49942234
+          },
+          {
+            "computorId": "GBVFYTKTNUUOFBBJUFIQLCKEHITAUAAQGANTDRVUUCEPZZHBAMYUBTPGIHVH",
+            "vote": 1,
+            "voteTick": 49942228
+          },
+          {
+            "computorId": "FNVZCSXXVWXWYFVMJDDOMBCPNSKBWQWXGIIHSOHXJGUWVPRMKKJXANMEMTOI",
+            "vote": 1,
+            "voteTick": 49942222
+          },
+          {
+            "computorId": "LJKSMQVYJFJMSDGNAFXGFZKXPMPCKBMJQLIOIXFXCCJPCILNXJLTLGVEEAXE",
+            "vote": 1,
+            "voteTick": 49942218
+          },
+          {
+            "computorId": "QSCRUWVFRMIWMGNVMYKMWDMKCPOBMXTORQDTJNNBDAESWRZYMATPRFBGIPSA",
+            "vote": 1,
+            "voteTick": 49942167
+          },
+          {
+            "computorId": "ZJRDKVEZWJEZJFHWTYIDJMOGRMFCEVSWKMVMLXWTQBVBBANPSXJRDAUBVINF",
+            "vote": 1,
+            "voteTick": 49942164
+          },
+          {
+            "computorId": "VXUMPJYOZPQFFCSDSJNVCVRTNQADUHFYZIEGOTXHOGVRTMJSGZBMKXPCOUMJ",
+            "vote": 1,
+            "voteTick": 49942156
+          },
+          {
+            "computorId": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+            "vote": 1,
+            "voteTick": 49942096
+          },
+          {
+            "computorId": "DSROQOYVZNPAFFJLURKOVFVBRHJBTFJVGUETWRZRJGTREZPKNOLDAWGGZHFB",
+            "vote": 1,
+            "voteTick": 49942080
+          },
+          {
+            "computorId": "RLXAVROAOOWUFCITHVIDVPNNVUMDQUBMRLDUOYOSVFKVHVHKAMETTASGSKSH",
+            "vote": 1,
+            "voteTick": 49942075
+          },
+          {
+            "computorId": "ABUIWGXWUCTKVCCGNDQSIWVBJITAZHJVEQCDHHHTUFQIJGJSAOLIHYTCQCNO",
+            "vote": 1,
+            "voteTick": 49942064
+          },
+          {
+            "computorId": "XNISDNQDSYYGDEUNUDKUJUABOVQBNUOHVPYHSKWCUECPPANEQZECGSVCLENN",
+            "vote": 1,
+            "voteTick": 49942060
+          },
+          {
+            "computorId": "ZLKIEOBIRMKYEHRNTOTPNRDUZWLBERMWHJTZMXWYCFZVGIAZOCWGZRHEUILN",
+            "vote": 1,
+            "voteTick": 49942030
+          },
+          {
+            "computorId": "GOBRKOOZRXSSWFFKDKRRJUKENPVCLAYCKMUDAPPPGFFMVYFVHFVVUHPBJMOB",
+            "vote": 1,
+            "voteTick": 49942022
+          },
+          {
+            "computorId": "XMLFLOVHPTIUNDXYRWLRRDYWBISBCGKRDNUKRRYZDHFMCEJBTVYPTDTBMXNB",
+            "vote": 1,
+            "voteTick": 49942019
+          },
+          {
+            "computorId": "CLMZDHLELFISZDJBIDPXKZQGBSPCEUHHCJMZFYILOBLMRRSMSOFGVJCFPULL",
+            "vote": 1,
+            "voteTick": 49942018
+          },
+          {
+            "computorId": "RCJYKOYBJNLBRBORHJKNDXNUATOBWNWMQHGLJEVMEEUIWISREQPKQWWGLHJD",
+            "vote": 1,
+            "voteTick": 49942010
+          },
+          {
+            "computorId": "VXWPJSDEXHQBWGUOJJRXGSGJZGQALGGIMQMKKLGVVGNJAJSPZDRCIJHFGHXI",
+            "vote": 1,
+            "voteTick": 49941988
+          },
+          {
+            "computorId": "YCRXPTXHSUFDGCBBYQQPPGQGSDICZBSXHLLKYJIZCDDNHIRKKWBLMTUFMJAM",
+            "vote": 1,
+            "voteTick": 49941945
+          },
+          {
+            "computorId": "ESCWGMCAHSQUHGQHPHNHJDXODUFAXOGFZSHIHTKDIHDWHXRNYOVPQHQCTQHH",
+            "vote": 1,
+            "voteTick": 49941920
+          },
+          {
+            "computorId": "SITKICYXJKJOLCXPEFTWFWASMMOBTTABLIFQHCBKPBKTULUSHRJMSQDHFYKK",
+            "vote": 1,
+            "voteTick": 49941890
+          },
+          {
+            "computorId": "SYAMDTHPXBMBMBYJVZMHXYUPBXRBKOFYNTVPGTGJQGLDWAKCTAHWNKJHTTQO",
+            "vote": 1,
+            "voteTick": 49941868
+          },
+          {
+            "computorId": "NVWYQAFNBMDQSAFIOVTASBMAJDKDPNYIYFUOHWMLFENDWLHQPHYMYNVFCGRI",
+            "vote": 1,
+            "voteTick": 49941862
+          },
+          {
+            "computorId": "HOPUYBPOWJCUFGNGVMOSVAIRFQIBCCPCOYOLXSQOHBWJNXDMTWDZQVUCIJYN",
+            "vote": 1,
+            "voteTick": 49941791
+          },
+          {
+            "computorId": "MYNSCVJIFLVZAHFXEYCVVGZJOUIDRBJXDKURQRHHSFLTPDGLTQYODOBHJBKI",
+            "vote": 1,
+            "voteTick": 49941790
+          },
+          {
+            "computorId": "ULSMVMNNLZBVJECVAURXRAWTUQXCTHYETZSWDJFICDEYTVVVYOVZCLMFWQOC",
+            "vote": 1,
+            "voteTick": 49941769
+          },
+          {
+            "computorId": "JUJQKJKRDALOOCBWBNIMGVKKGSCBLSWTFRVESIABVDORWGUCUOYGEHNBUAXN",
+            "vote": 1,
+            "voteTick": 49941700
+          },
+          {
+            "computorId": "BMBGSBAWEBCORCMHLXNNLQMYTJNCUIXEWMQPVJTXYAJCNKNNOHPFISZBMRHO",
+            "vote": 1,
+            "voteTick": 49941620
+          },
+          {
+            "computorId": "GFCVRLPPCVOZFDBSRUNMNNKJSWZBWWXAOEDGYFIJLDHXYFYXKJFCCZLAQWGJ",
+            "vote": 1,
+            "voteTick": 49941605
+          },
+          {
+            "computorId": "GCAXRFJPDIHDCBVRJDWIPERDSCWBSTFOEAQDZVAPPEMZJXHNCWCTMOUFRNPD",
+            "vote": 1,
+            "voteTick": 49941577
+          },
+          {
+            "computorId": "PPDXRFPCTZZCUDIBFDOEYEKJYVTCYUSTNYCAADOUMDJNDBBSSUUVMFBGOQMG",
+            "vote": 1,
+            "voteTick": 49941465
+          },
+          {
+            "computorId": "ULLUTTIHHPQRKHPOAIQPQCEMILZAUJLDXXVOQPAKZFWXWVCKNMSHCTSEGPHB",
+            "vote": 1,
+            "voteTick": 49941465
+          },
+          {
+            "computorId": "WBHKIWZZZOLGOAPTQPSXBLBCKYBBHNVFHSXIIXXEMCALUYOSTITOYUJAGDRO",
+            "vote": 1,
+            "voteTick": 49941431
+          },
+          {
+            "computorId": "VCVXEJTFPTALZETCFWITQAQVJKAAKGCXKTAXGUPAOGGEVGRHIGBKZGNFOUEC",
+            "vote": 1,
+            "voteTick": 49941403
+          },
+          {
+            "computorId": "KFRCPABPXQICBBYPUUDAPMZYJXHBFHIHDYCHPLVAAESWOWWXQRKUJLJDFLXD",
+            "vote": 1,
+            "voteTick": 49941380
+          },
+          {
+            "computorId": "KTUQNSKVCBTONAQSJECHTGCYMEAAUPQTBUSQNCSNBBTGLUGQBVRCTEADIJMN",
+            "vote": 1,
+            "voteTick": 49941366
+          },
+          {
+            "computorId": "ZWUXZSKJDTKHGHZHIRXSPIAMFUMAWSEMTVQMSHUXJHUAYKPWJAMCNCNDOLIM",
+            "vote": 1,
+            "voteTick": 49941362
+          },
+          {
+            "computorId": "ZMHBAXNKUKZUVAXLEZTZFEAQNCXCWVKPQUUTNEJBFDBFAGBBWZCLGSMCUWJL",
+            "vote": 1,
+            "voteTick": 49941272
+          },
+          {
+            "computorId": "MEYDUCTZZIWIOBAVVGYFUOHANRCBTFRXRPGOXQZVWDGKADOQZDQMFGMCGKIE",
+            "vote": 1,
+            "voteTick": 49941263
+          },
+          {
+            "computorId": "BMUCOVFACSPKUGYMDPTTYDTNYHHCYRHXDRWNQBIWJDCSDZNUIQGIPGEELPFC",
+            "vote": 1,
+            "voteTick": 49941255
+          },
+          {
+            "computorId": "NNKYWAHFGVIJAAIOCHQQBBUJJXIADGZCBGSMHPLSDAHNICSDONSMJTLCUSDH",
+            "vote": 1,
+            "voteTick": 49941232
+          },
+          {
+            "computorId": "EJPNXCVVNNANCAUHTOWVLINSVTFAXXCWLLPYUGEZEGPEDWCJYXZRZECCUNIC",
+            "vote": 1,
+            "voteTick": 49941230
+          },
+          {
+            "computorId": "ZQDFODAXNIPOLEBPHRIHOMBGVCLBSRTEAVQBZGYCRCMTVTKQMLABPFMFLVEA",
+            "vote": 1,
+            "voteTick": 49941219
+          },
+          {
+            "computorId": "MCQWQLIOHUOERDVCGXGUQXBAOTWBGZSQRWRBCUWGCCLDQHKJUPFCKMXBTCSB",
+            "vote": 1,
+            "voteTick": 49941200
+          },
+          {
+            "computorId": "APTDQWCRJZJQGFGLMYZPJOBPKFRCBRZVWQRVDGEHOADUICRMKMIYXDQFBHXA",
+            "vote": 1,
+            "voteTick": 49941197
+          },
+          {
+            "computorId": "OEOFKQCMIAZJTCJWWEYSUAHAPCNDBXVPKPXENDXDLDYMSKXVLOKDSZHGWDBN",
+            "vote": 1,
+            "voteTick": 49941181
+          },
+          {
+            "computorId": "MOVWNDRPNKTXTDCJLTNSWEFSJWYBDIVJMTRCXAJZJHPNSJEQUWACFCWABPNM",
+            "vote": 1,
+            "voteTick": 49941178
+          },
+          {
+            "computorId": "MFFMGHCRUNEWCFYWIYNMQRRNORGDSIYMUAHZRAYHVCZZOQFIXMLOUJACZPVD",
+            "vote": 1,
+            "voteTick": 49941160
+          },
+          {
+            "computorId": "HARCLJQMHOWISFQZSODEKUVVKQEBJRWFRFQVHQBYBABMBFSYNFLOYEEHEOOG",
+            "vote": 1,
+            "voteTick": 49941123
+          },
+          {
+            "computorId": "BGOZXJKPLUFFTBXMCPHDNRGQNLCBFSNOLBDGJCYSRDUMRVNJOOKMBIYFVGRD",
+            "vote": 1,
+            "voteTick": 49941113
+          },
+          {
+            "computorId": "LVCDPBDHWYVEGAEXIAVDFHEWXDGBICQNSBTFYKOBHHSRMWYALVPOXTSBQJIG",
+            "vote": 1,
+            "voteTick": 49941096
+          },
+          {
+            "computorId": "ZBEWTCMDZOBSHDRMXGFTLBACBBOCWLLIGWZSRNCQRGHAXTVUYNDNJUAAIRBC",
+            "vote": 1,
+            "voteTick": 49941067
+          },
+          {
+            "computorId": "PAILAFJBNBCKACOMQRMNJJYXCGSCUHIQKZTDTJMCTCKPZXAWVLXVMMSGXXZI",
+            "vote": 1,
+            "voteTick": 49941066
+          },
+          {
+            "computorId": "EFGQNDZETESOXGAEOQVJAERUSUNDVBVMJJNDKJOZSDSGEKBCYNHOKVLAFNYG",
+            "vote": 1,
+            "voteTick": 49941064
+          },
+          {
+            "computorId": "KWUWHWBAWZMXDFZQBAWXWAQPQWVAAGOUGDHAZAUONEFBXNUHODODJIYGHWVN",
+            "vote": 1,
+            "voteTick": 49941063
+          },
+          {
+            "computorId": "GXJKKNUWLZOKNCXDPCKUVYFVFLUAWTDLNQFQAAUXFBJZWBWGEYPROXLGBEND",
+            "vote": 1,
+            "voteTick": 49941059
+          },
+          {
+            "computorId": "LWYMEXAJSSQATBAMEUANKNQIIIUCWFJFZHCZZWLKVAYGTMXFUMZVCWVCJWDB",
+            "vote": 1,
+            "voteTick": 49941050
+          },
+          {
+            "computorId": "MZTHLCIODOIDCCCZRSLWACELEDSAQIAMIBQCYWXJJFFFTQYKQZVAYVGBPUJJ",
+            "vote": 1,
+            "voteTick": 49941042
+          },
+          {
+            "computorId": "JKHDWIFVECLMBEGRPIMAIZORRLPDRGHEDDJQHETJKHBMVHJCWPPQYYBHTYWH",
+            "vote": 1,
+            "voteTick": 49941034
+          },
+          {
+            "computorId": "GIYKRPALMYOVHAIEICFIFOFSGLAAYOYXAJMEFTZZDEELCEMUKVSCBEBAYPHA",
+            "vote": 1,
+            "voteTick": 49941033
+          },
+          {
+            "computorId": "YSUOBYIZGKMIVGVTKFDTMLPKINUAMKWLRDAUENPXMGXYVPXIIUOARGGARIBK",
+            "vote": 1,
+            "voteTick": 49941021
+          },
+          {
+            "computorId": "DVFEIAMQBGXTQCFJTBSQYLZKMUABSEOSTISTNUYEIBDRDGEIYPWLHLOERGHG",
+            "vote": 1,
+            "voteTick": 49940997
+          },
+          {
+            "computorId": "SOXEANRWFXOTQFTKLPHNLOVHOSACNLYOSIVJPJUTHFBJTZIAFYTXLPUDLSCF",
+            "vote": 1,
+            "voteTick": 49940978
+          },
+          {
+            "computorId": "GGSEOQSRXKNACAHZAKUMNRKIXMPBJGVJTEUPLNLRSBRWFBXNHKOTZYIANMJE",
+            "vote": 1,
+            "voteTick": 49940977
+          },
+          {
+            "computorId": "SOPGYHCJLEQENDFCWQOSTAPDDKSCTILAQYXEETEDIDYAJIAZWHCFFJUCSAJL",
+            "vote": 1,
+            "voteTick": 49940973
+          },
+          {
+            "computorId": "ERIFFSDSSZBJUDWIICCJABAOEFUCTSMNSDOQQKENFGGRPEXHOAMNPTWDGEQJ",
+            "vote": 1,
+            "voteTick": 49940954
+          },
+          {
+            "computorId": "JZAZNLEGBXOMPEDQYIVNVGDCVRBBFEZPFEQEIUOVYBAACOJBAMQENEYBGSVC",
+            "vote": 1,
+            "voteTick": 49940954
+          },
+          {
+            "computorId": "BRYVNUOBJXMMCCHSGAYGDYUWTZCCZNKDLTJWDYLPIEYOXBZMVEOPYTTCAMKL",
+            "vote": 1,
+            "voteTick": 49940947
+          },
+          {
+            "computorId": "XCBIHRQSVZVBBAXAEKWJBBJUYZHAXXXKQJVQFFLYABUAFWHVHUCKFDVFKGBE",
+            "vote": 1,
+            "voteTick": 49940926
+          },
+          {
+            "computorId": "TOQUPGENXZMINANENXHHJNSZYEODHSSAMEHPKHBKJEOEISOEJXKTKRAEHBMH",
+            "vote": 1,
+            "voteTick": 49940922
+          },
+          {
+            "computorId": "ODURWTQUABUNDFOMHKFESVZIUPBAQSODZJSAQNCSVECJYKOTJLEPNIADTTQN",
+            "vote": 1,
+            "voteTick": 49940916
+          },
+          {
+            "computorId": "UPRIIXACDMDQDGKKECPUFHIQEVBAADXYOIYNOAQLDBIXKTXZUUKFKIPFXEWC",
+            "vote": 1,
+            "voteTick": 49940880
+          },
+          {
+            "computorId": "WWGPLROCULVFTCSDAQMSQAZTKDYAFCMVQXBBKLHDCHFAPMFTNWJOMUDHAPSC",
+            "vote": 1,
+            "voteTick": 49940856
+          },
+          {
+            "computorId": "NMDKYPUWRUNVNFLFERTNCWHWSFEDLBEWCMVGPHLICFJNNGQLUTUHXJHFSEPK",
+            "vote": 1,
+            "voteTick": 49940851
+          },
+          {
+            "computorId": "NSJDJQVNWZELTGJUSTSHIMTLWRPDDIEMOCFECUIBOAYVOLXDKKMNQJJGGTLG",
+            "vote": 1,
+            "voteTick": 49940844
+          },
+          {
+            "computorId": "DTBXYJPFNACVZBYSEHAJGICGRKNAYDTJIVMVXWXENDVOAYBAZEXLQNXCCPPE",
+            "vote": 1,
+            "voteTick": 49940840
+          },
+          {
+            "computorId": "PDLGNEDFMYOXBEZONGMMGTLYGHQABXPBOURLAVUYJCWCPMPXRGJLVFLAPVUF",
+            "vote": 1,
+            "voteTick": 49940840
+          },
+          {
+            "computorId": "LPGPVYFJNATDWDXTOUWIBPCBNCDDAYSICXJCQSZGLESSFGEOIMYCGUFFSXRF",
+            "vote": 1,
+            "voteTick": 49940823
+          },
+          {
+            "computorId": "LJAAZIXOCFYSKFGNHPSWBGXLHSMAQIXBWKZZOJZDJAMPHKSDRYNRAOHEUPPD",
+            "vote": 1,
+            "voteTick": 49940780
+          },
+          {
+            "computorId": "TIJLRGNZXPZEJEFHCWNPTQYULXKAVNGMFRUTIHCOLGRDAQAALXMRXPMCRQEA",
+            "vote": 1,
+            "voteTick": 49940771
+          },
+          {
+            "computorId": "YUSSEWQMXJQFUEOKXISNUHUWEQQDVMLXQBWUDZDNRDSJDIHOHQRPINUFDBFJ",
+            "vote": 1,
+            "voteTick": 49940729
+          },
+          {
+            "computorId": "AEKIORFKMOMBGFYWODNCKXXKMCMDDDNDLYSOVOIHIFGMKVDSZEKVCQEBPCON",
+            "vote": 1,
+            "voteTick": 49940728
+          },
+          {
+            "computorId": "SXUREGPNKNEDMBLLVQUVZHKHRQIDPKWIERHZBFSYCCXOCTPRBZFZRLOGYTVG",
+            "vote": 1,
+            "voteTick": 49940724
+          },
+          {
+            "computorId": "CRHXOCSLXIFTBCDXTLZOHCNEFRLBBOBQRBAWAFXCRFHIJVPWPWJZIYDEDXEF",
+            "vote": 1,
+            "voteTick": 49940701
+          },
+          {
+            "computorId": "MASDOGEGEXWMIDCIUILMEHEXUWOBDZGFQTFJFDHPDGHSJQJYKASMIOSCGYQN",
+            "vote": 1,
+            "voteTick": 49940684
+          },
+          {
+            "computorId": "LOMKALFFBYXNVCNXGPNZMJIHCEADDJQGJQKUGLKFLHGKTRJIMDTFPJHADLRF",
+            "vote": 1,
+            "voteTick": 49940677
+          },
+          {
+            "computorId": "UHDZJOGELURMKBEQUSMNBMWAVPHDADXMZPCOLTFAUGQZVELHGUYRCPADDBEF",
+            "vote": 1,
+            "voteTick": 49940669
+          },
+          {
+            "computorId": "IUVGHPCMSLDDCHECYYIAJYHZNXHAOCVQOGOHKBVGOEHDHFXCAESNBIKGIRBA",
+            "vote": 1,
+            "voteTick": 49940651
+          },
+          {
+            "computorId": "CJKLJQACJFSFKDLQYGHAVHZCMCHAEZYGRQZMFCVPOEYALHFWZPEYAERADMOI",
+            "vote": 1,
+            "voteTick": 49940649
+          },
+          {
+            "computorId": "DZYVCMEERDGJJCJSNOYLAVSKBZEBIEORAKOBBQOWOEGQLKKMQYDKYJMAFFXL",
+            "vote": 1,
+            "voteTick": 49940645
+          },
+          {
+            "computorId": "GMXEPGHTXZLGWCWHOAZZXVFOGGLDDFUWMCYXAZCQCDPITOEEENDWJHZBYGTD",
+            "vote": 1,
+            "voteTick": 49940642
+          },
+          {
+            "computorId": "FYEMTCKBTSCPEGQIRDKOOTETWZUASGSLURYUWWNQBFWTZSFSZNEYNEZCRENM",
+            "vote": 1,
+            "voteTick": 49940638
+          },
+          {
+            "computorId": "XRDERVQTJTBSYCBIWNTKORUUOZSBOLTDMAMTRYHVWDXDXZJVGZTPJKQBSZCL",
+            "vote": 1,
+            "voteTick": 49940625
+          },
+          {
+            "computorId": "ZQYFSSZTIIQICEXZEQJTKRQPTJBBTTWMCTWEBZXWZEFSGMVWMGBNKKJDEYBJ",
+            "vote": 1,
+            "voteTick": 49940607
+          },
+          {
+            "computorId": "ZNVNIDGWFRZELCWFCMNDJWZAKIODMFFQPZAXIXWZOGBRPWILQHCIKTTBLDRF",
+            "vote": 1,
+            "voteTick": 49940584
+          },
+          {
+            "computorId": "HFXJLOGOQRDEKDCVTWPMIWIRFNCAIJAXNXUGJDWJHDJFLTHKKAJFXYGEPMPO",
+            "vote": 1,
+            "voteTick": 49940497
+          },
+          {
+            "computorId": "UJITZUGZEHOQQFUVYLJZWCYTBXBCBUTAJKVMFNFHBDUNRGCNXLGGCCDASALD",
+            "vote": 1,
+            "voteTick": 49940443
+          },
+          {
+            "computorId": "HEWBHWWWZSEDCCYSTNJIQXWAMIEALWRRZUSTQZUKDEMQEEFCKKPEEFQBHAHD",
+            "vote": 1,
+            "voteTick": 49940436
+          },
+          {
+            "computorId": "UFLWCVNDGCSXOAIXZMJMFNQKRLPCRFKGPTPWGPFJHGOCPEVUGTQQSIFDUUZI",
+            "vote": 1,
+            "voteTick": 49940407
+          },
+          {
+            "computorId": "TYHUKWPQBGEJNBSOBAUFSOVAQIGDZMBNFEFPNKURCAHIIJDAWUYXYNLGRHKA",
+            "vote": 1,
+            "voteTick": 49940402
+          },
+          {
+            "computorId": "PRFGQESMTPYQLELAEYIYJMWLRFOBZQJXAIXXWOIWSAYVRSETNFZPCCLFEQFI",
+            "vote": 1,
+            "voteTick": 49940382
+          },
+          {
+            "computorId": "HVAEKXSIVXNZZFLHHXZZASRDYXTAWQMRCYORNQIAGFECMUVVMQRQBQTCDWCJ",
+            "vote": 1,
+            "voteTick": 49940335
+          },
+          {
+            "computorId": "UNNDETCJYBPHFFDQRZLANZJITDGASFVIGAJRCURVUCWFBQTWEQXAGROCMAHG",
+            "vote": 1,
+            "voteTick": 49940306
+          },
+          {
+            "computorId": "PGIVBJFVOIHGIAOQGKIXPAXPTFXCSAVDRIRBFBYPQFZQUOEYKSLJMXFFVGGO",
+            "vote": 1,
+            "voteTick": 49940288
+          },
+          {
+            "computorId": "BRNYKSHZSJKGWBKCIFDJLAJZJPHBPMFWGVNPWQUEFGWAPHBAQIOVRCIGFDEN",
+            "vote": 1,
+            "voteTick": 49940236
+          },
+          {
+            "computorId": "UFHMKNURITDEQFEWDUHLSGUCSIUCWUMFRDPNXGVODATINUTFHIRNBGMBBKYM",
+            "vote": 1,
+            "voteTick": 49940230
+          },
+          {
+            "computorId": "JPDLHXMGPJSRCFSHBFYXVMMIPBDBBCIPEUDMNLNWPFAWBFTIFCELCRDGZIEH",
+            "vote": 1,
+            "voteTick": 49940229
+          },
+          {
+            "computorId": "URRUEMRFQRMGREYUDBYNMTCVAXIBQYZRRTYPCCZPJCDLKMUGNOTXACPDKDCJ",
+            "vote": 1,
+            "voteTick": 49940212
+          },
+          {
+            "computorId": "AQYHKXUTSJQZDFPVHPQWKXGWKSFBBNHAOXKZLRNUOGNSCUZUHHVAXKNAMHFO",
+            "vote": 1,
+            "voteTick": 49940193
+          },
+          {
+            "computorId": "GHPXGDGSIWLTFDZMQNJZBRWQEYLBANDJZXECZCHFXGIXRVGDWBEDNYUAUDLG",
+            "vote": 1,
+            "voteTick": 49940174
+          },
+          {
+            "computorId": "ZWRHSCPHMZUNFFSEVNRZLCNCTENDQMGNXBUNPNNRUGITJBFQKHOPDDTCVOVC",
+            "vote": 1,
+            "voteTick": 49939985
+          },
+          {
+            "computorId": "KGWRPFEHKRAYQEQGZMMMUWJFJVTAJSJIVTBRZKTIDDJAUUIFDOIRGKYCSAAM",
+            "vote": 1,
+            "voteTick": 49939980
+          },
+          {
+            "computorId": "SFVLFAZMWEQXMDAVGBFQOJXDYFZAZALUYEQZEMWMKGZWYDFHZSAJPXACBOEK",
+            "vote": 1,
+            "voteTick": 49939945
+          },
+          {
+            "computorId": "POHIXLBAJPDBIBJQJOMTZDDEIGZCPAYCEFYDOCAINDNSZJYDMBKNBXBECGHH",
+            "vote": 1,
+            "voteTick": 49939925
+          },
+          {
+            "computorId": "LDRVHBUTTQVLRCTGMJDRFEMZLWECAPGDSNCCPNBPCFPWKXUZJUVVNWLDQYOI",
+            "vote": 1,
+            "voteTick": 49939923
+          },
+          {
+            "computorId": "LGASHJKMLCVAVFWTUQZDJQIFDWLADYIAAOTVEUYHODETDNFNFMLTZMJCTVUA",
+            "vote": 1,
+            "voteTick": 49939914
+          },
+          {
+            "computorId": "FGHXFGDWGEQVGBRGFBFJTQOHCIYBCQWSCFKEJKNACEMNKVALXXYSMIPBQCNH",
+            "vote": 1,
+            "voteTick": 49939884
+          },
+          {
+            "computorId": "QUHLTTFUSKVECAJGVLEROVGRBSMAKZYTYNPCCWHVJCQPYVLDJGHIDNECMZGB",
+            "vote": 1,
+            "voteTick": 49939882
+          },
+          {
+            "computorId": "ACTQAIFTWBBMMCTECNKICUZRGOJAKIJQBFICDUKVRBBTFFLJCNCJVUQFZBMM",
+            "vote": 1,
+            "voteTick": 49939881
+          },
+          {
+            "computorId": "FMUVJULVTSBFFEXBKWCBIXSUMQDBKGJJTXOBFUEKNDMFTKFUXPFDPLMGKRIF",
+            "vote": 1,
+            "voteTick": 49939873
+          },
+          {
+            "computorId": "AOHXHEKOUWJIPFDIEKSJCKDHQBKBCJBWLESAJSUMRCWBHGSZOHGIHGIFXWPK",
+            "vote": 1,
+            "voteTick": 49939872
+          },
+          {
+            "computorId": "JPDIMOFXMRDKYBGTSZGOEAITERBBDKTYCTXVLFOZLBHKXKHDFDJLPIDFIRQO",
+            "vote": 1,
+            "voteTick": 49939869
+          },
+          {
+            "computorId": "ZFCNHLWTWVVYIHPLLLZGBNSDXLNDZMNYTIONVNEHODSLORLTROMZTYOGMEXF",
+            "vote": 1,
+            "voteTick": 49939861
+          },
+          {
+            "computorId": "VMTHRMXJYNKUJALNUJKACQHQKYYBWLRLXGSFVLJBJFTUHWXSYMDMXPGGZQRO",
+            "vote": 1,
+            "voteTick": 49939853
+          },
+          {
+            "computorId": "KUSHDANEMAKUJFJFGQWKYPWKAIVAYWXJAJLYQABBGFSXGZIGHZIFBKSBWUZC",
+            "vote": 1,
+            "voteTick": 49939850
+          },
+          {
+            "computorId": "GWWRNGMKREQOIDPBPVNCZBBPURLAAYWMQKATTZZUEAFKJFKFQTKRFHIHOLJJ",
+            "vote": 1,
+            "voteTick": 49939848
+          },
+          {
+            "computorId": "TWJPJULZPTBIAGMGLXDFMUQPLMNALYSUKEEWTBGGXEENLLGPUCTBQPTAFRAH",
+            "vote": 1,
+            "voteTick": 49939841
+          },
+          {
+            "computorId": "VZNFCOTAIGMQZGYUHSSERFJCQUQBKGKJMGQFFHFDLAUGWVPUFUHRNMCEGVOC",
+            "vote": 1,
+            "voteTick": 49939827
+          },
+          {
+            "computorId": "ZZULUXOQRBLGFHPOJSTRNRDUERPDBFLJZKOBWTNNYAXDHQHZBYAZUMAHDJBL",
+            "vote": 1,
+            "voteTick": 49939824
+          },
+          {
+            "computorId": "JBXKYCLHQMNFXBCZUVYZSZRFDVICDUFXGSITDMXFFCZXWTFGWZQEYLVEALDB",
+            "vote": 1,
+            "voteTick": 49939820
+          },
+          {
+            "computorId": "IWODKYGZQOGQPDMWXFILYZZCATGBEAZZIARMIUWAODOIWJQAANWULMMCTBZL",
+            "vote": 1,
+            "voteTick": 49939819
+          },
+          {
+            "computorId": "UTYRHCPROOPMFGRZIYGGVIBZJOYARHTRUPHXVULQLDBYJUJJSYIRBJHDWMFM",
+            "vote": 1,
+            "voteTick": 49939803
+          },
+          {
+            "computorId": "XEFLREPRXXIALBQVWOZFTLSQEPOCQTCXYLTYVBBYGAIIKLFHJJNIXTOGYGLC",
+            "vote": 1,
+            "voteTick": 49939801
+          },
+          {
+            "computorId": "ZDIEQISFHRFPGAQBIILHKQBYVTHAVYMJIQHHXWGVEANJUEYTJIBKBCPBUBZF",
+            "vote": 1,
+            "voteTick": 49939787
+          },
+          {
+            "computorId": "NUCUTILCUBRQDCFTQQPOSUCGJGVCQXASVZIWKVLJWDXIAOFJSSOZYYIAMPWJ",
+            "vote": 1,
+            "voteTick": 49939785
+          },
+          {
+            "computorId": "XYZLYOUCYTFXHDGASZPTIIURRJJCMPFPWZGZQFZKCBBZIBAWEPEAIQCCQAPO",
+            "vote": 1,
+            "voteTick": 49939777
+          },
+          {
+            "computorId": "IAAFTTBAKDRICFXJRECZKURFCJVCERXFDMBKMQPTEGJDMVLXVJACYVBCBEEA",
+            "vote": 1,
+            "voteTick": 49939760
+          },
+          {
+            "computorId": "HTFRVBXGBHYUTDMWTGDZDKYQAZQDLZUTOEGFOVAUHCHYMZRTGWPXECYGACOJ",
+            "vote": 1,
+            "voteTick": 49939743
+          },
+          {
+            "computorId": "GXWPAZEQGLHXSFRIXGFXXZDWJQWBAHLZELDOVJFJKEYPVFVKAUFQPPTCIRXF",
+            "vote": 1,
+            "voteTick": 49939740
+          },
+          {
+            "computorId": "CZWTRYJWZJKQZBSELZHOWRQADTBBYFXIPAWKTCTPQBZQEDDTYRPYHUPDNFEH",
+            "vote": 1,
+            "voteTick": 49939736
+          },
+          {
+            "computorId": "RNUSIDFFJYLHWAAVMJGUQVJOJFCDBNOFKXFALENVYGGBQLILTPTGGWDANGSH",
+            "vote": 1,
+            "voteTick": 49939729
+          },
+          {
+            "computorId": "DTZLPZSNLIFDKFUKWKRXUBLYDEKCIYSLGCQDGTTUHEDGYGMODIHFDEWDOKVB",
+            "vote": 1,
+            "voteTick": 49939713
+          },
+          {
+            "computorId": "RKTQGFUNHEKNAGYKIHOORTEBSBDBXGDVYQBBFOSZECCWLDGGQXAOIGRFJBWF",
+            "vote": 1,
+            "voteTick": 49939703
+          },
+          {
+            "computorId": "GEBCSNPASXEYCFKHHRYFUJRBYUAANMYYETBGTIJWLAFWLSWADXVJUEAAYLIB",
+            "vote": 1,
+            "voteTick": 49939697
+          },
+          {
+            "computorId": "HWUWBAXQPVYCHGDMIORUGQNUOSCDECLTXELAYGNUTCQIDEYDEMQOPROFMHHL",
+            "vote": 1,
+            "voteTick": 49939690
+          },
+          {
+            "computorId": "ZKYFEDJROPXJKCNUHDVITXNEGPFDKQQNLAPAQQDJFCDKSNOGNVAOCCDGODFI",
+            "vote": 1,
+            "voteTick": 49939686
+          },
+          {
+            "computorId": "GAYWTKBPALJPZGVHPVQSFLZGWADACXQDKKTDJAPNJBIFCUYSRENAHWHCJPGD",
+            "vote": 1,
+            "voteTick": 49939677
+          },
+          {
+            "computorId": "MSKFZNEKCTUIYBIJCMPGZFQYHHCDBVPLJHOVGFHFXCUDIVQQUQYLGZIGMXPN",
+            "vote": 1,
+            "voteTick": 49939662
+          },
+          {
+            "computorId": "MIHCGPCLSABNXAMGEPPBZVBDJUZAOOLXKVUGZKPYYBEYPMKQFYECZCTBDUYI",
+            "vote": 1,
+            "voteTick": 49939656
+          },
+          {
+            "computorId": "PQPWZOWIOOVEOCOZDHLKDFRFMNAAHGSKSHIQKXZLBFBELRGVJLFDGJXEDMKL",
+            "vote": 1,
+            "voteTick": 49939654
+          },
+          {
+            "computorId": "NSMTJLUAKAHCIANWJZSWOMYXKZCDKIQQCTDFWBLUQFALSQSFYUWHRKEHXZYJ",
+            "vote": 1,
+            "voteTick": 49939650
+          },
+          {
+            "computorId": "PLVAJXKGJZPOBHZEOWICRYNOGAKBQBQSSPPDWCISLAJDIXNRJPOLRYCBZJLA",
+            "vote": 1,
+            "voteTick": 49939636
+          },
+          {
+            "computorId": "PPVDQTCQKBONUBPHQIEMIOHSWREAFPTJLNSUEWWGBDBAXEIPJOAGTHHGEKEB",
+            "vote": 1,
+            "voteTick": 49939636
+          },
+          {
+            "computorId": "IWJTLTKUSVSLXDMOTURXUAXACEQCXUALBREZVOMMIDOMOYDKBJQGHMVEXIBJ",
+            "vote": 1,
+            "voteTick": 49939625
+          },
+          {
+            "computorId": "FKVKHXVSJLSREEJTPBCVNCSWXFSDERLYODTFYHOEKFQQBVTCUWOWCZODBRHM",
+            "vote": 1,
+            "voteTick": 49939598
+          },
+          {
+            "computorId": "SYXPYJLXAAXKEELOBHMWKAUGCYDDSMDAKOKJGHYGUDJXSSMMRNFEONSEVKXB",
+            "vote": 1,
+            "voteTick": 49939596
+          },
+          {
+            "computorId": "TDYBEYUDZZGBZFSGTAPGXJOKUBRCNUMRSUFXXCFXCDXZRIHQFASWCJIAXHIB",
+            "vote": 1,
+            "voteTick": 49939596
+          },
+          {
+            "computorId": "YPIZEJGBKTVWGCQVLASKVVPZDIUABABTDPYTLNXKXBWDJMNVQSHKEVXEEHXA",
+            "vote": 1,
+            "voteTick": 49939590
+          },
+          {
+            "computorId": "AGISTCKDWHDKHFDUKHDPITGPLHGDXAZGMOWWEUUMABTMKDEWDJLGQBVCEYDA",
+            "vote": 1,
+            "voteTick": 49939589
+          },
+          {
+            "computorId": "IWGBIWFAYFHJACUCQITTOEZKWFKAXYFEJEHXVAJWJGTTBGFRQOLZDRTDIIJO",
+            "vote": 1,
+            "voteTick": 49939578
+          },
+          {
+            "computorId": "CTNCDEPDSXMJAHPRCMEHMBJOWHLARHJMUEKUJXVXADFZWZOPANMZYWAGHSUO",
+            "vote": 1,
+            "voteTick": 49939564
+          },
+          {
+            "computorId": "ELFSUNZPKTCASENNHQMDJAYCOJDDUBUZVTIDEVJUFBUHTSXSMFIMIHWBPFBH",
+            "vote": 1,
+            "voteTick": 49939564
+          },
+          {
+            "computorId": "UIXYCEFYOWUVOGWUWHQYWMSJDSODIPJAASZEAXQXMFQGROJJIFKISQCFKWQM",
+            "vote": 1,
+            "voteTick": 49939561
+          },
+          {
+            "computorId": "YFIOQCMSJKADBDLGRNBNKBZQFXTCJEIUVXCKECZDXAHHAGEDBVYOPZEHYRAE",
+            "vote": 1,
+            "voteTick": 49939560
+          },
+          {
+            "computorId": "SAYMCREYZHDBOBXVGMECHSALAHSCYJBKRYCHGLJHKENXUDOFQIPCQCSEZEFD",
+            "vote": 1,
+            "voteTick": 49939538
+          },
+          {
+            "computorId": "OEFKRVIPUQGGKFLIYUJQHUEGPYRCXXCSTAZDWZIYHAVAGGMRBJRYVYIHOLSO",
+            "vote": 1,
+            "voteTick": 49939537
+          },
+          {
+            "computorId": "LPPFFGBVLFIIVCHUXNMQVHSHSTFCWNBZWLUEUVCHLFOALCFMHOHOMJIGWCJF",
+            "vote": 1,
+            "voteTick": 49939531
+          },
+          {
+            "computorId": "NNGTATHEFVLOOABAPJBDOXJWQOICSPNPNBKTPWYKXCCINCIRSGCPTKGBWZEH",
+            "vote": 1,
+            "voteTick": 49939523
+          },
+          {
+            "computorId": "KMHJTCAYZBXSUECPMKQGYMIXIGVATKRSQCXNPDCZTCFIUHAECAGFAJJGKFJA",
+            "vote": 1,
+            "voteTick": 49939514
+          },
+          {
+            "computorId": "RORTPAVDANGWPEYFNUOYUMFQKYXBORQUWWZHGIIJWARLKASJKXSSQYZDYNNM",
+            "vote": 1,
+            "voteTick": 49939508
+          },
+          {
+            "computorId": "RQSGLNWXLGPLGDIQEJVXHBVBUFRBPARGGPQSLMRYCDRJICDPVLFNGRPFHLJO",
+            "vote": 1,
+            "voteTick": 49939505
+          },
+          {
+            "computorId": "YGJGKBGKMWEEYFBMWGMLBJLWOQGBQADQZOFJJYGDKBMMDVWXWVKCDHZCIGDF",
+            "vote": 1,
+            "voteTick": 49939502
+          },
+          {
+            "computorId": "GTRABQADQHETTCROPTXUPXRESPXBBYMENBLEXIFIWBHSMHGVNLXEKYUBLEUF",
+            "vote": 1,
+            "voteTick": 49939497
+          },
+          {
+            "computorId": "BWIFLBQBPGIGRFPNAQNGZHPNBSCABQNGRMUSXQMQTDITAZHHOAVHDSOAPCBF",
+            "vote": 1,
+            "voteTick": 49939495
+          },
+          {
+            "computorId": "NWQGEKVIDUWFIEEPNEMVOCCBRZDCINDVKTLLVOQPHDIXEZAJIWXGKRJGURSM",
+            "vote": 1,
+            "voteTick": 49939495
+          },
+          {
+            "computorId": "MSZLCNGBOXQWRFLZANNELYOOKZRDZIXMYRKTITNUAESOJJOZFCZXWROCTKBK",
+            "vote": 1,
+            "voteTick": 49939494
+          },
+          {
+            "computorId": "QBCFSSEWKWZWKGXDRRTYFQRLMCIARVGTLUUZZPMKTEOBDFNZQZGSXQJBHNYF",
+            "vote": 1,
+            "voteTick": 49939493
+          },
+          {
+            "computorId": "MPDTRPNFTUHHMDBGBVGVUJKEKNZBEVXOSTRTLLEDKFFXSSNORSTKDSXECFLH",
+            "vote": 1,
+            "voteTick": 49939484
+          },
+          {
+            "computorId": "GRSEVSZBAOLCZCFCFTJHYWVNGILDXEYLGLBSIARVDBGWPLUUXYENIAPBXFON",
+            "vote": 1,
+            "voteTick": 49939482
+          },
+          {
+            "computorId": "ZFQHURQOHFEJGAXMWFEEISXLTPBBVDWDJYDLYYWWTEMGJTBPBIPTTAVBMGMI",
+            "vote": 1,
+            "voteTick": 49939478
+          },
+          {
+            "computorId": "GVJARQQCHZFKGFOONXNFDJZBAUEBSLRBRIOZYHZEIBDPYJHLRWMAGKICTDFC",
+            "vote": 1,
+            "voteTick": 49939470
+          },
+          {
+            "computorId": "YIROSMBRZQGEACLVKWHTDMJHMLICLNVIHHNQVNUNMEJGHBLYNIFEZYDHDCQH",
+            "vote": 1,
+            "voteTick": 49939468
+          },
+          {
+            "computorId": "VUAOTUEXWNMHNBYEUCQIFHUOFRKCVRIICGIRGMAFKBXGSWZDNRXSWZYCZODG",
+            "vote": 1,
+            "voteTick": 49939450
+          },
+          {
+            "computorId": "VJZPDJJSCDFMYERIGSYKXXSXIMMDITKHAZDPIPDVICEZEBNPHAWLXWHDJDJG",
+            "vote": 1,
+            "voteTick": 49939435
+          },
+          {
+            "computorId": "YASAEATGAAPLCFTFJGSUAYFLGKMDHOHTRLZRTIKIUCSGHADCIMIJLLFBFBMO",
+            "vote": 1,
+            "voteTick": 49939433
+          },
+          {
+            "computorId": "NXBFANGNKOBYEEBJJQDTTTRIVWGDOBYZCOWJIZDNBBFOSTHTDUEQZCTBGJHI",
+            "vote": 1,
+            "voteTick": 49939421
+          },
+          {
+            "computorId": "WSBKOFCJNRUPHEPXSYPNVUDYGNWBSMWQVYYESTJSVFEBDTUADVCPKSOCWKDJ",
+            "vote": 1,
+            "voteTick": 49939418
+          },
+          {
+            "computorId": "NUIRTWXKVFJIACFCCEEYTKNUSSLACIAJPWTLCOPWXABRLQKYRSDBGOAGFWPD",
+            "vote": 1,
+            "voteTick": 49939416
+          },
+          {
+            "computorId": "AOUJVGNZZJRYCFNSEHGUVXYCWFGASIQQHLJQMTFYZGTSPDUMSHTUKCGDTYCA",
+            "vote": 1,
+            "voteTick": 49939414
+          },
+          {
+            "computorId": "YFLZZOLKKXHOFDSQFLGSMETODNACUEPTXYDYSVCKACASBOWAOEFUJQPEIBZL",
+            "vote": 1,
+            "voteTick": 49939410
+          },
+          {
+            "computorId": "XHWDYKMHSXMHIBXTZNLUJBNGABACLTCIVDFTWPNQSGQGBLJXNMTBTHSBOXVD",
+            "vote": 1,
+            "voteTick": 49939384
+          },
+          {
+            "computorId": "ILIBXTPPSLDSVFMMGFHHLAZLEEIBWPHZWIMKOASGKDLZSWNHUZMGSKJGLAYI",
+            "vote": 1,
+            "voteTick": 49939375
+          },
+          {
+            "computorId": "OOBLZSDUJQXMMFZQRPFLBPLBUKSAKYPYVGUVLIHYNACIOWPTVYGAVAGBVYAG",
+            "vote": 1,
+            "voteTick": 49939374
+          },
+          {
+            "computorId": "DBLZYVRBUWJBUCPSBIYOHNYQYIVBLOJJPIPYADBEMBFTPEOHAGPKUKFAEUCH",
+            "vote": 1,
+            "voteTick": 49939371
+          },
+          {
+            "computorId": "IOEEHDYATHYVHFPASBGCEZAFILRARIWKXXEWTJFXVAOUMHCFCZAJADOARGJE",
+            "vote": 1,
+            "voteTick": 49939367
+          },
+          {
+            "computorId": "QHSKGDFAXOBSKGLQGTLTOMZEKKFCYPVWFNGZTNNBXFNGEYCLRYGAVLNDAILC",
+            "vote": 1,
+            "voteTick": 49939356
+          },
+          {
+            "computorId": "MWBTYRAPNPGQVAUNLYPBWZVLTUQCQNVGSVLMUPFEGEIYBFXXMWXBTWVEXLZH",
+            "vote": 1,
+            "voteTick": 49939352
+          },
+          {
+            "computorId": "IQPYEPBLOMOHJAFLYWOLDUZWBKSBGMBRWRYXSEOKFFVFCFBREQBLXYGECZIA",
+            "vote": 1,
+            "voteTick": 49939350
+          },
+          {
+            "computorId": "KLMDWFAWEWUTMBRTBQDKEGNZALBCZQQRQNPTQERGWAUSYMOYNOGQGKMECRFH",
+            "vote": 1,
+            "voteTick": 49939345
+          },
+          {
+            "computorId": "BTURBWASCRZMDGPINNYWXQXACJACSLXLRKNHXCCOFGOQKLDPVRETFVOFIUNE",
+            "vote": 1,
+            "voteTick": 49939342
+          },
+          {
+            "computorId": "AQDVSYZCIRNAVGESXNGCWDZNHUUCYHFZEANDOFIGCFITABRGYGYCHWBCRXCH",
+            "vote": 1,
+            "voteTick": 49939340
+          },
+          {
+            "computorId": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+            "vote": 1,
+            "voteTick": 49939339
+          },
+          {
+            "computorId": "QOBVLLWTFFOYBGLYTKNVBOKTAZLDFTKTETYEBXEJPDFVTYLELJEIMXHDMIOE",
+            "vote": 1,
+            "voteTick": 49939332
+          },
+          {
+            "computorId": "MFGXZXCFRWYACHWYIOZCOYOGBRWCUDCWPPVXLDVUXCGVRNAGWKODGMBCHFOB",
+            "vote": 1,
+            "voteTick": 49939328
+          },
+          {
+            "computorId": "FILAUEMBFVOBIFUBGAQDYRVROGNDUVKMWAIXWAYQWDSMVCXPXMNUYFSGGPTI",
+            "vote": 1,
+            "voteTick": 49939319
+          },
+          {
+            "computorId": "ZVAPTANPSTIFDFHJWUWYGXWMKDFDKWIRJBCAGXXKYDYZKVOOAMHQGZBAGSPI",
+            "vote": 1,
+            "voteTick": 49939311
+          },
+          {
+            "computorId": "UAFSRBMLJHVHNDSWMHFGOPWJARWBBVWKDUGLVZQEREBGCIJCTDGIMPJDMJMM",
+            "vote": 1,
+            "voteTick": 49939306
+          },
+          {
+            "computorId": "MYVLWZGGVHALIEVZQXCEVQJXNEUAYULLEMBMFTNORGJGESCMQTPCVOHBBBTI",
+            "vote": 1,
+            "voteTick": 49939303
+          },
+          {
+            "computorId": "NBICANPFQRCYBBJTSOUXEFULRINDAPCXGVIPYQMZDAOLBXTIGBSZAJGBDKTF",
+            "vote": 1,
+            "voteTick": 49939293
+          },
+          {
+            "computorId": "KAUHCSFKLTDZZBSZUJDDDEJEONBBMZRTFDXTRDZGPFDJNUBXKVSYEVQFYOSN",
+            "vote": 1,
+            "voteTick": 49939291
+          },
+          {
+            "computorId": "KXPVWYDHVCQGAGYEGROFWDWZEVFABJUBAACVCXYQYEURTDUOMSENTQHCNYVB",
+            "vote": 1,
+            "voteTick": 49939273
+          },
+          {
+            "computorId": "BDVLVGJVUVLCTDPXUBMNKVIBTEMADSPQDJWIWMYKNCFCZMNLXNJLPFGCGTWJ",
+            "vote": 1,
+            "voteTick": 49939252
+          },
+          {
+            "computorId": "GYKPYYARFHUERCVMQPMNIZKWBMZAFWOIWVCMLIMHCGXJRLIFXYQTQRGAELQC",
+            "vote": 1,
+            "voteTick": 49939244
+          },
+          {
+            "computorId": "VLULWLNWGYEIPERRNDKSILWUWNHBVXKBCMXUFLVVTCLQSCRQMWVMBEJCOBKF",
+            "vote": 1,
+            "voteTick": 49939244
+          },
+          {
+            "computorId": "COZFNHZCRMJBJBTVBIHBECQRDVRCILUKQPMMVHWZVBWSVEUBEQWIWISEFINI",
+            "vote": 1,
+            "voteTick": 49939212
+          },
+          {
+            "computorId": "SZJNDWHCYWHMOGKEIAJXCFTWHMFAKSYVJWMLLPMVPAVHRVKJRYVSVGPFCBHC",
+            "vote": 1,
+            "voteTick": 49939191
+          },
+          {
+            "computorId": "CPUTYXXZHUHGKHIPCMXTNAMXWXYAXPBDBWLOJMNYBCTRFRYZPPRFKPDBULJJ",
+            "vote": 1,
+            "voteTick": 49939182
+          },
+          {
+            "computorId": "ORXKLTDPWTKXKFZCMQAZJTKMMKIBBAPDZJWNCOHYGHEBBQYKYYDLJTVCWNKC",
+            "vote": 1,
+            "voteTick": 49939153
+          },
+          {
+            "computorId": "PCQRHZBMMMTCDAROMBXXLDSPAVJCGKUYMZILJCUHRDGSACXMUAGSEPVAXUCG",
+            "vote": 1,
+            "voteTick": 49939139
+          },
+          {
+            "computorId": "KVQHWKDVZJFZFGQBSEDETUKYWKEAVGNKXYBCIZGBGANDKVERAEKMCPVEJCMG",
+            "vote": 1,
+            "voteTick": 49939129
+          },
+          {
+            "computorId": "HGGVSBXZEGIGIFOTHFQJTWWNPOUCUJLAXJVYFXCBCEDIQDCQHQHVNVQFGYDN",
+            "vote": 1,
+            "voteTick": 49939118
+          },
+          {
+            "computorId": "OUPNMQYFFYEEGAPJWHKODGMKCQAASPDCMZUOZICPSDXWHANLSKHJROWGBDPG",
+            "vote": 1,
+            "voteTick": 49939118
+          },
+          {
+            "computorId": "VAVZCPHUDJEZXCQXYOOOBIKJQHWBVKZMLUDCPEFDEEZKGZJQMJYGSUMDRYQB",
+            "vote": 1,
+            "voteTick": 49939115
+          },
+          {
+            "computorId": "WJZUFSKTCCODKDLRMJFILHLSNUFAPIJAZUJVNUKHODOISOWUJOUEZUXCEREL",
+            "vote": 1,
+            "voteTick": 49939079
+          },
+          {
+            "computorId": "VLZGNIGNFODLJCQMPYFQPTATMUBAMRWDUOPFARMPJEGMYKPMSMZIRZNBLAFM",
+            "vote": 1,
+            "voteTick": 49939058
+          },
+          {
+            "computorId": "CGURFFBZVBAOMATSLJOEHORHMMHCBSFACWLVLPRCMDKXVVKRXNKXSHPDLFKM",
+            "vote": 1,
+            "voteTick": 49939037
+          },
+          {
+            "computorId": "TPLMMLVWETVGZAVFDXMVQKQPIVBBAXOWLRPGSYQZEGCYTYVRIVPBSOJFYUWM",
+            "vote": 1,
+            "voteTick": 49939006
+          },
+          {
+            "computorId": "SLBIBAFQMLZSICVVTZCBHASMZRIDPHGTDWKSZUBDCCBNOMEHEKKQMJJFEDJE",
+            "vote": 1,
+            "voteTick": 49939005
+          },
+          {
+            "computorId": "KHKUVGTEMFFJVBVKPTTSGRSBNBSDQRXRUDYASGRBOCEVLTVQSNLAMRMGBOXH",
+            "vote": 1,
+            "voteTick": 49938980
+          },
+          {
+            "computorId": "KOJIDIXRAJRTTAPSFTSZCYJBTNQDMUNIDLQYSUHFRAVEGRZXGFMCCUEAMWAM",
+            "vote": 1,
+            "voteTick": 49938958
+          },
+          {
+            "computorId": "FKXJHTXVVBYHOEKZKGTZPTXZFVQBIFTSLRLBPIBNXGSCQEITNPXTPADANYRG",
+            "vote": 1,
+            "voteTick": 49938943
+          },
+          {
+            "computorId": "BTFWRMJQOPVCLHZGCIQYHEJBBSVCWUIBOIUPHAZVKARSGYJCUMXMODKHETCF",
+            "vote": 1,
+            "voteTick": 49938921
+          },
+          {
+            "computorId": "LXAIZZLFLKRWUFHBDQNBFJXJEFJADMOELEWCLSJEVDLIQZHDPASIAKWELASL",
+            "vote": 1,
+            "voteTick": 49938905
+          },
+          {
+            "computorId": "KOWZSEMBCTHXFDPIWYMMCIUYWDEBMLCFVOYPVAJXNEGRSENZYMNFCNWEXCCC",
+            "vote": 1,
+            "voteTick": 49938891
+          },
+          {
+            "computorId": "VMCVPEPHDOXRACPFQCHWJYJWFPFAMMDYHGODJIPZZAVNCUPZISEWMNMBEMZM",
+            "vote": 1,
+            "voteTick": 49938883
+          },
+          {
+            "computorId": "IEREXJCDLSYWOFXEGIIQXUFBZBMBQUSHYUCSUBYKVAUBZDGXLPDYQVPBXPMG",
+            "vote": 1,
+            "voteTick": 49938872
+          },
+          {
+            "computorId": "UFHFSDRQDJIQWEMIERVJBFYTJCYBHLTLPXKSGPYMRDCZYYLKXGGBYRFHUPIO",
+            "vote": 1,
+            "voteTick": 49938862
+          },
+          {
+            "computorId": "OUVRUMERNEEJOAPVTEBWQEJGWMSDSYBCORORWDNHSCNZAVGWGPTVVANFVPPO",
+            "vote": 1,
+            "voteTick": 49938856
+          },
+          {
+            "computorId": "QXYMUAXWTUHKGDWXYJOTFVACKHDAUSZQGMCTLLJXPDPYVREKCNWPYBOAKHQI",
+            "vote": 1,
+            "voteTick": 49938853
+          },
+          {
+            "computorId": "TLNCRDYMWPQYGHSYIPEVVTZOZDZBLKFIURFEPUMDQBOPVBOHRWQBROVGAAZB",
+            "vote": 1,
+            "voteTick": 49938852
+          },
+          {
+            "computorId": "BMTLTSXOFGZIEHGIQQEOGCCVAOBDOMVYETBOFRRUIADXMNOXVWZTCGYAPDJF",
+            "vote": 1,
+            "voteTick": 49938822
+          },
+          {
+            "computorId": "YIGGHALDEEXIUCSCCUGYNZFKWWXBGWIABGOLUIDOSCUWPLOXFTINQMPETKVO",
+            "vote": 1,
+            "voteTick": 49938822
+          },
+          {
+            "computorId": "FYNXKUWJNVKTLECUYDUMNCUFKCVBBUWWWDMAYPXTRESGFTCDFSXFARSDNBRM",
+            "vote": 1,
+            "voteTick": 49938798
+          },
+          {
+            "computorId": "SHBONGLGNKAFWAAZJUMKCMGEUWEADMIMTQPQBYYLCETMFBAFLJOEQMAFBHBK",
+            "vote": 1,
+            "voteTick": 49938794
+          },
+          {
+            "computorId": "CHBJDHKUTXDJNGVGRVHCFCDECDNDVWKBFOCEBLMKHDZBSCMULTMMSRAFCCIO",
+            "vote": 1,
+            "voteTick": 49938790
+          },
+          {
+            "computorId": "KWMQYWLEUCOFOGSFJNBFYGXXSDWAGEAMOMIBWWRPDACOMGQSSQGYYPMDMJQI",
+            "vote": 1,
+            "voteTick": 49938761
+          },
+          {
+            "computorId": "VUKEQPVNKWVEKBHXZHNASJPJHUACYMQHCLBOAUTRLBBFQEEZEIQSCCYDTJYJ",
+            "vote": 1,
+            "voteTick": 49938743
+          },
+          {
+            "computorId": "NZUFIWZJLOEDIDSSAVUSMHIZMKFAWJSGDUIZTDUABBTLDHWKXCAIOQIEROKE",
+            "vote": 1,
+            "voteTick": 49938734
+          },
+          {
+            "computorId": "RSCGGACGWZQGUEMQFLAENNNITMWBZWOLNZBHYKKEEFKIZSIPXRREACCDVAOD",
+            "vote": 1,
+            "voteTick": 49938718
+          },
+          {
+            "computorId": "EXAOPEELTRWDIBOBTUZQFRMHLFEAWGPPHGBJGCRMLGTQUYYRGLTZYEBGINEC",
+            "vote": 1,
+            "voteTick": 49938717
+          },
+          {
+            "computorId": "KGDUKQRDIWPQPESDDDQKQUTSTVTAJABPSXUUPRCHDANBEKJSCXPMSEIFYCJL",
+            "vote": 1,
+            "voteTick": 49938711
+          },
+          {
+            "computorId": "HDSURKZHMPQRPBHUOSPPIOFAFOAAGZURUPPQZVIYNDYUVSHLLPZGDTSFAKTB",
+            "vote": 1,
+            "voteTick": 49938706
+          },
+          {
+            "computorId": "KUDDGLGALHCONBIFKRCGVJSXVRMCFCVEPVEHRJZZPDDHDFKQQUROCWTDTJID",
+            "vote": 1,
+            "voteTick": 49938694
+          },
+          {
+            "computorId": "YNKYXRQDAXAUEDVZPNDTVTVHKKCDTMMKUABJHBLCBEJRTTCXIUNFDWZGLHQN",
+            "vote": 1,
+            "voteTick": 49938687
+          },
+          {
+            "computorId": "DHXIVGZJNRGDJADGTPWPCVXIKQMCZXYLDJGMROVJFHKJAWSOWDKYZAICJVGE",
+            "vote": 1,
+            "voteTick": 49938682
+          },
+          {
+            "computorId": "ZDTOOKKPTJIFUCTTCHBOHSKVSBRCPZDKDSCVTXPHRESOVAHETHZMXMVBRMSJ",
+            "vote": 1,
+            "voteTick": 49938681
+          },
+          {
+            "computorId": "NMJMCXMNBTMKQGVFKSSWIPPDNSBCYYPZYVJMKVGUKHPNQPZFDKASEUWDDNPL",
+            "vote": 1,
+            "voteTick": 49938675
+          },
+          {
+            "computorId": "AISTJIXEBSIUGGWJIAMZKJJOUITAABMCXWHCELHQGCRCSMBRNEOGOIZBADTJ",
+            "vote": 1,
+            "voteTick": 49938667
+          },
+          {
+            "computorId": "DHRZAZPTTELYLGJXMVJZHGREPBGDHQTRQNSHOEPAMFKNRJEBICJKXZEDHGVI",
+            "vote": 1,
+            "voteTick": 49938630
+          },
+          {
+            "computorId": "BVPINRTEUTGXOGPUUMTHEQUYUSUCWKCHPUNOVNZNTAEULAONYQTLSWBEIJOD",
+            "vote": 1,
+            "voteTick": 49938623
+          },
+          {
+            "computorId": "AEVOVRWKYBPVMFVUVXWRXMGGRLLAZHUFYQIXUIYIHDHDMCEBOCVYFVLCATZL",
+            "vote": 1,
+            "voteTick": 49938617
+          },
+          {
+            "computorId": "FLIEMINZHRVZYDKGMYMWVNDOSSKAPUAIEFTVGANRYFXBZUQIWWBFMMJAENGB",
+            "vote": 1,
+            "voteTick": 49938608
+          },
+          {
+            "computorId": "ODHNPWSCRAUFAADXVTDGLYRAGHFBEIQAZHAKIEXLGDKMBQDASJOGYUUGAEOA",
+            "vote": 1,
+            "voteTick": 49938597
+          },
+          {
+            "computorId": "XZXIGAYBLQKOUFCUFNPGUZGRFIODGUROHQXCASOCYGRIRPCOFQYBQZXFASUD",
+            "vote": 1,
+            "voteTick": 49938575
+          },
+          {
+            "computorId": "ALLBGDWKPVITGDXPLUFNBTJCCQRCVWTVHYQRZZOJPFFFEIPDTPQINBYBHBXI",
+            "vote": 1,
+            "voteTick": 49938572
+          },
+          {
+            "computorId": "TBQZCMRRYPUUODFILWSNFIXSEIICFCKHBNNGVVVFTFPUKQIKZXXWVVECTFLE",
+            "vote": 1,
+            "voteTick": 49938569
+          },
+          {
+            "computorId": "ULIWKFSBCBIHHGXRZEVXTEYULVIBYFLKLECLZFCZLCBWGBOTEHFZEVNGSHFA",
+            "vote": 1,
+            "voteTick": 49938565
+          },
+          {
+            "computorId": "YFAPNWTNUMGEHEEHVRQNCKRGUKUANQAYHIYLQFHCZBVQOKISWVPWQGDEFWTK",
+            "vote": 1,
+            "voteTick": 49938565
+          },
+          {
+            "computorId": "DOIAOCAQZLNNAHNRAJSJCBOMEPXATUYULBYCCNIZYGYJCDYNXVLEYIEHKUBG",
+            "vote": 1,
+            "voteTick": 49938564
+          },
+          {
+            "computorId": "NNGIRJRVKZMAACWOYTQRURVKQUNCNWJJOBRAOUPIXCKISBTVZJKQOKCHJJDN",
+            "vote": 1,
+            "voteTick": 49938563
+          },
+          {
+            "computorId": "CAOUGOVHOAEDLCDVRGWRXLZSUXMAPXWCQSEXPCPLWDIVHSDDVBIUVKODLTAJ",
+            "vote": 1,
+            "voteTick": 49938558
+          },
+          {
+            "computorId": "CUSLXCNZSGXVMFLTDLVVPMIBQHMAISZOSGHKXUCAJBGQEFCYGJZTPGQFKIJO",
+            "vote": 1,
+            "voteTick": 49938558
+          },
+          {
+            "computorId": "DJDMZWJHBHUIGEGLFRLFMDTTAYEBGQESXYPFWZZEIHUQPCGBVQFSRCKFRZLJ",
+            "vote": 1,
+            "voteTick": 49938542
+          },
+          {
+            "computorId": "RGZILMQMTYBTIECBJUQBONPVJEODKOESMAUHQCBCXCPQARQIUCXACWBCRNAN",
+            "vote": 1,
+            "voteTick": 49938539
+          },
+          {
+            "computorId": "THPZBYUXYKGVLCXKKUPFXQUDMUPDZHSTJASXTTIEKDVNAUFEUAURZVFHHOQK",
+            "vote": 1,
+            "voteTick": 49938539
+          },
+          {
+            "computorId": "IBFOXFJILREFAFFLOWYNBYMSDZCBMNWGHFMPLRTLODPSXIAVMKBWNMJAXPWJ",
+            "vote": 1,
+            "voteTick": 49938536
+          },
+          {
+            "computorId": "SEBJSWCEOMFVBHQVANVBANIJWWZCBQYQZZSMTVKTMBVOMABAAHPMKDDBRNCC",
+            "vote": 1,
+            "voteTick": 49938534
+          },
+          {
+            "computorId": "OACOYJIUCLKILAEHRVREPBXHNOXADQFDDNNMARDVPDLSUQVXXEDFWWVAKSKA",
+            "vote": 1,
+            "voteTick": 49938531
+          },
+          {
+            "computorId": "ZOPQGIYTTAQAVFFEFTFHSYREBPSBPIZMFYOTBOOAODNHQRQOPOWCYUBASCEG",
+            "vote": 1,
+            "voteTick": 49938530
+          },
+          {
+            "computorId": "IZTDUNFFNVRVKFWGRQJNTNUZJIPDLLXFGJRVLMIZFCPBLVBTKFUZCTXFRURF",
+            "vote": 1,
+            "voteTick": 49938525
+          },
+          {
+            "computorId": "GDHINGCTQZZJVFBRPWYBSOIUTNMCOINEUYXVQZRGNDQNHGXCAZMYTRDCNSUA",
+            "vote": 1,
+            "voteTick": 49938519
+          },
+          {
+            "computorId": "TYIDIMCRMSKFCEHHNOPRTRHWTDGDGLBKRJPNEDSFJGGYLIQVJOTYFNIGUQWH",
+            "vote": 1,
+            "voteTick": 49938516
+          },
+          {
+            "computorId": "DUIVGIEOXKAENFEPCGOIYCJORXDACAPKRYGGMOSGQAVUIXNKXQVXHJCAXBFE",
+            "vote": 1,
+            "voteTick": 49938514
+          },
+          {
+            "computorId": "APZKGVENRLBKYBOMPKGFTPTKBHMBOCFPGMIRXNANHGNGCMAYOTWVPQCGDOZB",
+            "vote": 1,
+            "voteTick": 49938506
+          },
+          {
+            "computorId": "FZNCEGPOMJPRPAESSPDOWGJFIFWCZDDKXTINCRJDIDUXIESPCDPDASWDVRPC",
+            "vote": 1,
+            "voteTick": 49938503
+          },
+          {
+            "computorId": "UNTGFDGPZSUPVAUITIMGVHJMYWVATOKRFTOPRQEYNGTVCSMZWVMJMAODLFYK",
+            "vote": 1,
+            "voteTick": 49938502
+          },
+          {
+            "computorId": "IKUVACMVCOLQXBAEIHMLSLWNEUIBDDLXOXRIGUBUDEPEMYJTQMONXKHCENEF",
+            "vote": 1,
+            "voteTick": 49938475
+          },
+          {
+            "computorId": "NAZBSHBXUXEUDCNCMNGOUYTAYJLCGEORQYGFFCWTFBFYXEYMLYLLFSRDTXZK",
+            "vote": 1,
+            "voteTick": 49938472
+          },
+          {
+            "computorId": "ESNPKBONFWSUYAXRIPOESCQTXYRDVYMCKTHSGZWAKDSOYBKMKYZEAUZAHYAI",
+            "vote": 1,
+            "voteTick": 49938463
+          },
+          {
+            "computorId": "ZOGHBBDLXPZOBDCZZZJSXNZIZOYAUHOULPJYVMILYBRHHNFAHWKORVQEDLLF",
+            "vote": 1,
+            "voteTick": 49938462
+          },
+          {
+            "computorId": "WQPCSJDUUFCEZENUCGQKEFHONNCCUKZPHXVXWUNNEEFCYACOXCTBAZTGRTGI",
+            "vote": 1,
+            "voteTick": 49938460
+          },
+          {
+            "computorId": "TTTOZXVAOUEGVBBNSOGUSUDWYZHBOXKDPFARSKVJBGQNSWLBLFAZTNMDECXM",
+            "vote": 1,
+            "voteTick": 49938455
+          },
+          {
+            "computorId": "GHGAJAUCLTWRZAFUASRFZKMVJYXADFZDIBDAVMZMXFZAOWJVZJVNWUZDJJQN",
+            "vote": 1,
+            "voteTick": 49938452
+          }
+        ]
+      },
+      "status": 3,
+      "sumOption0": 6,
+      "sumOption1": 569,
+      "sumOption2": 0,
+      "sumOption3": 0,
+      "sumOption4": 0,
+      "sumOption5": 0,
+      "sumOption6": 0,
+      "sumOption7": 0,
+      "tickForPublish": 49616244,
+      "title": "Proposal for Quottery v2 update",
+      "totalVotes": 575,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-09-QTRY-V2.md"
+    }
+  ]
+}

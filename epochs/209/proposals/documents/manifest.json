@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": "30-proposal-for-quottery-v2-update-cd882ef22b.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-09-QTRY-V2.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "cd882ef22b91d8a21758d303b3fb95b47cd07f88ed1398738d53a7d2548e9d80",
+      "owner": "qubic",
+      "path": "SmartContracts/2026-04-09-QTRY-V2.md",
+      "proposalIndex": 30,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": "cd882ef22b91d8a21758d303b3fb95b47cd07f88ed1398738d53a7d2548e9d80",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal for Quottery v2 update"
+    }
+  ],
+  "epoch": 209,
+  "generatedAt": "2026-08-04T01:33:19Z"
+}
