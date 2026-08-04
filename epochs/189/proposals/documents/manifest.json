@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal_Qubic_Ambassador-Program/blob/78959d1/Ambassador Program S5 Proposal.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "kimz-Q",
+      "path": "Ambassador Program S5 Proposal.md",
+      "proposalIndex": 52,
+      "ref": "78959d1",
+      "repo": "CCF-Proposal_Qubic_Ambassador-Program",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal - Ambassador Program S5"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/5aa5cbd/🌐 FINAL QUBIC MARKETING PROPOSAL_Markdown.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "DeFiMomma",
+      "path": "🌐 FINAL QUBIC MARKETING PROPOSAL_Markdown.md",
+      "proposalIndex": 53,
+      "ref": "5aa5cbd",
+      "repo": "CCF-Marketing-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QUBIC MARKETING PROPOSAL"
+    }
+  ],
+  "epoch": 189,
+  "generatedAt": "2026-08-04T00:14:35Z"
+}
