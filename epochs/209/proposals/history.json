@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-09-QTRY-V2.md",
+      "documentKey": "95127c8e7b1dc8c86c2fff034bd9c50b5d1422e4ed2d285e2bd846343efdec29",
+      "epoch": 209,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "1afeea11-30af-44cf-bf90-f92a4f96bd41",
+      "proposalIndex": 30,
+      "published": "2026-04-17T06:05:50.777",
+      "sha256": "cd882ef22b91d8a21758d303b3fb95b47cd07f88ed1398738d53a7d2548e9d80",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal for Quottery v2 update"
+    }
+  ],
+  "epoch": 209,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 209,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 1.04,
+          "title": "No",
+          "votes": 6
+        },
+        {
+          "percentage": 98.96,
+          "title": "Yes",
+          "votes": 569
+        }
+      ],
+      "proposalId": "1afeea11-30af-44cf-bf90-f92a4f96bd41",
+      "proposalIndex": 30,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "IAFLYPMTFNIFXBMBZYPXNDKCTVGCLWTQAXIPSWEWJDBLXFGLOGAHFIJEQSGM",
+      "published": "2026-04-17T06:05:50.777",
+      "status": 3,
+      "title": "Proposal for Quottery v2 update",
+      "totalVotes": 575,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-09-QTRY-V2.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:13Z"
+}

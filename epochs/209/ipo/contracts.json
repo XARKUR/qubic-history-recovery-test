@@ -1,0 +1,14 @@
+[
+  {
+    "address": "BBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXPZM",
+    "contractIndex": 27,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 209,
+    "fileName": "27_escrow.txt",
+    "lastError": null,
+    "name": "ESCROW",
+    "sourceUrl": "https://auctions.qubic.tools/files/27_escrow.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  }
+]

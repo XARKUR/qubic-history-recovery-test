@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "BBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXPZM",
+      "archivePath": "27-escrow-cad4089455.txt",
+      "bidCount": 676,
+      "contractIndex": 27,
+      "epoch": 209,
+      "fileName": "27_escrow.txt",
+      "lastError": null,
+      "name": "ESCROW",
+      "sha256": "cad408945572faddb6a17403ada8494db28a565644398a09683961257b9f79e3",
+      "sizeBytes": 49346,
+      "sourceUrl": "https://auctions.qubic.tools/files/27_escrow.txt",
+      "status": "saved",
+      "uniqueBidderCount": 54
+    }
+  ],
+  "epoch": 209,
+  "generatedAt": "2026-08-04T02:06:21Z"
+}
