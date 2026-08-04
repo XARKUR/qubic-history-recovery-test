@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/5some/Community-Reflection-and-Accountability/blob/c34fa77f7729c76163963f5d8bc0ca5cad796aac/2025-10-22-community-reflection-and-accountability.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "5some",
+      "path": "2025-10-22-community-reflection-and-accountability.md",
+      "proposalIndex": 47,
+      "ref": "c34fa77f7729c76163963f5d8bc0ca5cad796aac",
+      "repo": "Community-Reflection-and-Accountability",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Reflection and Accountability"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/8085c47965e875552e6a122fab46bed3c29733c8/FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "hereisfrescoid",
+      "path": "FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "proposalIndex": 48,
+      "ref": "8085c47965e875552e6a122fab46bed3c29733c8",
+      "repo": "Qubic-Proposal_Frescoid-x-Seb",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QUBIC PROPOSAL – Frescoid × Seb CCF"
+    }
+  ],
+  "epoch": 184,
+  "generatedAt": "2026-08-04T00:14:08Z"
+}
