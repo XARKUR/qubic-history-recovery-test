@@ -1,0 +1,68 @@
+{
+  "epoch": 165,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "b2345a2492bba885d61c906f644c0fc6e97fe8ae2ce7a371c658d133f8ed8d89",
+      "sizeBytes": 537342,
+      "status": "ok"
+    },
+    "proposals/documents/13-community-management-ccf-proposal-c2cfcd3432.md": {
+      "sha256": "c2cfcd34322ba59475b87835ead9804297bd446064fda984c4767676a79f4389",
+      "sizeBytes": 10815,
+      "status": "ok"
+    },
+    "proposals/documents/13-社区管理-ccf-提案-4c529744ff.md": {
+      "sha256": "4c529744fff0b107bbdbd843e2bf786d4f4c815c3fd1af770fbedc7d20c74c74",
+      "sizeBytes": 10813,
+      "status": "ok"
+    },
+    "proposals/documents/17-ccf-proposal-marketing-revival-a4d9fbb505.md": {
+      "sha256": "a4d9fbb5051d05bc7d148d157550055750f7712bde58b8fea3aa371aa407009a",
+      "sizeBytes": 6148,
+      "status": "ok"
+    },
+    "proposals/documents/5-strategic-qubic-monero-quorum-decision-9030d80bb0.md": {
+      "sha256": "9030d80bb0d568c3ec93fb03dfdbd881262c328caa4e9b8971fa056446c5d187",
+      "sizeBytes": 1719,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "33701ff2ac1373461e72b72f0888faeb364e51fe3ba1361ecda561872d1deb84",
+      "sizeBytes": 3934,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "88fab0768a34ec72db934a5c51165c9a69efb1a83fc377dc22aba5021bdaaf16",
+      "sizeBytes": 7820,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "445e9308efbf065a92ecc3833ca1df5411fc0dcbfb38c0fc7f8ae29c9dcfd0a0",
+      "sizeBytes": 754671,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:48:00Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
