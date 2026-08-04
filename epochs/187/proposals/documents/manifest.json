@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/nineisten/qubicICOportal/blob/f6d09a05761f04af3556816c628fae66482889cb/README.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "nineisten",
+      "path": "README.md",
+      "proposalIndex": 21,
+      "ref": "f6d09a05761f04af3556816c628fae66482889cb",
+      "repo": "qubicICOportal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "qubicICOportal/README.md at f6d09a05761f04af3556816c628fae66482889cb · nineisten/qubicICOportal · Gi"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/498863d15638febe752cdfdf8a9d4b696ebbfe35/Ecosystem Services proposal - AI transition phase.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "Qubic-Core-Services",
+      "path": "Ecosystem Services proposal - AI transition phase.md",
+      "proposalIndex": 45,
+      "ref": "498863d15638febe752cdfdf8a9d4b696ebbfe35",
+      "repo": "Proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Ecosystem Services Proposal – AI Transition Phase"
+    }
+  ],
+  "epoch": 187,
+  "generatedAt": "2026-08-04T00:14:24Z"
+}
