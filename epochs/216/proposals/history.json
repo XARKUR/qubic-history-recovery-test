@@ -1,0 +1,331 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/KavataK/proposal/blob/proposal-upgrade-Qbond/SmartContracts/2026-06-06-Qbond-Upgrade.md",
+      "documentKey": "d6d3a3201fdbe4c90d8a672799283f6c4118df639293cac53c40cb0d14822e7d",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4059b331-d0d0-4364-a747-5adfb3710eeb",
+      "proposalIndex": 17,
+      "published": "2026-06-06T21:06:07.823",
+      "sha256": "191bcabad33487f42bc93442db0c57acd7410554f6d27b48be1822a386249073",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal-Optimize-QBOND-Smart-Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/359a5fa/QubicSciencePaperAtAGI2026.md",
+      "documentKey": "89d7b025e49c4641c8f293a4387a763c5a40bfe09b02a905b1b94f6e88e04942",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "50ecc742-7b6b-4672-a53b-bf0323b82733",
+      "proposalIndex": 67,
+      "published": "2026-06-05T12:47:23.433",
+      "sha256": "917f614ff264e02e08963c3ded39aeefb84296e6b7feb42c0b34f242755d9397",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC SCIENCE MULTI NEURAXON - AGI 2026   - 中文翻译见下方"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/35341e4/QubicScience2026-ThirdTrimester.md",
+      "documentKey": "0310f9f2d37510daf70ced706d89f4ab1722135ed31eed12a568687e755b34fc",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4c19c701-8115-4494-ad5c-19aa4bfb442a",
+      "proposalIndex": 10,
+      "published": "2026-06-05T12:42:50.307",
+      "sha256": "dfb08953c3fa1d703d3f4c26d063e7b27b3e1102a03c405567aee554077cf555",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 Third Trimester Q3  - 中文翻译见下方"
+    },
+    {
+      "canonicalUrl": "https://github.com/jgvks/qubic-community-lead-proposal/tree/155b442ba74089dec4625572cbb1416dc23e82c1",
+      "documentKey": "ad1b4dcb53fae99e60906d9440ee13334dfe0ed8c3e686ca169969b98cac2231",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "27c8470b-e115-4eac-a4b0-b53b00ffc748",
+      "proposalIndex": 33,
+      "published": "2026-06-05T12:30:33.477",
+      "sha256": "9edf1cae8a1bda7762a2e5cd2b3e9ca6e1338fe8f784b5be8ff082378fa182ae",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "qubic-community-lead-proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/MZoxx/proposal/blob/ggwp-develop/SmartContracts/2026-06-03-GGWP.md",
+      "documentKey": "8c11479a0eb47f6b8faa1d9bee9a8f98eb45b67cb5a41881114bfc5ee91080b4",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "aa3af25e-2764-4b2f-a440-6881c655ffed",
+      "proposalIndex": 1,
+      "published": "2026-06-05T10:46:34.06",
+      "sha256": "bf6185a93a5582b70ad54560edff9961c51e544b4281897687ae4f3f356a0915",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Smart Contract - GGWP (WolfPack)"
+    },
+    {
+      "canonicalUrl": "https://github.com/salar796/Community-Management-Team-Proposals/blob/90b3193/Community-Management-CCF-Proposal-for-June-and-July.md",
+      "documentKey": "b8e45cdfda398b6b2f9913ecb304e57780dc49c823ecb534d364b9520d07ce4f",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "614fb69e-4738-4b4b-994a-c6e39f406f8c",
+      "proposalIndex": 66,
+      "published": "2026-06-05T09:39:59.393",
+      "sha256": "27c0761f74ba4d01f9888a271b3be0ecdff6f5319d8dc3679cccb1b66094f3e4",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for June \\u0026 July"
+    },
+    {
+      "canonicalUrl": "https://github.com/jgvks/qubic-community-lead-proposal/tree/155b442ba74089dec4625572cbb1416dc23e82c1",
+      "documentKey": "ad1b4dcb53fae99e60906d9440ee13334dfe0ed8c3e686ca169969b98cac2231",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "c16fe1e8-d42f-4e5f-9628-80685219eb46",
+      "proposalIndex": 1,
+      "published": "2026-06-03T19:23:27.17",
+      "sha256": "99c660fc635b3305ec8ac49176384b7e575983080efb850ff6df9fbdac451903",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "qubic-community-lead-proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/MZoxx/proposal/blob/ggwp-develop/SmartContracts/2026-06-03-GGWP.md",
+      "documentKey": "8c11479a0eb47f6b8faa1d9bee9a8f98eb45b67cb5a41881114bfc5ee91080b4",
+      "epoch": 216,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ca08b181-d324-4032-88fe-12e0076068d4",
+      "proposalIndex": 1,
+      "published": "2026-06-03T18:53:26.887",
+      "sha256": "bf6185a93a5582b70ad54560edff9961c51e544b4281897687ae4f3f356a0915",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Smart Contract - GGWP (WolfPack)"
+    }
+  ],
+  "epoch": 216,
+  "proposalCount": 8,
+  "proposals": [
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 580
+        }
+      ],
+      "proposalId": "4059b331-d0d0-4364-a747-5adfb3710eeb",
+      "proposalIndex": 17,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "MZHFWDSJLHMYYAARQJXMXIQRNSLCFIJVWQSOMDOUWCMNAATOOEZPMDWEAHYE",
+      "published": "2026-06-06T21:06:07.823",
+      "status": 3,
+      "title": "Proposal-Optimize-QBOND-Smart-Contract",
+      "totalVotes": 580,
+      "url": "https://github.com/KavataK/proposal/blob/proposal-upgrade-Qbond/SmartContracts/2026-06-06-Qbond-Upgrade.md"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 46.27,
+          "title": "No Transfer",
+          "votes": 267
+        },
+        {
+          "percentage": 53.73,
+          "title": "Yes, send 17,100,000,000 $QUBIC",
+          "votes": 310
+        }
+      ],
+      "proposalId": "50ecc742-7b6b-4672-a53b-bf0323b82733",
+      "proposalIndex": 67,
+      "proposalType": "Transfer",
+      "proposerIdentity": "KGLUEQQRUOVFJCVIVNUXHPOXEOZBIWJPNHOQLCGOCANUYMXXCUBCGOUFNDXM",
+      "published": "2026-06-05T12:47:23.433",
+      "status": 3,
+      "title": "QUBIC SCIENCE MULTI NEURAXON - AGI 2026   - 中文翻译见下方",
+      "totalVotes": 577,
+      "url": "https://github.com/qubicsci/Proposals/blob/359a5fa/QubicSciencePaperAtAGI2026.md"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 43.83,
+          "title": "No Transfer",
+          "votes": 245
+        },
+        {
+          "percentage": 56.17,
+          "title": "Yes, send 119,500,000,000 $QUBIC",
+          "votes": 314
+        }
+      ],
+      "proposalId": "4c19c701-8115-4494-ad5c-19aa4bfb442a",
+      "proposalIndex": 10,
+      "proposalType": "Transfer",
+      "proposerIdentity": "HDPWVFRQBPZREDVBVHYJLMLDACFDLPCLKGJOMFETCGEHMPVNTXVOVVHCNATJ",
+      "published": "2026-06-05T12:42:50.307",
+      "status": 3,
+      "title": "QUBIC AGI (True AI) Research 2026 Third Trimester Q3  - 中文翻译见下方",
+      "totalVotes": 559,
+      "url": "https://github.com/qubicsci/Proposals/blob/35341e4/QubicScience2026-ThirdTrimester.md"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.51,
+          "title": "No",
+          "votes": 3
+        },
+        {
+          "percentage": 99.49,
+          "title": "Yes",
+          "votes": 590
+        }
+      ],
+      "proposalId": "27c8470b-e115-4eac-a4b0-b53b00ffc748",
+      "proposalIndex": 33,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+      "published": "2026-06-05T12:30:33.477",
+      "status": 3,
+      "title": "qubic-community-lead-proposal",
+      "totalVotes": 593,
+      "url": "https://github.com/jgvks/qubic-community-lead-proposal/tree/155b442ba74089dec4625572cbb1416dc23e82c1"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 100.0,
+          "title": "Yes",
+          "votes": 568
+        }
+      ],
+      "proposalId": "aa3af25e-2764-4b2f-a440-6881c655ffed",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-05T10:46:34.06",
+      "status": 3,
+      "title": "Smart Contract - GGWP (WolfPack)",
+      "totalVotes": 568,
+      "url": "https://github.com/MZoxx/proposal/blob/ggwp-develop/SmartContracts/2026-06-03-GGWP.md"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 3.38,
+          "title": "No Transfer",
+          "votes": 20
+        },
+        {
+          "percentage": 96.62,
+          "title": "Yes, send 49,260,000,000 $QUBIC",
+          "votes": 572
+        }
+      ],
+      "proposalId": "614fb69e-4738-4b4b-994a-c6e39f406f8c",
+      "proposalIndex": 66,
+      "proposalType": "Transfer",
+      "proposerIdentity": "FSNAVIFGVIHLRAHOASPVAJKFYLCDMPWQJUCVQPHOGEVJJACUQKBABEUBEAGE",
+      "published": "2026-06-05T09:39:59.393",
+      "status": 3,
+      "title": "Community Management CCF Proposal for June \\u0026 July",
+      "totalVotes": 592,
+      "url": "https://github.com/salar796/Community-Management-Team-Proposals/blob/90b3193/Community-Management-CCF-Proposal-for-June-and-July.md"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes",
+          "votes": 0
+        }
+      ],
+      "proposalId": "c16fe1e8-d42f-4e5f-9628-80685219eb46",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-03T19:23:27.17",
+      "status": 5,
+      "title": "qubic-community-lead-proposal",
+      "totalVotes": 0,
+      "url": "https://github.com/jgvks/qubic-community-lead-proposal/tree/155b442ba74089dec4625572cbb1416dc23e82c1"
+    },
+    {
+      "epoch": 216,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes",
+          "votes": 0
+        }
+      ],
+      "proposalId": "ca08b181-d324-4032-88fe-12e0076068d4",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-06-03T18:53:26.887",
+      "status": 5,
+      "title": "Smart Contract - GGWP (WolfPack)",
+      "totalVotes": 0,
+      "url": "https://github.com/MZoxx/proposal/blob/ggwp-develop/SmartContracts/2026-06-03-GGWP.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:27Z"
+}
