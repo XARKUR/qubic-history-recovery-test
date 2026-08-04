@@ -1,0 +1,23 @@
+{
+  "epoch": 183,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "b540317ec74b7d6792174ec57c880f59f1e4e165a708d00ab92719cddeea5a5a",
+      "sizeBytes": 527,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:57Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
