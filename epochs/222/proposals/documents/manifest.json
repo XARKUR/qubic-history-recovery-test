@@ -1,0 +1,36 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "jtskxx",
+      "path": "CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "proposalIndex": 70,
+      "ref": "ea6dab07dac6fd0f71176175cea6c44df7766bb4",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/jgvks/Community-Management-CCF-Proposal/blob/7d7019a/Community-Management-CCF-Proposal-for-August-and-September.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "jgvks",
+      "path": "Community-Management-CCF-Proposal-for-August-and-September.md",
+      "proposalIndex": 69,
+      "ref": "7d7019a",
+      "repo": "Community-Management-CCF-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Community Management CCF Proposal for August \\u0026 September"
+    }
+  ],
+  "epoch": 222,
+  "generatedAt": "2026-08-04T00:20:16Z"
+}
