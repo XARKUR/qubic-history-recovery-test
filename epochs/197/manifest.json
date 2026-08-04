@@ -1,0 +1,68 @@
+{
+  "epoch": 197,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "00d203fc71c50e2fcebf061b3e814fd36f7de48f9571d3a9f5a32631d5d58b62",
+      "sizeBytes": 524,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "4362261a1d56f8374309730d69eab2832bc35b9157d4049984652add85b9be26",
+      "sizeBytes": 578753,
+      "status": "ok"
+    },
+    "proposals/documents/0-qreservepool-qrp-64b32c43f1.md": {
+      "sha256": "64b32c43f132be2ad10e1ca9ec5563b6ea6f5ae4339f1811c676433724917731",
+      "sizeBytes": 3990,
+      "status": "ok"
+    },
+    "proposals/documents/1-upgrade-supply-watcher-swatch-distribute-burn-across-infrastructure-scs-65c2b4e916.md": {
+      "sha256": "65c2b4e916007b949fa4ec54aaae55adcf421dd1c36a2702b3e2763a75499d20",
+      "sizeBytes": 3467,
+      "status": "ok"
+    },
+    "proposals/documents/22-qthirtyfour-qtf-fafe361a6b.md": {
+      "sha256": "fafe361a6b0cb284ccd6c32745a4145ef661235e3e4466cd025d034402a06c5b",
+      "sizeBytes": 18348,
+      "status": "ok"
+    },
+    "proposals/documents/5-qduel-contract-proposal-91751268de.md": {
+      "sha256": "91751268de5846b61f449408bd6f466cf4ccf72357a77c9dc321e2eca1312886",
+      "sizeBytes": 4493,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "de37d87ed2ec3c3e33b1e715abfa3b20b6b82c581d9edc7b8f61faa06a1d852b",
+      "sizeBytes": 3182,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "778c1fb0ae8f446d9ae1557964403bad3b70d9636b59640bbf7dfd7492e7721e",
+      "sizeBytes": 6016,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "d879ab0b52c34f429bf95e288776d9da2d5ca64c17a90951551ad05aed00ee72",
+      "sizeBytes": 826653,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "4950a5fb55af8747903129e22eeb0a6f20c48a0ad2f98866ccf8993b509df742",
+      "sizeBytes": 51181,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:32:11Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
