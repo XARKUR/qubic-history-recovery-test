@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "CBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARUCN",
+      "archivePath": "28-ggwp-bd521b0d99.txt",
+      "bidCount": 676,
+      "contractIndex": 28,
+      "epoch": 217,
+      "fileName": "28_ggwp.txt",
+      "lastError": null,
+      "name": "GGWP",
+      "sha256": "bd521b0d995c00abb19e87557a569699df448e7d1df7a9cb10050325b900d0dc",
+      "sizeBytes": 49351,
+      "sourceUrl": "https://auctions.qubic.tools/files/28_ggwp.txt",
+      "status": "saved",
+      "uniqueBidderCount": 59
+    }
+  ],
+  "epoch": 217,
+  "generatedAt": "2026-08-04T00:52:54Z"
+}
