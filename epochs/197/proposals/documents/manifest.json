@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/80f1ca68c5c00ae77b59439ec5526b7dcf10ebca/SmartContracts/2025-12-25-QDuel.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-12-25-QDuel.md",
+      "proposalIndex": 5,
+      "ref": "80f1ca68c5c00ae77b59439ec5526b7dcf10ebca",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QDuel Contract Proposal"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/80f1ca68c5c00ae77b59439ec5526b7dcf10ebca/SmartContracts/2025-11-04-QThirtyFour.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-11-04-QThirtyFour.md",
+      "proposalIndex": 22,
+      "ref": "80f1ca68c5c00ae77b59439ec5526b7dcf10ebca",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QThirtyFour (QTF)"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/80f1ca68c5c00ae77b59439ec5526b7dcf10ebca/SmartContracts/2025-11-04-QReservePool.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2025-11-04-QReservePool.md",
+      "proposalIndex": 0,
+      "ref": "80f1ca68c5c00ae77b59439ec5526b7dcf10ebca",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QReservePool (QRP)"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/80f1ca68c5c00ae77b59439ec5526b7dcf10ebca/SmartContracts/2026-01-23-SWATCH-upgrade.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "qubic",
+      "path": "SmartContracts/2026-01-23-SWATCH-upgrade.md",
+      "proposalIndex": 1,
+      "ref": "80f1ca68c5c00ae77b59439ec5526b7dcf10ebca",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Upgrade Supply Watcher (SWATCH) – Distribute Burn Across Infrastructure SCs"
+    }
+  ],
+  "epoch": 197,
+  "generatedAt": "2026-08-04T00:15:19Z"
+}
