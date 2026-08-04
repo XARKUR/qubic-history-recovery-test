@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/ea6dab07dac6fd0f71176175cea6c44df7766bb4/CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "jtskxx",
+      "path": "CCF-Funding-Requests/2026-07-19-qubic-ann-explorer.md",
+      "proposalIndex": 70,
+      "ref": "ea6dab07dac6fd0f71176175cea6c44df7766bb4",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Qubic ANN Explorer: Make Useful Proof of Work Visible"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/flechar/Nostromo_SC/blob/0ad3461/README.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "flechar",
+      "path": "README.md",
+      "proposalIndex": 38,
+      "ref": "0ad3461",
+      "repo": "Nostromo_SC",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal:  Nostromo Smart Contract Update"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/glyphq/proposals/blob/085d22b/ccf_proposal_july_2026.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "glyphq",
+      "path": "ccf_proposal_july_2026.md",
+      "proposalIndex": 71,
+      "ref": "085d22b",
+      "repo": "proposals",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal to fund Glyph wallet and dApp ecosystem for four months"
+    }
+  ],
+  "epoch": 223,
+  "generatedAt": "2026-08-04T00:20:21Z"
+}
