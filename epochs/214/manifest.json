@@ -1,0 +1,53 @@
+{
+  "epoch": 214,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "d1dafd1ccd202854c6b03aaef9e2e1a5917ce041e26a3feb5f3bd623bb585da8",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "f74bddc383cb6f1612fd43930e580cba26ab254e5eb4724c68a07b0526188686",
+      "sizeBytes": 138992,
+      "status": "ok"
+    },
+    "proposals/documents/5-proposal-optimze-qswap-smart-contract-c406788d8b.html": {
+      "sha256": "c406788d8b2f083f38c1caf04484dd756b727add5ec7edc536f2708d8f38edad",
+      "sizeBytes": 267175,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "5341f1c5f58040d9ccd5e136c58bea6b9a6e833338d02f8d559c308d49a65a55",
+      "sizeBytes": 710,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "63ca4ec5a18f846d32cc198a9ee730e178de4e561521df02092138f3ddcaa825",
+      "sizeBytes": 1550,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "10a1813612607e7fb10d7be91d9f7e6e42ee0aaf4a577aed9c7787642f93e9ce",
+      "sizeBytes": 195348,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "8efdf6e59ffb21c6fb59e9ed77525a90aedc82cb3e20ab14e0b41baec6f29cdc",
+      "sizeBytes": 72839,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:33:46Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

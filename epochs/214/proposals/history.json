@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/TakaYuPP/Proposal-Optimize-Qswap-smart-contract",
+      "documentKey": "b54340fa8841d2ce664d3d0fbe591c502c0f5580c8dc32774f0b0811cb578f4a",
+      "epoch": 214,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "41866471-efb4-4cde-94fa-b6a68331b0dd",
+      "proposalIndex": 5,
+      "published": "2026-05-22T17:52:57.067",
+      "sha256": "c406788d8b2f083f38c1caf04484dd756b727add5ec7edc536f2708d8f38edad",
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "saved",
+      "title": "Proposal: Optimze Qswap Smart Contract"
+    }
+  ],
+  "epoch": 214,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 214,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 0.17,
+          "title": "No",
+          "votes": 1
+        },
+        {
+          "percentage": 99.83,
+          "title": "Yes",
+          "votes": 583
+        }
+      ],
+      "proposalId": "41866471-efb4-4cde-94fa-b6a68331b0dd",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2026-05-22T17:52:57.067",
+      "status": 3,
+      "title": "Proposal: Optimze Qswap Smart Contract",
+      "totalVotes": 584,
+      "url": "https://github.com/TakaYuPP/Proposal-Optimize-Qswap-smart-contract"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:21Z"
+}
