@@ -1,0 +1,68 @@
+{
+  "epoch": 185,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "e5a570c181fa1cc46547920c0ea4afda403b534db0fadf9c9b486ef9b7e4d4b1",
+      "sizeBytes": 523,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "30af36285b4454268576ab705a4c9539fa43df54db6275e3e0af8603f4caa942",
+      "sizeBytes": 651842,
+      "status": "ok"
+    },
+    "proposals/documents/20-rl-02-flexible-ticketing-u0026-epoch-configuration-d64e3853da.md": {
+      "sha256": "d64e3853da4c7a7d328018becaf83a05f55a3dce34d47e95ffe11f0b1a85ecb5",
+      "sizeBytes": 2161,
+      "status": "ok"
+    },
+    "proposals/documents/38-proposal-to-fund-the-development-of-the-qubic-core-979d0fb0da.md": {
+      "sha256": "979d0fb0da43d582a01831b457dd10b1b5396ef9bcfeb050cc08b04d76acda30",
+      "sizeBytes": 6845,
+      "status": "ok"
+    },
+    "proposals/documents/49-requesting-ccf-funds-for-qubics-participation-u0026-title-sponsorship-in-indias--90ca6cfd35.md": {
+      "sha256": "90ca6cfd3548689399a5b524c67d65b222927a71e9f86cd9f3168ba126e77820",
+      "sizeBytes": 6662,
+      "status": "ok"
+    },
+    "proposals/documents/50-general-quorum-proposal-8f7d10b508.md": {
+      "sha256": "8f7d10b508b079bd20e5ce2ea295d960cfd579168e132cad3929c6772f9b1958",
+      "sizeBytes": 2788,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "91f37ff2e28ef48a4eebd786871d44a9b7e9cf92f41336994563d09d255bf165",
+      "sizeBytes": 4076,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "1e332a58bcd03668fe3f6c6439249d2a45b21eb12742a90d83e0da2a2cef4bda",
+      "sizeBytes": 7942,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "431e6111f20508d181102f94487317a9cd043de38a8e739faf3991cfca1c244b",
+      "sizeBytes": 828216,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "b86b0a392b9db286008a61402d5281fb3b638530ef37782a4620e9d25dde03b6",
+      "sizeBytes": 549,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:04:01Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

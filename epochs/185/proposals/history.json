@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/qct/blob/060ef618e8434cd3772d663a461a85e14e7a706d/funding/2025-10-Q4-proposal.md",
+      "documentKey": "ac19ecbe2fe07c63021b24850cff68b903a85c9f9f4c177e80ad486167358a21",
+      "epoch": 185,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "d38859a7-0010-4b58-a342-d5e97f37b111",
+      "proposalIndex": 38,
+      "published": "2025-11-01T18:15:01.767",
+      "sha256": "979d0fb0da43d582a01831b457dd10b1b5396ef9bcfeb050cc08b04d76acda30",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to Fund the Development of the Qubic Core"
+    },
+    {
+      "canonicalUrl": "https://github.com/TheLawyerOfTransparency/General-Quorum-Proposal/blob/3f67b4bae1ae69dfac373fceff9576ae78509cdb/Talentnodes Questions.md",
+      "documentKey": "ebd49eed9a69da1c352fd3f0bdbd74b288747acbd0e2f78a908c6b60ad99a29c",
+      "epoch": 185,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "377962be-3e4e-40bd-9dd6-e6e43d9a2306",
+      "proposalIndex": 50,
+      "published": "2025-10-31T09:25:01.93",
+      "sha256": "8f7d10b508b079bd20e5ce2ea295d960cfd579168e132cad3929c6772f9b1958",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "General Quorum Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/69056146c6e811648cf4ba55031b3db6c7b9139b/SmartContracts/2025-09-13-RandomLotteryV2.md",
+      "documentKey": "642fe9b5a35ee1e3c897f0725fdef1cd45b2f43cd532e5c2705a78c9d27f0c3e",
+      "epoch": 185,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b7cd8561-835a-405c-ae96-2b503fb41331",
+      "proposalIndex": 20,
+      "published": "2025-10-31T07:37:35.813",
+      "sha256": "d64e3853da4c7a7d328018becaf83a05f55a3dce34d47e95ffe11f0b1a85ecb5",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "RL-02: Flexible Ticketing \\u0026 Epoch Configuration"
+    },
+    {
+      "canonicalUrl": "https://github.com/soundtick/Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick/blob/92d7b2937f0f840c290168cb07588c66d6f8b82b/Send_Mai_Proposal_Formatted.md",
+      "documentKey": "b57d52de65ca2a22739a43b5335f3c431a45b12f0081731257ca8f44d01e2427",
+      "epoch": 185,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "18ec266d-72c6-44c4-9aaa-ac036eb2194a",
+      "proposalIndex": 49,
+      "published": "2025-10-31T02:57:20.133",
+      "sha256": "90ca6cfd3548689399a5b524c67d65b222927a71e9f86cd9f3168ba126e77820",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Requesting CCF funds for QUBICs participation \\u0026 Title Sponsorship in Indias Crypto Event by Sou"
+    },
+    {
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/main/2025-10-CCF-Computor-Restriction.md",
+      "documentKey": "6ef250e9bec2f6d29cce18ef5fc552756686a48eeb0e1d297a0ad41e9bcb77e9",
+      "epoch": 185,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "bf2300bb-657b-4458-bfad-b29a473185a7",
+      "proposalIndex": 19,
+      "published": "2025-10-30T21:04:41.477",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Restrict CCF Proposal Creation to Computors Only"
+    }
+  ],
+  "epoch": 185,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 185,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 31.96,
+          "title": "No Transfer",
+          "votes": 201
+        },
+        {
+          "percentage": 68.04,
+          "title": "Yes, send 646,000,000,000 $QUBIC",
+          "votes": 428
+        }
+      ],
+      "proposalId": "d38859a7-0010-4b58-a342-d5e97f37b111",
+      "proposalIndex": 38,
+      "proposalType": "Transfer",
+      "proposerIdentity": "WEWDPTCXKABYFFPDXYHTQCJCBJADFTGTVVMINUBWNEFAGQFDPTUGVGRFKQBK",
+      "published": "2025-11-01T18:15:01.767",
+      "status": 3,
+      "title": "Proposal to Fund the Development of the Qubic Core",
+      "totalVotes": 629,
+      "url": "https://github.com/qubic/qct/blob/060ef618e8434cd3772d663a461a85e14e7a706d/funding/2025-10-Q4-proposal.md"
+    },
+    {
+      "epoch": 185,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 8,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "377962be-3e4e-40bd-9dd6-e6e43d9a2306",
+      "proposalIndex": 50,
+      "proposalType": "Transfer",
+      "proposerIdentity": "BJTVCPCAPWMSFENDKIMCAMTIIPVCBDWQCFBCLDYOWEAQWZXGMCSOZKNDXNNA",
+      "published": "2025-10-31T09:25:01.93",
+      "status": 4,
+      "title": "General Quorum Proposal",
+      "totalVotes": 0,
+      "url": "https://github.com/TheLawyerOfTransparency/General-Quorum-Proposal/blob/3f67b4bae1ae69dfac373fceff9576ae78509cdb/Talentnodes Questions.md"
+    },
+    {
+      "epoch": 185,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 38.83,
+          "title": "No",
+          "votes": 238
+        },
+        {
+          "percentage": 61.17,
+          "title": "Yes",
+          "votes": 375
+        }
+      ],
+      "proposalId": "b7cd8561-835a-405c-ae96-2b503fb41331",
+      "proposalIndex": 20,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "QDYFYPHYANCXCAWVDYHQLGMOKZOBAEWSYJKCQDFJBBAOUHPMUTSNTQPAEFUF",
+      "published": "2025-10-31T07:37:35.813",
+      "status": 3,
+      "title": "RL-02: Flexible Ticketing \\u0026 Epoch Configuration",
+      "totalVotes": 613,
+      "url": "https://github.com/N-010/proposal/blob/69056146c6e811648cf4ba55031b3db6c7b9139b/SmartContracts/2025-09-13-RandomLotteryV2.md"
+    },
+    {
+      "epoch": 185,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 54.65,
+          "title": "No Transfer",
+          "votes": 335
+        },
+        {
+          "percentage": 45.35,
+          "title": "Yes, send 1,200,000,000 $QUBIC",
+          "votes": 278
+        }
+      ],
+      "proposalId": "18ec266d-72c6-44c4-9aaa-ac036eb2194a",
+      "proposalIndex": 49,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MPMCGKLUCFGZLEESCEXEBSAJTVKDVYXYDAHOEAEFVCCZTHDEKVJBNDREJAWI",
+      "published": "2025-10-31T02:57:20.133",
+      "status": 6,
+      "title": "Requesting CCF funds for QUBICs participation \\u0026 Title Sponsorship in Indias Crypto Event by Sou",
+      "totalVotes": 613,
+      "url": "https://github.com/soundtick/Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick/blob/92d7b2937f0f840c290168cb07588c66d6f8b82b/Send_Mai_Proposal_Formatted.md"
+    },
+    {
+      "epoch": 185,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 12.2,
+          "title": "No",
+          "votes": 75
+        },
+        {
+          "percentage": 87.8,
+          "title": "Yes",
+          "votes": 540
+        }
+      ],
+      "proposalId": "bf2300bb-657b-4458-bfad-b29a473185a7",
+      "proposalIndex": 19,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "NJFZJBBJLJIZYEYPXSMWDYINUPKBYOEDOYGQXVSOGHJAKCGDFAJJCTWANYLI",
+      "published": "2025-10-30T21:04:41.477",
+      "status": 3,
+      "title": "Restrict CCF Proposal Creation to Computors Only",
+      "totalVotes": 615,
+      "url": "https://github.com/jtskxx/proposal/blob/main/2025-10-CCF-Computor-Restriction.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:36Z"
+}
