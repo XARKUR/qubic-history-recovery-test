@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYVRC",
+      "archivePath": "15-qdraw-957edc4c9f.txt",
+      "bidCount": 676,
+      "contractIndex": 15,
+      "epoch": 178,
+      "fileName": "15_qdraw.txt",
+      "lastError": null,
+      "name": "QDRAW",
+      "sha256": "957edc4c9fb979029e06116d26bfa15e9c7bed0cee13d9f8f25518a85b38d19e",
+      "sizeBytes": 48052,
+      "sourceUrl": "https://auctions.qubic.tools/files/15_qdraw.txt",
+      "status": "saved",
+      "uniqueBidderCount": 22
+    }
+  ],
+  "epoch": 178,
+  "generatedAt": "2026-08-04T00:49:17Z"
+}
