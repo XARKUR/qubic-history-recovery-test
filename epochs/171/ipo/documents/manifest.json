@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "address": "OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZTPD",
+      "archivePath": "14-nost-06c35a047a.txt",
+      "bidCount": 676,
+      "contractIndex": 14,
+      "epoch": 171,
+      "fileName": "14_nost.txt",
+      "lastError": null,
+      "name": "NOST",
+      "sha256": "06c35a047aeb522899c8c82e65cf515f6e0207b7eefa26e0931f34fb358c44a2",
+      "sizeBytes": 49382,
+      "sourceUrl": "https://auctions.qubic.tools/files/14_nost.txt",
+      "status": "saved",
+      "uniqueBidderCount": 93
+    }
+  ],
+  "epoch": 171,
+  "generatedAt": "2026-08-04T00:12:54Z"
+}

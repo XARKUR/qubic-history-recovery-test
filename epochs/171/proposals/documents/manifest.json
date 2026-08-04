@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/retrodrive1/ccf-funding-proposal-marketing/blob/c3a1862c5c91c209114c57d36ddef163d1ed3eea/25.07.18_qubic_marketing_proposal_team.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "retrodrive1",
+      "path": "25.07.18_qubic_marketing_proposal_team.md",
+      "proposalIndex": 28,
+      "ref": "c3a1862c5c91c209114c57d36ddef163d1ed3eea",
+      "repo": "ccf-funding-proposal-marketing",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF Proposal – Qubic Marketing: CCF Funding Proposal"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/CFF-Qubic-Ryan Babel-Phase-2.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "OfficialRBweb3",
+      "path": "CFF-Qubic-Ryan Babel-Phase-2.md",
+      "proposalIndex": 22,
+      "ref": "main",
+      "repo": "CCF-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "CCF-Proposal/CFF-Qubic-Ryan Babel-Phase-2.md at main · OfficialRBweb3/CCF-Proposal · GitHub"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "MillyCrypto9",
+      "path": "Proposal Milly × Qubic Ecosystem Amplification.md",
+      "proposalIndex": 27,
+      "ref": "main",
+      "repo": "Proposal-Milly-x-Qubic-Amplification",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "profitphil",
+      "path": "README.md",
+      "proposalIndex": 26,
+      "ref": "main",
+      "repo": "QXMR-Staking-Smart-Contract-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "QXMR Staking Smart Contract Proposal"
+    }
+  ],
+  "epoch": 171,
+  "generatedAt": "2026-08-04T00:12:54Z"
+}
