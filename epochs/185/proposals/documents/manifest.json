@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": "20-rl-02-flexible-ticketing-u0026-epoch-configuration-d64e3853da.md",
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/69056146c6e811648cf4ba55031b3db6c7b9139b/SmartContracts/2025-09-13-RandomLotteryV2.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "d64e3853da4c7a7d328018becaf83a05f55a3dce34d47e95ffe11f0b1a85ecb5",
+      "owner": "N-010",
+      "path": "SmartContracts/2025-09-13-RandomLotteryV2.md",
+      "proposalIndex": 20,
+      "ref": "69056146c6e811648cf4ba55031b3db6c7b9139b",
+      "repo": "proposal",
+      "sha256": "d64e3853da4c7a7d328018becaf83a05f55a3dce34d47e95ffe11f0b1a85ecb5",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "RL-02: Flexible Ticketing \\u0026 Epoch Configuration"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/jtskxx/proposal/blob/main/2025-10-CCF-Computor-Restriction.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "jtskxx",
+      "path": "2025-10-CCF-Computor-Restriction.md",
+      "proposalIndex": 19,
+      "ref": "main",
+      "repo": "proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Restrict CCF Proposal Creation to Computors Only"
+    },
+    {
+      "archivePath": "38-proposal-to-fund-the-development-of-the-qubic-core-979d0fb0da.md",
+      "canonicalUrl": "https://github.com/qubic/qct/blob/060ef618e8434cd3772d663a461a85e14e7a706d/funding/2025-10-Q4-proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "979d0fb0da43d582a01831b457dd10b1b5396ef9bcfeb050cc08b04d76acda30",
+      "owner": "qubic",
+      "path": "funding/2025-10-Q4-proposal.md",
+      "proposalIndex": 38,
+      "ref": "060ef618e8434cd3772d663a461a85e14e7a706d",
+      "repo": "qct",
+      "sha256": "979d0fb0da43d582a01831b457dd10b1b5396ef9bcfeb050cc08b04d76acda30",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to Fund the Development of the Qubic Core"
+    },
+    {
+      "archivePath": "49-requesting-ccf-funds-for-qubics-participation-u0026-title-sponsorship-in-indias--90ca6cfd35.md",
+      "canonicalUrl": "https://github.com/soundtick/Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick/blob/92d7b2937f0f840c290168cb07588c66d6f8b82b/Send_Mai_Proposal_Formatted.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "90ca6cfd3548689399a5b524c67d65b222927a71e9f86cd9f3168ba126e77820",
+      "owner": "soundtick",
+      "path": "Send_Mai_Proposal_Formatted.md",
+      "proposalIndex": 49,
+      "ref": "92d7b2937f0f840c290168cb07588c66d6f8b82b",
+      "repo": "Requesting-CCF-funds-for-QUBIC-s-participation-Title-Sponsorship-in-India-s-Crypto-Event-SoundTick",
+      "sha256": "90ca6cfd3548689399a5b524c67d65b222927a71e9f86cd9f3168ba126e77820",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Requesting CCF funds for QUBICs participation \\u0026 Title Sponsorship in Indias Crypto Event by Sou"
+    },
+    {
+      "archivePath": "50-general-quorum-proposal-8f7d10b508.md",
+      "canonicalUrl": "https://github.com/TheLawyerOfTransparency/General-Quorum-Proposal/blob/3f67b4bae1ae69dfac373fceff9576ae78509cdb/Talentnodes Questions.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "8f7d10b508b079bd20e5ce2ea295d960cfd579168e132cad3929c6772f9b1958",
+      "owner": "TheLawyerOfTransparency",
+      "path": "Talentnodes Questions.md",
+      "proposalIndex": 50,
+      "ref": "3f67b4bae1ae69dfac373fceff9576ae78509cdb",
+      "repo": "General-Quorum-Proposal",
+      "sha256": "8f7d10b508b079bd20e5ce2ea295d960cfd579168e132cad3929c6772f9b1958",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "General Quorum Proposal"
+    }
+  ],
+  "epoch": 185,
+  "generatedAt": "2026-08-04T00:49:54Z"
+}
