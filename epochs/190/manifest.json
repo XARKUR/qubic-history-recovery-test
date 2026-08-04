@@ -1,0 +1,68 @@
+{
+  "epoch": 190,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "c67c13fd4d557d0a348f0b0730bc6702037a7c951c649ea629c789faf6aefe4e",
+      "sizeBytes": 509,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "5f9cf1a9a5209acdd44f32e3ba9b95b490d9cbfbdcbb8c063f5ae5714b99c466",
+      "sizeBytes": 466775,
+      "status": "ok"
+    },
+    "proposals/documents/1-proposal-upgrade-qswap-with-new-fee-distribution-c6b92f06c1.md": {
+      "sha256": "c6b92f06c1f71ca0914fd3ea66d2ce885fcf0fed8e1e299d89c99d6b6c61efee",
+      "sizeBytes": 62543,
+      "status": "ok"
+    },
+    "proposals/documents/5-proposal-to-include-qraffle-smart-contract-b1b4b7bef7.md": {
+      "sha256": "b1b4b7bef70185e5b565df456f172d148b3eb934646be0ed02ebc3e4e6121609",
+      "sizeBytes": 54655,
+      "status": "ok"
+    },
+    "proposals/documents/54-qubic-agi-true-ai-research-2026-1-aab7135760.md": {
+      "sha256": "aab71357609409754f3c80173c3dcc36107e02b16d20bbba392b41cb41a8cc0c",
+      "sizeBytes": 7337,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "f209132868158bd3e3615696e8adaf4d8f0d663536f9eec776be428a552ffda8",
+      "sizeBytes": 2366,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "a980866786137350804e87b616882cfacfe138a31e76f44490e7874afdb1d859",
+      "sizeBytes": 4541,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "9ef77fcf311a5fedf1c099822c01911b6796d7caedff5d64adec7f10306da189",
+      "sizeBytes": 642393,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "c64b3f61016a337767d796a76fba1eeb82839fcbd05d5cdb80fc78792f950961",
+      "sizeBytes": 263613,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:50:22Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

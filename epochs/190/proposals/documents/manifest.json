@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archivePath": "5-proposal-to-include-qraffle-smart-contract-b1b4b7bef7.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/6b049f7fcf855d18a16b248486dd8d9b458548d6/SmartContracts/2025-12-01-QRaffle.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "b1b4b7bef70185e5b565df456f172d148b3eb934646be0ed02ebc3e4e6121609",
+      "owner": "qubic",
+      "path": "SmartContracts/2025-12-01-QRaffle.md",
+      "proposalIndex": 5,
+      "ref": "6b049f7fcf855d18a16b248486dd8d9b458548d6",
+      "repo": "proposal",
+      "sha256": "b1b4b7bef70185e5b565df456f172d148b3eb934646be0ed02ebc3e4e6121609",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Qraffle Smart Contract"
+    },
+    {
+      "archivePath": "1-proposal-upgrade-qswap-with-new-fee-distribution-c6b92f06c1.md",
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/7d3f919ae67eee386acdc3661948fbc818681fd6/SmartContracts/2025-12-05-QSwap-Upgrade.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "c6b92f06c1f71ca0914fd3ea66d2ce885fcf0fed8e1e299d89c99d6b6c61efee",
+      "owner": "qubic",
+      "path": "SmartContracts/2025-12-05-QSwap-Upgrade.md",
+      "proposalIndex": 1,
+      "ref": "7d3f919ae67eee386acdc3661948fbc818681fd6",
+      "repo": "proposal",
+      "sha256": "c6b92f06c1f71ca0914fd3ea66d2ce885fcf0fed8e1e299d89c99d6b6c61efee",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade QSwap with new fee distribution"
+    },
+    {
+      "archivePath": "54-qubic-agi-true-ai-research-2026-1-aab7135760.md",
+      "canonicalUrl": "https://github.com/qubicsci/Proposals/blob/52ae886/QubicScience2026-1.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "aab71357609409754f3c80173c3dcc36107e02b16d20bbba392b41cb41a8cc0c",
+      "owner": "qubicsci",
+      "path": "QubicScience2026-1.md",
+      "proposalIndex": 54,
+      "ref": "52ae886",
+      "repo": "Proposals",
+      "sha256": "aab71357609409754f3c80173c3dcc36107e02b16d20bbba392b41cb41a8cc0c",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QUBIC AGI (True AI) Research 2026 (1)"
+    }
+  ],
+  "epoch": 190,
+  "generatedAt": "2026-08-04T00:50:22Z"
+}
