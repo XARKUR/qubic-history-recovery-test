@@ -1,0 +1,38 @@
+[
+  {
+    "address": "VAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAILLJ",
+    "contractIndex": 21,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 198,
+    "fileName": "21_qrp.txt",
+    "lastError": null,
+    "name": "QRP",
+    "sourceUrl": "https://auctions.qubic.tools/files/21_qrp.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  },
+  {
+    "address": "WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVDQA",
+    "contractIndex": 22,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 198,
+    "fileName": "22_qtf.txt",
+    "lastError": null,
+    "name": "QTF",
+    "sourceUrl": "https://auctions.qubic.tools/files/22_qtf.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  },
+  {
+    "address": "XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXNMD",
+    "contractIndex": 23,
+    "detailStatus": "saved",
+    "detailUpdatedAt": "2026-08-03T19:00:04Z",
+    "epoch": 198,
+    "fileName": "23_qduel.txt",
+    "lastError": null,
+    "name": "QDUEL",
+    "sourceUrl": "https://auctions.qubic.tools/files/23_qduel.txt",
+    "updatedAt": "2026-08-03T19:00:04Z"
+  }
+]
