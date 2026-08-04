@@ -1,0 +1,63 @@
+{
+  "epoch": 208,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "6f8c76d2c39398cfaceedae134c9ad75b923e16c8bb61263de8ac6a1778e2219",
+      "sizeBytes": 510,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "c815af2c1d795152a6a077f98dc78c91fc831edfa29de8bc02008291a64c1115",
+      "sizeBytes": 262835,
+      "status": "ok"
+    },
+    "proposals/documents/29-proposal-to-include-escrow-smart-contract-491eb6eec8.md": {
+      "sha256": "491eb6eec8b847cdbc357f621eb7d5df837ccf58240748d3cb4c03320344b6e6",
+      "sizeBytes": 55706,
+      "status": "ok"
+    },
+    "proposals/documents/57-ccf-proposal-agi-26-conference-sponsorship-7da2062c0d.html": {
+      "sha256": "7da2062c0d97d41012ddae8f85d2f6c65caed79667ff77823b44932e23f7a177",
+      "sizeBytes": 300479,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "192cc59887d3cdcf5a6a304a1343d9eec8194046e5c389d3d1b8366b80d289d0",
+      "sizeBytes": 1540,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "1716bbf93f26464431223c268f3ead76df6e0ce8c329ac2ced31f83d0f0b209b",
+      "sizeBytes": 3118,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "0395eb39cbdfc12b1c12cffffa3c39c9a9ebfc065ff0119164fec71d622babd6",
+      "sizeBytes": 360109,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "6feda1a0a1d1643fdfb3db39f6fc281ef63f10af31e26211a38e575c452ee630",
+      "sizeBytes": 54987,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:52:04Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
