@@ -1,0 +1,58 @@
+{
+  "epoch": 180,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "e49c36982f9f9e37468322fb95b33c6c2977d50307e98608e4f19e64b7fcfe75",
+      "sizeBytes": 528,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "65c8896b0d06ef1b301127685dfbb68993d6526870686de3f88834ae884544db",
+      "sizeBytes": 615609,
+      "status": "ok"
+    },
+    "proposals/documents/17-proposal-to-include-qbond-smart-contract-c3203d18cf.md": {
+      "sha256": "c3203d18cf14b45205edb232a550276bc1df2d2220326b2aeb544332d6667c5f",
+      "sizeBytes": 52205,
+      "status": "ok"
+    },
+    "proposals/documents/18-proposal-to-include-random-lottery-smart-contract-7c525c2492.md": {
+      "sha256": "7c525c249210bf07ab3e44f280968eeee4be9c72f9f32d057ce182d74ace2152",
+      "sizeBytes": 16494,
+      "status": "ok"
+    },
+    "proposals/documents/5-proposal-upgrade-multi-sign-vault-msvault-to-version-2-0-with-multi-asset-suppor-01363abdbd.md": {
+      "sha256": "01363abdbdf2ad3ac844351ac797ce2e597a2d9423571f461e18ed3d6a8a2a70",
+      "sizeBytes": 81419,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "122279972f20df094e36d932dfc4fa31ad1369821d61d742097e205a4eec6c96",
+      "sizeBytes": 3074,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "ed14c665dead51852597b2af2b0059ddb87d022c21932a0c030c96b870d1985e",
+      "sizeBytes": 6206,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "1c42fdc146f788720dcf5567203f4b54bb14fe9da73795cf6ab828c51c7ee977",
+      "sizeBytes": 798699,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:41Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

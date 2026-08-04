@@ -1,0 +1,171 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-22-MSVAULT.md",
+      "documentKey": "bde020734bb73f59ec68741e5ffddfdf0d95fd39e6348d9a02303758c27ed9a5",
+      "epoch": 180,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "6488f73b-d168-4376-9c17-f2c541eb23e2",
+      "proposalIndex": 5,
+      "published": "2025-09-27T20:06:37.073",
+      "sha256": "01363abdbdf2ad3ac844351ac797ce2e597a2d9423571f461e18ed3d6a8a2a70",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade Multi-Sign-Vault (MSVault) to version 2.0 with Multi-Asset Support"
+    },
+    {
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/a8e8a80/SmartContracts/2025-09-13-RandomLottery.md",
+      "documentKey": "39d44c6bba3894827d25757d2cda4a0ad558a6196ed46a445cf01cb48d460e19",
+      "epoch": 180,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "3a93cc4f-535c-42af-9b7a-f7b7953a30cf",
+      "proposalIndex": 18,
+      "published": "2025-09-27T15:33:23.94",
+      "sha256": "7c525c249210bf07ab3e44f280968eeee4be9c72f9f32d057ce182d74ace2152",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Random Lottery Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-26-QBond.md",
+      "documentKey": "231c3a33e86d1044d2876fbe3af280838339d68f0bb99957c719de405da70ab1",
+      "epoch": 180,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "e33e473f-ed48-4c2f-9ae1-a2f535ed878e",
+      "proposalIndex": 17,
+      "published": "2025-09-26T17:25:37.397",
+      "sha256": "c3203d18cf14b45205edb232a550276bc1df2d2220326b2aeb544332d6667c5f",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QBond Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/QubicFrance/Proposals/blob/main/Qubic France - Community CCF Proposal _ Crypto XR 2026.md",
+      "documentKey": "a241c10a1262ac890cc5d35d50a1843ebe0ebf5c00b7732ee63dbfd02c000f17",
+      "epoch": 180,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "dfcbf5c7-bd7d-4f2b-bcc7-74d21abf33d2",
+      "proposalIndex": 46,
+      "published": "2025-09-26T17:10:16.003",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "Qubic France – Community CCF Proposal: Crypto XR 2026"
+    }
+  ],
+  "epoch": 180,
+  "proposalCount": 4,
+  "proposals": [
+    {
+      "epoch": 180,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 7.62,
+          "title": "No",
+          "votes": 46
+        },
+        {
+          "percentage": 92.38,
+          "title": "Yes",
+          "votes": 558
+        }
+      ],
+      "proposalId": "6488f73b-d168-4376-9c17-f2c541eb23e2",
+      "proposalIndex": 5,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "BCVGNYYPXXEMKHRYQAKKBAFSFDWADEBCRRSRZRHEAFFFOFCBOGWQDIDEROHB",
+      "published": "2025-09-27T20:06:37.073",
+      "status": 3,
+      "title": "Proposal: Upgrade Multi-Sign-Vault (MSVault) to version 2.0 with Multi-Asset Support",
+      "totalVotes": 604,
+      "url": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-22-MSVAULT.md"
+    },
+    {
+      "epoch": 180,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 12.71,
+          "title": "No",
+          "votes": 75
+        },
+        {
+          "percentage": 87.29,
+          "title": "Yes",
+          "votes": 515
+        }
+      ],
+      "proposalId": "3a93cc4f-535c-42af-9b7a-f7b7953a30cf",
+      "proposalIndex": 18,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "AUHFHHNWLWPXEEXRCAKDWUCYRDRAZNRDNISHEDZYAFYJOUZZKYFMMWFAAFXM",
+      "published": "2025-09-27T15:33:23.94",
+      "status": 3,
+      "title": "Proposal to include Random Lottery Smart Contract",
+      "totalVotes": 590,
+      "url": "https://github.com/N-010/proposal/blob/a8e8a80/SmartContracts/2025-09-13-RandomLottery.md"
+    },
+    {
+      "epoch": 180,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 13.07,
+          "title": "No",
+          "votes": 77
+        },
+        {
+          "percentage": 86.93,
+          "title": "Yes",
+          "votes": 512
+        }
+      ],
+      "proposalId": "e33e473f-ed48-4c2f-9ae1-a2f535ed878e",
+      "proposalIndex": 17,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "MZHFWDSJLHMYYAARQJXMXIQRNSLCFIJVWQSOMDOUWCMNAATOOEZPMDWEAHYE",
+      "published": "2025-09-26T17:25:37.397",
+      "status": 3,
+      "title": "Proposal to include QBond Smart Contract",
+      "totalVotes": 589,
+      "url": "https://github.com/qubic/proposal/blob/605da6f57f17505b2d5b9b271b2351a90268f4c8/SmartContracts/2025-09-26-QBond.md"
+    },
+    {
+      "epoch": 180,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 74.01,
+          "title": "No Transfer",
+          "votes": 447
+        },
+        {
+          "percentage": 25.99,
+          "title": "Yes, send 14,300,000,000 $QUBIC",
+          "votes": 157
+        }
+      ],
+      "proposalId": "dfcbf5c7-bd7d-4f2b-bcc7-74d21abf33d2",
+      "proposalIndex": 46,
+      "proposalType": "Transfer",
+      "proposerIdentity": "PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB",
+      "published": "2025-09-26T17:10:16.003",
+      "status": 6,
+      "title": "Qubic France – Community CCF Proposal: Crypto XR 2026",
+      "totalVotes": 604,
+      "url": "https://github.com/QubicFrance/Proposals/blob/main/Qubic France - Community CCF Proposal _ Crypto XR 2026.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:31Z"
+}
