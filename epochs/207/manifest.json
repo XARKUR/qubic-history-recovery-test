@@ -1,0 +1,53 @@
+{
+  "epoch": 207,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "5b864826058ccc2b823c522b37313d5c6977eb0c3aae1e02dc892b50499d8932",
+      "sizeBytes": 70156,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4ec6772a23164a4956b7d95629233f0dbddbe4aa12c24445465de6e4cc280e6c",
+      "sizeBytes": 396,
+      "status": "ok"
+    },
+    "ipo/documents/26-qusino-5be0c203c9.txt": {
+      "sha256": "5be0c203c9c9cf5bff87dc7439e0705e181262d200469a86049b88e3608a77d7",
+      "sizeBytes": 49162,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "ddd6df89094708a9b43db65793f5e8970f5633072d1dcc8047f33bd81be1e6b9",
+      "sizeBytes": 613,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "414f918c92b147fd5d11f5146f0623ecfbf28b27044d29c1abec91ed757ec5ce",
+      "sizeBytes": 518,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "e23ff3b5e05b51abf17d23c62a03deb471a1b4380c984693ea6b0acef523cf2b",
+      "sizeBytes": 68467,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:51:59Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
