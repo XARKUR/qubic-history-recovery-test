@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": "45-ccf-proposal-shanghai-global-blockchain-week-57ad3f86ac.md",
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/a7ce34d/CCF proposal Shanghai Global Blockchain Week event.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "57ad3f86ac0063f26b386f2e0b7d0398e0b8b14e54ba65c2970f34349f6f3033",
+      "owner": "zhangxingyuan-nj",
+      "path": "CCF proposal Shanghai Global Blockchain Week event.md",
+      "proposalIndex": 45,
+      "ref": "a7ce34d",
+      "repo": "Proposals",
+      "sha256": "57ad3f86ac0063f26b386f2e0b7d0398e0b8b14e54ba65c2970f34349f6f3033",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Shanghai Global Blockchain Week"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/hereisfrescoid/Qubic-Proposal_Frescoid-x-Seb/blob/68a8f83efe61a782cac7c2e01d851146f1699c87/FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "hereisfrescoid",
+      "path": "FrescoidxSeb_QUBIC_PROPOSAL.md",
+      "proposalIndex": 43,
+      "ref": "68a8f83efe61a782cac7c2e01d851146f1699c87",
+      "repo": "Qubic-Proposal_Frescoid-x-Seb",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "QUBIC PROPOSAL - FRESCOID x SEB CCF"
+    },
+    {
+      "archivePath": "17-proposal-to-include-random-lottery-smart-contract-263c5e2af4.md",
+      "canonicalUrl": "https://github.com/N-010/proposal/blob/b07e483/SmartContracts/2025-09-13-RandomLottery.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "263c5e2af429f856e572d450d8a3ea52c1aaab3e9af794f53a1f5cd9c9cce10e",
+      "owner": "N-010",
+      "path": "SmartContracts/2025-09-13-RandomLottery.md",
+      "proposalIndex": 17,
+      "ref": "b07e483",
+      "repo": "proposal",
+      "sha256": "263c5e2af429f856e572d450d8a3ea52c1aaab3e9af794f53a1f5cd9c9cce10e",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include Random Lottery Smart Contract"
+    },
+    {
+      "archivePath": "45-ccf-proposal-shanghai-global-blockchain-week-e9012cdf7c.md",
+      "canonicalUrl": "https://github.com/zhangxingyuan-nj/Proposals/blob/d2a8382/CCF proposal Shanghai Global Blockchain Week event.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "e9012cdf7ce6fdc36d93c0dfbbf3c940736e983da96702af7661b88e3c78ca88",
+      "owner": "zhangxingyuan-nj",
+      "path": "CCF proposal Shanghai Global Blockchain Week event.md",
+      "proposalIndex": 45,
+      "ref": "d2a8382",
+      "repo": "Proposals",
+      "sha256": "e9012cdf7ce6fdc36d93c0dfbbf3c940736e983da96702af7661b88e3c78ca88",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal Shanghai Global Blockchain Week"
+    },
+    {
+      "archivePath": "44-creation-of-ai-artist-anna-aigarth-to-attract-a-new-gen-z-audience-to-the-qubic--57918cc576.md",
+      "canonicalUrl": "https://github.com/QubicRU/Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience/blob/main/README.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "57918cc5761e9d49d264ae9f3624bd0442e9e8b28ddd2e28cd94b7057212d194",
+      "owner": "QubicRU",
+      "path": "README.md",
+      "proposalIndex": 44,
+      "ref": "main",
+      "repo": "Creation-of-AI-artist-aNNa-Aigarth-to-attract-a-new-Gen-Z-audience",
+      "sha256": "57918cc5761e9d49d264ae9f3624bd0442e9e8b28ddd2e28cd94b7057212d194",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthe"
+    }
+  ],
+  "epoch": 179,
+  "generatedAt": "2026-08-04T01:30:35Z"
+}

@@ -1,0 +1,63 @@
+{
+  "epoch": 179,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "e55ca650a249f6dd11b4032c08d5c1b081ffa9e905735b78dd230067d3067295",
+      "sizeBytes": 527,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "92302fff178fa85aedde7fa2d841bfb83c3a094484202613408835c5b780d09f",
+      "sizeBytes": 584106,
+      "status": "ok"
+    },
+    "proposals/documents/17-proposal-to-include-random-lottery-smart-contract-263c5e2af4.md": {
+      "sha256": "263c5e2af429f856e572d450d8a3ea52c1aaab3e9af794f53a1f5cd9c9cce10e",
+      "sizeBytes": 17615,
+      "status": "ok"
+    },
+    "proposals/documents/44-creation-of-ai-artist-anna-aigarth-to-attract-a-new-gen-z-audience-to-the-qubic--57918cc576.md": {
+      "sha256": "57918cc5761e9d49d264ae9f3624bd0442e9e8b28ddd2e28cd94b7057212d194",
+      "sizeBytes": 11214,
+      "status": "ok"
+    },
+    "proposals/documents/45-ccf-proposal-shanghai-global-blockchain-week-57ad3f86ac.md": {
+      "sha256": "57ad3f86ac0063f26b386f2e0b7d0398e0b8b14e54ba65c2970f34349f6f3033",
+      "sizeBytes": 12435,
+      "status": "ok"
+    },
+    "proposals/documents/45-ccf-proposal-shanghai-global-blockchain-week-e9012cdf7c.md": {
+      "sha256": "e9012cdf7ce6fdc36d93c0dfbbf3c940736e983da96702af7661b88e3c78ca88",
+      "sizeBytes": 12435,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "a184f70e662ffcc9e6088520fd17bf6d5be8929bd3f4a97b94cc23342c6b27c6",
+      "sizeBytes": 3919,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "34b6eca2b5b88125a94fe65ebe2fb7f9bad123050c028cb92dd3223422c302c2",
+      "sizeBytes": 9402,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "e3bb36f29fe452d8c66684da4b3e7597c62b58c63812d8c1147a532f4806e623",
+      "sizeBytes": 757347,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:35Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
