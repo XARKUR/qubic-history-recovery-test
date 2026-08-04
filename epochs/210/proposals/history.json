@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/dxpsito/CCF-Audit-Proposal/blob/main/05-01 - 07-31 AUDIT PROPOSAL.md",
+      "documentKey": "0948d068bbf5aeb11690e7746890a64b646cd9be10ee2f981150e6315a659787",
+      "epoch": 210,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "05b9227f-cfd1-4aa8-bfc6-6a894d674ca0",
+      "proposalIndex": 63,
+      "published": "2026-04-29T08:21:36.84",
+      "sha256": "38beb997c296720985042f87312c92c838a109b07288a870ce26d661a2a6f904",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Audit-Proposal/05-01 - 07-31 AUDIT PROPOSAL.md at main · dxpsito/CCF-Audit-Proposal · GitHub"
+    },
+    {
+      "canonicalUrl": "https://github.com/salar796/Community-Management-CCF-Proposal-for-April-and-May/blob/main/Community-Management-CCF-Proposal-for-April-and-May.md",
+      "documentKey": "6ce15b97bd6784aa7ebd1132565697894a6905eb97c23403d7d4ed280c06fa1e",
+      "epoch": 210,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "b9339ba3-c4d1-43eb-9f5a-169df699f9eb",
+      "proposalIndex": 57,
+      "published": "2026-04-29T08:19:39.97",
+      "sha256": "3a4141238f994934cae4213626983d98af4f6b2165d7eb8b7f0b06a807cc67c5",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for April and May"
+    },
+    {
+      "canonicalUrl": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-24-qRWA-Upgrade.md",
+      "documentKey": "ff741a8acc961703868fbb4c58c4448ee02e626d480316712029f216718e4a73",
+      "epoch": 210,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "bf8e0c4e-13ba-4b9c-b9ba-e10afcb49279",
+      "proposalIndex": 22,
+      "published": "2026-04-24T20:59:11.163",
+      "sha256": "ecd0254a15e6fc9eba78425ad2f422f8039d3d60c6ed8596fc6bf75b6a9a1d0b",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal: Upgrade qRWA Smart Contract"
+    },
+    {
+      "canonicalUrl": "https://github.com/dxpsito/CCF-Audit-Proposal/blob/main/05-01 - 07-31 AUDIT PROPOSAL.md",
+      "documentKey": "0948d068bbf5aeb11690e7746890a64b646cd9be10ee2f981150e6315a659787",
+      "epoch": 210,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "ad8fe988-3ed4-426f-8a2f-d09a1b1cfd90",
+      "proposalIndex": 0,
+      "published": "2026-04-24T20:59:06.02",
+      "sha256": "38beb997c296720985042f87312c92c838a109b07288a870ce26d661a2a6f904",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Audit-Proposal/05-01 - 07-31 AUDIT PROPOSAL.md at main · dxpsito/CCF-Audit-Proposal · GitHub"
+    },
+    {
+      "canonicalUrl": "https://github.com/salar796/Community-Management-CCF-Proposal-for-April-and-May/blob/main/Community-Management-CCF-Proposal-for-April-and-May.md",
+      "documentKey": "6ce15b97bd6784aa7ebd1132565697894a6905eb97c23403d7d4ed280c06fa1e",
+      "epoch": 210,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "4ae6171e-ab3b-44a1-a6ee-8814f698e98e",
+      "proposalIndex": 1,
+      "published": "2026-04-24T20:58:10.733",
+      "sha256": "3a4141238f994934cae4213626983d98af4f6b2165d7eb8b7f0b06a807cc67c5",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Community Management CCF Proposal for April and May"
+    }
+  ],
+  "epoch": 210,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 210,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 5.03,
+          "title": "No Transfer",
+          "votes": 27
+        },
+        {
+          "percentage": 94.97,
+          "title": "Yes, send 11,499,999,998 $QUBIC",
+          "votes": 510
+        }
+      ],
+      "proposalId": "05b9227f-cfd1-4aa8-bfc6-6a894d674ca0",
+      "proposalIndex": 63,
+      "proposalType": "Transfer",
+      "proposerIdentity": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+      "published": "2026-04-29T08:21:36.84",
+      "status": 3,
+      "title": "CCF-Audit-Proposal/05-01 - 07-31 AUDIT PROPOSAL.md at main · dxpsito/CCF-Audit-Proposal · GitHub",
+      "totalVotes": 537,
+      "url": "https://github.com/dxpsito/CCF-Audit-Proposal/blob/main/05-01 - 07-31 AUDIT PROPOSAL.md"
+    },
+    {
+      "epoch": 210,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 9.07,
+          "title": "No Transfer",
+          "votes": 49
+        },
+        {
+          "percentage": 90.93,
+          "title": "Yes, send 14,439,999,999 $QUBIC",
+          "votes": 491
+        }
+      ],
+      "proposalId": "b9339ba3-c4d1-43eb-9f5a-169df699f9eb",
+      "proposalIndex": 57,
+      "proposalType": "Transfer",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-04-29T08:19:39.97",
+      "status": 3,
+      "title": "Community Management CCF Proposal for April and May",
+      "totalVotes": 540,
+      "url": "https://github.com/salar796/Community-Management-CCF-Proposal-for-April-and-May/blob/main/Community-Management-CCF-Proposal-for-April-and-May.md"
+    },
+    {
+      "epoch": 210,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 17.07,
+          "title": "No",
+          "votes": 92
+        },
+        {
+          "percentage": 82.93,
+          "title": "Yes",
+          "votes": 447
+        }
+      ],
+      "proposalId": "bf8e0c4e-13ba-4b9c-b9ba-e10afcb49279",
+      "proposalIndex": 22,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "XYZLYOUCYTFXHDGASZPTIIURRJJCMPFPWZGZQFZKCBBZIBAWEPEAIQCCQAPO",
+      "published": "2026-04-24T20:59:11.163",
+      "status": 3,
+      "title": "Proposal: Upgrade qRWA Smart Contract",
+      "totalVotes": 539,
+      "url": "https://github.com/qubic/proposal/blob/main/SmartContracts/2026-04-24-qRWA-Upgrade.md"
+    },
+    {
+      "epoch": 210,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 31.29,
+          "title": "No",
+          "votes": 46
+        },
+        {
+          "percentage": 68.71,
+          "title": "Yes",
+          "votes": 101
+        }
+      ],
+      "proposalId": "ad8fe988-3ed4-426f-8a2f-d09a1b1cfd90",
+      "proposalIndex": 0,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "EQOTMBNINEBMWFTBFTHTMWWLKHNBBAUHJNHUEQKDOCRTCLQBTDCMFOFHNNPJ",
+      "published": "2026-04-24T20:59:06.02",
+      "status": 4,
+      "title": "CCF-Audit-Proposal/05-01 - 07-31 AUDIT PROPOSAL.md at main · dxpsito/CCF-Audit-Proposal · GitHub",
+      "totalVotes": 147,
+      "url": "https://github.com/dxpsito/CCF-Audit-Proposal/blob/main/05-01 - 07-31 AUDIT PROPOSAL.md"
+    },
+    {
+      "epoch": 210,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 17.39,
+          "title": "No",
+          "votes": 28
+        },
+        {
+          "percentage": 82.61,
+          "title": "Yes",
+          "votes": 133
+        }
+      ],
+      "proposalId": "4ae6171e-ab3b-44a1-a6ee-8814f698e98e",
+      "proposalIndex": 1,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "ZFPYXZJQZJXQFHRGOHZWETHBGHYAEPSKHPGUBNDZIAUESPQDBXOLKTBDHDRG",
+      "published": "2026-04-24T20:58:10.733",
+      "status": 4,
+      "title": "Community Management CCF Proposal for April and May",
+      "totalVotes": 161,
+      "url": "https://github.com/salar796/Community-Management-CCF-Proposal-for-April-and-May/blob/main/Community-Management-CCF-Proposal-for-April-and-May.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:16Z"
+}
