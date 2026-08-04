@@ -1,0 +1,68 @@
+{
+  "epoch": 176,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "f50d02320112cf046941041040907c413e40f7457b6b3030b060bd7ee20240e5",
+      "sizeBytes": 527,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "3bc3592cc5be07b956bc5af87b6c0d26698745184e60d21915f9b1cfd37c9dc8",
+      "sizeBytes": 784464,
+      "status": "ok"
+    },
+    "proposals/documents/1-ccf-proposal-token2049-95618eec49.md": {
+      "sha256": "95618eec498c2b17f28b8cb4dfe9f9e30718ea91388d408d0369b89d824138c3",
+      "sizeBytes": 6912,
+      "status": "ok"
+    },
+    "proposals/documents/13-ccf-proposal-ambassador-program-so4-1835207830.md": {
+      "sha256": "1835207830b37cd81c97bda5bd6047df74eebbb6c3a4d1ff12be4bb3a95153b6",
+      "sizeBytes": 16438,
+      "status": "ok"
+    },
+    "proposals/documents/16-proposal-to-include-qbridge-smart-contract-fc4a192e04.md": {
+      "sha256": "fc4a192e041eee283578672e8e4a561f696d494931899ce89f319391b7fa3e1d",
+      "sizeBytes": 50951,
+      "status": "ok"
+    },
+    "proposals/documents/37-qubic-bogazici-university-summit-qubic-2025-bogazici-summit-md-at-95ac9d15faf8a7-0389a7de7c.md": {
+      "sha256": "0389a7de7c636219188c86f0b10baeaf66e1047f327c3f69186c09904ad8b86f",
+      "sizeBytes": 5339,
+      "status": "ok"
+    },
+    "proposals/documents/40-q-stream-proposal-32e41900e8.md": {
+      "sha256": "32e41900e8922fd3cdf654ca125d7441f6dd700d8650dbacdcac98bd1aa82b2f",
+      "sizeBytes": 4481,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "256c85e1fce1a19c2a52e936da99728554d2cf5f58cf7bb5fdfdb5f081097b23",
+      "sizeBytes": 3837,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "a250d1fbdb859c770a0b68d893fae910e407d4f61db318477688c0d3d4887ec0",
+      "sizeBytes": 7491,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "70410d38c47ab13363bc48273e7818a572f182113ac39ffbba9bb7c5c0d65c3e",
+      "sizeBytes": 1074349,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:30:18Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}

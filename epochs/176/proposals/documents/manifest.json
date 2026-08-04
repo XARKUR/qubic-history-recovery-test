@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "archivePath": "13-ccf-proposal-ambassador-program-so4-1835207830.md",
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/a10eb42/CCF Proposal - Ambassador Program SO4  .md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "1835207830b37cd81c97bda5bd6047df74eebbb6c3a4d1ff12be4bb3a95153b6",
+      "owner": "Qubic-Core-Services",
+      "path": "CCF Proposal - Ambassador Program SO4  .md",
+      "proposalIndex": 13,
+      "ref": "a10eb42",
+      "repo": "Proposals",
+      "sha256": "1835207830b37cd81c97bda5bd6047df74eebbb6c3a4d1ff12be4bb3a95153b6",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal - Ambassador Program SO4"
+    },
+    {
+      "archivePath": "16-proposal-to-include-qbridge-smart-contract-fc4a192e04.md",
+      "canonicalUrl": "https://github.com/sergimima/qubic-proposal/blob/2a4a0a9/2025-08-19-VottunBridge.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "fc4a192e041eee283578672e8e4a561f696d494931899ce89f319391b7fa3e1d",
+      "owner": "sergimima",
+      "path": "2025-08-19-VottunBridge.md",
+      "proposalIndex": 16,
+      "ref": "2a4a0a9",
+      "repo": "qubic-proposal",
+      "sha256": "fc4a192e041eee283578672e8e4a561f696d494931899ce89f319391b7fa3e1d",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal to include QBridge Smart Contract"
+    },
+    {
+      "archivePath": "37-qubic-bogazici-university-summit-qubic-2025-bogazici-summit-md-at-95ac9d15faf8a7-0389a7de7c.md",
+      "canonicalUrl": "https://github.com/kriptolojik/Qubic-Bogazici-University-Summit/blob/95ac9d15faf8a7af94ebe00ab117ce4092199776/Qubic_2025_Bogazici_Summit.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "0389a7de7c636219188c86f0b10baeaf66e1047f327c3f69186c09904ad8b86f",
+      "owner": "kriptolojik",
+      "path": "Qubic_2025_Bogazici_Summit.md",
+      "proposalIndex": 37,
+      "ref": "95ac9d15faf8a7af94ebe00ab117ce4092199776",
+      "repo": "Qubic-Bogazici-University-Summit",
+      "sha256": "0389a7de7c636219188c86f0b10baeaf66e1047f327c3f69186c09904ad8b86f",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Qubic-Bogazici-University-Summit/Qubic_2025_Bogazici_Summit.md at 95ac9d15faf8a7af94ebe00ab117ce4092"
+    },
+    {
+      "archivePath": "1-ccf-proposal-token2049-95618eec49.md",
+      "canonicalUrl": "https://github.com/Qubic-Core-Services/Proposals/blob/6b20093/CCF Proposal Token2049 Singapore.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "95618eec498c2b17f28b8cb4dfe9f9e30718ea91388d408d0369b89d824138c3",
+      "owner": "Qubic-Core-Services",
+      "path": "CCF Proposal Token2049 Singapore.md",
+      "proposalIndex": 1,
+      "ref": "6b20093",
+      "repo": "Proposals",
+      "sha256": "95618eec498c2b17f28b8cb4dfe9f9e30718ea91388d408d0369b89d824138c3",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF proposal TOKEN2049"
+    },
+    {
+      "archivePath": "40-q-stream-proposal-32e41900e8.md",
+      "canonicalUrl": "https://github.com/REVO-CAT/Q-Stream-Proposal/blob/main/proposal.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "32e41900e8922fd3cdf654ca125d7441f6dd700d8650dbacdcac98bd1aa82b2f",
+      "owner": "REVO-CAT",
+      "path": "proposal.md",
+      "proposalIndex": 40,
+      "ref": "main",
+      "repo": "Q-Stream-Proposal",
+      "sha256": "32e41900e8922fd3cdf654ca125d7441f6dd700d8650dbacdcac98bd1aa82b2f",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Q-Stream Proposal"
+    }
+  ],
+  "epoch": 176,
+  "generatedAt": "2026-08-04T01:30:18Z"
+}
