@@ -1,0 +1,211 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/CFF-Qubic-Ryan Babel-Phase-2.md",
+      "documentKey": "61476c7412793c390cdc6569dbbc9ec5bf4c6dbdb70d1aee29cee00aab9bfa4b",
+      "epoch": 171,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "80f84c05-1358-4c83-90d2-c3d91e81ab69",
+      "proposalIndex": 22,
+      "published": "2025-07-26T21:28:04.61",
+      "sha256": "e228f5d4344cd026ba4960cf74d90369c686aa07a565283e623c3a0dca667e3e",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF-Proposal/CFF-Qubic-Ryan Babel-Phase-2.md at main · OfficialRBweb3/CCF-Proposal · GitHub"
+    },
+    {
+      "canonicalUrl": "https://github.com/retrodrive1/ccf-funding-proposal-marketing/blob/c3a1862c5c91c209114c57d36ddef163d1ed3eea/25.07.18_qubic_marketing_proposal_team.md",
+      "documentKey": "2ad9f1ad331f335c7f3498e97be3492f387f2601bec32d37099b20bb04f63904",
+      "epoch": 171,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "cd241b08-a330-426e-b796-ad249231c21e",
+      "proposalIndex": 28,
+      "published": "2025-07-25T22:48:14.017",
+      "sha256": "230f786a2560b0490049ecccaea7d4dd8d031154a17e12c72078a0184a736365",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal – Qubic Marketing: CCF Funding Proposal"
+    },
+    {
+      "canonicalUrl": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md",
+      "documentKey": "b0aac1a1d418f5102e46b05b7df53b6be99a3674392930934e5571d69293f657",
+      "epoch": 171,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "c875882d-01dd-4a53-b5a3-500c8494bc33",
+      "proposalIndex": 27,
+      "published": "2025-07-25T13:31:33.563",
+      "sha256": "3fb8a0f62438442f7b0774bc3c84cbca6b0208b5590c4d21f38f901cfa786c23",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil"
+    },
+    {
+      "canonicalUrl": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md",
+      "documentKey": "b0aac1a1d418f5102e46b05b7df53b6be99a3674392930934e5571d69293f657",
+      "epoch": 171,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "bb4d2888-750e-40ae-ac04-9a637679eb2a",
+      "proposalIndex": 27,
+      "published": "2025-07-25T13:12:13.617",
+      "sha256": "3fb8a0f62438442f7b0774bc3c84cbca6b0208b5590c4d21f38f901cfa786c23",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil"
+    },
+    {
+      "canonicalUrl": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md",
+      "documentKey": "d2f09c84bfce999bf5b63e99a4c5fc52815c112b28d656047af76b3d1103ff56",
+      "epoch": 171,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "88d87605-df59-4856-91a9-a3d384d96acc",
+      "proposalIndex": 26,
+      "published": "2025-07-25T02:21:23.09",
+      "sha256": "f3878238a1733554080c4180500a42492a90e4ba41bf2a9f684e8b4b53ae7376",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "QXMR Staking Smart Contract Proposal"
+    }
+  ],
+  "epoch": 171,
+  "proposalCount": 5,
+  "proposals": [
+    {
+      "epoch": 171,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 73.43,
+          "title": "No Transfer",
+          "votes": 467
+        },
+        {
+          "percentage": 26.57,
+          "title": "Yes, send 4,900,000,000 $QUBIC",
+          "votes": 169
+        }
+      ],
+      "proposalId": "80f84c05-1358-4c83-90d2-c3d91e81ab69",
+      "proposalIndex": 22,
+      "proposalType": "Transfer",
+      "proposerIdentity": "MVUCJYICVTZUXAISLYEYBPNVOQWANSLOKNKZVHSAQFJIVALBLOSEBVDHUARK",
+      "published": "2025-07-26T21:28:04.61",
+      "status": 6,
+      "title": "CCF-Proposal/CFF-Qubic-Ryan Babel-Phase-2.md at main · OfficialRBweb3/CCF-Proposal · GitHub",
+      "totalVotes": 636,
+      "url": "https://github.com/OfficialRBweb3/CCF-Proposal/blob/main/CFF-Qubic-Ryan Babel-Phase-2.md"
+    },
+    {
+      "epoch": 171,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 9.44,
+          "title": "No Transfer",
+          "votes": 61
+        },
+        {
+          "percentage": 90.56,
+          "title": "Yes, send 23,750,000,000 $QUBIC",
+          "votes": 585
+        }
+      ],
+      "proposalId": "cd241b08-a330-426e-b796-ad249231c21e",
+      "proposalIndex": 28,
+      "proposalType": "Transfer",
+      "proposerIdentity": "YLHUWPRCLZDXHEXHSJUOURTIHOLCVZOMRJXKTFRODDHJTCPDPHMAQPIBMXTG",
+      "published": "2025-07-25T22:48:14.017",
+      "status": 3,
+      "title": "CCF Proposal – Qubic Marketing: CCF Funding Proposal",
+      "totalVotes": 646,
+      "url": "https://github.com/retrodrive1/ccf-funding-proposal-marketing/blob/c3a1862c5c91c209114c57d36ddef163d1ed3eea/25.07.18_qubic_marketing_proposal_team.md"
+    },
+    {
+      "epoch": 171,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 31.11,
+          "title": "No Transfer",
+          "votes": 201
+        },
+        {
+          "percentage": 68.89,
+          "title": "Yes, send 4,500,000,000 $QUBIC",
+          "votes": 445
+        }
+      ],
+      "proposalId": "c875882d-01dd-4a53-b5a3-500c8494bc33",
+      "proposalIndex": 27,
+      "proposalType": "Transfer",
+      "proposerIdentity": "TRYZTGFUNNUBLERYWTCWLFEIYCTCKFYCPOMIUOPKOCJBBPZNQVHQTQWCUAGH",
+      "published": "2025-07-25T13:31:33.563",
+      "status": 3,
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil",
+      "totalVotes": 646,
+      "url": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md"
+    },
+    {
+      "epoch": 171,
+      "hasVotes": false,
+      "options": [
+        {
+          "percentage": 0.0,
+          "title": "No Transfer",
+          "votes": 0
+        },
+        {
+          "percentage": 0.0,
+          "title": "Yes, send 4,500,000 $QUBIC",
+          "votes": 0
+        }
+      ],
+      "proposalId": "bb4d2888-750e-40ae-ac04-9a637679eb2a",
+      "proposalIndex": 27,
+      "proposalType": "Transfer",
+      "proposerIdentity": "TRYZTGFUNNUBLERYWTCWLFEIYCTCKFYCPOMIUOPKOCJBBPZNQVHQTQWCUAGH",
+      "published": "2025-07-25T13:12:13.617",
+      "status": 5,
+      "title": "Proposal-Milly-x-Qubic-Amplification/Proposal Milly × Qubic Ecosystem Amplification.md at main · Mil",
+      "totalVotes": 0,
+      "url": "https://github.com/MillyCrypto9/Proposal-Milly-x-Qubic-Amplification/blob/main/Proposal Milly × Qubic Ecosystem Amplification.md"
+    },
+    {
+      "epoch": 171,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 62.11,
+          "title": "No Transfer",
+          "votes": 400
+        },
+        {
+          "percentage": 37.89,
+          "title": "Yes, send 10,000,000,000 $QUBIC",
+          "votes": 244
+        }
+      ],
+      "proposalId": "88d87605-df59-4856-91a9-a3d384d96acc",
+      "proposalIndex": 26,
+      "proposalType": "Transfer",
+      "proposerIdentity": "GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA",
+      "published": "2025-07-25T02:21:23.09",
+      "status": 6,
+      "title": "QXMR Staking Smart Contract Proposal",
+      "totalVotes": 644,
+      "url": "https://github.com/profitphil/QXMR-Staking-Smart-Contract-Proposal/blob/main/README.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:43:03Z"
+}

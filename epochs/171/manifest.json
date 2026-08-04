@@ -1,0 +1,88 @@
+{
+  "epoch": 171,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "225a69387e466b7efa12ce2b3fb28f269f47dfb4d8aae8c012ebaead7e277800",
+      "sizeBytes": 70399,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "d02b6b3d816fce237b8ebaa5c38650be8857b7731954e54f499c1e6c7f825368",
+      "sizeBytes": 390,
+      "status": "ok"
+    },
+    "ipo/documents/14-nost-06c35a047a.txt": {
+      "sha256": "06c35a047aeb522899c8c82e65cf515f6e0207b7eefa26e0931f34fb358c44a2",
+      "sizeBytes": 49382,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "c2fc6a48dbdda03a4c4b9bd17bb9c6daf80f6509566d7572523159c6f5e085bd",
+      "sizeBytes": 605,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "f4acdb0b17f59d148f8cedd96f63e5c9dd46a205f121e1beeca9505de60b16d4",
+      "sizeBytes": 702664,
+      "status": "ok"
+    },
+    "proposals/documents/22-ccf-proposal-cff-qubic-ryan-babel-phase-2-md-at-main-officialrbweb3-ccf-proposal-e228f5d434.md": {
+      "sha256": "e228f5d4344cd026ba4960cf74d90369c686aa07a565283e623c3a0dca667e3e",
+      "sizeBytes": 32231,
+      "status": "ok"
+    },
+    "proposals/documents/26-qxmr-staking-smart-contract-proposal-f3878238a1.md": {
+      "sha256": "f3878238a1733554080c4180500a42492a90e4ba41bf2a9f684e8b4b53ae7376",
+      "sizeBytes": 5202,
+      "status": "ok"
+    },
+    "proposals/documents/27-proposal-milly-x-qubic-amplification-proposal-milly-qubic-ecosystem-amplificatio-3fb8a0f624.md": {
+      "sha256": "3fb8a0f62438442f7b0774bc3c84cbca6b0208b5590c4d21f38f901cfa786c23",
+      "sizeBytes": 7099,
+      "status": "ok"
+    },
+    "proposals/documents/28-ccf-proposal-qubic-marketing-ccf-funding-proposal-230f786a25.md": {
+      "sha256": "230f786a2560b0490049ecccaea7d4dd8d031154a17e12c72078a0184a736365",
+      "sizeBytes": 7220,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "37a25f25bdd23cb24b731b3aace90b241e5198fa5e731c85299c7f5fe500bdab",
+      "sizeBytes": 3418,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "2c37f034b1079bd2cc0cae6f2739ad6eb89e00b900f05cbb4f86cfcda69d2be8",
+      "sizeBytes": 8046,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "768404bf3e553dc32e589dd2a315cd19b46f95a0d301cc51b6fd52f4a48e1a57",
+      "sizeBytes": 862597,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:48:35Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
