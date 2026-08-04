@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/DeFiMomma/CCF-Marketing-Proposal/blob/7bcdba3e7529ce3b30974fcaf02c6e3bc9d44a70/June2026-Reimbursement.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "DeFiMomma",
+      "path": "June2026-Reimbursement.md",
+      "proposalIndex": 57,
+      "ref": "7bcdba3e7529ce3b30974fcaf02c6e3bc9d44a70",
+      "repo": "CCF-Marketing-Proposal",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "🌐 QUBIC MARKETING REIMBURSEMENT PROPOSAL"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/idk123-a/QCAP-proposals-/blob/main/QVAULT_QBOND_reserve.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "idk123-a",
+      "path": "QVAULT_QBOND_reserve.md",
+      "proposalIndex": 34,
+      "ref": "main",
+      "repo": "QCAP-proposals-",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal: Temporary Burn Replenishment for QVAULT and QBOND"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/profitphil/Proposal-Qraffle-Smart-Contract-Revisions/blob/main/README.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "profitphil",
+      "path": "README.md",
+      "proposalIndex": 1,
+      "ref": "main",
+      "repo": "Proposal-Qraffle-Smart-Contract-Revisions",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "Proposal-Qraffle-Smart-Contract-Revisions# Proposal: Qraffle Smart Contract Revisions"
+    },
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/kimz-Q/CCF-Proposal-Project_Gateway-Fiat-On-Ramp-Merchant-Payment-Integration/blob/355637f/CCF_Proposal_Project_Gateway.md",
+      "contentType": null,
+      "expectedSha256": null,
+      "owner": "kimz-Q",
+      "path": "CCF_Proposal_Project_Gateway.md",
+      "proposalIndex": 67,
+      "ref": "355637f",
+      "repo": "CCF-Proposal-Project_Gateway-Fiat-On-Ramp-Merchant-Payment-Integration",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "blocked",
+      "title": "1. CCF Proposal"
+    }
+  ],
+  "epoch": 217,
+  "generatedAt": "2026-08-04T00:19:48Z"
+}
