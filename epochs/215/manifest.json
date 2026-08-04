@@ -1,0 +1,58 @@
+{
+  "epoch": 215,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "3658bbb860ac77b50aad546dda72cc685ecb4fb2870193c531e72824a06b1f55",
+      "sizeBytes": 511,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "a302dc754ec7098706438dca780166a8b9fe3d16c7cb1d9a91a898169ffe9d92",
+      "sizeBytes": 300507,
+      "status": "ok"
+    },
+    "proposals/documents/1-reallocate-77-5-of-weekly-emissions-to-the-supplywatcher-burn-starting-from-epoc-786bc1407b.md": {
+      "sha256": "786bc1407bf69e7c55c2c9611a1955fd0426fcf7ccb64ab39d89b334e7deaab5",
+      "sizeBytes": 1986,
+      "status": "ok"
+    },
+    "proposals/documents/32-smart-contract-ggwp-wolfpack-eb49ca5e48.md": {
+      "sha256": "eb49ca5e4855122f9165961e52731d89ef87225a8ce73c7558a0a2b4d0ab1e3e",
+      "sizeBytes": 8893,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "da90be314c2f574be550fb13c6d65cac920eba86039efb1fcce85931bb0decde",
+      "sizeBytes": 1704,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "67a6a95a6745228abef14acda099c04a4375cdbe50cb0b5e2eeab81df11b67d3",
+      "sizeBytes": 3176,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "78f69abcada254c0e8cc0b3e82a197755e1e89afe36162b72b142bcf3ebfb821",
+      "sizeBytes": 386151,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "38f162dd71b6790124dd4e5b278bb1b53efda5ff78bea758a1122721204aef77",
+      "sizeBytes": 58601,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T01:33:52Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
