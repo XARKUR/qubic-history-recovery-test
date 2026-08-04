@@ -1,0 +1,63 @@
+{
+  "epoch": 168,
+  "files": {
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "a1a1d333440f1410570c4e1b0c8b6b856f85ff0425ebc69925d26cf7c9228c75",
+      "sizeBytes": 458315,
+      "status": "ok"
+    },
+    "proposals/documents/1-reallocate-55-of-weekly-emissions-to-the-supplywatcher-burn-starting-from-epoch--33960dac59.md": {
+      "sha256": "33960dac59ae734635e67a10ce258acf56ee5c5ceb3d593bfff45d18dfa5eeb2",
+      "sizeBytes": 2948,
+      "status": "ok"
+    },
+    "proposals/documents/19-ccf-proposal-web3lagos-conference-2025-e52fb87cb5.md": {
+      "sha256": "e52fb87cb535f9b4ac0f5ef61b64cee1432c2fa7e4616e16b7f1c23448d25935",
+      "sizeBytes": 4061,
+      "status": "ok"
+    },
+    "proposals/documents/20-satoshi-s-cat-matilda-website-revamp-555429e06f.md": {
+      "sha256": "555429e06f5039e5634b85d699a1987afeda10e1317a95fd51dd765faa7e387b",
+      "sizeBytes": 7282,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": "b9383206b457675613c915d68b0e8ccd29f0ed6d6d5195d8f4f9f0df3983c042",
+      "sizeBytes": 2524,
+      "status": "ok"
+    },
+    "proposals/history.json": {
+      "sha256": "fdc8c07673c70868a5e96d8885c63a8dbf8cab1260020ba97349258685eb0cde",
+      "sizeBytes": 4729,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "cf31948fa2abc093c462bdd1ed8b1afc93c1bac43229f6db1c276ea107eeb275",
+      "sizeBytes": 596927,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "9b375940be3ae7f26fcb952d9b2f72c815b02a4e429374107a0a0c7a22f2e51c",
+      "sizeBytes": 551,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T02:02:20Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
