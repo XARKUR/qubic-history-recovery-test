@@ -1,0 +1,68 @@
+{
+  "epoch": 206,
+  "files": {
+    "ipo/auctions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sizeBytes": 0,
+      "status": "ok"
+    },
+    "ipo/contracts.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sizeBytes": 2,
+      "status": "ok"
+    },
+    "ipo/documents/manifest.json": {
+      "sha256": "2866d6d274cc34b09545feda784e8e3355ecdaf40bb0d3d511a59132d3be5348",
+      "sizeBytes": 78,
+      "status": "ok"
+    },
+    "mining/hashrate.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "mining/snapshot.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "missing"
+    },
+    "price/market.json": {
+      "sha256": "3c8f5da1b68b6c6dcd2895440c9d5554203f646fd0d6ccb2945a3b67cfa64751",
+      "sizeBytes": 521,
+      "status": "ok"
+    },
+    "proposals/ballots.jsonl": {
+      "sha256": "340966bc09fb8c520b3133be012f85af0e178763da78de4136425870a636e62d",
+      "sizeBytes": 920770,
+      "status": "ok"
+    },
+    "proposals/documents/manifest.json": {
+      "sha256": null,
+      "sizeBytes": 0,
+      "status": "partial"
+    },
+    "proposals/history.json": {
+      "sha256": "51fa1eb9d23fb76bb20ac076549f4eddea7d84384da8485048482f77249924dd",
+      "sizeBytes": 10233,
+      "status": "ok"
+    },
+    "proposals/raw.json": {
+      "sha256": "b83a9ff09a9f22cbc62a68f6d753e67b1a01bc1fab180d2860c3eaca7e46e648",
+      "sizeBytes": 1242522,
+      "status": "ok"
+    },
+    "qearn/snapshot.json": {
+      "sha256": "05138292fc97138fd994e6717e56c16441ab2bd7e50c1977ee54ba7f06b9b48b",
+      "sizeBytes": 55939,
+      "status": "ok"
+    },
+    "qearn/unlocks.jsonl": {
+      "sha256": "944a13d5fbc04500ad1ec9f5d4d31154789b9a0afd5aa183435dff4377e36cdc",
+      "sizeBytes": 72479,
+      "status": "ok"
+    }
+  },
+  "generatedAt": "2026-08-04T00:17:17Z",
+  "schemaVersion": "qubic-history-v2",
+  "status": "partial_final"
+}
