@@ -1,0 +1,51 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://github.com/marcmonf/451Card-Proposal-for-Qubic/blob/f83e9c480986e3978488628baee7a86d2591df4e/451Card_Proposal.md",
+      "documentKey": "4b3c2d53d11280f3a04bf78e2ffc246b97a314d45778aff45a5c2b9f22e9b35d",
+      "epoch": 166,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}",
+      "httpStatus": 404,
+      "proposalId": "53b0f1a2-0bba-431f-acbf-1f10228aa3a1",
+      "proposalIndex": 13,
+      "published": "2025-06-21T09:28:06.623",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "451Card-Proposal-for-Qubic/451Card_Proposal.md at f83e9c480986e3978488628baee7a86d2591df4e · marcmon"
+    }
+  ],
+  "epoch": 166,
+  "proposalCount": 1,
+  "proposals": [
+    {
+      "epoch": 166,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 86.46,
+          "title": "No Transfer",
+          "votes": 447
+        },
+        {
+          "percentage": 13.54,
+          "title": "Yes, send 49,382,716,494 $QUBIC",
+          "votes": 70
+        }
+      ],
+      "proposalId": "53b0f1a2-0bba-431f-acbf-1f10228aa3a1",
+      "proposalIndex": 13,
+      "proposalType": "Transfer",
+      "proposerIdentity": "UUYCKITUMCDEFGITXISXFCDYWWXACCVLHVWTYVLYVCUUKUOCLMWVGFLESKSH",
+      "published": "2025-06-21T09:28:06.623",
+      "status": 6,
+      "title": "451Card-Proposal-for-Qubic/451Card_Proposal.md at f83e9c480986e3978488628baee7a86d2591df4e · marcmon",
+      "totalVotes": 517,
+      "url": "https://github.com/marcmonf/451Card-Proposal-for-Qubic/blob/f83e9c480986e3978488628baee7a86d2591df4e/451Card_Proposal.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:42:50Z"
+}

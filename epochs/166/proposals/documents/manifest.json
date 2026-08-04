@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": null,
+      "canonicalUrl": "https://github.com/marcmonf/451Card-Proposal-for-Qubic/blob/f83e9c480986e3978488628baee7a86d2591df4e/451Card_Proposal.md",
+      "contentType": "application/json; charset=utf-8",
+      "expectedSha256": null,
+      "owner": "marcmonf",
+      "path": "451Card_Proposal.md",
+      "proposalIndex": 13,
+      "ref": "f83e9c480986e3978488628baee7a86d2591df4e",
+      "repo": "451Card-Proposal-for-Qubic",
+      "sha256": null,
+      "sourceType": "github_blob",
+      "status": "missing",
+      "title": "451Card-Proposal-for-Qubic/451Card_Proposal.md at f83e9c480986e3978488628baee7a86d2591df4e · marcmon"
+    }
+  ],
+  "epoch": 166,
+  "generatedAt": "2026-08-04T01:29:20Z"
+}
