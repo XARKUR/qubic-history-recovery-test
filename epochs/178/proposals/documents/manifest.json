@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "archivePath": "42-ccf-proposal-t3chfest-2026-qubic-developer-outreach-bfec1aac63.md",
+      "canonicalUrl": "https://github.com/Kairos-Tek/t3chfest-2026/blob/main/README.md",
+      "contentType": "application/vnd.github.raw; charset=utf-8",
+      "expectedSha256": "bfec1aac631eb35808748f02a440c3f3b8832cbda646bdc0e9bfa78ea663c98c",
+      "owner": "Kairos-Tek",
+      "path": "README.md",
+      "proposalIndex": 42,
+      "ref": "main",
+      "repo": "t3chfest-2026",
+      "sha256": "bfec1aac631eb35808748f02a440c3f3b8832cbda646bdc0e9bfa78ea663c98c",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "CCF Proposal: T3chFest 2026 Qubic Developer Outreach"
+    }
+  ],
+  "epoch": 178,
+  "generatedAt": "2026-08-04T01:30:31Z"
+}
