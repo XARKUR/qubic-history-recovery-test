@@ -1,0 +1,91 @@
+{
+  "documentStatuses": [
+    {
+      "canonicalUrl": "https://qubic.jetskipool.ai/qearn-fairness-proposal",
+      "documentKey": "ffc679cfa3add5176d423129ba062568cf6d393593d79a8bdfb319ae94c521d8",
+      "epoch": 219,
+      "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\"\n        \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n    <head>\n        <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n        <title>Error response</title>\n    </head>\n    <body>\n        <h1>Error response</h1>\n        <p>Error code: 404</p>\n        <p>Message: File not found.</p>\n        <p>Error code explanation: HTTPStatus.NOT_FOUND - Nothing matches the given URI.</p>\n    </body>\n</html>\n",
+      "httpStatus": 404,
+      "proposalId": "aac351d1-8b0c-4531-8bbb-ddb569d3a02a",
+      "proposalIndex": 35,
+      "published": "2026-06-27T11:37:04.507",
+      "sha256": null,
+      "source": "epoch_history",
+      "sourceType": "html_page",
+      "status": "missing",
+      "title": "QEARN EARLY-UNLOCK FAIRNESS — QUBIC PROPOSAL"
+    },
+    {
+      "canonicalUrl": "https://github.com/Popeye-909/CCF-Marketing-Proposal-July/blob/27d062c/Qubic_Marketing_Proposal_July_2026_FINAL.md",
+      "documentKey": "b94b12342197d3da5f9732175a086701f297e90165e3493b1fc6fbee5d970345",
+      "epoch": 219,
+      "error": null,
+      "httpStatus": 200,
+      "proposalId": "2c486a76-7375-4a1e-8897-70c55b1bda57",
+      "proposalIndex": 68,
+      "published": "2026-06-26T16:15:52.243",
+      "sha256": "f06b30c872cfb9246adfe2d92753f02d790ca96b61ec0c5261ea81016ddcd2f3",
+      "source": "epoch_history",
+      "sourceType": "github_blob",
+      "status": "saved",
+      "title": "🌐 QUBIC MARKETING PROPOSAL - JULY 2026"
+    }
+  ],
+  "epoch": 219,
+  "proposalCount": 2,
+  "proposals": [
+    {
+      "epoch": 219,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 29.41,
+          "title": "No",
+          "votes": 170
+        },
+        {
+          "percentage": 70.59,
+          "title": "Yes",
+          "votes": 408
+        }
+      ],
+      "proposalId": "aac351d1-8b0c-4531-8bbb-ddb569d3a02a",
+      "proposalIndex": 35,
+      "proposalType": "GeneralOptions",
+      "proposerIdentity": "YBLGFTOWVBRIDHYBFMKWUCNVPVIBCQSPOEFUJBFGTAVNZOXINRNKOEWDMTAG",
+      "published": "2026-06-27T11:37:04.507",
+      "status": 3,
+      "title": "QEARN EARLY-UNLOCK FAIRNESS — QUBIC PROPOSAL",
+      "totalVotes": 578,
+      "url": "https://qubic.jetskipool.ai/qearn-fairness-proposal"
+    },
+    {
+      "epoch": 219,
+      "hasVotes": true,
+      "options": [
+        {
+          "percentage": 37.37,
+          "title": "No Transfer",
+          "votes": 216
+        },
+        {
+          "percentage": 62.63,
+          "title": "Yes, send 43,815,789,474 $QUBIC",
+          "votes": 362
+        }
+      ],
+      "proposalId": "2c486a76-7375-4a1e-8897-70c55b1bda57",
+      "proposalIndex": 68,
+      "proposalType": "Transfer",
+      "proposerIdentity": "CQRSQHPCRKVCXBFOTXFPYNXBOAKAGKVZGEBZQTOKHAVGUGMSNLYQNHVGEXZA",
+      "published": "2026-06-26T16:15:52.243",
+      "status": 3,
+      "title": "🌐 QUBIC MARKETING PROPOSAL - JULY 2026",
+      "totalVotes": 578,
+      "url": "https://github.com/Popeye-909/CCF-Marketing-Proposal-July/blob/27d062c/Qubic_Marketing_Proposal_July_2026_FINAL.md"
+    }
+  ],
+  "source": "api.qubic.li/Voting/EpochHistory",
+  "status": "complete",
+  "updatedAt": "2026-08-04T00:44:35Z"
+}
